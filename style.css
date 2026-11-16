@@ -186,6 +186,45 @@ header {
   box-shadow: 0 4px 12px rgba(var(--accent-rgb), 0.3);
 }
 
+/* Header Auto-Sort by Size Button */
+.sort-size-btn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  user-select: none;
+}
+
+.sort-size-btn:hover {
+  color: var(--text-primary);
+  border-color: rgba(var(--accent-rgb), 0.5);
+  background: rgba(255, 255, 255, 0.06);
+  transform: translateY(-1px);
+}
+
+.sort-size-btn.active {
+  background: linear-gradient(135deg, rgba(var(--accent-rgb), 0.2), rgba(99, 102, 241, 0.3));
+  border-color: var(--accent-color);
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(var(--accent-rgb), 0.3);
+}
+
+.sort-size-btn.active i {
+  color: #38bdf8;
+  transition: transform 0.25s ease;
+}
+
+.sort-size-btn:active {
+  transform: scale(0.96);
+}
+
 .theme-toggle {
   background: var(--bg-tertiary);
   border: 1px solid var(--border-color);
@@ -466,15 +505,16 @@ main {
   position: fixed;
   z-index: 10001;
   pointer-events: none;
-  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
+  border-radius: 16px;
   will-change: transform, border-radius, opacity;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
 }
 
 /* Lightbox Modal */
 .lightbox {
   position: fixed;
   inset: 0;
-  background: rgba(8, 8, 12, 0);
+  background: rgba(8, 8, 10, 0);
   backdrop-filter: blur(0px);
   -webkit-backdrop-filter: blur(0px);
   z-index: 1000;
@@ -483,20 +523,20 @@ main {
   justify-content: center;
   padding: 2rem;
   opacity: 0;
-  transition: opacity 0.4s ease, background 0.4s ease, backdrop-filter 0.4s ease;
+  transition: opacity 0.35s ease, background 0.35s ease, backdrop-filter 0.35s ease;
 }
 
 .lightbox.active {
   display: flex;
   opacity: 1;
-  background: rgba(8, 8, 12, 0.94);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
+  background: rgba(8, 8, 10, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
 .lightbox.animating-out {
   opacity: 0 !important;
-  background: rgba(8, 8, 12, 0) !important;
+  background: rgba(8, 8, 10, 0) !important;
   backdrop-filter: blur(0px) !important;
   -webkit-backdrop-filter: blur(0px) !important;
   pointer-events: none;
@@ -511,11 +551,11 @@ main {
   height: 85vh;
   display: flex;
   overflow: hidden;
-  box-shadow: 0 30px 70px -15px rgba(0, 0, 0, 0.85);
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.8);
   position: relative;
-  transform: scale(0.97);
+  transform: scale(0.96);
   opacity: 0;
-  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
 }
 
 .lightbox.active .lightbox-content {
@@ -524,7 +564,7 @@ main {
 }
 
 .lightbox.animating-out .lightbox-content {
-  transform: scale(0.97);
+  transform: scale(0.96);
   opacity: 0;
 }
 

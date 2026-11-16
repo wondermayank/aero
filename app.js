@@ -67,6 +67,8 @@ const blurFitContainer = document.getElementById('blur-fit-container');
 const blurFitCheckbox = document.getElementById('blur-fit-checkbox');
 
 const sortSelect = document.getElementById('sort-select');
+const sortSizeBtn = document.getElementById('sort-size-btn');
+const sortSizeLabel = document.getElementById('sort-size-label');
 const slideshowTrigger = document.getElementById('slideshow-trigger');
 const lightboxSlideshowBtn = document.getElementById('lightbox-slideshow');
 const densityBtns = document.querySelectorAll('.density-btn');
@@ -515,6 +517,7 @@ function init() {
   populateBoardSelect();
   setupDownloadOptions();
   setupEventListeners();
+  updateSortSizeBtnUI();
   filterAndRender(true);
   setupInfiniteScroll();
   handleDeepLinking();
@@ -566,10 +569,35 @@ function setupFilters() {
 
 // Helper to calculate size in bytes
 function getWpSizeBytes(wp) {
-  const val = parseFloat(wp.size);
-  if (wp.size.toLowerCase().includes('kb')) return val * 1024;
-  if (wp.size.toLowerCase().includes('mb')) return val * 1024 * 1024;
+  if (!wp || !wp.size) return 0;
+  const str = String(wp.size).trim().toLowerCase();
+  const val = parseFloat(str);
+  if (isNaN(val)) return 0;
+  if (str.includes('gb')) return val * 1024 * 1024 * 1024;
+  if (str.includes('mb')) return val * 1024 * 1024;
+  if (str.includes('kb')) return val * 1024;
   return val;
+}
+
+// Synchronize Header Auto-Sort by Size Button UI
+function updateSortSizeBtnUI() {
+  if (!sortSizeBtn) return;
+  if (currentSort === 'size-desc') {
+    sortSizeBtn.classList.add('active');
+    sortSizeBtn.innerHTML = '<i class="fas fa-sort-amount-down"></i> <span id="sort-size-label">Size: Largest</span>';
+    sortSizeBtn.setAttribute('title', 'Sorted: Largest file size first (Click for Smallest)');
+  } else if (currentSort === 'size-asc') {
+    sortSizeBtn.classList.add('active');
+    sortSizeBtn.innerHTML = '<i class="fas fa-sort-amount-up"></i> <span id="sort-size-label">Size: Smallest</span>';
+    sortSizeBtn.setAttribute('title', 'Sorted: Smallest file size first (Click for Default)');
+  } else {
+    sortSizeBtn.classList.remove('active');
+    sortSizeBtn.innerHTML = '<i class="fas fa-sort"></i> <span id="sort-size-label">Sort: Size</span>';
+    sortSizeBtn.setAttribute('title', 'Sort by File Size (Toggle Largest / Smallest)');
+  }
+  if (sortSelect && sortSelect.value !== currentSort) {
+    sortSelect.value = currentSort;
+  }
 }
 
 // Event Listeners Setup
@@ -600,10 +628,32 @@ function setupEventListeners() {
   });
 
   // Sorting
-  sortSelect.addEventListener('change', (e) => {
-    currentSort = e.target.value;
-    filterAndRender(true);
-  });
+  // Header Auto-Sort by Size Button Click
+  if (sortSizeBtn) {
+    sortSizeBtn.addEventListener('click', () => {
+      if (currentSort === 'default' || currentSort === 'name-asc' || currentSort === 'name-desc') {
+        currentSort = 'size-desc';
+        showToast('Sorted by file size: Largest first', 'info');
+      } else if (currentSort === 'size-desc') {
+        currentSort = 'size-asc';
+        showToast('Sorted by file size: Smallest first', 'info');
+      } else {
+        currentSort = 'default';
+        showToast('Sorting reset to default natural order', 'info');
+      }
+      updateSortSizeBtnUI();
+      filterAndRender(true);
+    });
+  }
+
+  // Sorting Dropdown
+  if (sortSelect) {
+    sortSelect.addEventListener('change', (e) => {
+      currentSort = e.target.value;
+      updateSortSizeBtnUI();
+      filterAndRender(true);
+    });
+  }
 
   // Grid Density
   densityBtns.forEach(btn => {
