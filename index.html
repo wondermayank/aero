@@ -413,9 +413,38 @@
           </div>
         </div>
         
+        <!-- Download Options: Format & Resolution (4K, 2K, 1080p, 720p, Mobile, PNG, WebP, JPG) -->
+        <div class="download-config-panel">
+          <div class="download-config-title">
+            <i class="fas fa-sliders-h"></i> Download Options
+          </div>
+          
+          <div class="download-config-group">
+            <span class="download-config-label">Format</span>
+            <div class="download-pills format-selector" id="dl-format-pills">
+              <button class="dl-pill active" data-format="png">PNG</button>
+              <button class="dl-pill" data-format="webp">WebP</button>
+              <button class="dl-pill" data-format="jpg">JPG</button>
+              <button class="dl-pill" data-format="original">Original</button>
+            </div>
+          </div>
+
+          <div class="download-config-group">
+            <span class="download-config-label">Resolution</span>
+            <div class="download-pills resolution-selector" id="dl-res-pills">
+              <button class="dl-pill active" data-res="4k">4K (UHD)</button>
+              <button class="dl-pill" data-res="2k">2K (QHD)</button>
+              <button class="dl-pill" data-res="1080p">1080p (FHD)</button>
+              <button class="dl-pill" data-res="720p">720p (HD)</button>
+              <button class="dl-pill" data-res="mobile">Mobile (9:16)</button>
+              <button class="dl-pill" data-res="original">Original Size</button>
+            </div>
+          </div>
+        </div>
+
         <div class="detail-actions">
-          <button id="lightbox-download" class="action-btn primary-btn">
-            <i class="fas fa-arrow-down"></i> Download Wallpaper
+          <button id="lightbox-download" class="action-btn primary-btn download-main-btn">
+            <i class="fas fa-arrow-down"></i> <span id="download-btn-text">Download 4K (PNG)</span>
           </button>
           <button id="lightbox-like" class="action-btn secondary-btn">
             <i class="far fa-heart"></i> Favorite

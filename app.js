@@ -91,23 +91,55 @@ toastContainer.className = 'toast-container';
 document.body.appendChild(toastContainer);
 
 // ==========================================
-// PRIORITY PROGRESSIVE IMAGE LOADER (Requirement 3)
-// Loads wallpapers in strict sequential order: 1, then 2, then 3...
-// If any wallpaper is opened, it loads FIRST immediately.
+// FAST PROGRESSIVE IMAGE LOADER (High Concurrency & Viewport Observer)
+// Above-the-fold images load instantly.
+// Off-screen images stream in smoothly as scrolled into view.
+// Any opened/clicked wallpaper immediately jumps to top priority!
 // ==========================================
 class ProgressiveImageLoader {
-  constructor(concurrency = 3) {
+  constructor(concurrency = 8) {
     this.concurrency = concurrency;
     this.activeCount = 0;
     this.queue = [];
     this.loadedSet = new Set();
+    this.setupViewportObserver();
+  }
+
+  setupViewportObserver() {
+    this.observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const item = entry.target;
+          const imgEl = item.querySelector('.masonry-img');
+          const src = item.getAttribute('data-src');
+          const id = item.getAttribute('data-id');
+          if (imgEl && src && id) {
+            this.enqueue(imgEl, src, id);
+          }
+          this.observer.unobserve(item);
+        }
+      });
+    }, {
+      rootMargin: '350px 0px 350px 0px'
+    });
+  }
+
+  observeCard(cardElement, imgEl, src, id, isAboveFold = false) {
+    if (isAboveFold) {
+      // First batch above fold loads immediately!
+      this.enqueue(imgEl, src, id, true);
+    } else {
+      cardElement.setAttribute('data-src', src);
+      cardElement.setAttribute('data-id', id);
+      this.observer.observe(cardElement);
+    }
   }
 
   reset() {
     this.queue = [];
   }
 
-  enqueue(imgEl, src, id) {
+  enqueue(imgEl, src, id, isHighPriority = false) {
     if (this.loadedSet.has(id)) {
       imgEl.src = src;
       imgEl.classList.add('loaded');
@@ -119,7 +151,11 @@ class ProgressiveImageLoader {
       return;
     }
 
-    this.queue.push({ imgEl, src, id });
+    if (isHighPriority) {
+      this.queue.unshift({ imgEl, src, id, isUrgent: true });
+    } else {
+      this.queue.push({ imgEl, src, id, isUrgent: false });
+    }
     this.process();
   }
 
@@ -141,7 +177,7 @@ class ProgressiveImageLoader {
   process() {
     while (this.activeCount < this.concurrency && this.queue.length > 0) {
       const item = this.queue.shift();
-      this.loadItem(item, false);
+      this.loadItem(item, item.isUrgent);
     }
   }
 
@@ -153,6 +189,7 @@ class ProgressiveImageLoader {
 
     this.activeCount++;
     const loader = new Image();
+    loader.decoding = 'async';
     if (isUrgent) {
       loader.fetchPriority = 'high';
       if (imgEl) imgEl.setAttribute('fetchpriority', 'high');
@@ -162,6 +199,7 @@ class ProgressiveImageLoader {
       this.loadedSet.add(id);
       if (imgEl) {
         imgEl.src = src;
+        imgEl.decoding = 'async';
         imgEl.classList.add('loaded');
         const parent = imgEl.closest('.masonry-img-wrapper');
         if (parent) {
@@ -179,12 +217,65 @@ class ProgressiveImageLoader {
   }
 }
 
-const imageLoader = new ProgressiveImageLoader(3);
+const imageLoader = new ProgressiveImageLoader(8);
 
 // ==========================================
-// SHARED ELEMENT TRANSITION POPUP (Requirement 5)
-// Animates open from the wallpaper card position
-// and zooms back down into place when closed.
+// DOWNLOAD OPTIONS STATE (PNG, WebP, JPG, 4K, 2K, 1080p, 720p, Mobile)
+// ==========================================
+let currentDownloadFormat = 'png';
+let currentDownloadRes = '4k';
+
+function updateDownloadBtnLabel() {
+  const downloadBtnText = document.getElementById('download-btn-text');
+  if (!downloadBtnText) return;
+  const fmtText = currentDownloadFormat.toUpperCase();
+  let resText = currentDownloadRes.toUpperCase();
+  if (currentDownloadRes === 'mobile') resText = 'Mobile (9:16)';
+  else if (currentDownloadRes === 'original') resText = 'Original Size';
+  else if (currentDownloadRes === '4k') resText = '4K (UHD)';
+  else if (currentDownloadRes === '2k') resText = '2K (QHD)';
+  else if (currentDownloadRes === '1080p') resText = '1080p (FHD)';
+  else if (currentDownloadRes === '720p') resText = '720p (HD)';
+
+  if (currentDownloadFormat === 'original' && currentDownloadRes === 'original') {
+    downloadBtnText.textContent = 'Download Original Wallpaper';
+  } else {
+    downloadBtnText.textContent = `Download ${resText} (${fmtText})`;
+  }
+}
+
+function setupDownloadOptions() {
+  const formatPills = document.getElementById('dl-format-pills');
+  const resPills = document.getElementById('dl-res-pills');
+
+  updateDownloadBtnLabel();
+
+  if (formatPills) {
+    formatPills.addEventListener('click', (e) => {
+      const btn = e.target.closest('.dl-pill');
+      if (!btn) return;
+      formatPills.querySelectorAll('.dl-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentDownloadFormat = btn.getAttribute('data-format');
+      updateDownloadBtnLabel();
+    });
+  }
+
+  if (resPills) {
+    resPills.addEventListener('click', (e) => {
+      const btn = e.target.closest('.dl-pill');
+      if (!btn) return;
+      resPills.querySelectorAll('.dl-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentDownloadRes = btn.getAttribute('data-res');
+      updateDownloadBtnLabel();
+    });
+  }
+}
+
+// ==========================================
+// ULTRA-SMOOTH GPU SHARED ELEMENT TRANSITION POPUP
+// High-performance translate3d + scale FLIP animation
 // ==========================================
 let currentActiveWp = null;
 let activeTransitionClone = null;
@@ -198,72 +289,114 @@ function animatePopupOpen(wp, originCard = null, isNavigation = false) {
   const card = originCard || document.querySelector(`.masonry-item[data-id="${wp.id}"]`);
   const cardImg = card ? card.querySelector('.masonry-img') : null;
   const modalImg = lightbox.querySelector('.lightbox-img');
+  const detailsPanel = lightbox.querySelector('.lightbox-details');
 
-  // Prioritize loading this wallpaper first
+  // Prioritize loading this wallpaper
   imageLoader.prioritize(wp.id, wp.url, cardImg);
 
   modalImg.src = wp.url;
   modalImg.alt = wp.name;
 
-  if (isNavigation) {
+  if (isNavigation || !cardImg) {
     modalImg.style.opacity = '1';
     lightbox.classList.add('active');
     document.body.style.overflow = 'hidden';
     return;
   }
 
-  if (cardImg) {
-    const startRect = cardImg.getBoundingClientRect();
-    const isVisibleInView = (startRect.width > 0 && startRect.height > 0 &&
-                             startRect.bottom > 0 && startRect.top < window.innerHeight);
+  const startRect = cardImg.getBoundingClientRect();
+  const isVisibleInView = (startRect.width > 0 && startRect.height > 0 &&
+                           startRect.bottom > 0 && startRect.top < window.innerHeight);
 
-    if (isVisibleInView) {
-      const clone = document.createElement('img');
-      clone.className = 'shared-element-transition-clone';
-      clone.src = cardImg.src || wp.url;
-      clone.style.top = `${startRect.top}px`;
-      clone.style.left = `${startRect.left}px`;
-      clone.style.width = `${startRect.width}px`;
-      clone.style.height = `${startRect.height}px`;
-      clone.style.objectFit = 'cover';
-      clone.style.borderRadius = '16px';
-      document.body.appendChild(clone);
-      activeTransitionClone = clone;
-
-      modalImg.style.opacity = '0';
-      lightbox.classList.add('active');
-      document.body.style.overflow = 'hidden';
-
-      requestAnimationFrame(() => {
-        const mediaBox = lightboxMedia.getBoundingClientRect();
-        const targetWidth = Math.max(100, mediaBox.width - 32);
-        const targetHeight = Math.max(100, mediaBox.height - 32);
-        const targetTop = mediaBox.top + (mediaBox.height - targetHeight) / 2;
-        const targetLeft = mediaBox.left + (mediaBox.width - targetWidth) / 2;
-
-        clone.style.top = `${targetTop}px`;
-        clone.style.left = `${targetLeft}px`;
-        clone.style.width = `${targetWidth}px`;
-        clone.style.height = `${targetHeight}px`;
-        clone.style.objectFit = 'contain';
-        clone.style.borderRadius = '8px';
-      });
-
-      setTimeout(() => {
-        if (activeTransitionClone === clone) {
-          modalImg.style.opacity = '1';
-          clone.remove();
-          activeTransitionClone = null;
-        }
-      }, 370);
-      return;
-    }
+  if (!isVisibleInView) {
+    modalImg.style.opacity = '1';
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    return;
   }
 
-  // Fallback direct open
-  modalImg.style.opacity = '1';
+  // 1. Make lightbox active so its layout is calculated
+  modalImg.style.opacity = '0';
+  if (detailsPanel) {
+    detailsPanel.style.opacity = '0';
+    detailsPanel.style.transform = 'translateX(20px)';
+  }
   lightbox.classList.add('active');
   document.body.style.overflow = 'hidden';
+
+  // 2. Measure exact target dimensions inside lightboxMedia
+  const mediaBox = lightboxMedia.getBoundingClientRect();
+  const availableW = Math.max(100, mediaBox.width - 32);
+  const availableH = Math.max(100, mediaBox.height - 32);
+
+  // Compute accurate aspect ratio
+  const imgAspect = (cardImg.naturalWidth && cardImg.naturalHeight) 
+    ? (cardImg.naturalWidth / cardImg.naturalHeight) 
+    : (startRect.width / startRect.height);
+
+  let targetW, targetH;
+  if (availableW / availableH > imgAspect) {
+    targetH = availableH;
+    targetW = Math.round(availableH * imgAspect);
+  } else {
+    targetW = availableW;
+    targetH = Math.round(availableW / imgAspect);
+  }
+
+  const targetLeft = Math.round(mediaBox.left + (mediaBox.width - targetW) / 2);
+  const targetTop = Math.round(mediaBox.top + (mediaBox.height - targetH) / 2);
+
+  // 3. Create GPU-accelerated transition clone positioned exactly at target
+  const clone = document.createElement('img');
+  clone.className = 'shared-element-transition-clone';
+  clone.src = cardImg.src || wp.url;
+  clone.style.position = 'fixed';
+  clone.style.left = `${targetLeft}px`;
+  clone.style.top = `${targetTop}px`;
+  clone.style.width = `${targetW}px`;
+  clone.style.height = `${targetH}px`;
+  clone.style.objectFit = 'cover';
+  clone.style.transformOrigin = '0 0';
+
+  // Calculate inverted FLIP transform relative to startRect
+  const deltaX = startRect.left - targetLeft;
+  const deltaY = startRect.top - targetTop;
+  const scaleX = startRect.width / targetW;
+  const scaleY = startRect.height / targetH;
+
+  clone.style.transform = `translate3d(${deltaX}px, ${deltaY}px, 0) scale(${scaleX}, ${scaleY})`;
+  clone.style.borderRadius = `${16 / Math.min(scaleX, scaleY)}px`;
+  clone.style.opacity = '1';
+
+  document.body.appendChild(clone);
+  activeTransitionClone = clone;
+
+  // 4. Trigger butter-smooth transition in double RAF
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      clone.style.transition = 'transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), border-radius 0.45s cubic-bezier(0.16, 1, 0.3, 1)';
+      clone.style.transform = 'translate3d(0, 0, 0) scale(1, 1)';
+      clone.style.borderRadius = '8px';
+
+      if (detailsPanel) {
+        detailsPanel.style.transition = 'transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease';
+        detailsPanel.style.opacity = '1';
+        detailsPanel.style.transform = 'translateX(0)';
+      }
+    });
+  });
+
+  // 5. Clean up on transition end
+  const onEnd = () => {
+    if (activeTransitionClone === clone) {
+      modalImg.style.opacity = '1';
+      clone.remove();
+      activeTransitionClone = null;
+    }
+  };
+
+  clone.addEventListener('transitionend', onEnd, { once: true });
+  setTimeout(onEnd, 500);
 }
 
 function animatePopupClose() {
@@ -275,6 +408,7 @@ function animatePopupClose() {
   const targetCard = currentActiveWp ? document.querySelector(`.masonry-item[data-id="${currentActiveWp.id}"]`) : null;
   const targetImg = targetCard ? targetCard.querySelector('.masonry-img') : null;
   const modalImg = lightbox.querySelector('.lightbox-img');
+  const detailsPanel = lightbox.querySelector('.lightbox-details');
 
   if (targetImg) {
     const destRect = targetImg.getBoundingClientRect();
@@ -282,58 +416,94 @@ function animatePopupClose() {
                        destRect.bottom > 0 && destRect.top < window.innerHeight);
 
     if (isVisible) {
+      const mediaBox = lightboxMedia.getBoundingClientRect();
       const currRect = modalImg.getBoundingClientRect();
+      const targetW = currRect.width > 50 ? currRect.width : (mediaBox.width - 32);
+      const targetH = currRect.height > 50 ? currRect.height : (mediaBox.height - 32);
+      const targetLeft = currRect.width > 50 ? currRect.left : (mediaBox.left + 16);
+      const targetTop = currRect.height > 50 ? currRect.top : (mediaBox.top + 16);
+
       const clone = document.createElement('img');
       clone.className = 'shared-element-transition-clone';
       clone.src = modalImg.src || (currentActiveWp ? currentActiveWp.url : '');
-      clone.style.top = `${currRect.top}px`;
-      clone.style.left = `${currRect.left}px`;
-      clone.style.width = `${currRect.width}px`;
-      clone.style.height = `${currRect.height}px`;
-      clone.style.objectFit = 'contain';
+      clone.style.position = 'fixed';
+      clone.style.left = `${targetLeft}px`;
+      clone.style.top = `${targetTop}px`;
+      clone.style.width = `${targetW}px`;
+      clone.style.height = `${targetH}px`;
+      clone.style.objectFit = 'cover';
       clone.style.borderRadius = '8px';
+      clone.style.transformOrigin = '0 0';
+      clone.style.transform = 'translate3d(0, 0, 0) scale(1, 1)';
       document.body.appendChild(clone);
       activeTransitionClone = clone;
 
       modalImg.style.opacity = '0';
       lightbox.classList.add('animating-out');
 
+      if (detailsPanel) {
+        detailsPanel.style.transition = 'opacity 0.2s ease, transform 0.2s ease';
+        detailsPanel.style.opacity = '0';
+        detailsPanel.style.transform = 'translateX(15px)';
+      }
+
+      const closeDeltaX = destRect.left - targetLeft;
+      const closeDeltaY = destRect.top - targetTop;
+      const closeScaleX = destRect.width / targetW;
+      const closeScaleY = destRect.height / targetH;
+
       requestAnimationFrame(() => {
-        clone.style.top = `${destRect.top}px`;
-        clone.style.left = `${destRect.left}px`;
-        clone.style.width = `${destRect.width}px`;
-        clone.style.height = `${destRect.height}px`;
-        clone.style.objectFit = 'cover';
-        clone.style.borderRadius = '16px';
-        clone.style.opacity = '0.9';
+        requestAnimationFrame(() => {
+          clone.style.transition = 'transform 0.4s cubic-bezier(0.2, 0.9, 0.3, 1), border-radius 0.4s ease, opacity 0.38s ease';
+          clone.style.transform = `translate3d(${closeDeltaX}px, ${closeDeltaY}px, 0) scale(${closeScaleX}, ${closeScaleY})`;
+          clone.style.borderRadius = `${16 / Math.min(closeScaleX, closeScaleY)}px`;
+          clone.style.opacity = '0.9';
+        });
       });
 
-      setTimeout(() => {
+      const onEnd = () => {
         if (activeTransitionClone === clone) {
           clone.remove();
           activeTransitionClone = null;
         }
         lightbox.classList.remove('active', 'animating-out');
         modalImg.style.opacity = '';
+        if (detailsPanel) {
+          detailsPanel.style.opacity = '';
+          detailsPanel.style.transform = '';
+          detailsPanel.style.transition = '';
+        }
         document.body.style.overflow = '';
         history.replaceState(null, null, ' ');
         resetEditorState();
         currentActiveWp = null;
-      }, 360);
+      };
+
+      clone.addEventListener('transitionend', onEnd, { once: true });
+      setTimeout(onEnd, 450);
       return;
     }
   }
 
   // Smooth fallback close
   lightbox.classList.add('animating-out');
+  if (detailsPanel) {
+    detailsPanel.style.transition = 'opacity 0.2s ease';
+    detailsPanel.style.opacity = '0';
+  }
   setTimeout(() => {
     lightbox.classList.remove('active', 'animating-out');
     modalImg.style.opacity = '';
+    if (detailsPanel) {
+      detailsPanel.style.opacity = '';
+      detailsPanel.style.transform = '';
+      detailsPanel.style.transition = '';
+    }
     document.body.style.overflow = '';
     history.replaceState(null, null, ' ');
     resetEditorState();
     currentActiveWp = null;
-  }, 250);
+  }, 260);
 }
 
 // Initialize App
@@ -343,6 +513,7 @@ function init() {
   setupFilters();
   renderBoardPills();
   populateBoardSelect();
+  setupDownloadOptions();
   setupEventListeners();
   filterAndRender(true);
   setupInfiniteScroll();
@@ -559,9 +730,9 @@ function setupEventListeners() {
         const wp = WALLPAPERS.find(w => w.id === currentId);
         if (wp) {
           if (editModeActive) {
-            downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas);
+            downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes);
           } else {
-            downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`);
+            downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
           }
         }
       } else if (e.key.toLowerCase() === 'e') {
@@ -767,7 +938,7 @@ function renderNextBatch() {
 
   const fragment = document.createDocumentFragment();
 
-  nextBatch.forEach(wp => {
+  nextBatch.forEach((wp, index) => {
     const isLiked = likedWallpapers.has(wp.id);
     const item = document.createElement('div');
     item.className = 'masonry-item';
@@ -779,14 +950,14 @@ function renderNextBatch() {
       <div class="masonry-img-wrapper">
         ${isGif ? '<div class="gif-badge">GIF</div>' : ''}
         <div class="card-skeleton"></div>
-        <img class="masonry-img" data-src="${wp.url}" alt="${wp.name}" />
+        <img class="masonry-img" data-src="${wp.url}" alt="${wp.name}" decoding="async" />
       </div>
       <div class="card-overlay">
         <div class="overlay-top">
           <button class="overlay-btn like-btn ${isLiked ? 'liked' : ''}" title="${isLiked ? 'Unlike' : 'Like'}">
             <i class="${isLiked ? 'fas' : 'far'} fa-heart"></i>
           </button>
-          <button class="overlay-btn download-btn" title="Download">
+          <button class="overlay-btn download-btn" title="Quick Download (4K)">
             <i class="fas fa-arrow-down"></i>
           </button>
         </div>
@@ -800,9 +971,10 @@ function renderNextBatch() {
       </div>
     `;
 
-    // Enqueue progressive image load: loads in sequential order 1, then 2, then 3...
+    // Fast loading: First batch visible above fold loads immediately, others load via intersection observer!
     const cardImg = item.querySelector('.masonry-img');
-    imageLoader.enqueue(cardImg, wp.url, wp.id);
+    const isAboveFold = (renderedCount === 0 && index < 8);
+    imageLoader.observeCard(item, cardImg, wp.url, wp.id, isAboveFold);
 
     // Click card opens Lightbox with shared element popup animation
     item.addEventListener('click', (e) => {
@@ -902,36 +1074,186 @@ function addWallpaperToBoard(wpId, boardName) {
   }
 }
 
-// Download Wallpaper Helper
-async function downloadWallpaper(url, filename, canvasElement = null) {
-  showToast('Initializing download...', 'info');
-  try {
-    let downloadUrl = url;
+// High Quality Canvas Resizer & Multi-Format Exporter (PNG, WebP, JPG, 4K, 2K, 1080p, 720p, Mobile)
+async function downloadWallpaper(url, filename, canvasElement = null, formatOverride = null, resOverride = null) {
+  const chosenFormat = formatOverride || currentDownloadFormat;
+  const chosenRes = resOverride || currentDownloadRes;
 
+  showToast(`Preparing ${chosenRes.toUpperCase()} (${chosenFormat.toUpperCase()})...`, 'info');
+
+  try {
+    // If user edited with the canvas editor (blur / custom crop)
     if (canvasElement) {
-      downloadUrl = canvasElement.toDataURL('image/jpeg', 0.95);
+      let mimeType = 'image/jpeg';
+      let ext = 'jpg';
+      let quality = 0.95;
+      if (chosenFormat === 'png') { mimeType = 'image/png'; ext = 'png'; }
+      else if (chosenFormat === 'webp') { mimeType = 'image/webp'; ext = 'webp'; }
+      
+      canvasElement.toBlob(blob => {
+        if (blob) {
+          saveBlobFile(blob, filename.replace(/\.[^.]+$/, `.${ext}`));
+          showToast('Edited wallpaper downloaded!', 'success');
+        } else {
+          fallbackDirectDownload(canvasElement.toDataURL('image/jpeg', 0.95), filename);
+        }
+      }, mimeType, quality);
+      return;
     }
 
-    const response = await fetch(downloadUrl);
-    if (!response.ok) throw new Error('Network response not ok');
-    
-    const blob = await response.blob();
-    const blobUrl = URL.createObjectURL(blob);
-    
-    const link = document.createElement('a');
-    link.href = blobUrl;
-    link.download = filename;
-    document.body.appendChild(link);
-    link.click();
-    
-    document.body.removeChild(link);
-    URL.revokeObjectURL(blobUrl);
-    showToast('Download completed!', 'success');
+    // Direct download if original format and original resolution
+    if (chosenRes === 'original' && (chosenFormat === 'original' || !chosenFormat)) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Fetch failed');
+        const blob = await response.blob();
+        saveBlobFile(blob, filename);
+        showToast('Download completed!', 'success');
+        return;
+      } catch (err) {
+        fallbackDirectDownload(url, filename);
+        return;
+      }
+    }
+
+    // Load original image to canvas for re-scaling and re-encoding
+    const img = await loadImageForExport(url);
+    const origW = img.naturalWidth || img.width || 1920;
+    const origH = img.naturalHeight || img.height || 1080;
+
+    let targetW = origW;
+    let targetH = origH;
+
+    const resMap = {
+      '4k': { maxW: 3840, maxH: 2160 },
+      '2k': { maxW: 2560, maxH: 1440 },
+      '1080p': { maxW: 1920, maxH: 1080 },
+      '720p': { maxW: 1280, maxH: 720 },
+      'mobile': { targetW: 1080, targetH: 1920, isMobile: true }
+    };
+
+    if (chosenRes in resMap) {
+      const cfg = resMap[chosenRes];
+      if (cfg.isMobile) {
+        targetW = cfg.targetW;
+        targetH = cfg.targetH;
+      } else {
+        const scale = Math.min(cfg.maxW / origW, cfg.maxH / origH);
+        targetW = Math.max(1, Math.round(origW * scale));
+        targetH = Math.max(1, Math.round(origH * scale));
+      }
+    }
+
+    const canvas = document.createElement('canvas');
+    canvas.width = targetW;
+    canvas.height = targetH;
+    const ctx = canvas.getContext('2d');
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
+
+    if (chosenRes === 'mobile') {
+      const aspectImg = origW / origH;
+      const aspectTarget = targetW / targetH;
+      let drawW, drawH, drawX, drawY;
+
+      if (aspectImg > aspectTarget) {
+        drawH = targetH;
+        drawW = origW * (targetH / origH);
+        drawX = (targetW - drawW) / 2;
+        drawY = 0;
+      } else {
+        drawW = targetW;
+        drawH = origH * (targetW / origW);
+        drawX = 0;
+        drawY = (targetH - drawH) / 2;
+      }
+      ctx.drawImage(img, drawX, drawY, drawW, drawH);
+    } else {
+      ctx.drawImage(img, 0, 0, targetW, targetH);
+    }
+
+    // Determine output MIME & extension
+    let mimeType = 'image/png';
+    let ext = 'png';
+    let quality = 0.95;
+
+    if (chosenFormat === 'webp') {
+      mimeType = 'image/webp';
+      ext = 'webp';
+      quality = 0.95;
+    } else if (chosenFormat === 'jpg' || chosenFormat === 'jpeg') {
+      mimeType = 'image/jpeg';
+      ext = 'jpg';
+      quality = 0.93;
+    } else if (chosenFormat === 'original') {
+      const origExt = filename.split('.').pop().toLowerCase();
+      if (origExt === 'png') { mimeType = 'image/png'; ext = 'png'; }
+      else if (origExt === 'webp') { mimeType = 'image/webp'; ext = 'webp'; }
+      else { mimeType = 'image/jpeg'; ext = 'jpg'; }
+    }
+
+    const baseName = filename.replace(/\.[^.]+$/, '');
+    const outName = `${baseName}_${chosenRes.toUpperCase()}.${ext}`;
+
+    canvas.toBlob(blob => {
+      if (blob) {
+        saveBlobFile(blob, outName);
+        showToast(`Downloaded ${outName} successfully!`, 'success');
+      } else {
+        fallbackDirectDownload(url, filename);
+      }
+    }, mimeType, quality);
+
   } catch (error) {
     console.error('Download error:', error);
-    window.open(url, '_blank');
-    showToast('Download started in a new tab', 'info');
+    fallbackDirectDownload(url, filename);
   }
+}
+
+function saveBlobFile(blob, filename) {
+  const blobUrl = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = blobUrl;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  setTimeout(() => URL.revokeObjectURL(blobUrl), 1500);
+}
+
+function fallbackDirectDownload(url, filename) {
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  link.target = '_blank';
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  showToast('Download started in a new tab', 'info');
+}
+
+function loadImageForExport(url) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => resolve(img);
+    img.onerror = () => {
+      fetch(url)
+        .then(res => {
+          if (!res.ok) throw new Error('Fetch failed');
+          return res.blob();
+        })
+        .then(blob => {
+          const blobUrl = URL.createObjectURL(blob);
+          const blobImg = new Image();
+          blobImg.onload = () => resolve(blobImg);
+          blobImg.onerror = reject;
+          blobImg.src = blobUrl;
+        })
+        .catch(reject);
+    };
+    img.src = url;
+  });
 }
 
 // Lightbox Logic
@@ -962,6 +1284,9 @@ function openLightbox(wp, originCard = null, isNavigation = false) {
   lightboxDownloadBtn.parentNode.replaceChild(newDownloadBtn, lightboxDownloadBtn);
   lightboxLikeBtn.parentNode.replaceChild(newLikeBtn, lightboxLikeBtn);
 
+  // Sync button text with current format and resolution
+  updateDownloadBtnLabel();
+
   if (isLiked) {
     newLikeBtn.classList.add('liked');
     newLikeBtn.innerHTML = '<i class="fas fa-heart"></i> Liked';
@@ -972,9 +1297,9 @@ function openLightbox(wp, originCard = null, isNavigation = false) {
 
   newDownloadBtn.addEventListener('click', () => {
     if (editModeActive) {
-      downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas);
+      downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes);
     } else {
-      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`);
+      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
     }
   });
 

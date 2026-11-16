@@ -466,22 +466,15 @@ main {
   position: fixed;
   z-index: 10001;
   pointer-events: none;
-  border-radius: 16px;
-  will-change: top, left, width, height, border-radius, opacity;
   box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
-  transition: top 0.36s cubic-bezier(0.16, 1, 0.3, 1),
-              left 0.36s cubic-bezier(0.16, 1, 0.3, 1),
-              width 0.36s cubic-bezier(0.16, 1, 0.3, 1),
-              height 0.36s cubic-bezier(0.16, 1, 0.3, 1),
-              border-radius 0.36s ease,
-              opacity 0.28s ease;
+  will-change: transform, border-radius, opacity;
 }
 
 /* Lightbox Modal */
 .lightbox {
   position: fixed;
   inset: 0;
-  background: rgba(8, 8, 10, 0);
+  background: rgba(8, 8, 12, 0);
   backdrop-filter: blur(0px);
   -webkit-backdrop-filter: blur(0px);
   z-index: 1000;
@@ -490,20 +483,20 @@ main {
   justify-content: center;
   padding: 2rem;
   opacity: 0;
-  transition: opacity 0.35s ease, background 0.35s ease, backdrop-filter 0.35s ease;
+  transition: opacity 0.4s ease, background 0.4s ease, backdrop-filter 0.4s ease;
 }
 
 .lightbox.active {
   display: flex;
   opacity: 1;
-  background: rgba(8, 8, 10, 0.95);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: rgba(8, 8, 12, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
 }
 
 .lightbox.animating-out {
   opacity: 0 !important;
-  background: rgba(8, 8, 10, 0) !important;
+  background: rgba(8, 8, 12, 0) !important;
   backdrop-filter: blur(0px) !important;
   -webkit-backdrop-filter: blur(0px) !important;
   pointer-events: none;
@@ -518,11 +511,11 @@ main {
   height: 85vh;
   display: flex;
   overflow: hidden;
-  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 30px 70px -15px rgba(0, 0, 0, 0.85);
   position: relative;
-  transform: scale(0.96);
+  transform: scale(0.97);
   opacity: 0;
-  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
 }
 
 .lightbox.active .lightbox-content {
@@ -531,7 +524,7 @@ main {
 }
 
 .lightbox.animating-out .lightbox-content {
-  transform: scale(0.96);
+  transform: scale(0.97);
   opacity: 0;
 }
 
@@ -633,6 +626,88 @@ main {
 .info-value {
   font-size: 0.95rem;
   font-weight: 700;
+}
+
+/* Download Format & Resolution Configuration Panel */
+.download-config-panel {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.1rem;
+  margin-bottom: 1.25rem;
+}
+
+.download-config-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-primary);
+  margin-bottom: 0.85rem;
+}
+
+.download-config-title i {
+  color: var(--accent-color);
+}
+
+.download-config-group {
+  margin-bottom: 0.75rem;
+}
+
+.download-config-group:last-child {
+  margin-bottom: 0;
+}
+
+.download-config-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.4rem;
+}
+
+.download-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.dl-pill {
+  padding: 0.38rem 0.72rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.dl-pill:hover {
+  border-color: var(--accent-color);
+  color: var(--text-primary);
+  background: rgba(var(--accent-rgb), 0.08);
+}
+
+.dl-pill.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(var(--accent-rgb), 0.35);
+}
+
+.download-main-btn {
+  background: linear-gradient(135deg, var(--accent-color), #4f46e5);
+}
+
+.download-main-btn:hover {
+  background: linear-gradient(135deg, var(--accent-hover), #4338ca);
 }
 
 .detail-actions {
