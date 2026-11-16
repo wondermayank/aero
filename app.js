@@ -81,11 +81,8 @@ const slideshowNextBtn = document.getElementById('slideshow-next');
 const slideshowCloseBtn = document.getElementById('slideshow-close');
 const slideshowProgressBar = document.getElementById('slideshow-progress');
 
-// Create sentinel element for infinite scroll
-const loaderContainer = document.createElement('div');
-loaderContainer.className = 'loader-container';
-loaderContainer.innerHTML = '<div class="spinner"></div>';
-document.querySelector('main').appendChild(loaderContainer);
+// Load More Wallpapers Container Reference
+const loadMoreContainer = document.getElementById('load-more-container');
 
 // Create toast container
 const toastContainer = document.createElement('div');
@@ -93,115 +90,49 @@ toastContainer.className = 'toast-container';
 document.body.appendChild(toastContainer);
 
 // ==========================================
-// FAST PROGRESSIVE IMAGE LOADER (High Concurrency & Viewport Observer)
-// Above-the-fold images load instantly.
-// Off-screen images stream in smoothly as scrolled into view.
-// Any opened/clicked wallpaper immediately jumps to top priority!
+// VIEWPORT-PRIORITY IMAGE LOADER
+// Images showing on screen load FIRST with native fetchpriority="high".
+// Off-screen images remain idle until scrolled into view.
+// Clicked / opened wallpapers immediately jump to top priority!
 // ==========================================
-class ProgressiveImageLoader {
-  constructor(concurrency = 8) {
-    this.concurrency = concurrency;
-    this.activeCount = 0;
-    this.queue = [];
+class ViewportPriorityImageLoader {
+  constructor() {
     this.loadedSet = new Set();
-    this.setupViewportObserver();
+    this.setupObserver();
   }
 
-  setupViewportObserver() {
+  setupObserver() {
+    // Observes cards as they enter or near the visible screen viewport
     this.observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           const item = entry.target;
           const imgEl = item.querySelector('.masonry-img');
-          const src = item.getAttribute('data-src');
+          const src = item.getAttribute('data-src') || (imgEl ? imgEl.getAttribute('data-src') : null);
           const id = item.getAttribute('data-id');
-          if (imgEl && src && id) {
-            this.enqueue(imgEl, src, id);
+          if (imgEl && src) {
+            this.loadImmediately(item, imgEl, src, id, true);
           }
           this.observer.unobserve(item);
         }
       });
     }, {
-      rootMargin: '350px 0px 350px 0px'
+      root: null,
+      rootMargin: '120px 0px 120px 0px' // triggers right before entering screen
     });
   }
 
-  observeCard(cardElement, imgEl, src, id, isAboveFold = false) {
-    if (isAboveFold) {
-      // First batch above fold loads immediately!
-      this.enqueue(imgEl, src, id, true);
-    } else {
-      cardElement.setAttribute('data-src', src);
-      cardElement.setAttribute('data-id', id);
-      this.observer.observe(cardElement);
-    }
-  }
-
   reset() {
-    this.queue = [];
+    if (this.observer) {
+      this.observer.disconnect();
+    }
+    this.setupObserver();
   }
 
-  enqueue(imgEl, src, id, isHighPriority = false) {
+  observeCard(cardElement, imgEl, src, id, isAboveFold = false) {
     if (this.loadedSet.has(id)) {
-      imgEl.src = src;
-      imgEl.classList.add('loaded');
-      const parent = imgEl.closest('.masonry-img-wrapper');
-      if (parent) {
-        const sk = parent.querySelector('.card-skeleton');
-        if (sk) sk.remove();
-      }
-      return;
-    }
-
-    if (isHighPriority) {
-      this.queue.unshift({ imgEl, src, id, isUrgent: true });
-    } else {
-      this.queue.push({ imgEl, src, id, isUrgent: false });
-    }
-    this.process();
-  }
-
-  prioritize(id, src, targetImgEl = null) {
-    const existingIdx = this.queue.findIndex(item => item.id === id);
-    let item;
-    if (existingIdx !== -1) {
-      item = this.queue.splice(existingIdx, 1)[0];
-    } else {
-      const el = targetImgEl || document.querySelector(`.masonry-item[data-id="${id}"] .masonry-img`);
-      if (el) item = { imgEl: el, src, id };
-    }
-
-    if (item) {
-      this.loadItem(item, true);
-    }
-  }
-
-  process() {
-    while (this.activeCount < this.concurrency && this.queue.length > 0) {
-      const item = this.queue.shift();
-      this.loadItem(item, item.isUrgent);
-    }
-  }
-
-  loadItem(item, isUrgent = false) {
-    const { imgEl, src, id } = item;
-    if (this.loadedSet.has(id) && imgEl && imgEl.classList.contains('loaded')) {
-      return;
-    }
-
-    this.activeCount++;
-    const loader = new Image();
-    loader.decoding = 'async';
-    if (isUrgent) {
-      loader.fetchPriority = 'high';
-      if (imgEl) imgEl.setAttribute('fetchpriority', 'high');
-    }
-
-    const onFinish = () => {
-      this.loadedSet.add(id);
       if (imgEl) {
         imgEl.src = src;
-        imgEl.decoding = 'async';
         imgEl.classList.add('loaded');
         const parent = imgEl.closest('.masonry-img-wrapper');
         if (parent) {
@@ -209,17 +140,69 @@ class ProgressiveImageLoader {
           if (sk) sk.remove();
         }
       }
-      this.activeCount = Math.max(0, this.activeCount - 1);
-      this.process();
+      return;
+    }
+
+    if (isAboveFold) {
+      // Images currently showing on screen load FIRST!
+      this.loadImmediately(cardElement, imgEl, src, id, true);
+    } else {
+      // Off-screen images: hold data-src and observe
+      cardElement.setAttribute('data-src', src);
+      cardElement.setAttribute('data-id', id);
+      if (imgEl) {
+        imgEl.setAttribute('data-src', src);
+      }
+      this.observer.observe(cardElement);
+    }
+  }
+
+  loadImmediately(cardElement, imgEl, src, id, isPriority = false) {
+    if (!imgEl) return;
+    if (this.loadedSet.has(id) && imgEl.classList.contains('loaded')) return;
+
+    if (cardElement && this.observer) {
+      this.observer.unobserve(cardElement);
+    }
+
+    imgEl.decoding = 'async';
+    if (isPriority) {
+      imgEl.setAttribute('fetchpriority', 'high');
+    }
+
+    const onComplete = () => {
+      this.loadedSet.add(id);
+      imgEl.classList.add('loaded');
+      const parent = imgEl.closest('.masonry-img-wrapper');
+      if (parent) {
+        const sk = parent.querySelector('.card-skeleton');
+        if (sk) sk.remove();
+      }
     };
 
-    loader.onload = onFinish;
-    loader.onerror = onFinish;
-    loader.src = src;
+    if (imgEl.src !== src) {
+      if (imgEl.complete && imgEl.naturalWidth > 0 && imgEl.src === src) {
+        onComplete();
+      } else {
+        imgEl.addEventListener('load', onComplete, { once: true });
+        imgEl.addEventListener('error', onComplete, { once: true });
+        imgEl.src = src;
+      }
+    } else if (imgEl.complete) {
+      onComplete();
+    }
+  }
+
+  prioritize(id, src, targetImgEl = null) {
+    const card = document.querySelector(`.masonry-item[data-id="${id}"]`);
+    const imgEl = targetImgEl || (card ? card.querySelector('.masonry-img') : null);
+    if (imgEl && src) {
+      this.loadImmediately(card, imgEl, src, id, true);
+    }
   }
 }
 
-const imageLoader = new ProgressiveImageLoader(8);
+const imageLoader = new ViewportPriorityImageLoader();
 
 // ==========================================
 // DOWNLOAD OPTIONS STATE (PNG, WebP, JPG, 4K, 2K, 1080p, 720p, Mobile)
@@ -519,7 +502,6 @@ function init() {
   setupEventListeners();
   updateSortSizeBtnUI();
   filterAndRender(true);
-  setupInfiniteScroll();
   handleDeepLinking();
 }
 
@@ -949,12 +931,11 @@ function filterAndRender(reset = true) {
 
   if (filteredWallpapers.length === 0) {
     renderEmptyState();
-    loaderContainer.style.display = 'none';
+    updateLoadMoreUI();
   } else {
     const emptyState = grid.querySelector('.empty-state');
     if (emptyState) emptyState.remove();
     
-    loaderContainer.style.display = 'flex';
     renderNextBatch();
   }
 }
@@ -977,12 +958,12 @@ function renderEmptyState() {
   `;
 }
 
-// Render next slice of wallpapers with progressive sequential priority loading
+// Render next slice of wallpapers (30 wallpapers per batch)
 function renderNextBatch() {
   const nextBatch = filteredWallpapers.slice(renderedCount, renderedCount + itemsPerLoad);
   
   if (nextBatch.length === 0) {
-    loaderContainer.style.display = 'none';
+    updateLoadMoreUI();
     return;
   }
 
@@ -1021,12 +1002,13 @@ function renderNextBatch() {
       </div>
     `;
 
-    // Fast loading: First batch visible above fold loads immediately, others load via intersection observer!
+    // High performance on-screen loading:
+    // First batch visible above fold (initial 10) loads immediately with high priority!
     const cardImg = item.querySelector('.masonry-img');
-    const isAboveFold = (renderedCount === 0 && index < 8);
+    const isAboveFold = (renderedCount === 0 && index < 10);
     imageLoader.observeCard(item, cardImg, wp.url, wp.id, isAboveFold);
 
-    // Click card opens Lightbox with shared element popup animation
+    // Click card opens Lightbox with smooth shared element popup animation
     item.addEventListener('click', (e) => {
       if (e.target.closest('.overlay-btn')) return;
       openLightbox(wp, item);
@@ -1050,24 +1032,51 @@ function renderNextBatch() {
   grid.appendChild(fragment);
   renderedCount += nextBatch.length;
 
-  if (renderedCount >= filteredWallpapers.length) {
-    loaderContainer.style.display = 'none';
-  } else {
-    loaderContainer.style.display = 'flex';
-  }
+  // Update Load More Button & Stats
+  updateLoadMoreUI();
 }
 
-// Infinite scroll implementation
-function setupInfiniteScroll() {
-  const observer = new IntersectionObserver((entries) => {
-    if (entries[0].isIntersecting && renderedCount < filteredWallpapers.length) {
-      renderNextBatch();
-    }
-  }, {
-    rootMargin: '100px 0px 400px 0px'
-  });
+// Update the Load More Wallpapers controls & counter
+function updateLoadMoreUI() {
+  const container = document.getElementById('load-more-container');
+  if (!container) return;
 
-  observer.observe(loaderContainer);
+  const total = filteredWallpapers.length;
+  if (total === 0) {
+    container.style.display = 'none';
+    return;
+  }
+
+  container.style.display = 'flex';
+
+  if (renderedCount >= total) {
+    container.innerHTML = `
+      <div class="all-loaded-indicator">
+        <i class="fas fa-check-circle"></i>
+        <span>All ${total.toLocaleString()} wallpapers loaded</span>
+      </div>
+    `;
+  } else {
+    const remaining = total - renderedCount;
+    const nextCount = Math.min(itemsPerLoad, remaining);
+    container.innerHTML = `
+      <button id="load-more-btn" class="load-more-btn" title="Load next ${nextCount} wallpapers">
+        <i class="fas fa-plus-circle"></i>
+        <span>Load More Wallpapers</span>
+        <span class="load-more-badge">+${nextCount}</span>
+      </button>
+      <div class="load-more-status" id="load-more-status">
+        Showing <strong>${renderedCount.toLocaleString()}</strong> of <strong>${total.toLocaleString()}</strong> wallpapers
+      </div>
+    `;
+
+    const btn = document.getElementById('load-more-btn');
+    if (btn) {
+      btn.addEventListener('click', () => {
+        renderNextBatch();
+      });
+    }
+  }
 }
 
 // Toggle Wallpaper Liking
