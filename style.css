@@ -328,10 +328,35 @@ main {
   width: 100%;
 }
 
+/* Masonry Grid with Fluid Transitions */
 .masonry-grid {
   columns: 5 280px;
   column-gap: 1.25rem;
   width: 100%;
+  transition: opacity 0.24s cubic-bezier(0.4, 0, 0.2, 1), transform 0.24s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: opacity, transform;
+}
+
+.masonry-grid.switching {
+  opacity: 0.35;
+  transform: scale(0.992);
+  pointer-events: none;
+}
+
+/* Staggered Card Cascade Entrance */
+@keyframes cardEntrance {
+  0% {
+    opacity: 0;
+    transform: translateY(28px) scale(0.96);
+  }
+  60% {
+    opacity: 0.95;
+    transform: translateY(-2px) scale(1.003);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 .masonry-item {
@@ -344,17 +369,41 @@ main {
   box-shadow: var(--card-shadow);
   position: relative;
   cursor: pointer;
-  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease, border-color 0.3s ease;
+  will-change: transform, opacity;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.masonry-item.animate-in {
+  animation: cardEntrance 0.42s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: calc(var(--stagger, 0) * 24ms);
 }
 
 .masonry-item:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.8);
-  border-color: rgba(var(--accent-rgb), 0.4);
+  box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.75), 0 0 24px rgba(var(--accent-rgb), 0.28);
+  border-color: rgba(var(--accent-rgb), 0.5);
 }
 
 :root.light-mode .masonry-item:hover {
-  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.18), 0 0 16px rgba(var(--accent-rgb), 0.2);
+}
+
+/* Dynamic Radial Cursor Spotlight on Card */
+.card-tilt-glow {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle 220px at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255, 255, 255, 0.18), transparent 75%);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  z-index: 3;
+  border-radius: 16px;
+  mix-blend-mode: overlay;
+}
+
+.masonry-item:hover .card-tilt-glow {
+  opacity: 1;
 }
 
 .masonry-img-wrapper {
@@ -406,7 +455,8 @@ main {
   justify-content: space-between;
   padding: 1.2rem;
   transition: opacity 0.3s ease;
-  z-index: 2;
+  z-index: 4;
+  will-change: opacity, transform;
 }
 
 .masonry-item:hover .card-overlay {
@@ -462,6 +512,27 @@ main {
 .overlay-btn.download-btn:hover {
   background: var(--accent-color);
   color: white;
+}
+
+/* Optimistic UI Spring Pop & Hardware Accelerated States */
+@keyframes heartPop {
+  0% { transform: scale(1); }
+  35% { transform: scale(1.48); }
+  70% { transform: scale(0.88); }
+  100% { transform: scale(1); }
+}
+
+.overlay-btn.like-btn.pop i,
+.action-btn.secondary-btn.pop i,
+#lightbox-like.pop i {
+  display: inline-block;
+  animation: heartPop 0.4s cubic-bezier(0.17, 0.89, 0.32, 1.49);
+}
+
+.overlay-btn.download-btn.downloading,
+.action-btn.primary-btn.downloading {
+  opacity: 0.85;
+  pointer-events: none;
 }
 
 .overlay-bottom {
@@ -608,6 +679,13 @@ main {
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transition: filter 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.35s ease, opacity 0.25s ease;
+  will-change: filter, transform, opacity;
+}
+
+.lightbox-img.loading-hd {
+  filter: blur(10px);
+  transform: scale(1.02);
 }
 
 .lightbox-details {

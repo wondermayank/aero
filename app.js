@@ -90,6 +90,77 @@ toastContainer.className = 'toast-container';
 document.body.appendChild(toastContainer);
 
 // ==========================================
+// HIGH-SPEED CDN THUMBNAIL PROXY & CACHE
+// Serves fast lightweight WebP thumbnails (~30-50KB) via global edge CDN (wsrv.nl)
+// Preserves pristine 4K original raw URLs for downloads and progressive Lightbox upgrade.
+// ==========================================
+function getThumbnailUrl(rawUrl, format = '') {
+  if (!rawUrl) return '';
+  const isGif = (format && format.toUpperCase() === 'GIF') || rawUrl.toLowerCase().endsWith('.gif');
+  if (isGif) {
+    return `https://wsrv.nl/?url=${encodeURIComponent(rawUrl)}&w=480&n=-1&output=webp`;
+  }
+  return `https://wsrv.nl/?url=${encodeURIComponent(rawUrl)}&w=640&q=80&output=webp`;
+}
+
+// Preload Next & Previous Wallpapers for 0ms delay on Arrow Keys / Navigation
+function preloadAdjacentWallpapers(wp) {
+  if (!wp || !filteredWallpapers.length) return;
+  const idx = filteredWallpapers.findIndex(w => w.id === wp.id);
+  if (idx === -1) return;
+
+  const nextWp = filteredWallpapers[(idx + 1) % filteredWallpapers.length];
+  const prevWp = filteredWallpapers[(idx - 1 + filteredWallpapers.length) % filteredWallpapers.length];
+
+  [nextWp, prevWp].forEach(item => {
+    if (item && item.url) {
+      // 1. Preload thumbnail CDN WebP
+      const thumb = new Image();
+      thumb.src = getThumbnailUrl(item.url, item.format);
+      // 2. Preload full 4K original in background
+      const full = new Image();
+      full.decoding = 'async';
+      full.src = item.url;
+    }
+  });
+}
+
+// Interactive 3D Perspective Tilt with Dynamic Radial Cursor Spotlight
+function attachCardTilt(item) {
+  if (!item) return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || ('ontouchstart' in window && window.innerWidth < 768)) {
+    return;
+  }
+
+  let ticking = false;
+
+  item.addEventListener('mousemove', (e) => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => {
+      const rect = item.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+      
+      const tiltY = ((x - centerX) / centerX) * 6.5;
+      const tiltX = -((y - centerY) / centerY) * 6.5;
+      
+      item.style.transform = `perspective(1000px) rotateX(${tiltX.toFixed(2)}deg) rotateY(${tiltY.toFixed(2)}deg) translateY(-4px) scale3d(1.02, 1.02, 1.02)`;
+      item.style.setProperty('--mouse-x', `${x.toFixed(1)}px`);
+      item.style.setProperty('--mouse-y', `${y.toFixed(1)}px`);
+      ticking = false;
+    });
+  });
+
+  item.addEventListener('mouseleave', () => {
+    item.style.transform = 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0) scale3d(1, 1, 1)';
+  });
+}
+
+// ==========================================
 // VIEWPORT-PRIORITY IMAGE LOADER
 // Images showing on screen load FIRST with native fetchpriority="high".
 // Off-screen images remain idle until scrolled into view.
@@ -276,11 +347,33 @@ function animatePopupOpen(wp, originCard = null, isNavigation = false) {
   const modalImg = lightbox.querySelector('.lightbox-img');
   const detailsPanel = lightbox.querySelector('.lightbox-details');
 
-  // Prioritize loading this wallpaper
-  imageLoader.prioritize(wp.id, wp.url, cardImg);
+  const thumbUrl = getThumbnailUrl(wp.url, wp.format);
+  const fastSrc = (cardImg && (cardImg.currentSrc || cardImg.src)) ? (cardImg.currentSrc || cardImg.src) : thumbUrl;
 
-  modalImg.src = wp.url;
+  // Prioritize loading thumbnail
+  imageLoader.prioritize(wp.id, thumbUrl, cardImg);
+
+  // Progressive blur-up: show fast cached thumbnail immediately
+  modalImg.src = fastSrc;
   modalImg.alt = wp.name;
+  modalImg.classList.add('loading-hd');
+
+  // Background asynchronous upgrade to full 4K original
+  const fullHd = new Image();
+  fullHd.decoding = 'async';
+  fullHd.src = wp.url;
+  fullHd.onload = () => {
+    if (currentActiveWp && currentActiveWp.id === wp.id) {
+      modalImg.src = wp.url;
+      modalImg.classList.remove('loading-hd');
+    }
+  };
+  fullHd.onerror = () => {
+    modalImg.classList.remove('loading-hd');
+  };
+
+  // Preload adjacent wallpapers (Next #N+1 and Prev #N-1)
+  preloadAdjacentWallpapers(wp);
 
   if (isNavigation || !cardImg) {
     modalImg.style.opacity = '1';
@@ -334,7 +427,7 @@ function animatePopupOpen(wp, originCard = null, isNavigation = false) {
   // 3. Create GPU-accelerated transition clone positioned exactly at target
   const clone = document.createElement('img');
   clone.className = 'shared-element-transition-clone';
-  clone.src = cardImg.src || wp.url;
+  clone.src = fastSrc;
   clone.style.position = 'fixed';
   clone.style.left = `${targetLeft}px`;
   clone.style.top = `${targetTop}px`;
@@ -637,7 +730,7 @@ function setupEventListeners() {
     });
   }
 
-  // Grid Density
+  // Grid Density Switcher with Fluid Transitions
   densityBtns.forEach(btn => {
     btn.addEventListener('click', (e) => {
       densityBtns.forEach(b => b.classList.remove('active'));
@@ -645,8 +738,14 @@ function setupEventListeners() {
       targetBtn.classList.add('active');
       currentGridDensity = targetBtn.getAttribute('data-density');
       
-      grid.classList.remove('grid-sm', 'grid-md', 'grid-lg');
-      grid.classList.add(`grid-${currentGridDensity}`);
+      grid.classList.add('switching');
+      setTimeout(() => {
+        grid.classList.remove('grid-sm', 'grid-md', 'grid-lg');
+        grid.classList.add(`grid-${currentGridDensity}`);
+        setTimeout(() => {
+          grid.classList.remove('switching');
+        }, 60);
+      }, 100);
     });
   });
 
@@ -972,23 +1071,29 @@ function renderNextBatch() {
   nextBatch.forEach((wp, index) => {
     const isLiked = likedWallpapers.has(wp.id);
     const item = document.createElement('div');
-    item.className = 'masonry-item';
+    item.className = 'masonry-item animate-in';
     item.setAttribute('data-id', wp.id);
     
+    // Staggered cascade entrance timing (0 to 29)
+    const cascadeIndex = index % itemsPerLoad;
+    item.style.setProperty('--stagger', cascadeIndex);
+    
     const isGif = wp.format === 'GIF';
+    const thumbUrl = getThumbnailUrl(wp.url, wp.format);
     
     item.innerHTML = `
+      <div class="card-tilt-glow"></div>
       <div class="masonry-img-wrapper">
         ${isGif ? '<div class="gif-badge">GIF</div>' : ''}
         <div class="card-skeleton"></div>
-        <img class="masonry-img" data-src="${wp.url}" alt="${wp.name}" decoding="async" />
+        <img class="masonry-img" data-src="${thumbUrl}" alt="${wp.name}" decoding="async" />
       </div>
       <div class="card-overlay">
         <div class="overlay-top">
           <button class="overlay-btn like-btn ${isLiked ? 'liked' : ''}" title="${isLiked ? 'Unlike' : 'Like'}">
             <i class="${isLiked ? 'fas' : 'far'} fa-heart"></i>
           </button>
-          <button class="overlay-btn download-btn" title="Quick Download (4K)">
+          <button class="overlay-btn download-btn" title="Quick Download (4K Original)">
             <i class="fas fa-arrow-down"></i>
           </button>
         </div>
@@ -1002,11 +1107,20 @@ function renderNextBatch() {
       </div>
     `;
 
-    // High performance on-screen loading:
-    // First batch visible above fold (initial 10) loads immediately with high priority!
+    // Interactive 3D Perspective Tilt on Card Hover
+    attachCardTilt(item);
+
+    // Viewport image loading with CDN fail-safe fallback
     const cardImg = item.querySelector('.masonry-img');
+    cardImg.onerror = () => {
+      // If CDN proxy fails or is blocked, seamlessly load original raw URL
+      if (cardImg.src !== wp.url) {
+        cardImg.src = wp.url;
+      }
+    };
+
     const isAboveFold = (renderedCount === 0 && index < 10);
-    imageLoader.observeCard(item, cardImg, wp.url, wp.id, isAboveFold);
+    imageLoader.observeCard(item, cardImg, thumbUrl, wp.id, isAboveFold);
 
     // Click card opens Lightbox with smooth shared element popup animation
     item.addEventListener('click', (e) => {
@@ -1017,13 +1131,24 @@ function renderNextBatch() {
     const likeBtn = item.querySelector('.like-btn');
     likeBtn.addEventListener('click', (e) => {
       e.stopPropagation();
+      likeBtn.classList.add('pop');
+      setTimeout(() => likeBtn.classList.remove('pop'), 400);
       toggleLike(wp.id, likeBtn);
     });
 
     const downloadBtn = item.querySelector('.download-btn');
     downloadBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`);
+      downloadBtn.classList.add('downloading');
+      const icon = downloadBtn.querySelector('i');
+      if (icon) icon.className = 'fas fa-spinner fa-spin';
+      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`)
+        .finally(() => {
+          setTimeout(() => {
+            downloadBtn.classList.remove('downloading');
+            if (icon) icon.className = 'fas fa-arrow-down';
+          }, 800);
+        });
     });
 
     fragment.appendChild(item);
@@ -1079,10 +1204,15 @@ function updateLoadMoreUI() {
   }
 }
 
-// Toggle Wallpaper Liking
+// Toggle Wallpaper Liking (Optimistic UI)
 function toggleLike(id, btnElement) {
   const isLiked = likedWallpapers.has(id);
   const wp = WALLPAPERS.find(w => w.id === id);
+
+  if (btnElement) {
+    btnElement.classList.add('pop');
+    setTimeout(() => btnElement.classList.remove('pop'), 400);
+  }
 
   if (isLiked) {
     likedWallpapers.delete(id);
@@ -1355,14 +1485,25 @@ function openLightbox(wp, originCard = null, isNavigation = false) {
   }
 
   newDownloadBtn.addEventListener('click', () => {
-    if (editModeActive) {
-      downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes);
-    } else {
-      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
-    }
+    newDownloadBtn.classList.add('downloading');
+    const dlText = document.getElementById('download-btn-text');
+    if (dlText) dlText.textContent = 'Preparing 4K Download...';
+
+    const p = editModeActive
+      ? downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes)
+      : downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
+
+    Promise.resolve(p).finally(() => {
+      setTimeout(() => {
+        newDownloadBtn.classList.remove('downloading');
+        updateDownloadBtnLabel();
+      }, 800);
+    });
   });
 
   newLikeBtn.addEventListener('click', () => {
+    newLikeBtn.classList.add('pop');
+    setTimeout(() => newLikeBtn.classList.remove('pop'), 400);
     toggleLike(wp.id);
     const updatedLiked = likedWallpapers.has(wp.id);
     
