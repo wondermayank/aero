@@ -90,6 +90,252 @@ const toastContainer = document.createElement('div');
 toastContainer.className = 'toast-container';
 document.body.appendChild(toastContainer);
 
+// ==========================================
+// PRIORITY PROGRESSIVE IMAGE LOADER (Requirement 3)
+// Loads wallpapers in strict sequential order: 1, then 2, then 3...
+// If any wallpaper is opened, it loads FIRST immediately.
+// ==========================================
+class ProgressiveImageLoader {
+  constructor(concurrency = 3) {
+    this.concurrency = concurrency;
+    this.activeCount = 0;
+    this.queue = [];
+    this.loadedSet = new Set();
+  }
+
+  reset() {
+    this.queue = [];
+  }
+
+  enqueue(imgEl, src, id) {
+    if (this.loadedSet.has(id)) {
+      imgEl.src = src;
+      imgEl.classList.add('loaded');
+      const parent = imgEl.closest('.masonry-img-wrapper');
+      if (parent) {
+        const sk = parent.querySelector('.card-skeleton');
+        if (sk) sk.remove();
+      }
+      return;
+    }
+
+    this.queue.push({ imgEl, src, id });
+    this.process();
+  }
+
+  prioritize(id, src, targetImgEl = null) {
+    const existingIdx = this.queue.findIndex(item => item.id === id);
+    let item;
+    if (existingIdx !== -1) {
+      item = this.queue.splice(existingIdx, 1)[0];
+    } else {
+      const el = targetImgEl || document.querySelector(`.masonry-item[data-id="${id}"] .masonry-img`);
+      if (el) item = { imgEl: el, src, id };
+    }
+
+    if (item) {
+      this.loadItem(item, true);
+    }
+  }
+
+  process() {
+    while (this.activeCount < this.concurrency && this.queue.length > 0) {
+      const item = this.queue.shift();
+      this.loadItem(item, false);
+    }
+  }
+
+  loadItem(item, isUrgent = false) {
+    const { imgEl, src, id } = item;
+    if (this.loadedSet.has(id) && imgEl && imgEl.classList.contains('loaded')) {
+      return;
+    }
+
+    this.activeCount++;
+    const loader = new Image();
+    if (isUrgent) {
+      loader.fetchPriority = 'high';
+      if (imgEl) imgEl.setAttribute('fetchpriority', 'high');
+    }
+
+    const onFinish = () => {
+      this.loadedSet.add(id);
+      if (imgEl) {
+        imgEl.src = src;
+        imgEl.classList.add('loaded');
+        const parent = imgEl.closest('.masonry-img-wrapper');
+        if (parent) {
+          const sk = parent.querySelector('.card-skeleton');
+          if (sk) sk.remove();
+        }
+      }
+      this.activeCount = Math.max(0, this.activeCount - 1);
+      this.process();
+    };
+
+    loader.onload = onFinish;
+    loader.onerror = onFinish;
+    loader.src = src;
+  }
+}
+
+const imageLoader = new ProgressiveImageLoader(3);
+
+// ==========================================
+// SHARED ELEMENT TRANSITION POPUP (Requirement 5)
+// Animates open from the wallpaper card position
+// and zooms back down into place when closed.
+// ==========================================
+let currentActiveWp = null;
+let activeTransitionClone = null;
+
+function animatePopupOpen(wp, originCard = null, isNavigation = false) {
+  if (activeTransitionClone) {
+    activeTransitionClone.remove();
+    activeTransitionClone = null;
+  }
+
+  const card = originCard || document.querySelector(`.masonry-item[data-id="${wp.id}"]`);
+  const cardImg = card ? card.querySelector('.masonry-img') : null;
+  const modalImg = lightbox.querySelector('.lightbox-img');
+
+  // Prioritize loading this wallpaper first
+  imageLoader.prioritize(wp.id, wp.url, cardImg);
+
+  modalImg.src = wp.url;
+  modalImg.alt = wp.name;
+
+  if (isNavigation) {
+    modalImg.style.opacity = '1';
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    return;
+  }
+
+  if (cardImg) {
+    const startRect = cardImg.getBoundingClientRect();
+    const isVisibleInView = (startRect.width > 0 && startRect.height > 0 &&
+                             startRect.bottom > 0 && startRect.top < window.innerHeight);
+
+    if (isVisibleInView) {
+      const clone = document.createElement('img');
+      clone.className = 'shared-element-transition-clone';
+      clone.src = cardImg.src || wp.url;
+      clone.style.top = `${startRect.top}px`;
+      clone.style.left = `${startRect.left}px`;
+      clone.style.width = `${startRect.width}px`;
+      clone.style.height = `${startRect.height}px`;
+      clone.style.objectFit = 'cover';
+      clone.style.borderRadius = '16px';
+      document.body.appendChild(clone);
+      activeTransitionClone = clone;
+
+      modalImg.style.opacity = '0';
+      lightbox.classList.add('active');
+      document.body.style.overflow = 'hidden';
+
+      requestAnimationFrame(() => {
+        const mediaBox = lightboxMedia.getBoundingClientRect();
+        const targetWidth = Math.max(100, mediaBox.width - 32);
+        const targetHeight = Math.max(100, mediaBox.height - 32);
+        const targetTop = mediaBox.top + (mediaBox.height - targetHeight) / 2;
+        const targetLeft = mediaBox.left + (mediaBox.width - targetWidth) / 2;
+
+        clone.style.top = `${targetTop}px`;
+        clone.style.left = `${targetLeft}px`;
+        clone.style.width = `${targetWidth}px`;
+        clone.style.height = `${targetHeight}px`;
+        clone.style.objectFit = 'contain';
+        clone.style.borderRadius = '8px';
+      });
+
+      setTimeout(() => {
+        if (activeTransitionClone === clone) {
+          modalImg.style.opacity = '1';
+          clone.remove();
+          activeTransitionClone = null;
+        }
+      }, 370);
+      return;
+    }
+  }
+
+  // Fallback direct open
+  modalImg.style.opacity = '1';
+  lightbox.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+
+function animatePopupClose() {
+  if (activeTransitionClone) {
+    activeTransitionClone.remove();
+    activeTransitionClone = null;
+  }
+
+  const targetCard = currentActiveWp ? document.querySelector(`.masonry-item[data-id="${currentActiveWp.id}"]`) : null;
+  const targetImg = targetCard ? targetCard.querySelector('.masonry-img') : null;
+  const modalImg = lightbox.querySelector('.lightbox-img');
+
+  if (targetImg) {
+    const destRect = targetImg.getBoundingClientRect();
+    const isVisible = (destRect.width > 0 && destRect.height > 0 &&
+                       destRect.bottom > 0 && destRect.top < window.innerHeight);
+
+    if (isVisible) {
+      const currRect = modalImg.getBoundingClientRect();
+      const clone = document.createElement('img');
+      clone.className = 'shared-element-transition-clone';
+      clone.src = modalImg.src || (currentActiveWp ? currentActiveWp.url : '');
+      clone.style.top = `${currRect.top}px`;
+      clone.style.left = `${currRect.left}px`;
+      clone.style.width = `${currRect.width}px`;
+      clone.style.height = `${currRect.height}px`;
+      clone.style.objectFit = 'contain';
+      clone.style.borderRadius = '8px';
+      document.body.appendChild(clone);
+      activeTransitionClone = clone;
+
+      modalImg.style.opacity = '0';
+      lightbox.classList.add('animating-out');
+
+      requestAnimationFrame(() => {
+        clone.style.top = `${destRect.top}px`;
+        clone.style.left = `${destRect.left}px`;
+        clone.style.width = `${destRect.width}px`;
+        clone.style.height = `${destRect.height}px`;
+        clone.style.objectFit = 'cover';
+        clone.style.borderRadius = '16px';
+        clone.style.opacity = '0.9';
+      });
+
+      setTimeout(() => {
+        if (activeTransitionClone === clone) {
+          clone.remove();
+          activeTransitionClone = null;
+        }
+        lightbox.classList.remove('active', 'animating-out');
+        modalImg.style.opacity = '';
+        document.body.style.overflow = '';
+        history.replaceState(null, null, ' ');
+        resetEditorState();
+        currentActiveWp = null;
+      }, 360);
+      return;
+    }
+  }
+
+  // Smooth fallback close
+  lightbox.classList.add('animating-out');
+  setTimeout(() => {
+    lightbox.classList.remove('active', 'animating-out');
+    modalImg.style.opacity = '';
+    document.body.style.overflow = '';
+    history.replaceState(null, null, ' ');
+    resetEditorState();
+    currentActiveWp = null;
+  }, 250);
+}
+
 // Initialize App
 function init() {
   handleSplashScreen();
@@ -350,17 +596,18 @@ function navigateWp(direction) {
   if (nextIndex >= filteredWallpapers.length) nextIndex = 0;
   if (nextIndex < 0) nextIndex = filteredWallpapers.length - 1;
   
-  openLightbox(filteredWallpapers[nextIndex]);
+  openLightbox(filteredWallpapers[nextIndex], null, true);
 }
 
-// Deep Linking Handler
+// Deep Linking Handler (Priority opens first)
 function handleDeepLinking() {
   const hash = window.location.hash;
   if (hash && hash.startsWith('#wp_')) {
     const wpId = hash.substring(1);
     const targetWp = WALLPAPERS.find(w => w.id === wpId);
     if (targetWp) {
-      setTimeout(() => openLightbox(targetWp), 600);
+      imageLoader.prioritize(targetWp.id, targetWp.url);
+      setTimeout(() => openLightbox(targetWp), 300);
     }
   }
 }
@@ -429,6 +676,7 @@ function filterAndRender(reset = true) {
   if (reset) {
     grid.innerHTML = '';
     renderedCount = 0;
+    imageLoader.reset();
   }
 
   filteredWallpapers = WALLPAPERS.filter(wp => {
@@ -451,15 +699,27 @@ function filterAndRender(reset = true) {
     return matchesSearch && matchesCategory && matchesFormat && matchesView;
   });
 
-  // Apply Sorting
+  // Apply Sorting (with Natural Numeric Sorting, Requirement 3)
   if (currentSort === 'name-asc') {
-    filteredWallpapers.sort((a, b) => a.name.localeCompare(b.name));
+    filteredWallpapers.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' }));
   } else if (currentSort === 'name-desc') {
-    filteredWallpapers.sort((a, b) => b.name.localeCompare(a.name));
+    filteredWallpapers.sort((a, b) => b.name.localeCompare(a.name, undefined, { numeric: true, sensitivity: 'base' }));
   } else if (currentSort === 'size-asc') {
     filteredWallpapers.sort((a, b) => getWpSizeBytes(a) - getWpSizeBytes(b));
   } else if (currentSort === 'size-desc') {
     filteredWallpapers.sort((a, b) => getWpSizeBytes(b) - getWpSizeBytes(a));
+  } else {
+    // Default natural order: 1, 2, 3 ... 132
+    filteredWallpapers.sort((a, b) => {
+      if (a.category !== b.category) {
+        if (a.category === 'Anime Wallpapers') return -1;
+        if (b.category === 'Anime Wallpapers') return 1;
+        if (a.category === 'Anime Backgrounds') return -1;
+        if (b.category === 'Anime Backgrounds') return 1;
+        return a.category.localeCompare(b.category);
+      }
+      return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
+    });
   }
 
   // Update Stats
@@ -496,7 +756,7 @@ function renderEmptyState() {
   `;
 }
 
-// Render next slice of wallpapers
+// Render next slice of wallpapers with progressive sequential priority loading
 function renderNextBatch() {
   const nextBatch = filteredWallpapers.slice(renderedCount, renderedCount + itemsPerLoad);
   
@@ -518,7 +778,8 @@ function renderNextBatch() {
     item.innerHTML = `
       <div class="masonry-img-wrapper">
         ${isGif ? '<div class="gif-badge">GIF</div>' : ''}
-        <img class="masonry-img" src="${wp.url}" alt="${wp.name}" loading="lazy" />
+        <div class="card-skeleton"></div>
+        <img class="masonry-img" data-src="${wp.url}" alt="${wp.name}" />
       </div>
       <div class="card-overlay">
         <div class="overlay-top">
@@ -539,10 +800,14 @@ function renderNextBatch() {
       </div>
     `;
 
-    // Click card opens Lightbox
+    // Enqueue progressive image load: loads in sequential order 1, then 2, then 3...
+    const cardImg = item.querySelector('.masonry-img');
+    imageLoader.enqueue(cardImg, wp.url, wp.id);
+
+    // Click card opens Lightbox with shared element popup animation
     item.addEventListener('click', (e) => {
       if (e.target.closest('.overlay-btn')) return;
-      openLightbox(wp);
+      openLightbox(wp, item);
     });
 
     const likeBtn = item.querySelector('.like-btn');
@@ -670,7 +935,8 @@ async function downloadWallpaper(url, filename, canvasElement = null) {
 }
 
 // Lightbox Logic
-function openLightbox(wp) {
+function openLightbox(wp, originCard = null, isNavigation = false) {
+  currentActiveWp = wp;
   const isLiked = likedWallpapers.has(wp.id);
   
   lightbox.querySelector('.detail-category').textContent = wp.category;
@@ -682,11 +948,6 @@ function openLightbox(wp) {
   document.getElementById('info-path').textContent = wp.path;
   
   window.location.hash = wp.id;
-
-  // Set main preview image
-  const imgElement = lightbox.querySelector('.lightbox-img');
-  imgElement.src = wp.url;
-  imgElement.alt = wp.name;
 
   // Set Board Select dropdown values
   setupBoardSelectorForWallpaper(wp.id);
@@ -762,15 +1023,12 @@ function openLightbox(wp) {
     originalImage.src = wp.url;
   }
 
-  lightbox.classList.add('active');
-  document.body.style.overflow = 'hidden';
+  // Trigger Shared Element Popup Animation (Requirement 5) & Load First (Requirement 3)
+  animatePopupOpen(wp, originCard, isNavigation);
 }
 
 function closeLightbox() {
-  lightbox.classList.remove('active');
-  document.body.style.overflow = '';
-  history.replaceState(null, null, ' ');
-  resetEditorState();
+  animatePopupClose();
 }
 
 function setupBoardSelectorForWallpaper(wpId) {

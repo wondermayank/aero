@@ -1,14 +1,15 @@
 <div align="center">
 
-# 🌌 Aero — Wallpaper Gallery
+# 🌌 4K Wallpaper Site by wondermayank (AeroPaper)
 
-**A fast, free wallpaper gallery. Browse, preview and download in one click.**
+**The ultimate 4K wallpaper site by wondermayank. Browse, edit, preview and download 2,300+ Ultra HD wallpapers in one click.**
 
 [![Live](https://img.shields.io/badge/Live-wallpaper.wondermayank.in-573AFC?style=for-the-badge)](https://wallpaper.wondermayank.in/)
 ![Vanilla JS](https://img.shields.io/badge/Built%20with-Vanilla%20JS-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![No Signup](https://img.shields.io/badge/Signup-Not%20needed-22c55e?style=for-the-badge)
+![Wallpapers](https://img.shields.io/badge/Wallpapers-2300%2B-blueviolet?style=for-the-badge)
 
-[🌐 Open Aero](https://wallpaper.wondermayank.in/) · [🐛 Report Issue](https://github.com/wondermayank/aero/issues) · [🧑‍💻 About the creator](#-about-the-creator)
+[🌐 Open 4K Wallpaper Site](https://wallpaper.wondermayank.in/) · [🐛 Report Issue](https://github.com/wondermayank/aero/issues) · [🧑‍💻 About the creator](#-about-the-creator)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 ## 📖 About
 
-**Aero** is a high-performance wallpaper gallery built with plain **HTML, CSS and vanilla JavaScript**. There is no framework, no build step and no backend — wallpapers live in a lightweight client-side database file, so pages load fast and downloads start instantly.
+**AeroPaper** is a high-performance **4K wallpaper site by wondermayank** built with plain **HTML, CSS and vanilla JavaScript**. There is no framework, no build step and no backend — wallpapers live in lightweight client-side data files (`database.js` & `wallpapers.json`), so pages load fast and downloads start instantly.
 
 🔗 **Live:** https://wallpaper.wondermayank.in/
 
@@ -26,12 +27,13 @@
 
 | | Feature | Details |
 |---|---|---|
-| ⚡ | **High performance** | Zero framework overhead, loads instantly |
-| 🗃️ | **Client-side database** | Wallpapers are stored in `database.js` — no server or API calls |
-| 📱 | **Responsive grid** | Adapts from phones to large desktop screens |
-| ⬇️ | **Instant downloads** | One click to save a wallpaper |
-| 🖼️ | **Media gallery** | Clean image discovery and preview |
-| 🔗 | **Social-ready** | `og-image.png` for rich link previews |
+| ⚡ | **High performance** | Zero framework overhead, loads instantly with sequential priority loading |
+| 🗃️ | **2,300+ 4K Wallpapers** | Stored in `database.js` & `wallpapers.json` — Anime, 4K Landscapes, 4K Minimalist, Space & more |
+| 🎬 | **Shared Element Animation** | Smooth FLIP popup animation opening from thumbnail and gliding back into place |
+| 📱 | **Responsive grid & Phone Editor** | In-browser canvas editor with 9:16 portrait crop and Gaussian blurred fit |
+| ⬇️ | **Instant downloads** | One click to save full-resolution 4K wallpapers |
+| 🎞️ | **Fullscreen Slideshow** | Autoplay slideshow with smooth fades and keyboard shortcuts |
+| 🔗 | **SEO, AEO & GEO Optimized** | Complete Open Graph, Twitter cards, and Schema.org structured data |
 | 🆓 | **100% free** | No account, no ads, no paywall |
 
 ---
@@ -41,9 +43,11 @@
 ```
 aero/
 ├── index.html      page structure and SEO meta tags
-├── style.css       styling and responsive grid layout
-├── app.js          gallery logic: rendering, interactions, downloads
+├── style.css       styling, shared element animation and responsive grid layout
+├── app.js          gallery logic: priority loading, transitions, editor, downloads
 ├── database.js     client-side wallpaper database
+├── wallpapers.json wallpaper dataset in pure JSON
+├── data.json       mirror wallpaper dataset
 ├── favicon.svg     site icon
 └── og-image.png    social sharing preview image
 ```
@@ -65,82 +69,34 @@ Then open `index.html` in your browser, or use **Live Server** in VS Code.
 
 ## ➕ Adding Wallpapers
 
-All wallpapers are listed in **`database.js`**. To add one:
+All wallpapers are indexed in **`database.js`** and **`wallpapers.json`**. To add one:
 
-1. Open `database.js`
+1. Open `database.js` or `wallpapers.json`
 2. Copy an existing entry
-3. Change its values (title, image URL, category and so on) — **keep the same fields the file already uses**
+3. Change its values (title, image URL, category and so on)
 4. Save, commit and push — the live site updates after deploy
-
-Tips for good wallpapers:
-- Use high-resolution images (1920×1080 or larger)
-- Prefer compressed **WebP** or well-optimised JPG for fast loading
-- Use clear, descriptive titles so people can find them
-
----
-
-## 🚀 Deploy (Free)
-
-Aero is static, so any free host works:
-
-| Host | Steps |
-|---|---|
-| **GitHub Pages** | Settings → Pages → Deploy from `main` branch |
-| **Cloudflare Pages** | Connect repo → no build command → output directory `/` |
-| **Vercel** | Import repo → framework preset **Other** |
-| **Netlify** | Import repo → no build command → publish directory `/` |
-
-### Custom domain
-1. Add `wallpaper.wondermayank.in` in your host's **Domains** settings
-2. Add the `CNAME` record it shows in your DNS provider
-3. Wait for HTTPS to activate
 
 ---
 
 ## 🧑‍💻 About the Creator
 
-Hi, I'm **Thunder** (online as **Wondermayank**) — a student developer from India.
+Hi, I'm **Thunder** (online as **Wondermayank**) — a developer and designer from India.
 
-I build free educational web platforms, tools and Telegram bots for students under the **ThunderStudy** and **Wondermayank** brands, and I love clean, modern UI design.
+I build free educational web platforms, developer tools and creative web experiences under the **ThunderStudy** and **Wondermayank** brands.
 
-- 🌐 Portfolio: [wondermayank.github.io](https://wondermayank.github.io)
-- 📚 ThunderStudy: [commercesehoga.github.io](https://commercesehoga.github.io)
-- 🛠️ Free web-dev guide: [make.wondermayank.in](https://make.wondermayank.in)
+- 🌐 Portfolio: [wondermayank.in](https://wondermayank.in)
+- 𝕏 X (Twitter): [@wondermayankx](https://x.com/wondermayankx)
+- 📸 Instagram: [@wondermayank](https://instagram.com/wondermayank)
+- 📺 YouTube: [@wondermayank](https://youtube.com/@wondermayank)
 - 🐙 GitHub: [@wondermayank](https://github.com/wondermayank)
-
----
-
-## ❓ FAQ
-
-**Is it free?** Yes. No signup, no payment.
-
-**Do I need to install anything?** No. It runs in any modern browser.
-
-**Where are the wallpapers stored?** In `database.js`, loaded directly by the browser.
-
-**Can I use it for my own gallery?** Fork it, replace the entries in `database.js`, and deploy.
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a branch: `git checkout -b add-wallpapers`
-3. Add or improve wallpapers and code
-4. Open a Pull Request
-
----
-
-## ⚖️ Wallpaper Credits
-
-Only add images you own or that are licensed for free use. If you are a creator and want an image credited or removed, please [open an issue](https://github.com/wondermayank/aero/issues).
+- 📚 ThunderStudy: [commercesehoga.github.io](https://commercesehoga.github.io)
 
 ---
 
 <div align="center">
 
-Made with ⚡ by **Thunder** ([@wondermayank](https://github.com/wondermayank))
+Made with ⚡ by **wondermayank** ([@wondermayankx](https://x.com/wondermayankx))
 
-If you like Aero, drop a ⭐
+If you like this 4K wallpaper site, drop a ⭐
 
 </div>
