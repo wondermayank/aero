@@ -177,7 +177,2376 @@
   <script>(function(){var t="dark";try{t=localStorage.getItem("theme")||"dark"}catch(e){}document.documentElement.setAttribute("data-theme",t==="light"?"light":"dark")})();</script>
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="style.css">
+  <style>
+
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Thunder design tokens (light) */
+  color-scheme: light;
+  --canvas: #EEF3FF;
+  --canvas-deep: #E1EAFB;
+  --surface: #F8FAFF;
+  --ink: #26324A;
+  --body-c: #4F5D75;
+  --muted: #6B6485;
+  --hairline: rgba(38, 50, 74, 0.08);
+  --hairline-strong: rgba(38, 50, 74, 0.16);
+  --primary: #70A1FC;
+  --primary-active: #5D79B3;
+  --primary-soft: #DCE8FF;
+  --on-primary: #ffffff;
+  --clay-light: rgba(255, 255, 255, 0.9);
+  --clay-dark: rgba(110, 140, 200, 0.45);
+  --e-sm: 4px 4px 10px var(--clay-dark), -4px -4px 10px var(--clay-light);
+  --e-lg: 10px 10px 24px var(--clay-dark), -10px -10px 24px var(--clay-light);
+  --radius-card: 28px;
+  --radius-md: 20px;
+  --radius-pill: 999px;
+  --dur-fast: .2s;
+  --ease-out: cubic-bezier(.2, .8, .2, 1);
+  --font: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --error: #dc2626;
+  --success: #22c55e;
+
+  /* App variables mapped onto the tokens */
+  --bg-primary: var(--canvas);
+  --bg-secondary: var(--surface);
+  --bg-tertiary: var(--canvas-deep);
+  --accent-color: var(--primary);
+  --accent-hover: var(--primary-active);
+  --accent-rgb: 112, 161, 252;
+  --text-primary: var(--ink);
+  --text-secondary: var(--muted);
+  --border-color: var(--hairline);
+  --card-shadow: 0 15px 35px -15px rgba(38, 50, 74, 0.12);
+  --glass-bg: rgba(238, 243, 255, 0.85);
+  --glass-border: var(--hairline);
+  --scrollbar-bg: #EEF3FF;
+  --scrollbar-thumb: #C3D3F0;
+  --danger-color: #ef4444;
+  --danger-hover: #dc2626;
+  --success-color: #10b981;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #1A1730;
+  --canvas-deep: #15122A;
+  --surface: #221D3C;
+  --ink: #F1EEFB;
+  --body-c: #C7C0E0;
+  --muted: #8E86AC;
+  --hairline: rgba(255, 255, 255, 0.08);
+  --hairline-strong: rgba(255, 255, 255, 0.16);
+  --primary: #9A7AFB;
+  --primary-active: #B196FB;
+  --primary-soft: #2E2650;
+  --on-primary: #1A1730;
+  --clay-light: rgba(255, 255, 255, 0.05);
+  --clay-dark: rgba(0, 0, 0, 0.55);
+  --accent-rgb: 154, 122, 251;
+  --bg-tertiary: #2B2550;
+  --card-shadow: 0 15px 35px -15px rgba(0, 0, 0, 0.6);
+  --glass-bg: rgba(26, 23, 48, 0.85);
+  --scrollbar-bg: #1A1730;
+  --scrollbar-thumb: #3A3360;
+}
+
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
+  width: 100%;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  max-width: 100vw;
+  width: 100%;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--scrollbar-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-color);
+}
+
+/* Layout Containers */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 100vw;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Main Content Area */
+main {
+  flex: 1;
+  padding: 2rem;
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Filter Controls */
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+  min-width: 80px;
+}
+
+.stat-pills {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.stat-pills span {
+  background: var(--bg-secondary);
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+}
+
+/* Pinterest Masonry Grid */
+.masonry-container {
+  width: 100%;
+}
+
+/* Modern Grid with Fluid Transitions and Bottom-Appended Loading */
+.masonry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  width: 100%;
+  transition: opacity 0.24s cubic-bezier(0.4, 0, 0.2, 1), transform 0.24s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: opacity, transform;
+}
+
+.masonry-grid.switching {
+  opacity: 0.35;
+  transform: scale(0.992);
+  pointer-events: none;
+}
+
+/* Staggered Card Cascade Entrance */
+@keyframes cardEntrance {
+  0% {
+    opacity: 0;
+    transform: translateY(28px) scale(0.96);
+  }
+  60% {
+    opacity: 0.95;
+    transform: translateY(-2px) scale(1.003);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.masonry-item {
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+  position: relative;
+  cursor: pointer;
+  will-change: transform, opacity;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.25s ease, border-color 0.25s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.masonry-item.animate-in {
+  animation: cardEntrance 0.42s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: calc(var(--stagger, 0) * 24ms);
+}
+
+.masonry-item:hover {
+  box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.75), 0 0 24px rgba(var(--accent-rgb), 0.28);
+  border-color: rgba(var(--accent-rgb), 0.5);
+}
+
+:root:not([data-theme="dark"]) .masonry-item:hover {
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.18), 0 0 16px rgba(var(--accent-rgb), 0.2);
+}
+
+/* Dynamic Radial Cursor Spotlight on Card */
+.card-tilt-glow {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle 220px at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255, 255, 255, 0.18), transparent 75%);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  z-index: 3;
+  border-radius: 16px;
+  mix-blend-mode: overlay;
+}
+
+.masonry-item:hover .card-tilt-glow {
+  opacity: 1;
+}
+
+.masonry-img-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: var(--bg-tertiary);
+  border-radius: 16px;
+}
+
+/* Shimmer Skeleton Placeholder for orderly progressive loading */
+.card-skeleton {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(110deg, var(--bg-tertiary) 8%, var(--border-color) 18%, var(--bg-tertiary) 33%);
+  background-size: 200% 100%;
+  animation: shine 1.5s infinite linear;
+  z-index: 1;
+}
+
+.masonry-img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.35s ease, transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+  position: relative;
+  z-index: 2;
+}
+
+.masonry-img.loaded {
+  opacity: 1;
+}
+
+.masonry-item:hover .masonry-img {
+  transform: scale(1.05);
+}
+
+/* Card Overlay */
+.card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.85) 100%);
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1.2rem;
+  transition: opacity 0.3s ease;
+  z-index: 4;
+  will-change: opacity, transform;
+}
+
+.masonry-item:hover .card-overlay {
+  opacity: 1;
+}
+
+.overlay-top {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  transform: translateY(-10px);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.masonry-item:hover .overlay-top {
+  transform: translateY(0);
+}
+
+.overlay-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.9);
+  color: #111827;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+  font-size: 1rem;
+}
+
+.overlay-btn:hover {
+  transform: scale(1.1);
+  background: white;
+}
+
+.overlay-btn.like-btn {
+  color: var(--danger-color);
+}
+
+.overlay-btn.like-btn.liked {
+  background: var(--danger-color);
+  color: white;
+}
+
+.overlay-btn.download-btn {
+  color: var(--accent-color);
+}
+
+.overlay-btn.download-btn:hover {
+  background: var(--accent-color);
+  color: white;
+}
+
+/* Optimistic UI Spring Pop & Hardware Accelerated States */
+@keyframes heartPop {
+  0% { transform: scale(1); }
+  35% { transform: scale(1.48); }
+  70% { transform: scale(0.88); }
+  100% { transform: scale(1); }
+}
+
+.overlay-btn.like-btn.pop i,
+.action-btn.secondary-btn.pop i,
+#lightbox-like.pop i {
+  display: inline-block;
+  animation: heartPop 0.4s cubic-bezier(0.17, 0.89, 0.32, 1.49);
+}
+
+.overlay-btn.download-btn.downloading,
+.action-btn.primary-btn.downloading {
+  opacity: 0.85;
+  pointer-events: none;
+}
+
+.overlay-bottom {
+  transform: translateY(10px);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.masonry-item:hover .overlay-bottom {
+  transform: translateY(0);
+}
+
+.overlay-title {
+  color: white;
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+.overlay-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.overlay-category {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
+}
+
+/* Shared Element / FLIP Popup Transition Clone */
+.shared-element-transition-clone {
+  position: fixed;
+  z-index: 10001;
+  pointer-events: none;
+  border-radius: 16px;
+  will-change: transform, border-radius, opacity;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
+}
+
+/* Lightbox Modal */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 8, 10, 0);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  opacity: 0;
+  transition: opacity 0.35s ease, background 0.35s ease, backdrop-filter 0.35s ease;
+}
+
+.lightbox.active {
+  display: flex;
+  opacity: 1;
+  background: rgba(8, 8, 10, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.lightbox.animating-out {
+  opacity: 0 !important;
+  background: rgba(8, 8, 10, 0) !important;
+  backdrop-filter: blur(0px) !important;
+  -webkit-backdrop-filter: blur(0px) !important;
+  pointer-events: none;
+}
+
+.lightbox-content {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  width: 100%;
+  max-width: 1100px;
+  height: 85vh;
+  display: flex;
+  overflow: hidden;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.8);
+  position: relative;
+  transform: scale(0.96);
+  opacity: 0;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
+}
+
+.lightbox.active .lightbox-content {
+  transform: scale(1);
+  opacity: 1;
+}
+
+.lightbox.animating-out .lightbox-content {
+  transform: scale(0.96);
+  opacity: 0;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s ease;
+}
+
+.lightbox-close:hover {
+  background: var(--border-color);
+  transform: scale(1.05);
+}
+
+.lightbox-media {
+  flex: 1.3;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.lightbox-img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transition: filter 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.35s ease, opacity 0.25s ease;
+  will-change: filter, transform, opacity;
+}
+
+.lightbox-img.loading-hd {
+  filter: blur(10px);
+  transform: scale(1.02);
+}
+
+.lightbox-details {
+  flex: 0.7;
+  padding: 2.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-left: 1px solid var(--border-color);
+}
+
+.detail-header {
+  margin-bottom: 2rem;
+}
+
+.detail-category {
+  color: var(--accent-color);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.detail-title {
+  font-size: 1.75rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.info-card {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.8rem 1rem;
+}
+
+.info-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+}
+
+.info-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+/* Download Format & Resolution Configuration Panel */
+.download-config-panel {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.1rem;
+  margin-bottom: 1.25rem;
+}
+
+.download-config-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-primary);
+  margin-bottom: 0.85rem;
+}
+
+.download-config-title i {
+  color: var(--accent-color);
+}
+
+.download-config-group {
+  margin-bottom: 0.75rem;
+}
+
+.download-config-group:last-child {
+  margin-bottom: 0;
+}
+
+.download-config-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.4rem;
+}
+
+.download-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.dl-pill {
+  padding: 0.38rem 0.72rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.dl-pill:hover {
+  border-color: var(--accent-color);
+  color: var(--text-primary);
+  background: rgba(var(--accent-rgb), 0.08);
+}
+
+.dl-pill.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(var(--accent-rgb), 0.35);
+}
+
+.download-main-btn {
+  background: linear-gradient(135deg, var(--accent-color), var(--accent-hover));
+}
+
+.download-main-btn:hover {
+  background: linear-gradient(135deg, var(--accent-hover), #4338ca);
+}
+
+.detail-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.action-btn {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 14px;
+  border: none;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.action-btn.primary-btn {
+  background: var(--accent-color);
+  color: white;
+  box-shadow: 0 6px 20px rgba(var(--accent-rgb), 0.3);
+}
+
+.action-btn.primary-btn:hover {
+  background: var(--accent-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(var(--accent-rgb), 0.4);
+}
+
+.action-btn.secondary-btn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.action-btn.secondary-btn:hover {
+  background: var(--border-color);
+  transform: translateY(-2px);
+}
+
+.action-btn.secondary-btn.liked {
+  background: rgba(239, 68, 68, 0.1);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: var(--danger-color);
+}
+
+.action-btn.secondary-btn.liked:hover {
+  background: rgba(239, 68, 68, 0.15);
+}
+
+/* Loader & States */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid var(--border-color);
+  border-top-color: var(--accent-color);
+  border-radius: 50%;
+  animation: spin 0.8s infinite linear;
+}
+
+/* Load More Wallpapers Controls */
+.load-more-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 1rem 4rem 1rem;
+  width: 100%;
+  gap: 1.1rem;
+}
+
+.load-more-btn {
+  background: linear-gradient(135deg, rgba(var(--accent-rgb), 0.22), rgba(var(--accent-rgb), 0.28));
+  border: 1px solid rgba(var(--accent-rgb), 0.45);
+  color: var(--text-primary);
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 0.95rem 2.4rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3), 0 0 16px rgba(var(--accent-rgb), 0.18);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  user-select: none;
+}
+
+.load-more-btn:hover {
+  background: linear-gradient(135deg, var(--accent-color), var(--accent-hover));
+  color: #fff;
+  border-color: transparent;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(var(--accent-rgb), 0.45);
+}
+
+.load-more-btn:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.load-more-btn i {
+  font-size: 1.15rem;
+  color: var(--accent-color);
+  transition: transform 0.25s ease, color 0.25s ease;
+}
+
+.load-more-btn:hover i {
+  color: #fff;
+  transform: rotate(90deg);
+}
+
+.load-more-badge {
+  background: rgba(255, 255, 255, 0.18);
+  font-size: 0.8rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+}
+
+.load-more-status {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.load-more-status strong {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+.all-loaded-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.8rem 1.6rem;
+  border-radius: 9999px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.all-loaded-indicator i {
+  color: #10b981;
+  font-size: 1.1rem;
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 5rem 2rem;
+  width: 100%;
+}
+
+.empty-icon {
+  font-size: 3rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  opacity: 0.5;
+}
+
+.empty-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.empty-desc {
+  color: var(--text-secondary);
+  max-width: 400px;
+}
+
+/* Toast Notifications */
+.toast-container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  z-index: 2000;
+  pointer-events: none;
+}
+
+.toast {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  color: var(--text-primary);
+  padding: 0.8rem 1.5rem;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transform: translateY(20px);
+  opacity: 0;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  pointer-events: auto;
+}
+
+.toast.show {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.toast.success i {
+  color: var(--success-color);
+}
+
+.toast.info i {
+  color: var(--accent-color);
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes shine {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 1200px) {
+  .masonry-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  }
+}
+
+@media (max-width: 900px) {
+  .masonry-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+  .lightbox-content {
+    flex-direction: column;
+    height: 90vh;
+  }
+  .lightbox-media {
+    flex: 1;
+  }
+  .lightbox-details {
+    flex: 1;
+    padding: 1.5rem;
+    border-left: none;
+    border-top: 1px solid var(--border-color);
+  }
+  .detail-title {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  .info-grid {
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+  .detail-header {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .masonry-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.65rem !important;
+  }
+  .masonry-grid.grid-sm {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.5rem !important;
+  }
+  .masonry-grid.grid-lg {
+    grid-template-columns: 1fr !important;
+    gap: 0.75rem !important;
+  }
+  .masonry-item {
+    border-radius: 12px;
+  }
+  .masonry-img-wrapper {
+    border-radius: 12px;
+  }
+  .card-overlay {
+    padding: 0.65rem;
+  }
+  .overlay-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 0.85rem;
+  }
+  .overlay-title {
+    font-size: 0.78rem;
+  }
+  .overlay-meta {
+    font-size: 0.65rem;
+  }
+  main {
+    padding: 0.75rem 0.5rem;
+    max-width: 100vw;
+    overflow-x: hidden;
+    box-sizing: border-box;
+  }
+  .filter-section {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  .filter-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+    max-width: 100%;
+  }
+  .stats-actions-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.6rem;
+    width: 100%;
+  }
+  .layout-controls-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 0.5rem;
+  }
+  .lightbox-content {
+    height: 95vh;
+  }
+  .toast-container {
+    bottom: 1rem;
+    right: 1rem;
+    left: 1rem;
+  }
+  .toast {
+    font-size: 0.85rem;
+    justify-content: center;
+  }
+}
+
+/* Splash Loading Screen */
+.splash-screen {
+  position: fixed;
+  inset: 0;
+  background: #0a0a0c;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  opacity: 1;
+  transition: opacity 0.6s cubic-bezier(0.25, 1, 0.5, 1), visibility 0.6s;
+}
+
+.splash-screen.fade-out {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.splash-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  animation: pulse 2s infinite ease-in-out;
+}
+
+.splash-logo i {
+  font-size: 3.5rem;
+  color: var(--accent-color);
+  text-shadow: 0 0 25px rgba(var(--accent-rgb), 0.5);
+}
+
+.splash-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, #ffffff 40%, var(--accent-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.splash-loader-bar {
+  width: 200px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.splash-loader-progress {
+  width: 0%;
+  height: 100%;
+  background: var(--accent-color);
+  box-shadow: 0 0 10px var(--accent-color);
+  border-radius: 10px;
+  transition: width 0.4s ease;
+}
+
+/* GIF Badge */
+.gif-badge {
+  position: absolute;
+  top: 0.8rem;
+  left: 0.8rem;
+  background: rgba(0, 0, 0, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(4px);
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  z-index: 3;
+  letter-spacing: 0.5px;
+  pointer-events: none;
+}
+
+/* Lightbox Editor UI */
+.editor-toggle-container {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.editor-panel {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  display: none; /* Toggle via JS */
+  flex-direction: column;
+  gap: 1.2rem;
+  animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.editor-panel.active {
+  display: flex;
+}
+
+.editor-section-title {
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
+
+.aspect-ratio-selector {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.4rem;
+}
+
+.ratio-btn {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 0.4rem;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ratio-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--text-secondary);
+}
+
+.ratio-btn.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: white;
+}
+
+.slider-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.slider-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.slider-input {
+  width: 100%;
+  -webkit-appearance: none;
+  height: 6px;
+  border-radius: 5px;
+  background: var(--bg-secondary);
+  outline: none;
+  transition: background 0.3s;
+}
+
+.slider-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent-color);
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(var(--accent-rgb), 0.5);
+  transition: transform 0.1s;
+}
+
+.slider-input::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+/* Canvas Preview Layout overrides */
+.canvas-preview-active .lightbox-img {
+  display: none;
+}
+
+.lightbox-canvas-container {
+  display: none;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.canvas-preview-active .lightbox-canvas-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#editor-canvas {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 10px 35px rgba(0,0,0,0.6);
+}
+
+/* Crop Guide Indicator */
+.crop-guide {
+  position: absolute;
+  border: 2px dashed var(--accent-color);
+  pointer-events: none;
+  box-shadow: 0 0 0 9999px rgba(0,0,0,0.6);
+  z-index: 5;
+  display: none;
+}
+
+.canvas-preview-active.cropping .crop-guide {
+  display: block;
+}
+
+/* Boards/Collections Modal & Filter */
+.board-badge {
+  background: rgba(var(--accent-rgb), 0.15);
+  color: var(--accent-color);
+  border: 1px solid rgba(var(--accent-rgb), 0.3);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+
+.board-select-container {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.board-select {
+  flex: 1;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.6rem;
+  border-radius: 10px;
+  outline: none;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.board-add-btn {
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.board-add-btn:hover {
+  background: var(--accent-hover);
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(1.05); opacity: 1; }
+}
+
+@keyframes slideDown {
+  from { transform: translateY(-10px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Grid Density options */
+.masonry-grid.grid-sm {
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important;
+  gap: 0.85rem !important;
+}
+
+.masonry-grid.grid-md {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  gap: 1.25rem !important;
+}
+
+.masonry-grid.grid-lg {
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)) !important;
+  gap: 1.5rem !important;
+}
+
+.stats-actions-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.layout-controls-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* Slideshow Fullscreen Overlay */
+.slideshow-overlay {
+  position: fixed;
+  inset: 0;
+  background: #060608;
+  z-index: 3000;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.slideshow-overlay.active {
+  display: flex;
+  opacity: 1;
+}
+
+.slideshow-img-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.slideshow-img {
+  max-width: 95%;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+  opacity: 0;
+  transform: scale(0.98);
+  transition: opacity 0.6s cubic-bezier(0.25, 1, 0.5, 1), transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.slideshow-img.active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.slideshow-controls {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(24, 24, 28, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 50px;
+  padding: 0.5rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  z-index: 10;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  transition: opacity 0.3s ease;
+}
+
+.slideshow-overlay:hover .slideshow-controls {
+  opacity: 1;
+}
+
+/* Auto-hide controls when mouse is idle */
+.slideshow-overlay.idle .slideshow-controls {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.slideshow-btn {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 1.3rem;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.slideshow-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--accent-color);
+  transform: scale(1.1);
+}
+
+.slideshow-btn.close-btn {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--danger-color);
+}
+
+.slideshow-btn.close-btn:hover {
+  background: var(--danger-color);
+  color: white;
+}
+
+.slideshow-progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 4px;
+  background: var(--accent-color);
+  width: 0%;
+  z-index: 15;
+}
+
+/* Checkbox Toggle styling for Blurred Fit */
+.checkbox-control {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  user-select: none;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.checkbox-control:hover {
+  border-color: var(--accent-color);
+}
+
+.checkbox-control input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent-color);
+  cursor: pointer;
+}
+
+.checkbox-control input:focus {
+  outline: none;
+}
+
+/* Lightbox Slideshow trigger option */
+.lightbox-slideshow-btn {
+  background: rgba(var(--accent-rgb), 0.1) !important;
+  color: var(--accent-color) !important;
+  border: 1px solid rgba(var(--accent-rgb), 0.2) !important;
+}
+
+.lightbox-slideshow-btn:hover {
+  background: var(--accent-color) !important;
+  color: white !important;
+}
+
+
+/* =========================================================
+   THUNDER DESIGN: HEADER
+========================================================= */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: color-mix(in srgb, var(--canvas) 80%, transparent);
+  -webkit-backdrop-filter: blur(16px) saturate(1.5);
+  backdrop-filter: blur(16px) saturate(1.5);
+  border-bottom: 1px solid var(--hairline);
+  box-shadow: 0 8px 24px -16px var(--clay-dark);
+  font-family: var(--font);
+}
+
+.nav .wrap {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 32px;
+  height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  min-width: 0;
+}
+
+.brand-mark {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.brand-mark img {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+.brand-name {
+  color: var(--ink);
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -.2px;
+}
+
+.brand-accent { color: var(--primary); }
+
+.brand-by {
+  color: var(--muted);
+  font-size: 11.5px;
+  font-weight: 400;
+  letter-spacing: .1px;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-tools {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* icon button (Thunder clay) */
+.ico-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: none;
+  border-radius: 14px;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: pointer;
+  box-shadow: var(--e-sm);
+  transition: transform var(--dur-fast) var(--ease-out), color var(--dur-fast), background var(--dur-fast), box-shadow var(--dur-fast);
+}
+
+.ico-btn svg { width: 18px; height: 18px; flex-shrink: 0; }
+.ico-btn .nav-label { display: none; }
+.ico-btn:hover { color: var(--primary); transform: translateY(-2px); }
+.ico-btn:active { transform: scale(.92); }
+.ico-btn.active { background: var(--primary-soft); color: var(--primary); }
+.ico-btn.is-primary { background: var(--primary); color: var(--on-primary); }
+.ico-btn.is-primary:hover { background: var(--primary-active); color: var(--on-primary); }
+
+/* grid density */
+.density-selector {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--e-sm);
+}
+
+.density-label { display: none; }
+
+.density-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background var(--dur-fast), color var(--dur-fast), transform var(--dur-fast);
+}
+
+.density-btn svg { width: 17px; height: 17px; }
+.density-btn:hover { color: var(--primary); }
+.density-btn:active { transform: scale(.92); }
+.density-btn.active { background: var(--primary-soft); color: var(--primary); }
+
+/* search: icon only, no box */
+.search-ico {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--ink);
+  cursor: pointer;
+  transition: color var(--dur-fast), transform var(--dur-fast) var(--ease-out);
+}
+
+.search-ico svg { width: 22px; height: 22px; }
+.search-ico:hover,
+.search-ico[aria-expanded="true"] { color: var(--primary); }
+.search-ico:active { transform: scale(.9); }
+
+.search-ico.has-q::after {
+  content: "";
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--primary);
+  border: 2px solid var(--canvas);
+  box-sizing: content-box;
+}
+
+/* 3-line menu button */
+.ham-btn {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 14px;
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+  box-shadow: var(--e-sm);
+  transition: transform var(--dur-fast) var(--ease-out), color var(--dur-fast);
+}
+
+.ham-btn:active { transform: scale(.92); }
+.ham-btn:hover { color: var(--primary); }
+.ham-icon path {
+  transform-box: fill-box;
+  transform-origin: center;
+  transition: transform .25s ease, opacity .2s ease;
+}
+.ham-btn[aria-expanded="true"] .ham-top { transform: translateY(6px) rotate(45deg); }
+.ham-btn[aria-expanded="true"] .ham-mid { opacity: 0; transform: scaleX(0); }
+.ham-btn[aria-expanded="true"] .ham-bot { transform: translateY(-6px) rotate(-45deg); }
+
+.nav :focus-visible,
+.mobile-menu :focus-visible,
+.ds-dd-btn:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+/* search drop-down bar */
+.search-bar {
+  max-height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  padding: 0 32px;
+  transition: max-height .25s ease, padding .25s ease, visibility 0s .25s;
+}
+
+.search-bar.open {
+  max-height: 160px;
+  padding: 0 32px 16px;
+  visibility: visible;
+  transition: max-height .25s ease, padding .25s ease;
+}
+
+.search-field {
+  position: relative;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.search-field .sf-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  transform: translateY(-50%);
+  color: var(--muted);
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  height: 48px;
+  padding: 0 48px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--hairline-strong);
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15px;
+  outline: none;
+  transition: border-color var(--dur-fast), box-shadow var(--dur-fast);
+}
+
+.search-input::placeholder { color: var(--muted); }
+.search-input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); }
+
+.search-clear {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  width: 36px;
+  height: 36px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.search-clear[hidden] { display: none; }
+.search-clear:hover { color: var(--primary); }
+.search-clear svg { width: 18px; height: 18px; }
+
+/* Enhanced Search Bar: Quick Tags, Shortcuts & Filters */
+.search-kbd {
+  position: absolute;
+  right: 44px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  user-select: none;
+  display: flex;
+  align-items: center;
+}
+
+.search-kbd kbd {
+  display: inline-block;
+  padding: 2px 7px;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: 5px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+}
+
+.search-tags {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  max-width: 720px;
+  margin: 10px auto 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  padding: 2px 2px 4px;
+}
+
+.search-tags::-webkit-scrollbar {
+  display: none;
+}
+
+.search-tags-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--muted);
+  white-space: nowrap;
+  margin-right: 2px;
+  user-select: none;
+}
+
+.search-tag-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--hairline-strong);
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 12.5px;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all var(--dur-fast);
+  user-select: none;
+}
+
+.search-tag-pill:hover {
+  border-color: var(--primary);
+  background: var(--surface-hover, var(--surface));
+  transform: translateY(-1px);
+}
+
+.search-tag-pill.active {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+  box-shadow: 0 2px 10px var(--primary-soft);
+  font-weight: 600;
+}
+
+/* Active Search Pill in Stats Actions Row */
+.search-active-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--primary-soft);
+  color: var(--primary);
+  border: 1px solid var(--primary-soft);
+  border-radius: var(--radius-pill);
+  padding: 2px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  animation: fadeIn 0.2s ease;
+}
+
+.clear-search-mini {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  border: none;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 11px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.clear-search-mini:hover {
+  transform: scale(1.15);
+  background: #ef4444;
+}
+
+/* Empty State Suggestions */
+.empty-suggestions {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.empty-suggestions-label {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.empty-tag-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  max-width: 520px;
+}
+
+.btn-tag {
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  color: var(--ink);
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 6px 13px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.btn-tag:hover {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+/* 3-line menu panel */
+.mobile-menu {
+  position: fixed;
+  top: 76px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  max-height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  padding: 0 20px;
+  background: var(--canvas);
+  border-bottom: 1px solid var(--hairline);
+  font-family: var(--font);
+  transition: max-height .25s ease, padding .25s ease, visibility 0s .25s;
+}
+
+.mobile-menu.open {
+  max-height: calc(100vh - 90px);
+  overflow-y: auto;
+  visibility: visible;
+  padding: 8px 20px 20px;
+  transition: max-height .25s ease, padding .25s ease;
+}
+
+.mobile-menu:not(.open) { border-bottom-width: 0; }
+
+@media (min-width: 900px) {
+  .mobile-menu {
+    left: auto;
+    right: 20px;
+    width: 280px;
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius-card);
+    box-shadow: var(--e-lg);
+  }
+  .mobile-menu:not(.open) { border-color: transparent; box-shadow: none; }
+}
+
+.mm {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 52px;
+  padding: 6px 4px;
+  border: none;
+  border-bottom: 1px solid var(--hairline);
+  border-radius: 0;
+  background: none;
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15px;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  transition: color var(--dur-fast);
+}
+
+.mm svg { width: 20px; height: 20px; flex-shrink: 0; color: var(--muted); transition: color var(--dur-fast); }
+.mm:hover,
+.mm.active { color: var(--primary); }
+.mm:hover svg,
+.mm.active svg { color: var(--primary); }
+.mm:last-child { border-bottom: none; }
+
+.mm-label {
+  margin: 0;
+  padding: 14px 4px 2px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.mm-tools-wrap { display: none; }
+.mm-tools-wrap.has-tools { display: block; }
+
+/* header tools moved into the menu on small screens */
+.mm-tools .ico-btn {
+  width: 100%;
+  height: auto;
+  min-height: 52px;
+  padding: 6px 4px;
+  justify-content: flex-start;
+  gap: 12px;
+  border-radius: 0;
+  border-bottom: 1px solid var(--hairline);
+  background: none;
+  box-shadow: none;
+  color: var(--ink);
+  font-size: 15px;
+}
+
+.mm-tools .ico-btn svg { width: 20px; height: 20px; color: var(--muted); }
+.mm-tools .ico-btn .nav-label { display: inline; }
+.mm-tools .ico-btn:hover { transform: none; color: var(--primary); }
+.mm-tools .ico-btn:hover svg,
+.mm-tools .ico-btn.active svg { color: var(--primary); }
+.mm-tools .ico-btn.active { background: none; color: var(--primary); }
+.mm-tools .ico-btn.is-primary { background: none; color: var(--ink); }
+.mm-tools .ico-btn.is-primary:hover { background: none; color: var(--primary); }
+
+.mm-tools .density-selector {
+  width: 100%;
+  justify-content: flex-start;
+  gap: 8px;
+  padding: 8px 4px;
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.mm-tools .density-label {
+  display: inline;
+  flex: 1;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.mm-tools .density-btn { background: var(--surface); box-shadow: var(--e-sm); }
+.mm-tools .density-btn.active { background: var(--primary-soft); }
+
+/* dark mode switch row */
+.mm-theme-ico { position: relative; width: 20px; height: 20px; flex-shrink: 0; }
+.mm-theme-ico svg { position: absolute; inset: 0; transition: transform .55s var(--ease-out), opacity .3s ease; }
+#themeIconMoon { opacity: 0; transform: rotate(-90deg) scale(.3); }
+[data-theme="dark"] #themeIconSun { opacity: 0; transform: rotate(90deg) scale(.3); }
+[data-theme="dark"] #themeIconMoon { opacity: 1; transform: rotate(0) scale(1); }
+
+.mm-switch {
+  position: relative;
+  margin-left: auto;
+  width: 44px;
+  height: 26px;
+  flex-shrink: 0;
+  border-radius: var(--radius-pill);
+  background: var(--canvas-deep);
+  border: 1px solid var(--hairline-strong);
+  transition: background var(--dur-fast), border-color var(--dur-fast);
+}
+
+.mm-switch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--muted);
+  transition: transform var(--dur-fast) var(--ease-out), background var(--dur-fast);
+}
+
+[data-theme="dark"] .mm-switch { background: var(--primary); border-color: var(--primary); }
+[data-theme="dark"] .mm-switch::after { transform: translateX(18px); background: var(--on-primary); }
+
+/* theme change reveal */
+::view-transition-old(root),
+::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+::view-transition-old(root) { z-index: 1; }
+::view-transition-new(root) { z-index: 2; }
+html.theme-swap * { transition: none !important; }
+
+@media (max-width: 760px) {
+  .nav .wrap { padding: 0 16px; height: 68px; }
+  .mobile-menu { top: 68px; }
+  .search-bar { padding: 0 16px; }
+  .search-bar.open { padding: 0 16px 14px; }
+  .nav-right { gap: 6px; }
+  .brand-by { display: none; }
+}
+
+@media (max-width: 520px) {
+  .brand-text { display: none; }
+}
+
+/* =========================================================
+   THUNDER DESIGN: FOLDER / FORMAT / SORT DROPDOWNS
+========================================================= */
+.filter-dd-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.dd-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1 1 220px;
+  max-width: 340px;
+  min-width: 0;
+}
+
+.dd-field .filter-label { min-width: 0; }
+
+.ds-dd { position: relative; font-family: var(--font); }
+
+.ds-dd-btn {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 8px 0 18px;
+  border: 1.5px solid var(--hairline-strong);
+  border-radius: var(--radius-md);
+  background: var(--canvas-deep);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15px;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color var(--dur-fast), box-shadow var(--dur-fast);
+}
+
+.ds-dd-btn:hover { border-color: var(--primary); }
+.ds-dd.open .ds-dd-btn { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); outline: none; }
+.ds-dd-val { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.ds-dd-btn .ds-dd-ch {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: var(--e-sm);
+  transition: transform var(--dur-fast) var(--ease-out), color var(--dur-fast);
+}
+
+.ds-dd-ch svg { width: 16px; height: 16px; }
+.ds-dd.open .ds-dd-ch { transform: rotate(180deg); color: var(--primary); }
+
+.ds-dd-list {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 60;
+  max-height: 320px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 8px;
+  list-style: none;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  box-shadow: var(--e-lg);
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-6px) scale(.98);
+  transform-origin: top;
+  transition: opacity var(--dur-fast), transform var(--dur-fast) var(--ease-out), visibility 0s linear var(--dur-fast);
+}
+
+.ds-dd.open .ds-dd-list { visibility: visible; opacity: 1; transform: none; transition-delay: 0s; }
+.ds-dd.up .ds-dd-list { top: auto; bottom: calc(100% + 8px); transform-origin: bottom; }
+
+.ds-dd-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 44px;
+  padding: 0 14px;
+  border-radius: 14px;
+  color: var(--body-c);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--dur-fast), color var(--dur-fast);
+}
+
+.ds-dd-list li.active { background: var(--primary-soft); color: var(--ink); }
+.ds-dd-list li[aria-selected="true"] { color: var(--ink); font-weight: 700; }
+.ds-dd-list li svg { width: 18px; height: 18px; flex-shrink: 0; color: var(--primary); opacity: 0; }
+.ds-dd-list li[aria-selected="true"] svg { opacity: 1; }
+.ds-dd-list li small { margin-left: auto; color: var(--muted); font-size: 12px; font-weight: 600; }
+.ds-dd-list::-webkit-scrollbar { width: 8px; }
+.ds-dd-list::-webkit-scrollbar-thumb { background: var(--primary-soft); border-radius: 8px; }
+
+.layout-controls-right .ds-dd { min-width: 210px; }
+.layout-controls-right .ds-dd-btn { height: 44px; }
+
+/* Slideshow trigger (primary pill) */
+.btn-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 20px;
+  border: none;
+  border-radius: var(--radius-pill);
+  background: var(--primary);
+  color: var(--on-primary);
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform var(--dur-fast) var(--ease-out), background var(--dur-fast);
+}
+
+.btn-pill:hover { background: var(--primary-active); transform: translateY(-2px); }
+.btn-pill:active { transform: scale(.95); }
+
+@media (max-width: 600px) {
+  .filter-dd-row { gap: 12px; }
+  .dd-field { flex: 1 1 calc(50% - 6px); max-width: none; }
+  #boards-filter-row { flex-basis: 100%; }
+  .layout-controls-right .ds-dd { min-width: 0; flex: 1; }
+}
+
+/* Load more: Thunder primary pill, always at the bottom of the grid */
+.load-more-btn {
+  background: var(--primary);
+  color: var(--on-primary);
+  border: none;
+  box-shadow: var(--e-sm);
+}
+
+.load-more-btn:hover {
+  background: var(--primary-active);
+  color: var(--on-primary);
+  box-shadow: var(--e-sm);
+}
+
+.load-more-btn i,
+.load-more-btn:hover i { color: var(--on-primary); }
+.load-more-badge { background: rgba(255, 255, 255, 0.25); }
+[data-theme="dark"] .load-more-badge { background: rgba(26, 23, 48, 0.18); }
+
+footer.wmf { margin-top: auto; }
+
+/* =========================================================
+   THUNDER DESIGN: FOOTER
+========================================================= */
+footer.wmf{--f-surface:#F8FAFF;--f-canvas:#EEF3FF;--f-ink:#26324A;--f-body:#4F5D75;--f-muted:#6B6485;--f-hair:rgba(38,50,74,.08);--f-primary:#70A1FC;display:block;position:relative;float:none;clear:both;width:auto;max-width:none;margin:0;padding:64px 0 0;text-align:left;background:var(--f-surface);border:0;border-top:1px solid var(--f-hair);border-radius:0;overflow:visible;color:var(--f-muted);font-family:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;font-size:16px;font-weight:400;line-height:1.5;letter-spacing:normal;text-transform:none}
+[data-theme="dark"] footer.wmf{--f-surface:#221D3C;--f-canvas:#1A1730;--f-ink:#F1EEFB;--f-body:#C7C0E0;--f-muted:#8E86AC;--f-hair:rgba(255,255,255,.08);--f-primary:#9A7AFB}
+footer.wmf,footer.wmf *,footer.wmf *::before,footer.wmf *::after{box-sizing:border-box}
+footer.wmf .wmf-wrap{max-width:1240px;margin:0 auto;padding:0 32px}
+footer.wmf .wmf-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:40px 48px;padding:0 0 48px;margin:0}
+footer.wmf a{text-decoration:none;background:none;box-shadow:none}
+footer.wmf .wmf-brand{display:inline-flex;align-items:center;gap:12px;color:var(--f-ink)}
+footer.wmf .wmf-mark{width:44px;height:44px;border-radius:14px;display:flex;align-items:center;justify-content:center;background:none;box-shadow:none}
+footer.wmf .wmf-mark img{width:36px;height:36px;display:block;max-width:none}
+footer.wmf .wmf-brand-text{display:flex;flex-direction:column;line-height:1.2}
+footer.wmf .wmf-brand-name{color:var(--f-ink);font-size:20px;font-weight:700}
+footer.wmf .wmf-accent{color:var(--f-primary)}
+footer.wmf .wmf-brand-by{color:var(--f-muted);font-size:13px;font-weight:400}
+footer.wmf .wmf-desc{margin:16px 0 0;max-width:300px;color:var(--f-muted);font-size:14px;font-weight:300;line-height:1.55}
+footer.wmf .wmf-mascot{display:inline-flex;align-items:center;gap:12px;margin-top:20px;padding:8px 14px 8px 8px;border:1px solid var(--f-hair);border-radius:18px;background:var(--f-canvas);color:var(--f-ink);transition:transform .2s ease,border-color .2s ease}
+footer.wmf .wmf-mascot:hover,footer.wmf .wmf-mascot:focus-visible{border-color:var(--f-primary);transform:translateY(-2px)}
+footer.wmf .wmf-mascot img{width:72px;height:auto;aspect-ratio:16/9;border-radius:10px;display:block;object-fit:cover;max-width:none}
+footer.wmf .wmf-mascot span{display:flex;flex-direction:column;line-height:1.25}
+footer.wmf .wmf-mascot b{font-size:14px;font-weight:700;color:var(--f-ink)}
+footer.wmf .wmf-mascot small{font-size:12px;color:var(--f-muted)}
+footer.wmf .wmf-social{display:flex;flex-direction:column;gap:14px;margin-top:24px}
+footer.wmf .wmf-social-label{margin-bottom:6px;color:var(--f-muted);font-size:12px;line-height:1.3}
+footer.wmf .wmf-social-row{display:flex;flex-wrap:wrap;gap:8px}
+footer.wmf .wmf-social-btn{width:44px;height:44px;display:inline-flex;align-items:center;justify-content:center;border-radius:50%;border:1px solid var(--f-hair);background:var(--f-canvas);color:var(--f-ink);transition:transform .2s ease,color .2s ease,border-color .2s ease}
+footer.wmf .wmf-social-btn:hover,footer.wmf .wmf-social-btn:focus-visible{color:var(--f-primary);border-color:var(--f-primary);transform:translateY(-2px)}
+footer.wmf .wmf-social-btn:active{transform:scale(.95)}
+footer.wmf .wmf-social-btn svg{width:24px;height:24px;display:block}
+footer.wmf .wmf-title{margin:0 0 12px;padding:0;color:var(--f-ink);font-family:inherit;font-size:18px;font-weight:700;line-height:1.4;letter-spacing:normal;text-transform:none}
+footer.wmf .wmf-links{list-style:none;margin:0;padding:0}
+footer.wmf .wmf-links li{margin:0;padding:0;list-style:none}
+footer.wmf .wmf-links a,footer.wmf .wmf-legal a{display:inline-flex;align-items:center;min-height:44px;color:var(--f-body);font-size:15px;font-weight:400;line-height:1.4;transition:color .2s ease}
+footer.wmf .wmf-links a:hover,footer.wmf .wmf-links a:focus-visible,footer.wmf .wmf-legal a:hover,footer.wmf .wmf-legal a:focus-visible{color:var(--f-primary)}
+footer.wmf .wmf-bottom{border-top:1px solid var(--f-hair)}
+footer.wmf .wmf-bottom-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 24px;padding-top:14px;padding-bottom:14px}
+footer.wmf .wmf-copy{color:var(--f-muted);font-size:14px;line-height:1.43;letter-spacing:-.1px}
+footer.wmf .wmf-legal{display:flex;flex-wrap:wrap;gap:0 28px;margin-right:64px}
+@media(max-width:900px){footer.wmf .wmf-grid{grid-template-columns:repeat(3,1fr)}
+footer.wmf .wmf-brand-col{grid-column:1 / -1}
+}
+@media(max-width:640px){footer.wmf{padding-top:48px}
+footer.wmf .wmf-wrap{padding:0 20px}
+footer.wmf .wmf-grid{grid-template-columns:1fr;gap:28px;padding-bottom:32px}
+footer.wmf .wmf-bottom-inner{flex-direction:column;align-items:flex-start}
+footer.wmf .wmf-legal{margin-right:0}
+}
+
+</style>
 </head>
 <body>
 
@@ -629,7 +2998,2598 @@
   </section>
 
   <!-- Scripts -->
-  <script src="database.js"></script>
-  <script src="app.js"></script>
+  <script>
+// =========================================================
+// Thunder dropdown: enhances a native <select>, keeps it in sync
+// =========================================================
+const DD = (() => {
+  const CH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
+  const CK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>';
+  let uid = 0;
+  const all = new Set();
+
+  function enhance(sel) {
+    if (!sel) return null;
+    if (sel._dd) return sel._dd;
+    const id = 'ddl' + (++uid);
+    const wrap = document.createElement('div');
+    wrap.className = 'ds-dd';
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'ds-dd-btn';
+    btn.setAttribute('aria-haspopup', 'listbox');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.setAttribute('aria-controls', id);
+    const val = document.createElement('span');
+    val.className = 'ds-dd-val';
+    const ch = document.createElement('span');
+    ch.className = 'ds-dd-ch';
+    ch.innerHTML = CH;
+    btn.append(val, ch);
+    const list = document.createElement('ul');
+    list.className = 'ds-dd-list';
+    list.id = id;
+    list.setAttribute('role', 'listbox');
+    list.tabIndex = -1;
+
+    const lab = sel.id && document.querySelector('label[for="' + sel.id + '"]');
+    if (lab) {
+      if (!lab.id) lab.id = sel.id + '-lbl';
+      btn.id = sel.id + '-btn';
+      list.setAttribute('aria-labelledby', lab.id);
+      btn.setAttribute('aria-labelledby', lab.id + ' ' + btn.id);
+    } else if (sel.getAttribute('aria-label')) {
+      btn.setAttribute('aria-label', sel.getAttribute('aria-label'));
+    }
+
+    sel.parentNode.insertBefore(wrap, sel);
+    wrap.append(btn, list, sel);
+    sel.classList.add('sr-only');
+    sel.tabIndex = -1;
+    sel.setAttribute('aria-hidden', 'true');
+
+    let opts = [], items = [], cur = 0, act = 0, buf = '', bt;
+
+    function paint() {
+      val.textContent = opts[cur] ? opts[cur].text : '';
+      items.forEach((li, i) => {
+        li.setAttribute('aria-selected', i === cur ? 'true' : 'false');
+        li.classList.toggle('active', i === act);
+      });
+      btn.removeAttribute('aria-activedescendant');
+      if (wrap.classList.contains('open') && items[act]) btn.setAttribute('aria-activedescendant', items[act].id);
+    }
+    function build() {
+      opts = [].slice.call(sel.options);
+      list.innerHTML = '';
+      items = opts.map((o, i) => {
+        const li = document.createElement('li');
+        li.id = id + '-o' + i;
+        li.setAttribute('role', 'option');
+        li.dataset.i = i;
+        const t = document.createElement('span');
+        t.textContent = o.text;
+        li.appendChild(t);
+        if (o.dataset.hint) {
+          const s = document.createElement('small');
+          s.textContent = o.dataset.hint;
+          li.appendChild(s);
+        }
+        li.insertAdjacentHTML('beforeend', CK);
+        if (o.disabled) li.setAttribute('aria-disabled', 'true');
+        list.appendChild(li);
+        return li;
+      });
+      cur = Math.max(0, sel.selectedIndex);
+      act = cur;
+      paint();
+    }
+    const isOpen = () => wrap.classList.contains('open');
+    function open() {
+      all.forEach(a => { if (a !== api) a.close(); });
+      const r = btn.getBoundingClientRect();
+      wrap.classList.toggle('up', window.innerHeight - r.bottom < 340 && r.top > 340);
+      wrap.classList.add('open');
+      btn.setAttribute('aria-expanded', 'true');
+      act = cur;
+      paint();
+      if (items[act]) items[act].scrollIntoView({ block: 'nearest' });
+    }
+    function close(focus) {
+      wrap.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      paint();
+      if (focus) btn.focus();
+    }
+    function pick(i) {
+      if (!opts[i] || opts[i].disabled) return;
+      cur = act = i;
+      sel.selectedIndex = i;
+      sel.dispatchEvent(new Event('change', { bubbles: true }));
+      close(true);
+    }
+    function move(to) {
+      const n = items.length, s = to > act ? 1 : -1;
+      let i = to;
+      while (i >= 0 && i < n && opts[i].disabled) i += s;
+      if (i < 0 || i >= n) return;
+      act = i;
+      paint();
+      items[act].scrollIntoView({ block: 'nearest' });
+    }
+
+    const api = {
+      wrap, isOpen, close,
+      refresh: build,
+      sync() { cur = Math.max(0, sel.selectedIndex); act = cur; paint(); }
+    };
+    all.add(api);
+    sel._dd = api;
+    sel.addEventListener('dd-sync', api.sync);
+
+    btn.addEventListener('click', () => (isOpen() ? close() : open()));
+    btn.addEventListener('keydown', (e) => {
+      const k = e.key;
+      if (k === 'ArrowDown' || k === 'ArrowUp') {
+        e.preventDefault();
+        if (!isOpen()) open(); else move(act + (k === 'ArrowDown' ? 1 : -1));
+      } else if (k === 'Home' || k === 'End') {
+        if (isOpen()) { e.preventDefault(); move(k === 'Home' ? 0 : items.length - 1); }
+      } else if (k === 'Enter' || k === ' ') {
+        if (isOpen()) { e.preventDefault(); pick(act); }
+      } else if (k === 'Escape') {
+        if (isOpen()) { e.preventDefault(); e.stopPropagation(); close(true); }
+      } else if (k === 'Tab') {
+        if (isOpen()) close();
+      } else if (k.length === 1 && !e.ctrlKey && !e.metaKey) {
+        buf += k.toLowerCase();
+        clearTimeout(bt);
+        bt = setTimeout(() => { buf = ''; }, 600);
+        const s = opts.findIndex(o => !o.disabled && o.text.toLowerCase().indexOf(buf) === 0);
+        if (s > -1) {
+          if (isOpen()) { act = s; paint(); items[s].scrollIntoView({ block: 'nearest' }); }
+          else { cur = act = s; sel.selectedIndex = s; sel.dispatchEvent(new Event('change', { bubbles: true })); paint(); }
+        }
+      }
+    });
+    list.addEventListener('mousedown', (e) => e.preventDefault());
+    list.addEventListener('click', (e) => { const li = e.target.closest('li'); if (li) pick(+li.dataset.i); });
+    list.addEventListener('mousemove', (e) => {
+      const li = e.target.closest('li');
+      if (li && !opts[+li.dataset.i].disabled && +li.dataset.i !== act) { act = +li.dataset.i; paint(); }
+    });
+    if (lab) lab.addEventListener('click', (e) => { e.preventDefault(); btn.focus(); });
+
+    build();
+    return api;
+  }
+
+  document.addEventListener('click', (e) => {
+    all.forEach(a => { if (a.isOpen() && !a.wrap.contains(e.target)) a.close(); });
+  });
+
+  return {
+    enhance,
+    refresh: (s) => s && s._dd && s._dd.refresh(),
+    sync: (s) => s && s._dd && s._dd.sync()
+  };
+})();
+
+// State Management
+let currentView = 'explore'; // 'explore', 'liked', or 'board'
+let currentBoardName = '';
+let filteredWallpapers = [];
+let renderedCount = 0;
+const itemsPerLoad = 30;
+
+let currentCategory = 'All';
+let currentFormat = 'All';
+let searchQuery = '';
+let currentSort = 'default';
+let currentGridDensity = 'md';
+
+// Load liked wallpapers from localStorage
+let likedWallpapers = new Set(JSON.parse(localStorage.getItem('liked_wallpapers') || '[]'));
+
+// Load custom boards from localStorage
+let customBoards = JSON.parse(localStorage.getItem('custom_boards') || '{}');
+
+// Canvas Editor State
+let editModeActive = false;
+let currentBlur = 0;
+let currentCropRatio = 'free';
+let cropOffsetPercent = 50; // 0 (left/top) to 100 (right/bottom)
+let originalImage = null;
+
+// Slideshow Autoplay State
+let slideshowActive = false;
+let slideshowIndex = 0;
+let slideshowTimer = null;
+let slideshowAutoplay = true;
+const slideshowDuration = 4000; // 4 seconds
+let slideshowMouseTimer = null;
+
+// DOM Elements
+const grid = document.getElementById('masonry-grid');
+const searchInput = document.getElementById('search-input');
+const categorySelect = document.getElementById('category-select');
+const formatSelect = document.getElementById('format-select');
+const themeToggleBtn = document.getElementById('theme-toggle');
+const exploreTab = document.getElementById('explore-tab');
+const likedTab = document.getElementById('liked-tab');
+const lightbox = document.getElementById('lightbox');
+const totalCountEl = document.getElementById('total-count');
+const viewCountEl = document.getElementById('view-count');
+
+// Enhanced Search DOM Elements & Badges
+const activeSearchBadge = document.getElementById('active-search-badge');
+const activeSearchLabel = document.getElementById('active-search-label');
+const clearActiveSearchBtn = document.getElementById('clear-active-search-btn');
+const searchTagsContainer = document.getElementById('search-tags');
+
+// Intelligent Search Aliases & Semantic Synonyms Dictionary
+const SEARCH_ALIASES = {
+  'onepiece': ['one piece', 'luffy', 'zoro', 'straw hat', 'wano', 'egghead', 'pirate', 'nika'],
+  'one': ['one piece'],
+  'piece': ['one piece'],
+  'luffy': ['one piece', 'straw hat', 'gear 5', 'nika', 'joy boy'],
+  'zoro': ['one piece', 'santoryu', 'ashura', 'swordsman'],
+  'nami': ['one piece', 'straw hat'],
+  'sanji': ['one piece', 'straw hat'],
+  'sabo': ['one piece', 'flame emperor'],
+  'mihawk': ['one piece', 'dracule mihawk'],
+  'yamato': ['one piece', 'wano', 'oni'],
+  'wano': ['one piece', 'samurai', 'kaido'],
+  'egghead': ['one piece', 'vegapunk'],
+  'strawhat': ['one piece', 'luffy', 'straw hat'],
+  'girl': ['girls', 'waifu', 'woman', 'women', 'female', 'schoolgirl'],
+  'girls': ['girl', 'waifu', 'woman', 'women', 'female', 'schoolgirl'],
+  'waifu': ['girl', 'girls', 'anime girl'],
+  'woman': ['girl', 'girls'],
+  'women': ['girl', 'girls'],
+  'frieren': ['girls', 'frieren beyond journeys end', 'mage'],
+  'makima': ['girls', 'chainsaw man'],
+  'power': ['girls', 'chainsaw man'],
+  'reze': ['girls', 'chainsaw man'],
+  'lucy': ['girls', 'cyberpunk edgerunners'],
+  'asuka': ['girls', 'evangelion'],
+  'rei': ['girls', 'evangelion'],
+  'saber': ['girls', 'fate'],
+  'tablet': ['tab', 'ipad', 'android tablet', '4:3', '16:10', '3:2'],
+  'tab': ['tablet', 'ipad'],
+  'ipad': ['tablet', 'tablet wallpapers'],
+  'phone': ['mobile', '9:16', 'portrait', 'vertical'],
+  'mobile': ['phone', '9:16', 'portrait', 'vertical'],
+  'desktop': ['pc', 'computer', 'wide', 'ultrawide', '16:9'],
+  'pc': ['desktop', 'computer', 'wide', '16:9'],
+  '4k': ['uhd', 'ultra hd', '4k wallpaper', '3840'],
+  'uhd': ['4k', 'ultra hd'],
+  'dark': ['amoled', 'oled', 'black', 'monochrome'],
+  'minimal': ['minimalist', 'minimalism'],
+  'minimalist': ['minimal', 'minimalism'],
+  'nature': ['landscape', 'scenery', 'mountain', 'forest', 'sea', 'lake'],
+  'space': ['galaxy', 'cosmic', 'astronomy', 'stars', 'nebula']
+};
+
+// Calculate Intelligent Relevance Score
+function calculateRelevanceScore(wp, query, queryTokens) {
+  if (!query) return 1;
+
+  const name = (wp.name || '').toLowerCase();
+  const category = (wp.category || '').toLowerCase();
+  const format = (wp.format || '').toLowerCase();
+  const path = (wp.path || '').toLowerCase();
+  const tagsStr = Array.isArray(wp.tags) ? wp.tags.join(' ').toLowerCase() : (wp.tags || '').toLowerCase();
+  const fullSearchable = `${name} ${category} ${tagsStr} ${format} ${path}`;
+
+  // Check how many tokens match
+  let matchedTokens = 0;
+  for (const token of queryTokens) {
+    if (fullSearchable.includes(token)) {
+      matchedTokens++;
+    } else {
+      const aliases = SEARCH_ALIASES[token];
+      if (aliases && aliases.some(a => fullSearchable.includes(a))) {
+        matchedTokens++;
+      }
+    }
+  }
+
+  // Reject if not enough tokens match
+  if (queryTokens.length === 1 && matchedTokens === 0) return 0;
+  if (queryTokens.length === 2 && matchedTokens < 2) return 0;
+  if (queryTokens.length > 2 && matchedTokens < Math.ceil(queryTokens.length * 0.7)) return 0;
+
+  // Calculate Relevance Score
+  let score = matchedTokens * 25;
+
+  // 1. Exact full query in name
+  if (name === query) score += 300;
+  else if (name.startsWith(query)) score += 200;
+  else if (name.includes(query)) score += 150;
+
+  // 2. Token matches in name
+  for (const token of queryTokens) {
+    if (name.includes(token)) score += 35;
+  }
+
+  // 3. Category match
+  if (category === query) score += 150;
+  else if (category.includes(query)) score += 80;
+
+  // 4. Tags match
+  if (tagsStr.includes(query)) score += 90;
+  for (const token of queryTokens) {
+    if (tagsStr.includes(token)) score += 30;
+  }
+
+  // 5. Path match
+  if (path.includes(query)) score += 40;
+
+  // 6. Format match
+  if (format === query) score += 30;
+
+  return score;
+}
+
+// Upgrade DOM Elements
+const surpriseBtn = document.getElementById('surprise-btn');
+const boardsFilterRow = document.getElementById('boards-filter-row');
+const boardFilterSelect = document.getElementById('filter-board-select');
+const boardSelect = document.getElementById('board-select');
+const boardCreateBtn = document.getElementById('board-create-btn');
+
+const editorToggleBtn = document.getElementById('editor-toggle-btn');
+const editorPanel = document.getElementById('editor-panel');
+const blurSlider = document.getElementById('blur-slider');
+const blurVal = document.getElementById('blur-val');
+const ratioBtns = document.querySelectorAll('.ratio-btn');
+const lightboxMedia = document.getElementById('lightbox-media');
+const editorCanvas = document.getElementById('editor-canvas');
+
+const panControl = document.getElementById('pan-control');
+const panSlider = document.getElementById('pan-slider');
+const panLabel = document.getElementById('pan-label');
+const panVal = document.getElementById('pan-val');
+const blurFitContainer = document.getElementById('blur-fit-container');
+const blurFitCheckbox = document.getElementById('blur-fit-checkbox');
+
+const sortSelect = document.getElementById('sort-select');
+const sortSizeBtn = document.getElementById('sort-size-btn');
+const sortSizeLabel = document.getElementById('sort-size-label');
+const slideshowTrigger = document.getElementById('slideshow-trigger');
+const lightboxSlideshowBtn = document.getElementById('lightbox-slideshow');
+const densityBtns = document.querySelectorAll('.density-btn');
+
+const slideshowOverlay = document.getElementById('slideshow-overlay');
+const slideshowImg = document.getElementById('slideshow-img');
+const slideshowPlayBtn = document.getElementById('slideshow-play');
+const slideshowPrevBtn = document.getElementById('slideshow-prev');
+const slideshowNextBtn = document.getElementById('slideshow-next');
+const slideshowCloseBtn = document.getElementById('slideshow-close');
+const slideshowProgressBar = document.getElementById('slideshow-progress');
+
+// Load More Wallpapers Container Reference
+const loadMoreContainer = document.getElementById('load-more-container');
+
+// Create toast container
+const toastContainer = document.createElement('div');
+toastContainer.className = 'toast-container';
+document.body.appendChild(toastContainer);
+
+// ==========================================
+// HIGH-SPEED CDN THUMBNAIL PROXY & CACHE
+// Serves fast lightweight WebP thumbnails (~30-50KB) via global edge CDN (wsrv.nl)
+// Preserves pristine 4K original raw URLs for downloads and progressive Lightbox upgrade.
+// ==========================================
+function getThumbnailUrl(rawUrl, format = '') {
+  if (!rawUrl) return '';
+  const isGif = (format && format.toUpperCase() === 'GIF') || rawUrl.toLowerCase().endsWith('.gif');
+  if (isGif) {
+    return `https://wsrv.nl/?url=${encodeURIComponent(rawUrl)}&w=480&n=-1&output=webp`;
+  }
+  return `https://wsrv.nl/?url=${encodeURIComponent(rawUrl)}&w=640&q=80&output=webp`;
+}
+
+// Preload Next & Previous Wallpapers for 0ms delay on Arrow Keys / Navigation
+function preloadAdjacentWallpapers(wp) {
+  if (!wp || !filteredWallpapers.length) return;
+  const idx = filteredWallpapers.findIndex(w => w.id === wp.id);
+  if (idx === -1) return;
+
+  const nextWp = filteredWallpapers[(idx + 1) % filteredWallpapers.length];
+  const prevWp = filteredWallpapers[(idx - 1 + filteredWallpapers.length) % filteredWallpapers.length];
+
+  [nextWp, prevWp].forEach(item => {
+    if (item && item.url) {
+      // 1. Preload thumbnail CDN WebP
+      const thumb = new Image();
+      thumb.src = getThumbnailUrl(item.url, item.format);
+      // 2. Preload full 4K original in background
+      const full = new Image();
+      full.decoding = 'async';
+      full.src = item.url;
+    }
+  });
+}
+
+// Interactive 3D Perspective Tilt with Dynamic Radial Cursor Spotlight
+function attachCardTilt(item) {
+  if (!item) return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || ('ontouchstart' in window && window.innerWidth < 768)) {
+    return;
+  }
+
+  let ticking = false;
+
+  item.addEventListener('mousemove', (e) => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => {
+      const rect = item.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+      
+      const tiltY = ((x - centerX) / centerX) * 6.5;
+      const tiltX = -((y - centerY) / centerY) * 6.5;
+      
+      item.style.transform = `perspective(1000px) rotateX(${tiltX.toFixed(2)}deg) rotateY(${tiltY.toFixed(2)}deg) translateY(-4px) scale3d(1.02, 1.02, 1.02)`;
+      item.style.setProperty('--mouse-x', `${x.toFixed(1)}px`);
+      item.style.setProperty('--mouse-y', `${y.toFixed(1)}px`);
+      ticking = false;
+    });
+  });
+
+  item.addEventListener('mouseleave', () => {
+    item.style.transform = 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0) scale3d(1, 1, 1)';
+  });
+}
+
+// ==========================================
+// VIEWPORT-PRIORITY IMAGE LOADER
+// Images showing on screen load FIRST with native fetchpriority="high".
+// Off-screen images remain idle until scrolled into view.
+// Clicked / opened wallpapers immediately jump to top priority!
+// ==========================================
+class ViewportPriorityImageLoader {
+  constructor() {
+    this.loadedSet = new Set();
+    this.setupObserver();
+  }
+
+  setupObserver() {
+    // Observes cards as they enter or near the visible screen viewport
+    this.observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const item = entry.target;
+          const imgEl = item.querySelector('.masonry-img');
+          const src = item.getAttribute('data-src') || (imgEl ? imgEl.getAttribute('data-src') : null);
+          const id = item.getAttribute('data-id');
+          if (imgEl && src) {
+            this.loadImmediately(item, imgEl, src, id, true);
+          }
+          this.observer.unobserve(item);
+        }
+      });
+    }, {
+      root: null,
+      rootMargin: '120px 0px 120px 0px' // triggers right before entering screen
+    });
+  }
+
+  reset() {
+    if (this.observer) {
+      this.observer.disconnect();
+    }
+    this.setupObserver();
+  }
+
+  observeCard(cardElement, imgEl, src, id, isAboveFold = false) {
+    if (this.loadedSet.has(id)) {
+      if (imgEl) {
+        imgEl.src = src;
+        imgEl.classList.add('loaded');
+        const parent = imgEl.closest('.masonry-img-wrapper');
+        if (parent) {
+          const sk = parent.querySelector('.card-skeleton');
+          if (sk) sk.remove();
+        }
+      }
+      return;
+    }
+
+    if (isAboveFold) {
+      // Images currently showing on screen load FIRST!
+      this.loadImmediately(cardElement, imgEl, src, id, true);
+    } else {
+      // Off-screen images: hold data-src and observe
+      cardElement.setAttribute('data-src', src);
+      cardElement.setAttribute('data-id', id);
+      if (imgEl) {
+        imgEl.setAttribute('data-src', src);
+      }
+      this.observer.observe(cardElement);
+    }
+  }
+
+  loadImmediately(cardElement, imgEl, src, id, isPriority = false) {
+    if (!imgEl) return;
+    if (this.loadedSet.has(id) && imgEl.classList.contains('loaded')) return;
+
+    if (cardElement && this.observer) {
+      this.observer.unobserve(cardElement);
+    }
+
+    imgEl.decoding = 'async';
+    if (isPriority) {
+      imgEl.setAttribute('fetchpriority', 'high');
+    }
+
+    const onComplete = () => {
+      this.loadedSet.add(id);
+      imgEl.classList.add('loaded');
+      const parent = imgEl.closest('.masonry-img-wrapper');
+      if (parent) {
+        const sk = parent.querySelector('.card-skeleton');
+        if (sk) sk.remove();
+      }
+    };
+
+    if (imgEl.src !== src) {
+      if (imgEl.complete && imgEl.naturalWidth > 0 && imgEl.src === src) {
+        onComplete();
+      } else {
+        imgEl.addEventListener('load', onComplete, { once: true });
+        imgEl.addEventListener('error', onComplete, { once: true });
+        imgEl.src = src;
+      }
+    } else if (imgEl.complete) {
+      onComplete();
+    }
+  }
+
+  prioritize(id, src, targetImgEl = null) {
+    const card = document.querySelector(`.masonry-item[data-id="${id}"]`);
+    const imgEl = targetImgEl || (card ? card.querySelector('.masonry-img') : null);
+    if (imgEl && src) {
+      this.loadImmediately(card, imgEl, src, id, true);
+    }
+  }
+}
+
+const imageLoader = new ViewportPriorityImageLoader();
+
+// ==========================================
+// DOWNLOAD OPTIONS STATE (PNG, WebP, JPG, 4K, 2K, 1080p, 720p, Mobile)
+// ==========================================
+let currentDownloadFormat = 'png';
+let currentDownloadRes = '4k';
+
+function updateDownloadBtnLabel() {
+  const downloadBtnText = document.getElementById('download-btn-text');
+  if (!downloadBtnText) return;
+  const fmtText = currentDownloadFormat.toUpperCase();
+  let resText = currentDownloadRes.toUpperCase();
+  if (currentDownloadRes === 'mobile') resText = 'Mobile (9:16)';
+  else if (currentDownloadRes === 'tablet') resText = 'Tablet (4:3)';
+  else if (currentDownloadRes === 'original') resText = 'Original Size';
+  else if (currentDownloadRes === '4k') resText = '4K (UHD)';
+  else if (currentDownloadRes === '2k') resText = '2K (QHD)';
+  else if (currentDownloadRes === '1080p') resText = '1080p (FHD)';
+  else if (currentDownloadRes === '720p') resText = '720p (HD)';
+
+  if (currentDownloadFormat === 'original' && currentDownloadRes === 'original') {
+    downloadBtnText.textContent = 'Download Original Wallpaper';
+  } else {
+    downloadBtnText.textContent = `Download ${resText} (${fmtText})`;
+  }
+}
+
+function setupDownloadOptions() {
+  const formatPills = document.getElementById('dl-format-pills');
+  const resPills = document.getElementById('dl-res-pills');
+
+  updateDownloadBtnLabel();
+
+  if (formatPills) {
+    formatPills.addEventListener('click', (e) => {
+      const btn = e.target.closest('.dl-pill');
+      if (!btn) return;
+      formatPills.querySelectorAll('.dl-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentDownloadFormat = btn.getAttribute('data-format');
+      updateDownloadBtnLabel();
+    });
+  }
+
+  if (resPills) {
+    resPills.addEventListener('click', (e) => {
+      const btn = e.target.closest('.dl-pill');
+      if (!btn) return;
+      resPills.querySelectorAll('.dl-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentDownloadRes = btn.getAttribute('data-res');
+      updateDownloadBtnLabel();
+    });
+  }
+}
+
+// ==========================================
+// ULTRA-SMOOTH GPU SHARED ELEMENT TRANSITION POPUP
+// High-performance translate3d + scale FLIP animation
+// ==========================================
+let currentActiveWp = null;
+let activeTransitionClone = null;
+
+function animatePopupOpen(wp, originCard = null, isNavigation = false) {
+  if (activeTransitionClone) {
+    activeTransitionClone.remove();
+    activeTransitionClone = null;
+  }
+
+  const card = originCard || document.querySelector(`.masonry-item[data-id="${wp.id}"]`);
+  const cardImg = card ? card.querySelector('.masonry-img') : null;
+  const modalImg = lightbox.querySelector('.lightbox-img');
+  const detailsPanel = lightbox.querySelector('.lightbox-details');
+
+  const thumbUrl = getThumbnailUrl(wp.url, wp.format);
+  const fastSrc = (cardImg && (cardImg.currentSrc || cardImg.src)) ? (cardImg.currentSrc || cardImg.src) : thumbUrl;
+
+  // Prioritize loading thumbnail
+  imageLoader.prioritize(wp.id, thumbUrl, cardImg);
+
+  // Progressive blur-up: show fast cached thumbnail immediately
+  modalImg.src = fastSrc;
+  modalImg.alt = wp.name;
+  modalImg.classList.add('loading-hd');
+
+  // Background asynchronous upgrade to full 4K original
+  const fullHd = new Image();
+  fullHd.decoding = 'async';
+  fullHd.src = wp.url;
+  fullHd.onload = () => {
+    if (currentActiveWp && currentActiveWp.id === wp.id) {
+      modalImg.src = wp.url;
+      modalImg.classList.remove('loading-hd');
+    }
+  };
+  fullHd.onerror = () => {
+    modalImg.classList.remove('loading-hd');
+  };
+
+  // Preload adjacent wallpapers (Next #N+1 and Prev #N-1)
+  preloadAdjacentWallpapers(wp);
+
+  if (isNavigation || !cardImg) {
+    modalImg.style.opacity = '1';
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    return;
+  }
+
+  const startRect = cardImg.getBoundingClientRect();
+  const isVisibleInView = (startRect.width > 0 && startRect.height > 0 &&
+                           startRect.bottom > 0 && startRect.top < window.innerHeight);
+
+  if (!isVisibleInView) {
+    modalImg.style.opacity = '1';
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    return;
+  }
+
+  // 1. Make lightbox active so its layout is calculated
+  modalImg.style.opacity = '0';
+  if (detailsPanel) {
+    detailsPanel.style.opacity = '0';
+    detailsPanel.style.transform = 'translateX(20px)';
+  }
+  lightbox.classList.add('active');
+  document.body.style.overflow = 'hidden';
+
+  // 2. Measure exact target dimensions inside lightboxMedia
+  const mediaBox = lightboxMedia.getBoundingClientRect();
+  const availableW = Math.max(100, mediaBox.width - 32);
+  const availableH = Math.max(100, mediaBox.height - 32);
+
+  // Compute accurate aspect ratio
+  const imgAspect = (cardImg.naturalWidth && cardImg.naturalHeight) 
+    ? (cardImg.naturalWidth / cardImg.naturalHeight) 
+    : (startRect.width / startRect.height);
+
+  let targetW, targetH;
+  if (availableW / availableH > imgAspect) {
+    targetH = availableH;
+    targetW = Math.round(availableH * imgAspect);
+  } else {
+    targetW = availableW;
+    targetH = Math.round(availableW / imgAspect);
+  }
+
+  const targetLeft = Math.round(mediaBox.left + (mediaBox.width - targetW) / 2);
+  const targetTop = Math.round(mediaBox.top + (mediaBox.height - targetH) / 2);
+
+  // 3. Create GPU-accelerated transition clone positioned exactly at target
+  const clone = document.createElement('img');
+  clone.className = 'shared-element-transition-clone';
+  clone.src = fastSrc;
+  clone.style.position = 'fixed';
+  clone.style.left = `${targetLeft}px`;
+  clone.style.top = `${targetTop}px`;
+  clone.style.width = `${targetW}px`;
+  clone.style.height = `${targetH}px`;
+  clone.style.objectFit = 'cover';
+  clone.style.transformOrigin = '0 0';
+
+  // Calculate inverted FLIP transform relative to startRect
+  const deltaX = startRect.left - targetLeft;
+  const deltaY = startRect.top - targetTop;
+  const scaleX = startRect.width / targetW;
+  const scaleY = startRect.height / targetH;
+
+  clone.style.transform = `translate3d(${deltaX}px, ${deltaY}px, 0) scale(${scaleX}, ${scaleY})`;
+  clone.style.borderRadius = `${16 / Math.min(scaleX, scaleY)}px`;
+  clone.style.opacity = '1';
+
+  document.body.appendChild(clone);
+  activeTransitionClone = clone;
+
+  // 4. Trigger butter-smooth transition in double RAF
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      clone.style.transition = 'transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), border-radius 0.45s cubic-bezier(0.16, 1, 0.3, 1)';
+      clone.style.transform = 'translate3d(0, 0, 0) scale(1, 1)';
+      clone.style.borderRadius = '8px';
+
+      if (detailsPanel) {
+        detailsPanel.style.transition = 'transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease';
+        detailsPanel.style.opacity = '1';
+        detailsPanel.style.transform = 'translateX(0)';
+      }
+    });
+  });
+
+  // 5. Clean up on transition end
+  const onEnd = () => {
+    if (activeTransitionClone === clone) {
+      modalImg.style.opacity = '1';
+      clone.remove();
+      activeTransitionClone = null;
+    }
+  };
+
+  clone.addEventListener('transitionend', onEnd, { once: true });
+  setTimeout(onEnd, 500);
+}
+
+function animatePopupClose() {
+  if (activeTransitionClone) {
+    activeTransitionClone.remove();
+    activeTransitionClone = null;
+  }
+
+  const targetCard = currentActiveWp ? document.querySelector(`.masonry-item[data-id="${currentActiveWp.id}"]`) : null;
+  const targetImg = targetCard ? targetCard.querySelector('.masonry-img') : null;
+  const modalImg = lightbox.querySelector('.lightbox-img');
+  const detailsPanel = lightbox.querySelector('.lightbox-details');
+
+  if (targetImg) {
+    const destRect = targetImg.getBoundingClientRect();
+    const isVisible = (destRect.width > 0 && destRect.height > 0 &&
+                       destRect.bottom > 0 && destRect.top < window.innerHeight);
+
+    if (isVisible) {
+      const mediaBox = lightboxMedia.getBoundingClientRect();
+      const currRect = modalImg.getBoundingClientRect();
+      const targetW = currRect.width > 50 ? currRect.width : (mediaBox.width - 32);
+      const targetH = currRect.height > 50 ? currRect.height : (mediaBox.height - 32);
+      const targetLeft = currRect.width > 50 ? currRect.left : (mediaBox.left + 16);
+      const targetTop = currRect.height > 50 ? currRect.top : (mediaBox.top + 16);
+
+      const clone = document.createElement('img');
+      clone.className = 'shared-element-transition-clone';
+      clone.src = modalImg.src || (currentActiveWp ? currentActiveWp.url : '');
+      clone.style.position = 'fixed';
+      clone.style.left = `${targetLeft}px`;
+      clone.style.top = `${targetTop}px`;
+      clone.style.width = `${targetW}px`;
+      clone.style.height = `${targetH}px`;
+      clone.style.objectFit = 'cover';
+      clone.style.borderRadius = '8px';
+      clone.style.transformOrigin = '0 0';
+      clone.style.transform = 'translate3d(0, 0, 0) scale(1, 1)';
+      document.body.appendChild(clone);
+      activeTransitionClone = clone;
+
+      modalImg.style.opacity = '0';
+      lightbox.classList.add('animating-out');
+
+      if (detailsPanel) {
+        detailsPanel.style.transition = 'opacity 0.2s ease, transform 0.2s ease';
+        detailsPanel.style.opacity = '0';
+        detailsPanel.style.transform = 'translateX(15px)';
+      }
+
+      const closeDeltaX = destRect.left - targetLeft;
+      const closeDeltaY = destRect.top - targetTop;
+      const closeScaleX = destRect.width / targetW;
+      const closeScaleY = destRect.height / targetH;
+
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          clone.style.transition = 'transform 0.4s cubic-bezier(0.2, 0.9, 0.3, 1), border-radius 0.4s ease, opacity 0.38s ease';
+          clone.style.transform = `translate3d(${closeDeltaX}px, ${closeDeltaY}px, 0) scale(${closeScaleX}, ${closeScaleY})`;
+          clone.style.borderRadius = `${16 / Math.min(closeScaleX, closeScaleY)}px`;
+          clone.style.opacity = '0.9';
+        });
+      });
+
+      const onEnd = () => {
+        if (activeTransitionClone === clone) {
+          clone.remove();
+          activeTransitionClone = null;
+        }
+        lightbox.classList.remove('active', 'animating-out');
+        modalImg.style.opacity = '';
+        if (detailsPanel) {
+          detailsPanel.style.opacity = '';
+          detailsPanel.style.transform = '';
+          detailsPanel.style.transition = '';
+        }
+        document.body.style.overflow = '';
+        history.replaceState(null, null, ' ');
+        resetEditorState();
+        currentActiveWp = null;
+      };
+
+      clone.addEventListener('transitionend', onEnd, { once: true });
+      setTimeout(onEnd, 450);
+      return;
+    }
+  }
+
+  // Smooth fallback close
+  lightbox.classList.add('animating-out');
+  if (detailsPanel) {
+    detailsPanel.style.transition = 'opacity 0.2s ease';
+    detailsPanel.style.opacity = '0';
+  }
+  setTimeout(() => {
+    lightbox.classList.remove('active', 'animating-out');
+    modalImg.style.opacity = '';
+    if (detailsPanel) {
+      detailsPanel.style.opacity = '';
+      detailsPanel.style.transform = '';
+      detailsPanel.style.transition = '';
+    }
+    document.body.style.overflow = '';
+    history.replaceState(null, null, ' ');
+    resetEditorState();
+    currentActiveWp = null;
+  }, 260);
+}
+
+
+// Header: search icon, 3-line menu, tools relocation on phones
+function setupHeader() {
+  const ham = document.getElementById('ham-btn');
+  const menu = document.getElementById('mobile-menu');
+  const sBtn = document.getElementById('search-toggle');
+  const sBar = document.getElementById('search-bar');
+  const sClear = document.getElementById('search-clear');
+  const tools = document.getElementById('nav-tools');
+  const mmTools = document.getElementById('mm-tools');
+  const mmWrap = document.getElementById('mm-tools-wrap');
+  if (!ham || !menu || !sBtn || !sBar || !tools || !mmTools) return;
+
+  const toolEls = [sortSizeBtn, surpriseBtn, document.querySelector('.density-selector')].filter(Boolean);
+  const mq = window.matchMedia('(max-width: 760px)');
+
+  function placeTools() {
+    const phone = mq.matches;
+    const dest = phone ? mmTools : tools;
+    toolEls.forEach(el => dest.appendChild(el));
+    mmWrap.classList.toggle('has-tools', phone);
+  }
+  placeTools();
+  if (mq.addEventListener) mq.addEventListener('change', placeTools);
+  else if (mq.addListener) mq.addListener(placeTools);
+
+  function setMenu(open) {
+    menu.classList.toggle('open', open);
+    ham.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) setSearch(false);
+  }
+  function setSearch(open) {
+    sBar.classList.toggle('open', open);
+    sBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) {
+      setMenu(false);
+      setTimeout(() => searchInput.focus(), 120);
+    }
+  }
+
+  ham.addEventListener('click', () => setMenu(!menu.classList.contains('open')));
+  sBtn.addEventListener('click', () => setSearch(!sBar.classList.contains('open')));
+
+  menu.addEventListener('click', (e) => {
+    const b = e.target.closest('button');
+    if (b && ['explore-tab', 'liked-tab', 'surprise-btn'].includes(b.id)) setMenu(false);
+  });
+
+  document.addEventListener('click', (e) => {
+    if (menu.classList.contains('open') && !menu.contains(e.target) && !ham.contains(e.target)) setMenu(false);
+  });
+
+  document.addEventListener('keydown', (e) => {
+    const activeEl = document.activeElement;
+    const tag = (activeEl ? activeEl.tagName : '').toLowerCase();
+    const inInput = tag === 'input' || tag === 'textarea' || tag === 'select' || (activeEl && activeEl.isContentEditable);
+
+    if (e.key === 'Escape') {
+      if (menu.classList.contains('open')) { setMenu(false); ham.focus(); }
+      else if (sBar.classList.contains('open')) { setSearch(false); sBtn.focus(); }
+      return;
+    }
+
+    // Quick Search shortcut: "/" or "Ctrl+K" or "Cmd+K" opens search immediately
+    if (!inInput && (e.key === '/' || ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k'))) {
+      e.preventDefault();
+      setSearch(true);
+      searchInput.focus();
+      searchInput.select();
+    }
+  });
+
+  function syncSearchUI() {
+    const has = searchInput.value.trim() !== '';
+    sBtn.classList.toggle('has-q', has);
+    sClear.hidden = !has;
+  }
+  searchInput.addEventListener('input', syncSearchUI);
+  sClear.addEventListener('click', () => {
+    searchInput.value = '';
+    searchQuery = '';
+    syncSearchUI();
+    updateActivePills('');
+    updateUrlQuery('');
+    updateActiveSearchUI();
+    filterAndRender(true);
+    searchInput.focus();
+  });
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') { setSearch(false); }
+  });
+  syncSearchUI();
+
+  // Active search pill in stats row clear handler
+  if (clearActiveSearchBtn) {
+    clearActiveSearchBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      syncSearchUI();
+      updateActivePills('');
+      updateUrlQuery('');
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  }
+
+  // Quick suggestion tags click handler
+  setupSearchPills();
+
+  // keep the "+N" label right when the column count changes
+  let rt;
+  window.addEventListener('resize', () => {
+    clearTimeout(rt);
+    rt = setTimeout(updateLoadMoreUI, 150);
+  });
+}
+
+// Search UI Helpers
+function updateActivePills(q) {
+  const pills = document.querySelectorAll('.search-tag-pill');
+  const cleanQ = (q || '').toLowerCase().trim();
+  pills.forEach(pill => {
+    const pQ = (pill.getAttribute('data-query') || '').toLowerCase().trim();
+    const isActive = cleanQ && (
+      cleanQ === pQ ||
+      (pQ === 'girls' && (cleanQ === 'girl' || cleanQ === 'girls')) ||
+      (pQ === 'one piece' && (cleanQ === 'one piece' || cleanQ === 'onepiece')) ||
+      (pQ === 'tablet' && (cleanQ === 'tablet' || cleanQ === 'tab' || cleanQ === 'ipad'))
+    );
+    pill.classList.toggle('active', !!isActive);
+  });
+}
+
+function updateActiveSearchUI() {
+  if (!activeSearchBadge || !activeSearchLabel) return;
+  if (searchQuery) {
+    activeSearchLabel.textContent = `Search: "${searchQuery}"`;
+    activeSearchBadge.style.display = 'inline-flex';
+  } else {
+    activeSearchBadge.style.display = 'none';
+  }
+}
+
+function updateUrlQuery(q) {
+  try {
+    const url = new URL(window.location.href);
+    if (q) {
+      url.searchParams.set('q', q);
+    } else {
+      url.searchParams.delete('q');
+    }
+    window.history.replaceState({}, '', url.toString());
+  } catch (_) {}
+}
+
+function setupSearchPills() {
+  if (!searchTagsContainer) return;
+  searchTagsContainer.addEventListener('click', (e) => {
+    const pill = e.target.closest('.search-tag-pill');
+    if (!pill) return;
+    const targetQ = pill.getAttribute('data-query');
+    if (!targetQ) return;
+
+    const currentVal = searchInput.value.toLowerCase().trim();
+    const clickVal = targetQ.toLowerCase().trim();
+
+    if (currentVal === clickVal) {
+      searchInput.value = '';
+      searchQuery = '';
+    } else {
+      searchInput.value = targetQ;
+      searchQuery = clickVal;
+    }
+
+    const sBtn = document.getElementById('search-toggle');
+    const sClear = document.getElementById('search-clear');
+    if (sBtn) sBtn.classList.toggle('has-q', searchInput.value.trim() !== '');
+    if (sClear) sClear.hidden = searchInput.value.trim() === '';
+
+    updateActivePills(searchQuery);
+    updateUrlQuery(searchQuery);
+    updateActiveSearchUI();
+    filterAndRender(true);
+    searchInput.focus();
+  });
+}
+
+function handleInitialSearch() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) {
+      searchInput.value = q;
+      searchQuery = q.toLowerCase().trim();
+      const sBar = document.getElementById('search-bar');
+      const sBtn = document.getElementById('search-toggle');
+      if (sBar) sBar.classList.add('open');
+      if (sBtn) {
+        sBtn.setAttribute('aria-expanded', 'true');
+        sBtn.classList.add('has-q');
+      }
+      const sClear = document.getElementById('search-clear');
+      if (sClear) sClear.hidden = false;
+      updateActivePills(searchQuery);
+      updateActiveSearchUI();
+    }
+  } catch (_) {}
+}
+
+// Initialize App
+function init() {
+  handleSplashScreen();
+  setupTheme();
+  setupFilters();
+  setupHeader();
+  handleInitialSearch();
+  renderBoardPills();
+  populateBoardSelect();
+  setupDownloadOptions();
+  setupEventListeners();
+  updateSortSizeBtnUI();
+  filterAndRender(true);
+  handleDeepLinking();
+}
+
+// Splash Loading Screen Handler
+function handleSplashScreen() {
+  const splash = document.getElementById('splash-screen');
+  const progress = document.getElementById('splash-progress');
+  if (!splash) return;
+
+  progress.style.width = '30%';
+  setTimeout(() => {
+    progress.style.width = '75%';
+    setTimeout(() => {
+      progress.style.width = '100%';
+      setTimeout(() => {
+        splash.classList.add('fade-out');
+      }, 200);
+    }, 250);
+  }, 150);
+}
+
+// Theme Setup (Default to Dark Mode, data-theme on <html>)
+function setupTheme() {
+  const t = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+  document.documentElement.setAttribute('data-theme', t);
+  syncThemeUI();
+}
+
+function syncThemeUI() {
+  const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+  themeToggleBtn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+}
+
+// Build Folder / Format dropdowns from the WALLPAPERS list
+function fillFilterSelect(select, values, key) {
+  const counts = {};
+  WALLPAPERS.forEach(wp => { counts[wp[key]] = (counts[wp[key]] || 0) + 1; });
+  select.innerHTML = '';
+  values.forEach(v => {
+    const o = document.createElement('option');
+    o.value = v;
+    o.textContent = v;
+    o.dataset.hint = (v === 'All' ? WALLPAPERS.length : (counts[v] || 0)).toLocaleString();
+    select.appendChild(o);
+  });
+  select.value = 'All';
+}
+
+function setupFilters() {
+  const categories = ['All', ...new Set(WALLPAPERS.map(wp => wp.category))];
+  const formats = ['All', ...new Set(WALLPAPERS.map(wp => wp.format))];
+
+  fillFilterSelect(categorySelect, categories, 'category');
+  fillFilterSelect(formatSelect, formats, 'format');
+
+  DD.enhance(categorySelect);
+  DD.enhance(formatSelect);
+  DD.enhance(boardFilterSelect);
+  DD.enhance(sortSelect);
+}
+
+// Helper to calculate size in bytes
+function getWpSizeBytes(wp) {
+  if (!wp || !wp.size) return 0;
+  const str = String(wp.size).trim().toLowerCase();
+  const val = parseFloat(str);
+  if (isNaN(val)) return 0;
+  if (str.includes('gb')) return val * 1024 * 1024 * 1024;
+  if (str.includes('mb')) return val * 1024 * 1024;
+  if (str.includes('kb')) return val * 1024;
+  return val;
+}
+
+// Synchronize Header Auto-Sort by Size Button UI
+const SORT_SVG = (inner) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const SORT_ICONS = {
+  none: SORT_SVG('<path d="m21 16-4 4-4-4"/><path d="M17 20V4"/><path d="m3 8 4-4 4 4"/><path d="M7 4v16"/>'),
+  desc: SORT_SVG('<path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="M11 4h10"/><path d="M11 8h7"/><path d="M11 12h4"/>'),
+  asc: SORT_SVG('<path d="m3 8 4-4 4 4"/><path d="M7 4v16"/><path d="M11 12h4"/><path d="M11 16h7"/><path d="M11 20h10"/>')
+};
+
+function updateSortSizeBtnUI() {
+  if (!sortSizeBtn) return;
+  let icon = SORT_ICONS.none, label = 'Sort: Size', title = 'Sort by File Size (Toggle Largest / Smallest)', active = false;
+  if (currentSort === 'size-desc') {
+    icon = SORT_ICONS.desc; label = 'Size: Largest'; active = true;
+    title = 'Sorted: Largest file size first (Click for Smallest)';
+  } else if (currentSort === 'size-asc') {
+    icon = SORT_ICONS.asc; label = 'Size: Smallest'; active = true;
+    title = 'Sorted: Smallest file size first (Click for Default)';
+  }
+  sortSizeBtn.classList.toggle('active', active);
+  sortSizeBtn.innerHTML = `${icon}<span id="sort-size-label" class="nav-label">${label}</span>`;
+  sortSizeBtn.setAttribute('title', title);
+  sortSizeBtn.setAttribute('aria-label', title);
+  if (sortSelect && sortSelect.value !== currentSort) {
+    sortSelect.value = currentSort;
+  }
+  DD.sync(sortSelect);
+}
+
+// Event Listeners Setup
+function setupEventListeners() {
+  // Search Input with debouncing, URL sync, active search badge, and pills sync
+  let searchDebounceTimer = null;
+  searchInput.addEventListener('input', (e) => {
+    const val = e.target.value;
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = setTimeout(() => {
+      searchQuery = val.toLowerCase().trim();
+      updateUrlQuery(searchQuery);
+      updateActiveSearchUI();
+      updateActivePills(searchQuery);
+      filterAndRender(true);
+    }, 120);
+  });
+
+  // Folder / Format dropdown changes
+  categorySelect.addEventListener('change', (e) => {
+    currentCategory = e.target.value;
+    filterAndRender(true);
+  });
+
+  formatSelect.addEventListener('change', (e) => {
+    currentFormat = e.target.value;
+    filterAndRender(true);
+  });
+
+  // Sorting
+  // Header Auto-Sort by Size Button Click
+  if (sortSizeBtn) {
+    sortSizeBtn.addEventListener('click', () => {
+      if (currentSort === 'default' || currentSort === 'name-asc' || currentSort === 'name-desc') {
+        currentSort = 'size-desc';
+        showToast('Sorted by file size: Largest first', 'info');
+      } else if (currentSort === 'size-desc') {
+        currentSort = 'size-asc';
+        showToast('Sorted by file size: Smallest first', 'info');
+      } else {
+        currentSort = 'default';
+        showToast('Sorting reset to default natural order', 'info');
+      }
+      updateSortSizeBtnUI();
+      filterAndRender(true);
+    });
+  }
+
+  // Sorting Dropdown
+  if (sortSelect) {
+    sortSelect.addEventListener('change', (e) => {
+      currentSort = e.target.value;
+      updateSortSizeBtnUI();
+      filterAndRender(true);
+    });
+  }
+
+  // Grid Density Switcher with Fluid Transitions
+  densityBtns.forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      densityBtns.forEach(b => b.classList.remove('active'));
+      const targetBtn = e.currentTarget;
+      targetBtn.classList.add('active');
+      currentGridDensity = targetBtn.getAttribute('data-density');
+      
+      grid.classList.add('switching');
+      setTimeout(() => {
+        grid.classList.remove('grid-sm', 'grid-md', 'grid-lg');
+        grid.classList.add(`grid-${currentGridDensity}`);
+        setTimeout(() => {
+          grid.classList.remove('switching');
+          updateLoadMoreUI();
+        }, 60);
+      }, 100);
+    });
+  });
+
+  // Theme Toggle Click (circular reveal where supported)
+  themeToggleBtn.addEventListener('click', () => {
+    const de = document.documentElement;
+    const next = de.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    const apply = () => {
+      de.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (err) { /* storage blocked */ }
+      syncThemeUI();
+    };
+    const reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!document.startViewTransition || reduce) {
+      apply();
+    } else {
+      const r = themeToggleBtn.getBoundingClientRect();
+      const x = r.left + r.width / 2, y = r.top + r.height / 2;
+      const rad = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
+      de.classList.add('theme-swap');
+      const t = document.startViewTransition(apply);
+      t.ready.then(() => {
+        de.animate(
+          { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${rad}px at ${x}px ${y}px)`] },
+          { duration: 650, easing: 'cubic-bezier(.4,0,.2,1)', pseudoElement: '::view-transition-new(root)' }
+        );
+      });
+      const done = () => de.classList.remove('theme-swap');
+      t.finished.then(done, done);
+    }
+    showToast(`${next === 'light' ? 'Light' : 'Dark'} mode enabled`, 'info');
+  });
+
+  // Tab Navigation Click
+  exploreTab.addEventListener('click', () => {
+    if (currentView !== 'explore') {
+      currentView = 'explore';
+      exploreTab.classList.add('active');
+      likedTab.classList.remove('active');
+      deactivateBoardPills();
+      filterAndRender(true);
+    }
+  });
+
+  likedTab.addEventListener('click', () => {
+    if (currentView !== 'liked') {
+      currentView = 'liked';
+      likedTab.classList.add('active');
+      exploreTab.classList.remove('active');
+      deactivateBoardPills();
+      filterAndRender(true);
+    }
+  });
+
+  // Surprise Me Button Click (Random Wallpaper)
+  surpriseBtn.addEventListener('click', () => {
+    if (WALLPAPERS.length === 0) return;
+    const randomIndex = Math.floor(Math.random() * WALLPAPERS.length);
+    const randomWp = WALLPAPERS[randomIndex];
+    openLightbox(randomWp);
+    showToast(`Surprise! Displaying "${randomWp.name}"`, 'success');
+  });
+
+  // Lightbox Close Events
+  document.getElementById('lightbox-close').addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) closeLightbox();
+  });
+
+  // Board Creation Listener
+  boardCreateBtn.addEventListener('click', createNewBoard);
+
+  // Board Filter Dropdown Change
+  boardFilterSelect.addEventListener('change', (e) => {
+    const name = e.target.value;
+    if (!name) return;
+    exploreTab.classList.remove('active');
+    likedTab.classList.remove('active');
+    currentView = 'board';
+    currentBoardName = name;
+    filterAndRender(true);
+  });
+
+  // Editor Panel Listeners
+  editorToggleBtn.addEventListener('click', toggleEditorPanel);
+  blurSlider.addEventListener('input', handleBlurChange);
+  panSlider.addEventListener('input', handlePanChange);
+  blurFitCheckbox.addEventListener('change', () => updateCanvas());
+
+  ratioBtns.forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      ratioBtns.forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      currentCropRatio = e.target.getAttribute('data-ratio');
+      cropOffsetPercent = 50; // Reset offset on aspect ratio changes
+      panSlider.value = 50;
+      panVal.textContent = '50%';
+      updateCanvas();
+    });
+  });
+
+  // Slideshow Triggers
+  slideshowTrigger.addEventListener('click', () => startSlideshow(0));
+  lightboxSlideshowBtn.addEventListener('click', () => {
+    const currentId = window.location.hash.substring(1);
+    const index = filteredWallpapers.findIndex(w => w.id === currentId);
+    closeLightbox();
+    startSlideshow(index !== -1 ? index : 0);
+  });
+
+  // Slideshow Controls
+  slideshowPlayBtn.addEventListener('click', toggleSlideshowPlay);
+  slideshowPrevBtn.addEventListener('click', prevSlide);
+  slideshowNextBtn.addEventListener('click', nextSlide);
+  slideshowCloseBtn.addEventListener('click', closeSlideshow);
+  slideshowOverlay.addEventListener('mousemove', triggerSlideshowMouseMovement);
+
+  // Key Down Events (Arrow controls, L, D, E, S, Esc)
+  document.addEventListener('keydown', (e) => {
+    // Lightbox Shortcuts
+    if (lightbox.classList.contains('active') && !slideshowActive) {
+      if (e.key === 'ArrowRight') {
+        navigateWp(1);
+      } else if (e.key === 'ArrowLeft') {
+        navigateWp(-1);
+      } else if (e.key.toLowerCase() === 'l') {
+        const currentId = window.location.hash.substring(1);
+        if (currentId) toggleLike(currentId);
+      } else if (e.key.toLowerCase() === 'd') {
+        const currentId = window.location.hash.substring(1);
+        const wp = WALLPAPERS.find(w => w.id === currentId);
+        if (wp) {
+          if (editModeActive) {
+            downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes);
+          } else {
+            downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
+          }
+        }
+      } else if (e.key.toLowerCase() === 'e') {
+        toggleEditorPanel();
+      }
+    }
+    
+    // Slideshow Shortcuts
+    if (slideshowActive) {
+      if (e.key === 'ArrowRight') {
+        nextSlide();
+      } else if (e.key === 'ArrowLeft') {
+        prevSlide();
+      } else if (e.key === ' ') {
+        e.preventDefault();
+        toggleSlideshowPlay();
+      } else if (e.key === 'Escape') {
+        closeSlideshow();
+      }
+    }
+  });
+}
+
+// Keyboard arrow index navigator
+function navigateWp(direction) {
+  const currentId = window.location.hash.substring(1);
+  if (!currentId) return;
+  const currentIndex = filteredWallpapers.findIndex(w => w.id === currentId);
+  if (currentIndex === -1) return;
+  
+  let nextIndex = currentIndex + direction;
+  if (nextIndex >= filteredWallpapers.length) nextIndex = 0;
+  if (nextIndex < 0) nextIndex = filteredWallpapers.length - 1;
+  
+  openLightbox(filteredWallpapers[nextIndex], null, true);
+}
+
+// Deep Linking Handler (Priority opens first)
+function handleDeepLinking() {
+  const hash = window.location.hash;
+  if (hash && hash.startsWith('#wp_')) {
+    const wpId = hash.substring(1);
+    const targetWp = WALLPAPERS.find(w => w.id === wpId);
+    if (targetWp) {
+      imageLoader.prioritize(targetWp.id, targetWp.url);
+      setTimeout(() => openLightbox(targetWp), 300);
+    }
+  }
+}
+
+// Render Custom Boards dropdown
+function renderBoardPills() {
+  const boardNames = Object.keys(customBoards);
+  if (boardNames.length === 0) {
+    boardsFilterRow.style.display = 'none';
+    return;
+  }
+
+  boardsFilterRow.style.display = 'flex';
+  boardFilterSelect.innerHTML = '';
+  const none = document.createElement('option');
+  none.value = '';
+  none.textContent = 'Select a board';
+  boardFilterSelect.appendChild(none);
+  boardNames.forEach(name => {
+    const o = document.createElement('option');
+    o.value = name;
+    o.textContent = name;
+    o.dataset.hint = String(customBoards[name].length);
+    boardFilterSelect.appendChild(o);
+  });
+  boardFilterSelect.value = (currentView === 'board' && customBoards[currentBoardName]) ? currentBoardName : '';
+  DD.refresh(boardFilterSelect);
+}
+
+function deactivateBoardPills() {
+  boardFilterSelect.value = '';
+  DD.sync(boardFilterSelect);
+}
+
+// Populate Dropdown selector inside the Lightbox
+function populateBoardSelect() {
+  boardSelect.innerHTML = `
+    <option value="">-- Add to Board --</option>
+    <option value="Favorites">Liked Wallpapers</option>
+  `;
+  
+  Object.keys(customBoards).forEach(boardName => {
+    const option = document.createElement('option');
+    option.value = boardName;
+    option.textContent = boardName;
+    boardSelect.appendChild(option);
+  });
+}
+
+// Board Creation Prompt Logic
+function createNewBoard() {
+  const boardName = prompt('Enter a name for your new Board/Collection:');
+  if (!boardName) return;
+  
+  const trimmed = boardName.trim();
+  if (trimmed === '') return;
+
+  if (trimmed.toLowerCase() === 'favorites') {
+    showToast('Use the "Liked Wallpapers" options instead', 'info');
+    return;
+  }
+
+  if (customBoards[trimmed]) {
+    showToast('A board with this name already exists', 'info');
+    return;
+  }
+
+  customBoards[trimmed] = [];
+  localStorage.setItem('custom_boards', JSON.stringify(customBoards));
+  
+  populateBoardSelect();
+  renderBoardPills();
+  showToast(`Board "${trimmed}" created successfully!`, 'success');
+}
+
+// Filter and render list
+function filterAndRender(reset = true) {
+  if (reset) {
+    grid.innerHTML = '';
+    renderedCount = 0;
+    imageLoader.reset();
+  }
+
+  const queryTokens = searchQuery ? searchQuery.split(/\s+/).filter(Boolean) : [];
+
+  filteredWallpapers = WALLPAPERS.filter(wp => {
+    let matchesSearch = true;
+    let score = 0;
+    if (searchQuery !== '') {
+      score = calculateRelevanceScore(wp, searchQuery, queryTokens);
+      matchesSearch = score > 0;
+      wp._searchScore = score;
+    }
+
+    const matchesCategory = currentCategory === 'All' || wp.category === currentCategory;
+    const matchesFormat = currentFormat === 'All' || wp.format === currentFormat;
+
+    let matchesView = true;
+    if (currentView === 'liked') {
+      matchesView = likedWallpapers.has(wp.id);
+    } else if (currentView === 'board') {
+      const boardWps = customBoards[currentBoardName] || [];
+      matchesView = boardWps.includes(wp.id);
+    }
+
+    return matchesSearch && matchesCategory && matchesFormat && matchesView;
+  });
+
+  // Apply Sorting (with Natural Numeric Sorting, Requirement 3)
+  if (currentSort === 'name-asc') {
+    filteredWallpapers.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' }));
+  } else if (currentSort === 'name-desc') {
+    filteredWallpapers.sort((a, b) => b.name.localeCompare(a.name, undefined, { numeric: true, sensitivity: 'base' }));
+  } else if (currentSort === 'size-asc') {
+    filteredWallpapers.sort((a, b) => getWpSizeBytes(a) - getWpSizeBytes(b));
+  } else if (currentSort === 'size-desc') {
+    filteredWallpapers.sort((a, b) => getWpSizeBytes(b) - getWpSizeBytes(a));
+  } else if (searchQuery !== '') {
+    // Relevance sorting when search is active (Highest relevance first!)
+    filteredWallpapers.sort((a, b) => (b._searchScore || 0) - (a._searchScore || 0));
+  } else {
+    // Default natural order: One Piece, Girls, Tablet, Anime, etc.
+    filteredWallpapers.sort((a, b) => {
+      if (a.category !== b.category) {
+        if (a.category === 'One Piece') return -1;
+        if (b.category === 'One Piece') return 1;
+        if (a.category === 'Girls Wallpapers') return -1;
+        if (b.category === 'Girls Wallpapers') return 1;
+        if (a.category === 'Tablet Wallpapers') return -1;
+        if (b.category === 'Tablet Wallpapers') return 1;
+        if (a.category === 'Anime Wallpapers') return -1;
+        if (b.category === 'Anime Wallpapers') return 1;
+        if (a.category === 'Anime Backgrounds') return -1;
+        if (b.category === 'Anime Backgrounds') return 1;
+        return a.category.localeCompare(b.category);
+      }
+      return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: 'base' });
+    });
+  }
+
+  // Update Stats & Active Search UI
+  totalCountEl.textContent = WALLPAPERS.length;
+  viewCountEl.textContent = filteredWallpapers.length;
+  updateActiveSearchUI();
+
+  if (filteredWallpapers.length === 0) {
+    renderEmptyState();
+    updateLoadMoreUI();
+  } else {
+    const emptyState = grid.querySelector('.empty-state');
+    if (emptyState) emptyState.remove();
+    
+    renderNextBatch();
+  }
+}
+
+// Render empty state template with smart recovery suggestions
+function renderEmptyState() {
+  let emptyDesc = 'We couldn\'t find any matching wallpapers. Try adjusting your filters or search terms.';
+  if (currentView === 'liked') {
+    emptyDesc = 'You haven\'t liked any wallpapers yet. Go back to Explore and click the heart icon on your favorites!';
+  } else if (currentView === 'board') {
+    emptyDesc = `This board is empty. Open any wallpaper and add it to "${currentBoardName}"!`;
+  } else if (searchQuery) {
+    emptyDesc = `We couldn't find any wallpapers matching "${searchQuery}".`;
+  }
+
+  const suggestionsHtml = searchQuery ? `
+    <div class="empty-suggestions">
+      <div class="empty-suggestions-label">Try searching for popular topics:</div>
+      <div class="empty-tag-buttons">
+        <button type="button" class="btn-tag" data-search="One Piece">🏴‍☠️ One Piece</button>
+        <button type="button" class="btn-tag" data-search="Girls">🌸 Girls</button>
+        <button type="button" class="btn-tag" data-search="Tablet">📱 Tablet</button>
+        <button type="button" class="btn-tag" data-search="Anime">⛩️ Anime</button>
+        <button type="button" class="btn-tag" data-search="4K Landscape">🌄 4K Landscape</button>
+        <button type="button" class="btn-tag" data-search="Cyberpunk">⚡ Cyberpunk</button>
+        <button type="button" class="btn-tag" data-search="4K Minimalist">🖤 Minimalist</button>
+      </div>
+      <button type="button" id="empty-clear-btn" class="action-btn secondary-btn" style="margin-top: 1rem; border-radius: 999px; padding: 6px 16px; font-size: 0.85rem;">
+        <i class="fas fa-times-circle"></i> Clear Search
+      </button>
+    </div>
+  ` : '';
+
+  grid.innerHTML = `
+    <div class="empty-state">
+      <div class="empty-icon"><i class="fas fa-image-slash"></i></div>
+      <div class="empty-title">No Wallpapers Found</div>
+      <div class="empty-desc">${emptyDesc}</div>
+      ${suggestionsHtml}
+    </div>
+  `;
+
+  const emptyClearBtn = document.getElementById('empty-clear-btn');
+  if (emptyClearBtn) {
+    emptyClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      const sBtn = document.getElementById('search-toggle');
+      const sClear = document.getElementById('search-clear');
+      if (sBtn) sBtn.classList.remove('has-q');
+      if (sClear) sClear.hidden = true;
+      updateActivePills('');
+      updateUrlQuery('');
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  }
+
+  const suggestionBtns = grid.querySelectorAll('.empty-tag-buttons .btn-tag');
+  suggestionBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const q = btn.getAttribute('data-search');
+      searchInput.value = q;
+      searchQuery = q.toLowerCase().trim();
+      const sBtn = document.getElementById('search-toggle');
+      const sClear = document.getElementById('search-clear');
+      if (sBtn) sBtn.classList.add('has-q');
+      if (sClear) sClear.hidden = false;
+      updateActivePills(searchQuery);
+      updateUrlQuery(searchQuery);
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  });
+}
+
+// Number of columns the grid currently shows
+function getGridColumns() {
+  const cols = getComputedStyle(grid).gridTemplateColumns.split(' ').filter(Boolean).length;
+  return Math.max(1, cols);
+}
+
+// ~30 wallpapers per load, rounded up so the grid always ends on a full row.
+// New wallpapers then start on a fresh row at the bottom instead of filling gaps at the side.
+function getBatchSize() {
+  const cols = getGridColumns();
+  const target = Math.ceil((renderedCount + itemsPerLoad) / cols) * cols;
+  return Math.max(1, target - renderedCount);
+}
+
+// Render next slice of wallpapers (about 30 per batch, full rows)
+function renderNextBatch() {
+  const batchSize = getBatchSize();
+  const nextBatch = filteredWallpapers.slice(renderedCount, renderedCount + batchSize);
+  
+  if (nextBatch.length === 0) {
+    updateLoadMoreUI();
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+
+  nextBatch.forEach((wp, index) => {
+    const isLiked = likedWallpapers.has(wp.id);
+    const item = document.createElement('div');
+    item.className = 'masonry-item animate-in';
+    item.setAttribute('data-id', wp.id);
+    
+    // Staggered cascade entrance timing (0 to 29)
+    const cascadeIndex = index % 30;
+    item.style.setProperty('--stagger', cascadeIndex);
+    
+    const isGif = wp.format === 'GIF';
+    const thumbUrl = getThumbnailUrl(wp.url, wp.format);
+    
+    item.innerHTML = `
+      <div class="card-tilt-glow"></div>
+      <div class="masonry-img-wrapper">
+        ${isGif ? '<div class="gif-badge">GIF</div>' : ''}
+        <div class="card-skeleton"></div>
+        <img class="masonry-img" data-src="${thumbUrl}" alt="${wp.name}" decoding="async" />
+      </div>
+      <div class="card-overlay">
+        <div class="overlay-top">
+          <button class="overlay-btn like-btn ${isLiked ? 'liked' : ''}" title="${isLiked ? 'Unlike' : 'Like'}">
+            <i class="${isLiked ? 'fas' : 'far'} fa-heart"></i>
+          </button>
+          <button class="overlay-btn download-btn" title="Quick Download (4K Original)">
+            <i class="fas fa-arrow-down"></i>
+          </button>
+        </div>
+        <div class="overlay-bottom">
+          <h3 class="overlay-title">${wp.name}</h3>
+          <div class="overlay-meta">
+            <span class="overlay-category">${wp.category}</span>
+            <span class="overlay-size">${wp.format} • ${wp.size}</span>
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Interactive 3D Perspective Tilt on Card Hover
+    attachCardTilt(item);
+
+    // Viewport image loading with CDN fail-safe fallback
+    const cardImg = item.querySelector('.masonry-img');
+    cardImg.onerror = () => {
+      // If CDN proxy fails or is blocked, seamlessly load original raw URL
+      if (cardImg.src !== wp.url) {
+        cardImg.src = wp.url;
+      }
+    };
+
+    const isAboveFold = (renderedCount === 0 && index < 10);
+    imageLoader.observeCard(item, cardImg, thumbUrl, wp.id, isAboveFold);
+
+    // Click card opens Lightbox with smooth shared element popup animation
+    item.addEventListener('click', (e) => {
+      if (e.target.closest('.overlay-btn')) return;
+      openLightbox(wp, item);
+    });
+
+    const likeBtn = item.querySelector('.like-btn');
+    likeBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      likeBtn.classList.add('pop');
+      setTimeout(() => likeBtn.classList.remove('pop'), 400);
+      toggleLike(wp.id, likeBtn);
+    });
+
+    const downloadBtn = item.querySelector('.download-btn');
+    downloadBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      downloadBtn.classList.add('downloading');
+      const icon = downloadBtn.querySelector('i');
+      if (icon) icon.className = 'fas fa-spinner fa-spin';
+      downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`)
+        .finally(() => {
+          setTimeout(() => {
+            downloadBtn.classList.remove('downloading');
+            if (icon) icon.className = 'fas fa-arrow-down';
+          }, 800);
+        });
+    });
+
+    fragment.appendChild(item);
+  });
+
+  grid.appendChild(fragment);
+  renderedCount += nextBatch.length;
+
+  // Update Load More Button & Stats
+  updateLoadMoreUI();
+}
+
+// Update the Load More Wallpapers controls & counter
+function updateLoadMoreUI() {
+  const container = document.getElementById('load-more-container');
+  if (!container) return;
+
+  const total = filteredWallpapers.length;
+  if (total === 0) {
+    container.style.display = 'none';
+    return;
+  }
+
+  container.style.display = 'flex';
+
+  if (renderedCount >= total) {
+    container.innerHTML = `
+      <div class="all-loaded-indicator">
+        <i class="fas fa-check-circle"></i>
+        <span>All ${total.toLocaleString()} wallpapers loaded</span>
+      </div>
+    `;
+  } else {
+    const remaining = total - renderedCount;
+    const nextCount = Math.min(getBatchSize(), remaining);
+    container.innerHTML = `
+      <button id="load-more-btn" class="load-more-btn" title="Load next ${nextCount} wallpapers">
+        <i class="fas fa-plus-circle"></i>
+        <span>Load More Wallpapers</span>
+        <span class="load-more-badge">+${nextCount}</span>
+      </button>
+      <div class="load-more-status" id="load-more-status">
+        Showing <strong>${renderedCount.toLocaleString()}</strong> of <strong>${total.toLocaleString()}</strong> wallpapers
+      </div>
+    `;
+
+    const btn = document.getElementById('load-more-btn');
+    if (btn) {
+      btn.addEventListener('click', () => {
+        renderNextBatch();
+      });
+    }
+  }
+}
+
+// Toggle Wallpaper Liking (Optimistic UI)
+function toggleLike(id, btnElement) {
+  const isLiked = likedWallpapers.has(id);
+  const wp = WALLPAPERS.find(w => w.id === id);
+
+  if (btnElement) {
+    btnElement.classList.add('pop');
+    setTimeout(() => btnElement.classList.remove('pop'), 400);
+  }
+
+  if (isLiked) {
+    likedWallpapers.delete(id);
+    if (btnElement) {
+      btnElement.classList.remove('liked');
+      btnElement.querySelector('i').className = 'far fa-heart';
+      btnElement.setAttribute('title', 'Like');
+    }
+    showToast(`Removed "${wp.name}" from favorites`, 'info');
+  } else {
+    likedWallpapers.add(id);
+    if (btnElement) {
+      btnElement.classList.add('liked');
+      btnElement.querySelector('i').className = 'fas fa-heart';
+      btnElement.setAttribute('title', 'Unlike');
+    }
+    showToast(`Added "${wp.name}" to favorites`, 'success');
+  }
+
+  localStorage.setItem('liked_wallpapers', JSON.stringify(Array.from(likedWallpapers)));
+
+  if (currentView === 'liked') {
+    setTimeout(() => filterAndRender(false), 400);
+  }
+}
+
+// Custom Boards: Add Wallpaper to Specific Board
+function addWallpaperToBoard(wpId, boardName) {
+  if (boardName === 'Favorites') {
+    toggleLike(wpId);
+    return;
+  }
+
+  const boardWps = customBoards[boardName];
+  if (boardWps.includes(wpId)) {
+    customBoards[boardName] = boardWps.filter(id => id !== wpId);
+    showToast(`Removed from "${boardName}"`, 'info');
+  } else {
+    boardWps.push(wpId);
+    showToast(`Added to "${boardName}"`, 'success');
+  }
+
+  localStorage.setItem('custom_boards', JSON.stringify(customBoards));
+  renderBoardPills();
+  
+  if (currentView === 'board' && currentBoardName === boardName) {
+    setTimeout(() => filterAndRender(false), 400);
+  }
+}
+
+// High Quality Canvas Resizer & Multi-Format Exporter (PNG, WebP, JPG, 4K, 2K, 1080p, 720p, Mobile)
+async function downloadWallpaper(url, filename, canvasElement = null, formatOverride = null, resOverride = null) {
+  const chosenFormat = formatOverride || currentDownloadFormat;
+  const chosenRes = resOverride || currentDownloadRes;
+
+  showToast(`Preparing ${chosenRes.toUpperCase()} (${chosenFormat.toUpperCase()})...`, 'info');
+
+  try {
+    // If user edited with the canvas editor (blur / custom crop)
+    if (canvasElement) {
+      let mimeType = 'image/jpeg';
+      let ext = 'jpg';
+      let quality = 0.95;
+      if (chosenFormat === 'png') { mimeType = 'image/png'; ext = 'png'; }
+      else if (chosenFormat === 'webp') { mimeType = 'image/webp'; ext = 'webp'; }
+      
+      canvasElement.toBlob(blob => {
+        if (blob) {
+          saveBlobFile(blob, filename.replace(/\.[^.]+$/, `.${ext}`));
+          showToast('Edited wallpaper downloaded!', 'success');
+        } else {
+          fallbackDirectDownload(canvasElement.toDataURL('image/jpeg', 0.95), filename);
+        }
+      }, mimeType, quality);
+      return;
+    }
+
+    // Direct download if original format and original resolution
+    if (chosenRes === 'original' && (chosenFormat === 'original' || !chosenFormat)) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Fetch failed');
+        const blob = await response.blob();
+        saveBlobFile(blob, filename);
+        showToast('Download completed!', 'success');
+        return;
+      } catch (err) {
+        fallbackDirectDownload(url, filename);
+        return;
+      }
+    }
+
+    // Load original image to canvas for re-scaling and re-encoding
+    const img = await loadImageForExport(url);
+    const origW = img.naturalWidth || img.width || 1920;
+    const origH = img.naturalHeight || img.height || 1080;
+
+    let targetW = origW;
+    let targetH = origH;
+
+    const resMap = {
+      '4k': { maxW: 3840, maxH: 2160 },
+      '2k': { maxW: 2560, maxH: 1440 },
+      '1080p': { maxW: 1920, maxH: 1080 },
+      '720p': { maxW: 1280, maxH: 720 },
+      'mobile': { targetW: 1080, targetH: 1920, isFixedAspect: true },
+      'tablet': { targetW: 2048, targetH: 1536, isFixedAspect: true }
+    };
+
+    if (chosenRes in resMap) {
+      const cfg = resMap[chosenRes];
+      if (cfg.isFixedAspect) {
+        targetW = cfg.targetW;
+        targetH = cfg.targetH;
+      } else {
+        const scale = Math.min(cfg.maxW / origW, cfg.maxH / origH);
+        targetW = Math.max(1, Math.round(origW * scale));
+        targetH = Math.max(1, Math.round(origH * scale));
+      }
+    }
+
+    const canvas = document.createElement('canvas');
+    canvas.width = targetW;
+    canvas.height = targetH;
+    const ctx = canvas.getContext('2d');
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
+
+    if (chosenRes === 'mobile' || chosenRes === 'tablet') {
+      const aspectImg = origW / origH;
+      const aspectTarget = targetW / targetH;
+      let drawW, drawH, drawX, drawY;
+
+      if (aspectImg > aspectTarget) {
+        drawH = targetH;
+        drawW = origW * (targetH / origH);
+        drawX = (targetW - drawW) / 2;
+        drawY = 0;
+      } else {
+        drawW = targetW;
+        drawH = origH * (targetW / origW);
+        drawX = 0;
+        drawY = (targetH - drawH) / 2;
+      }
+      ctx.drawImage(img, drawX, drawY, drawW, drawH);
+    } else {
+      ctx.drawImage(img, 0, 0, targetW, targetH);
+    }
+
+    // Determine output MIME & extension
+    let mimeType = 'image/png';
+    let ext = 'png';
+    let quality = 0.95;
+
+    if (chosenFormat === 'webp') {
+      mimeType = 'image/webp';
+      ext = 'webp';
+      quality = 0.95;
+    } else if (chosenFormat === 'jpg' || chosenFormat === 'jpeg') {
+      mimeType = 'image/jpeg';
+      ext = 'jpg';
+      quality = 0.93;
+    } else if (chosenFormat === 'original') {
+      const origExt = filename.split('.').pop().toLowerCase();
+      if (origExt === 'png') { mimeType = 'image/png'; ext = 'png'; }
+      else if (origExt === 'webp') { mimeType = 'image/webp'; ext = 'webp'; }
+      else { mimeType = 'image/jpeg'; ext = 'jpg'; }
+    }
+
+    const baseName = filename.replace(/\.[^.]+$/, '');
+    const outName = `${baseName}_${chosenRes.toUpperCase()}.${ext}`;
+
+    canvas.toBlob(blob => {
+      if (blob) {
+        saveBlobFile(blob, outName);
+        showToast(`Downloaded ${outName} successfully!`, 'success');
+      } else {
+        fallbackDirectDownload(url, filename);
+      }
+    }, mimeType, quality);
+
+  } catch (error) {
+    console.error('Download error:', error);
+    fallbackDirectDownload(url, filename);
+  }
+}
+
+function saveBlobFile(blob, filename) {
+  const blobUrl = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = blobUrl;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  setTimeout(() => URL.revokeObjectURL(blobUrl), 1500);
+}
+
+function fallbackDirectDownload(url, filename) {
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  link.target = '_blank';
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  showToast('Download started in a new tab', 'info');
+}
+
+function loadImageForExport(url) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => resolve(img);
+    img.onerror = () => {
+      fetch(url)
+        .then(res => {
+          if (!res.ok) throw new Error('Fetch failed');
+          return res.blob();
+        })
+        .then(blob => {
+          const blobUrl = URL.createObjectURL(blob);
+          const blobImg = new Image();
+          blobImg.onload = () => resolve(blobImg);
+          blobImg.onerror = reject;
+          blobImg.src = blobUrl;
+        })
+        .catch(reject);
+    };
+    img.src = url;
+  });
+}
+
+// Lightbox Logic
+function openLightbox(wp, originCard = null, isNavigation = false) {
+  currentActiveWp = wp;
+  const isLiked = likedWallpapers.has(wp.id);
+  
+  lightbox.querySelector('.detail-category').textContent = wp.category;
+  lightbox.querySelector('.detail-title').textContent = wp.name;
+  
+  // Set attributes info
+  document.getElementById('info-format').textContent = wp.format;
+  document.getElementById('info-size').textContent = wp.size;
+  document.getElementById('info-path').textContent = wp.path;
+  
+  window.location.hash = wp.id;
+
+  // Set Board Select dropdown values
+  setupBoardSelectorForWallpaper(wp.id);
+
+  // Setup Lightbox Action listeners
+  const lightboxDownloadBtn = document.getElementById('lightbox-download');
+  const lightboxLikeBtn = document.getElementById('lightbox-like');
+
+  const newDownloadBtn = lightboxDownloadBtn.cloneNode(true);
+  const newLikeBtn = lightboxLikeBtn.cloneNode(true);
+  
+  lightboxDownloadBtn.parentNode.replaceChild(newDownloadBtn, lightboxDownloadBtn);
+  lightboxLikeBtn.parentNode.replaceChild(newLikeBtn, lightboxLikeBtn);
+
+  // Sync button text with current format and resolution
+  updateDownloadBtnLabel();
+
+  if (isLiked) {
+    newLikeBtn.classList.add('liked');
+    newLikeBtn.innerHTML = '<i class="fas fa-heart"></i> Liked';
+  } else {
+    newLikeBtn.classList.remove('liked');
+    newLikeBtn.innerHTML = '<i class="far fa-heart"></i> Favorite';
+  }
+
+  newDownloadBtn.addEventListener('click', () => {
+    newDownloadBtn.classList.add('downloading');
+    const dlText = document.getElementById('download-btn-text');
+    if (dlText) dlText.textContent = 'Preparing 4K Download...';
+
+    const p = editModeActive
+      ? downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas, currentDownloadFormat, currentDownloadRes)
+      : downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`, null, currentDownloadFormat, currentDownloadRes);
+
+    Promise.resolve(p).finally(() => {
+      setTimeout(() => {
+        newDownloadBtn.classList.remove('downloading');
+        updateDownloadBtnLabel();
+      }, 800);
+    });
+  });
+
+  newLikeBtn.addEventListener('click', () => {
+    newLikeBtn.classList.add('pop');
+    setTimeout(() => newLikeBtn.classList.remove('pop'), 400);
+    toggleLike(wp.id);
+    const updatedLiked = likedWallpapers.has(wp.id);
+    
+    if (updatedLiked) {
+      newLikeBtn.classList.add('liked');
+      newLikeBtn.innerHTML = '<i class="fas fa-heart"></i> Liked';
+      boardSelect.value = 'Favorites';
+    } else {
+      newLikeBtn.classList.remove('liked');
+      newLikeBtn.innerHTML = '<i class="far fa-heart"></i> Favorite';
+      boardSelect.value = '';
+    }
+
+    const cardEl = document.querySelector(`.masonry-item[data-id="${wp.id}"]`);
+    if (cardEl) {
+      const cardLikeBtn = cardEl.querySelector('.like-btn');
+      if (updatedLiked) {
+        cardLikeBtn.classList.add('liked');
+        cardLikeBtn.querySelector('i').className = 'fas fa-heart';
+      } else {
+        cardLikeBtn.classList.remove('liked');
+        cardLikeBtn.querySelector('i').className = 'far fa-heart';
+      }
+    }
+  });
+
+  boardSelect.onchange = (e) => {
+    const selectedBoard = e.target.value;
+    if (selectedBoard) {
+      addWallpaperToBoard(wp.id, selectedBoard);
+    }
+  };
+
+  resetEditorState();
+
+  if (wp.format === 'GIF') {
+    editorToggleBtn.style.display = 'none';
+  } else {
+    editorToggleBtn.style.display = 'block';
+    originalImage = new Image();
+    originalImage.crossOrigin = 'anonymous';
+    originalImage.src = wp.url;
+  }
+
+  // Trigger Shared Element Popup Animation (Requirement 5) & Load First (Requirement 3)
+  animatePopupOpen(wp, originCard, isNavigation);
+}
+
+function closeLightbox() {
+  animatePopupClose();
+}
+
+function setupBoardSelectorForWallpaper(wpId) {
+  let matchedBoard = '';
+  if (likedWallpapers.has(wpId)) {
+    matchedBoard = 'Favorites';
+  } else {
+    for (const name of Object.keys(customBoards)) {
+      if (customBoards[name].includes(wpId)) {
+        matchedBoard = name;
+        break;
+      }
+    }
+  }
+  boardSelect.value = matchedBoard;
+}
+
+// Canvas Editor Panel Actions
+function toggleEditorPanel() {
+  editModeActive = !editModeActive;
+  
+  if (editModeActive) {
+    editorToggleBtn.classList.add('active');
+    editorToggleBtn.innerHTML = '<i class="fas fa-check"></i> Close Editor';
+    editorPanel.classList.add('active');
+    lightboxMedia.classList.add('canvas-preview-active');
+    updateCanvas();
+  } else {
+    resetEditorState();
+  }
+}
+
+// Reset Editor State
+function resetEditorState() {
+  editModeActive = false;
+  currentBlur = 0;
+  currentCropRatio = 'free';
+  cropOffsetPercent = 50;
+  originalImage = null;
+  
+  editorToggleBtn.classList.remove('active');
+  editorToggleBtn.innerHTML = '<i class="fas fa-magic"></i> Edit Wallpaper (Crop & Blur)';
+  editorPanel.classList.remove('active');
+  lightboxMedia.classList.remove('canvas-preview-active');
+  
+  blurSlider.value = 0;
+  blurVal.textContent = '0px';
+  panSlider.value = 50;
+  panVal.textContent = '50%';
+  panControl.style.display = 'none';
+  blurFitContainer.style.display = 'none';
+  blurFitCheckbox.checked = false;
+
+  ratioBtns.forEach(btn => {
+    if (btn.getAttribute('data-ratio') === 'free') {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+}
+
+function handleBlurChange(e) {
+  currentBlur = parseInt(e.target.value, 10);
+  blurVal.textContent = `${currentBlur}px`;
+  updateCanvas();
+}
+
+function handlePanChange(e) {
+  cropOffsetPercent = parseInt(e.target.value, 10);
+  panVal.textContent = `${cropOffsetPercent}%`;
+  updateCanvas();
+}
+
+// Render dynamic center-crop, Gaussian blur, crop pan slider offsets, and Blurred Fit logic onto canvas
+function updateCanvas() {
+  if (!originalImage || !originalImage.complete) {
+    setTimeout(updateCanvas, 50);
+    return;
+  }
+
+  const imgW = originalImage.naturalWidth;
+  const imgH = originalImage.naturalHeight;
+
+  // Decide if panning offset sliders need to be visible
+  updateEditorControlsVisibility(imgW, imgH);
+
+  // Calculate cropping bounds
+  const crop = getCropBounds(imgW, imgH, currentCropRatio);
+
+  editorCanvas.width = crop.w;
+  editorCanvas.height = crop.h;
+
+  const ctx = editorCanvas.getContext('2d');
+  ctx.clearRect(0, 0, crop.w, crop.h);
+
+  // Check if Blurred Fit Portrait is enabled
+  const doBlurFit = blurFitCheckbox.checked && 
+    (currentCropRatio === '9:16' || currentCropRatio === '1:1') && 
+    (imgW > imgH);
+
+  if (doBlurFit) {
+    // 1. Draw blurred, zoomed background
+    ctx.save();
+    ctx.filter = `blur(${Math.max(currentBlur, 24)}px)`; // enforce minimum blur for fitting
+    
+    // Zoom/fill backdrop math: crop center portrait slice of landscape image
+    const bgRatio = crop.w / crop.h;
+    let bgW, bgH;
+    if (imgW / imgH > bgRatio) {
+      bgH = imgH;
+      bgW = imgH * bgRatio;
+    } else {
+      bgW = imgW;
+      bgH = imgW / bgRatio;
+    }
+    const bgX = (imgW - bgW) / 2;
+    const bgY = (imgH - bgH) / 2;
+    
+    // Draw blurred back
+    ctx.drawImage(originalImage, bgX, bgY, bgW, bgH, 0, 0, crop.w, crop.h);
+    ctx.restore();
+
+    // 2. Draw clean unblurred desktop foreground in center
+    ctx.save();
+    if (currentBlur > 0) {
+      ctx.filter = `blur(${currentBlur}px)`;
+    } else {
+      ctx.filter = 'none';
+    }
+
+    const scale = crop.w / imgW;
+    const fgH = imgH * scale;
+    const fgY = (crop.h - fgH) / 2;
+    
+    ctx.drawImage(originalImage, 0, 0, imgW, imgH, 0, fgY, crop.w, fgH);
+    ctx.restore();
+
+  } else {
+    // Standard Draw logic (Blur + Crop Position Pan offsets)
+    if (currentBlur > 0) {
+      ctx.filter = `blur(${currentBlur}px)`;
+    } else {
+      ctx.filter = 'none';
+    }
+
+    const pad = currentBlur * 2;
+    ctx.drawImage(
+      originalImage, 
+      crop.x - pad, 
+      crop.y - pad, 
+      crop.w + pad * 2, 
+      crop.h + pad * 2, 
+      -pad, 
+      -pad, 
+      crop.w + pad * 2, 
+      crop.h + pad * 2
+    );
+  }
+}
+
+// Dynamically toggles sliders depending on crop bounds prying axes
+function updateEditorControlsVisibility(imgW, imgH) {
+  if (currentCropRatio === 'free') {
+    panControl.style.display = 'none';
+    blurFitContainer.style.display = 'none';
+    return;
+  }
+
+  let targetRatio = 1;
+  if (currentCropRatio === '16:9') targetRatio = 16 / 9;
+  else if (currentCropRatio === '9:16') targetRatio = 9 / 16;
+  else if (currentCropRatio === '1:1') targetRatio = 1;
+  else if (currentCropRatio === '4:3') targetRatio = 4 / 3;
+
+  const imgRatio = imgW / imgH;
+
+  // 1. Pan controls visibility
+  if (Math.abs(imgRatio - targetRatio) < 0.05) {
+    panControl.style.display = 'none'; // ratios match, no panning needed
+  } else {
+    panControl.style.display = 'flex';
+    if (imgRatio > targetRatio) {
+      panLabel.textContent = 'Slide Left / Right';
+    } else {
+      panLabel.textContent = 'Slide Up / Down';
+    }
+  }
+
+  // 2. Blurred Fit Portrait controls visibility (Landscape image fitted into Portrait crop)
+  const isPortraitCrop = currentCropRatio === '9:16' || currentCropRatio === '1:1';
+  if (isPortraitCrop && imgW > imgH) {
+    blurFitContainer.style.display = 'flex';
+  } else {
+    blurFitContainer.style.display = 'none';
+    blurFitCheckbox.checked = false;
+  }
+}
+
+// Center crop calculation helper with panning offsets
+function getCropBounds(w, h, ratioStr) {
+  if (ratioStr === 'free') {
+    return { x: 0, y: 0, w: w, h: h };
+  }
+
+  let targetRatio = 1;
+  if (ratioStr === '16:9') targetRatio = 16 / 9;
+  else if (ratioStr === '9:16') targetRatio = 9 / 16;
+  else if (ratioStr === '1:1') targetRatio = 1;
+  else if (ratioStr === '4:3') targetRatio = 4 / 3;
+
+  let cropW, cropH;
+  if (w / h > targetRatio) {
+    cropH = h;
+    cropW = h * targetRatio;
+  } else {
+    cropW = w;
+    cropH = w / targetRatio;
+  }
+
+  // Position panner math using cropOffsetPercent (value 0 to 100)
+  const offsetFraction = cropOffsetPercent / 100;
+  let cropX = (w - cropW) / 2;
+  let cropY = (h - cropH) / 2;
+
+  if (w / h > targetRatio) {
+    cropX = (w - cropW) * offsetFraction; // slide left-to-right
+  } else {
+    cropY = (h - cropH) * offsetFraction; // slide up-to-down
+  }
+
+  return { x: cropX, y: cropY, w: cropW, h: cropH };
+}
+
+// Fullscreen Slideshow Loop Manager
+function startSlideshow(startIndex = 0) {
+  if (filteredWallpapers.length === 0) return;
+  
+  slideshowActive = true;
+  slideshowIndex = startIndex;
+  slideshowAutoplay = true;
+  
+  slideshowPlayBtn.innerHTML = '<i class="fas fa-pause"></i>';
+  slideshowOverlay.classList.add('active');
+  slideshowOverlay.classList.remove('idle');
+  document.body.style.overflow = 'hidden';
+  
+  showSlide(slideshowIndex);
+  resetSlideshowTimer();
+}
+
+function showSlide(index) {
+  slideshowIndex = index;
+  const wp = filteredWallpapers[slideshowIndex];
+  
+  // Set image source
+  slideshowImg.classList.remove('active');
+  setTimeout(() => {
+    slideshowImg.src = wp.url;
+    slideshowImg.alt = wp.name;
+    slideshowImg.onload = () => {
+      slideshowImg.classList.add('active');
+    };
+  }, 100);
+
+  // Update hash deep linking in background
+  window.location.hash = wp.id;
+}
+
+function nextSlide() {
+  showSlide((slideshowIndex + 1) % filteredWallpapers.length);
+  if (slideshowAutoplay) resetSlideshowTimer();
+}
+
+function prevSlide() {
+  showSlide((slideshowIndex - 1 + filteredWallpapers.length) % filteredWallpapers.length);
+  if (slideshowAutoplay) resetSlideshowTimer();
+}
+
+function toggleSlideshowPlay() {
+  slideshowAutoplay = !slideshowAutoplay;
+  if (slideshowAutoplay) {
+    slideshowPlayBtn.innerHTML = '<i class="fas fa-pause"></i>';
+    resetSlideshowTimer();
+    showToast('Slideshow resumed', 'info');
+  } else {
+    slideshowPlayBtn.innerHTML = '<i class="fas fa-play"></i>';
+    clearInterval(slideshowTimer);
+    slideshowProgressBar.style.transition = 'none';
+    slideshowProgressBar.style.width = '0%';
+    showToast('Slideshow paused', 'info');
+  }
+}
+
+function resetSlideshowTimer() {
+  clearInterval(slideshowTimer);
+  
+  // Animate CSS progress bar
+  slideshowProgressBar.style.transition = 'none';
+  slideshowProgressBar.style.width = '0%';
+  
+  // Trigger bar animation
+  setTimeout(() => {
+    slideshowProgressBar.style.transition = `width ${slideshowDuration}ms linear`;
+    slideshowProgressBar.style.width = '100%';
+  }, 50);
+
+  slideshowTimer = setInterval(() => {
+    nextSlide();
+  }, slideshowDuration);
+}
+
+function closeSlideshow() {
+  slideshowActive = false;
+  clearInterval(slideshowTimer);
+  slideshowOverlay.classList.remove('active');
+  document.body.style.overflow = '';
+  
+  // Sync back to lightbox with deep-linking
+  const currentWp = filteredWallpapers[slideshowIndex];
+  if (currentWp) {
+    openLightbox(currentWp);
+  }
+}
+
+// Mouse idle auto-hider for slideshow
+function triggerSlideshowMouseMovement() {
+  slideshowOverlay.classList.remove('idle');
+  clearTimeout(slideshowMouseTimer);
+  
+  slideshowMouseTimer = setTimeout(() => {
+    if (slideshowActive && slideshowAutoplay) {
+      slideshowOverlay.classList.add('idle');
+    }
+  }, 2500);
+}
+
+// Toast Alert Messages
+function showToast(message, type = 'info') {
+  const toast = document.createElement('div');
+  toast.className = `toast ${type}`;
+  toast.innerHTML = `
+    <i class="${type === 'success' ? 'fas fa-check-circle' : 'fas fa-info-circle'}"></i>
+    <span>${message}</span>
+  `;
+
+  toastContainer.appendChild(toast);
+  
+  setTimeout(() => toast.classList.add('show'), 50);
+
+  setTimeout(() => {
+    toast.classList.remove('show');
+    setTimeout(() => {
+      if (toast.parentNode) {
+        toastContainer.removeChild(toast);
+      }
+    }, 300);
+  }, 3000);
+}
+
+
+// =========================================================
+// Wallpaper data loader
+// 1) fetch wallpapers.json  2) fallback: load database.js (works on file://)
+// =========================================================
+let WALLPAPERS = [];
+
+function loadScriptOnce(src) {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = src;
+    s.onload = resolve;
+    s.onerror = () => reject(new Error('Failed to load ' + src));
+    document.head.appendChild(s);
+  });
+}
+
+async function loadWallpapers() {
+  try {
+    const res = await fetch('wallpapers.json', { cache: 'default' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    WALLPAPERS = await res.json();
+  } catch (jsonErr) {
+    try {
+      await loadScriptOnce('database.js');
+      WALLPAPERS = window.WALLPAPER_DATA || [];
+    } catch (jsErr) {
+      console.error('Could not load wallpapers', jsonErr, jsErr);
+    }
+  }
+  init();
+}
+
+window.addEventListener('DOMContentLoaded', loadWallpapers);
+
+
+</script>
 </body>
 </html>

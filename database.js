@@ -1,5 +1,5 @@
 // This file is auto-generated. Do not edit directly.
-const WALLPAPERS = [
+window.WALLPAPER_DATA = [
   {
     "name": "Anime #1",
     "category": "Anime Wallpapers",
