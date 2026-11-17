@@ -220,6 +220,117 @@ const lightbox = document.getElementById('lightbox');
 const totalCountEl = document.getElementById('total-count');
 const viewCountEl = document.getElementById('view-count');
 
+// Enhanced Search DOM Elements & Badges
+const activeSearchBadge = document.getElementById('active-search-badge');
+const activeSearchLabel = document.getElementById('active-search-label');
+const clearActiveSearchBtn = document.getElementById('clear-active-search-btn');
+const searchTagsContainer = document.getElementById('search-tags');
+
+// Intelligent Search Aliases & Semantic Synonyms Dictionary
+const SEARCH_ALIASES = {
+  'onepiece': ['one piece', 'luffy', 'zoro', 'straw hat', 'wano', 'egghead', 'pirate', 'nika'],
+  'one': ['one piece'],
+  'piece': ['one piece'],
+  'luffy': ['one piece', 'straw hat', 'gear 5', 'nika', 'joy boy'],
+  'zoro': ['one piece', 'santoryu', 'ashura', 'swordsman'],
+  'nami': ['one piece', 'straw hat'],
+  'sanji': ['one piece', 'straw hat'],
+  'sabo': ['one piece', 'flame emperor'],
+  'mihawk': ['one piece', 'dracule mihawk'],
+  'yamato': ['one piece', 'wano', 'oni'],
+  'wano': ['one piece', 'samurai', 'kaido'],
+  'egghead': ['one piece', 'vegapunk'],
+  'strawhat': ['one piece', 'luffy', 'straw hat'],
+  'girl': ['girls', 'waifu', 'woman', 'women', 'female', 'schoolgirl'],
+  'girls': ['girl', 'waifu', 'woman', 'women', 'female', 'schoolgirl'],
+  'waifu': ['girl', 'girls', 'anime girl'],
+  'woman': ['girl', 'girls'],
+  'women': ['girl', 'girls'],
+  'frieren': ['girls', 'frieren beyond journeys end', 'mage'],
+  'makima': ['girls', 'chainsaw man'],
+  'power': ['girls', 'chainsaw man'],
+  'reze': ['girls', 'chainsaw man'],
+  'lucy': ['girls', 'cyberpunk edgerunners'],
+  'asuka': ['girls', 'evangelion'],
+  'rei': ['girls', 'evangelion'],
+  'saber': ['girls', 'fate'],
+  'tablet': ['tab', 'ipad', 'android tablet', '4:3', '16:10', '3:2'],
+  'tab': ['tablet', 'ipad'],
+  'ipad': ['tablet', 'tablet wallpapers'],
+  'phone': ['mobile', '9:16', 'portrait', 'vertical'],
+  'mobile': ['phone', '9:16', 'portrait', 'vertical'],
+  'desktop': ['pc', 'computer', 'wide', 'ultrawide', '16:9'],
+  'pc': ['desktop', 'computer', 'wide', '16:9'],
+  '4k': ['uhd', 'ultra hd', '4k wallpaper', '3840'],
+  'uhd': ['4k', 'ultra hd'],
+  'dark': ['amoled', 'oled', 'black', 'monochrome'],
+  'minimal': ['minimalist', 'minimalism'],
+  'minimalist': ['minimal', 'minimalism'],
+  'nature': ['landscape', 'scenery', 'mountain', 'forest', 'sea', 'lake'],
+  'space': ['galaxy', 'cosmic', 'astronomy', 'stars', 'nebula']
+};
+
+// Calculate Intelligent Relevance Score
+function calculateRelevanceScore(wp, query, queryTokens) {
+  if (!query) return 1;
+
+  const name = (wp.name || '').toLowerCase();
+  const category = (wp.category || '').toLowerCase();
+  const format = (wp.format || '').toLowerCase();
+  const path = (wp.path || '').toLowerCase();
+  const tagsStr = Array.isArray(wp.tags) ? wp.tags.join(' ').toLowerCase() : (wp.tags || '').toLowerCase();
+  const fullSearchable = `${name} ${category} ${tagsStr} ${format} ${path}`;
+
+  // Check how many tokens match
+  let matchedTokens = 0;
+  for (const token of queryTokens) {
+    if (fullSearchable.includes(token)) {
+      matchedTokens++;
+    } else {
+      const aliases = SEARCH_ALIASES[token];
+      if (aliases && aliases.some(a => fullSearchable.includes(a))) {
+        matchedTokens++;
+      }
+    }
+  }
+
+  // Reject if not enough tokens match
+  if (queryTokens.length === 1 && matchedTokens === 0) return 0;
+  if (queryTokens.length === 2 && matchedTokens < 2) return 0;
+  if (queryTokens.length > 2 && matchedTokens < Math.ceil(queryTokens.length * 0.7)) return 0;
+
+  // Calculate Relevance Score
+  let score = matchedTokens * 25;
+
+  // 1. Exact full query in name
+  if (name === query) score += 300;
+  else if (name.startsWith(query)) score += 200;
+  else if (name.includes(query)) score += 150;
+
+  // 2. Token matches in name
+  for (const token of queryTokens) {
+    if (name.includes(token)) score += 35;
+  }
+
+  // 3. Category match
+  if (category === query) score += 150;
+  else if (category.includes(query)) score += 80;
+
+  // 4. Tags match
+  if (tagsStr.includes(query)) score += 90;
+  for (const token of queryTokens) {
+    if (tagsStr.includes(token)) score += 30;
+  }
+
+  // 5. Path match
+  if (path.includes(query)) score += 40;
+
+  // 6. Format match
+  if (format === query) score += 30;
+
+  return score;
+}
+
 // Upgrade DOM Elements
 const surpriseBtn = document.getElementById('surprise-btn');
 const boardsFilterRow = document.getElementById('boards-filter-row');
@@ -463,6 +574,7 @@ function updateDownloadBtnLabel() {
   const fmtText = currentDownloadFormat.toUpperCase();
   let resText = currentDownloadRes.toUpperCase();
   if (currentDownloadRes === 'mobile') resText = 'Mobile (9:16)';
+  else if (currentDownloadRes === 'tablet') resText = 'Tablet (4:3)';
   else if (currentDownloadRes === 'original') resText = 'Original Size';
   else if (currentDownloadRes === '4k') resText = '4K (UHD)';
   else if (currentDownloadRes === '2k') resText = '2K (QHD)';
@@ -813,9 +925,23 @@ function setupHeader() {
   });
 
   document.addEventListener('keydown', (e) => {
-    if (e.key !== 'Escape') return;
-    if (menu.classList.contains('open')) { setMenu(false); ham.focus(); }
-    else if (sBar.classList.contains('open')) { setSearch(false); sBtn.focus(); }
+    const activeEl = document.activeElement;
+    const tag = (activeEl ? activeEl.tagName : '').toLowerCase();
+    const inInput = tag === 'input' || tag === 'textarea' || tag === 'select' || (activeEl && activeEl.isContentEditable);
+
+    if (e.key === 'Escape') {
+      if (menu.classList.contains('open')) { setMenu(false); ham.focus(); }
+      else if (sBar.classList.contains('open')) { setSearch(false); sBtn.focus(); }
+      return;
+    }
+
+    // Quick Search shortcut: "/" or "Ctrl+K" or "Cmd+K" opens search immediately
+    if (!inInput && (e.key === '/' || ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k'))) {
+      e.preventDefault();
+      setSearch(true);
+      searchInput.focus();
+      searchInput.select();
+    }
   });
 
   function syncSearchUI() {
@@ -826,13 +952,35 @@ function setupHeader() {
   searchInput.addEventListener('input', syncSearchUI);
   sClear.addEventListener('click', () => {
     searchInput.value = '';
-    searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+    searchQuery = '';
+    syncSearchUI();
+    updateActivePills('');
+    updateUrlQuery('');
+    updateActiveSearchUI();
+    filterAndRender(true);
     searchInput.focus();
   });
   searchInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') { setSearch(false); }
   });
   syncSearchUI();
+
+  // Active search pill in stats row clear handler
+  if (clearActiveSearchBtn) {
+    clearActiveSearchBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      syncSearchUI();
+      updateActivePills('');
+      updateUrlQuery('');
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  }
+
+  // Quick suggestion tags click handler
+  setupSearchPills();
 
   // keep the "+N" label right when the column count changes
   let rt;
@@ -842,12 +990,105 @@ function setupHeader() {
   });
 }
 
+// Search UI Helpers
+function updateActivePills(q) {
+  const pills = document.querySelectorAll('.search-tag-pill');
+  const cleanQ = (q || '').toLowerCase().trim();
+  pills.forEach(pill => {
+    const pQ = (pill.getAttribute('data-query') || '').toLowerCase().trim();
+    const isActive = cleanQ && (
+      cleanQ === pQ ||
+      (pQ === 'girls' && (cleanQ === 'girl' || cleanQ === 'girls')) ||
+      (pQ === 'one piece' && (cleanQ === 'one piece' || cleanQ === 'onepiece')) ||
+      (pQ === 'tablet' && (cleanQ === 'tablet' || cleanQ === 'tab' || cleanQ === 'ipad'))
+    );
+    pill.classList.toggle('active', !!isActive);
+  });
+}
+
+function updateActiveSearchUI() {
+  if (!activeSearchBadge || !activeSearchLabel) return;
+  if (searchQuery) {
+    activeSearchLabel.textContent = `Search: "${searchQuery}"`;
+    activeSearchBadge.style.display = 'inline-flex';
+  } else {
+    activeSearchBadge.style.display = 'none';
+  }
+}
+
+function updateUrlQuery(q) {
+  try {
+    const url = new URL(window.location.href);
+    if (q) {
+      url.searchParams.set('q', q);
+    } else {
+      url.searchParams.delete('q');
+    }
+    window.history.replaceState({}, '', url.toString());
+  } catch (_) {}
+}
+
+function setupSearchPills() {
+  if (!searchTagsContainer) return;
+  searchTagsContainer.addEventListener('click', (e) => {
+    const pill = e.target.closest('.search-tag-pill');
+    if (!pill) return;
+    const targetQ = pill.getAttribute('data-query');
+    if (!targetQ) return;
+
+    const currentVal = searchInput.value.toLowerCase().trim();
+    const clickVal = targetQ.toLowerCase().trim();
+
+    if (currentVal === clickVal) {
+      searchInput.value = '';
+      searchQuery = '';
+    } else {
+      searchInput.value = targetQ;
+      searchQuery = clickVal;
+    }
+
+    const sBtn = document.getElementById('search-toggle');
+    const sClear = document.getElementById('search-clear');
+    if (sBtn) sBtn.classList.toggle('has-q', searchInput.value.trim() !== '');
+    if (sClear) sClear.hidden = searchInput.value.trim() === '';
+
+    updateActivePills(searchQuery);
+    updateUrlQuery(searchQuery);
+    updateActiveSearchUI();
+    filterAndRender(true);
+    searchInput.focus();
+  });
+}
+
+function handleInitialSearch() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) {
+      searchInput.value = q;
+      searchQuery = q.toLowerCase().trim();
+      const sBar = document.getElementById('search-bar');
+      const sBtn = document.getElementById('search-toggle');
+      if (sBar) sBar.classList.add('open');
+      if (sBtn) {
+        sBtn.setAttribute('aria-expanded', 'true');
+        sBtn.classList.add('has-q');
+      }
+      const sClear = document.getElementById('search-clear');
+      if (sClear) sClear.hidden = false;
+      updateActivePills(searchQuery);
+      updateActiveSearchUI();
+    }
+  } catch (_) {}
+}
+
 // Initialize App
 function init() {
   handleSplashScreen();
   setupTheme();
   setupFilters();
   setupHeader();
+  handleInitialSearch();
   renderBoardPills();
   populateBoardSelect();
   setupDownloadOptions();
@@ -957,10 +1198,18 @@ function updateSortSizeBtnUI() {
 
 // Event Listeners Setup
 function setupEventListeners() {
-  // Search Input
+  // Search Input with debouncing, URL sync, active search badge, and pills sync
+  let searchDebounceTimer = null;
   searchInput.addEventListener('input', (e) => {
-    searchQuery = e.target.value.toLowerCase().trim();
-    filterAndRender(true);
+    const val = e.target.value;
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = setTimeout(() => {
+      searchQuery = val.toLowerCase().trim();
+      updateUrlQuery(searchQuery);
+      updateActiveSearchUI();
+      updateActivePills(searchQuery);
+      filterAndRender(true);
+    }, 120);
   });
 
   // Folder / Format dropdown changes
@@ -1284,11 +1533,16 @@ function filterAndRender(reset = true) {
     imageLoader.reset();
   }
 
+  const queryTokens = searchQuery ? searchQuery.split(/\s+/).filter(Boolean) : [];
+
   filteredWallpapers = WALLPAPERS.filter(wp => {
-    const matchesSearch = searchQuery === '' || 
-      wp.name.toLowerCase().includes(searchQuery) ||
-      wp.category.toLowerCase().includes(searchQuery) ||
-      wp.format.toLowerCase().includes(searchQuery);
+    let matchesSearch = true;
+    let score = 0;
+    if (searchQuery !== '') {
+      score = calculateRelevanceScore(wp, searchQuery, queryTokens);
+      matchesSearch = score > 0;
+      wp._searchScore = score;
+    }
 
     const matchesCategory = currentCategory === 'All' || wp.category === currentCategory;
     const matchesFormat = currentFormat === 'All' || wp.format === currentFormat;
@@ -1313,10 +1567,19 @@ function filterAndRender(reset = true) {
     filteredWallpapers.sort((a, b) => getWpSizeBytes(a) - getWpSizeBytes(b));
   } else if (currentSort === 'size-desc') {
     filteredWallpapers.sort((a, b) => getWpSizeBytes(b) - getWpSizeBytes(a));
+  } else if (searchQuery !== '') {
+    // Relevance sorting when search is active (Highest relevance first!)
+    filteredWallpapers.sort((a, b) => (b._searchScore || 0) - (a._searchScore || 0));
   } else {
-    // Default natural order: 1, 2, 3 ... 132
+    // Default natural order: One Piece, Girls, Tablet, Anime, etc.
     filteredWallpapers.sort((a, b) => {
       if (a.category !== b.category) {
+        if (a.category === 'One Piece') return -1;
+        if (b.category === 'One Piece') return 1;
+        if (a.category === 'Girls Wallpapers') return -1;
+        if (b.category === 'Girls Wallpapers') return 1;
+        if (a.category === 'Tablet Wallpapers') return -1;
+        if (b.category === 'Tablet Wallpapers') return 1;
         if (a.category === 'Anime Wallpapers') return -1;
         if (b.category === 'Anime Wallpapers') return 1;
         if (a.category === 'Anime Backgrounds') return -1;
@@ -1327,9 +1590,10 @@ function filterAndRender(reset = true) {
     });
   }
 
-  // Update Stats
+  // Update Stats & Active Search UI
   totalCountEl.textContent = WALLPAPERS.length;
   viewCountEl.textContent = filteredWallpapers.length;
+  updateActiveSearchUI();
 
   if (filteredWallpapers.length === 0) {
     renderEmptyState();
@@ -1342,22 +1606,78 @@ function filterAndRender(reset = true) {
   }
 }
 
-// Render empty state template
+// Render empty state template with smart recovery suggestions
 function renderEmptyState() {
   let emptyDesc = 'We couldn\'t find any matching wallpapers. Try adjusting your filters or search terms.';
   if (currentView === 'liked') {
     emptyDesc = 'You haven\'t liked any wallpapers yet. Go back to Explore and click the heart icon on your favorites!';
   } else if (currentView === 'board') {
     emptyDesc = `This board is empty. Open any wallpaper and add it to "${currentBoardName}"!`;
+  } else if (searchQuery) {
+    emptyDesc = `We couldn't find any wallpapers matching "${searchQuery}".`;
   }
+
+  const suggestionsHtml = searchQuery ? `
+    <div class="empty-suggestions">
+      <div class="empty-suggestions-label">Try searching for popular topics:</div>
+      <div class="empty-tag-buttons">
+        <button type="button" class="btn-tag" data-search="One Piece">🏴‍☠️ One Piece</button>
+        <button type="button" class="btn-tag" data-search="Girls">🌸 Girls</button>
+        <button type="button" class="btn-tag" data-search="Tablet">📱 Tablet</button>
+        <button type="button" class="btn-tag" data-search="Anime">⛩️ Anime</button>
+        <button type="button" class="btn-tag" data-search="4K Landscape">🌄 4K Landscape</button>
+        <button type="button" class="btn-tag" data-search="Cyberpunk">⚡ Cyberpunk</button>
+        <button type="button" class="btn-tag" data-search="4K Minimalist">🖤 Minimalist</button>
+      </div>
+      <button type="button" id="empty-clear-btn" class="action-btn secondary-btn" style="margin-top: 1rem; border-radius: 999px; padding: 6px 16px; font-size: 0.85rem;">
+        <i class="fas fa-times-circle"></i> Clear Search
+      </button>
+    </div>
+  ` : '';
 
   grid.innerHTML = `
     <div class="empty-state">
       <div class="empty-icon"><i class="fas fa-image-slash"></i></div>
       <div class="empty-title">No Wallpapers Found</div>
       <div class="empty-desc">${emptyDesc}</div>
+      ${suggestionsHtml}
     </div>
   `;
+
+  const emptyClearBtn = document.getElementById('empty-clear-btn');
+  if (emptyClearBtn) {
+    emptyClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      const sBtn = document.getElementById('search-toggle');
+      const sClear = document.getElementById('search-clear');
+      if (sBtn) sBtn.classList.remove('has-q');
+      if (sClear) sClear.hidden = true;
+      updateActivePills('');
+      updateUrlQuery('');
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  }
+
+  const suggestionBtns = grid.querySelectorAll('.empty-tag-buttons .btn-tag');
+  suggestionBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const q = btn.getAttribute('data-search');
+      searchInput.value = q;
+      searchQuery = q.toLowerCase().trim();
+      const sBtn = document.getElementById('search-toggle');
+      const sClear = document.getElementById('search-clear');
+      if (sBtn) sBtn.classList.add('has-q');
+      if (sClear) sClear.hidden = false;
+      updateActivePills(searchQuery);
+      updateUrlQuery(searchQuery);
+      updateActiveSearchUI();
+      filterAndRender(true);
+      searchInput.focus();
+    });
+  });
 }
 
 // Number of columns the grid currently shows
@@ -1636,12 +1956,13 @@ async function downloadWallpaper(url, filename, canvasElement = null, formatOver
       '2k': { maxW: 2560, maxH: 1440 },
       '1080p': { maxW: 1920, maxH: 1080 },
       '720p': { maxW: 1280, maxH: 720 },
-      'mobile': { targetW: 1080, targetH: 1920, isMobile: true }
+      'mobile': { targetW: 1080, targetH: 1920, isFixedAspect: true },
+      'tablet': { targetW: 2048, targetH: 1536, isFixedAspect: true }
     };
 
     if (chosenRes in resMap) {
       const cfg = resMap[chosenRes];
-      if (cfg.isMobile) {
+      if (cfg.isFixedAspect) {
         targetW = cfg.targetW;
         targetH = cfg.targetH;
       } else {
@@ -1658,7 +1979,7 @@ async function downloadWallpaper(url, filename, canvasElement = null, formatOver
     ctx.imageSmoothingEnabled = true;
     ctx.imageSmoothingQuality = 'high';
 
-    if (chosenRes === 'mobile') {
+    if (chosenRes === 'mobile' || chosenRes === 'tablet') {
       const aspectImg = origW / origH;
       const aspectTarget = targetW / targetH;
       let drawW, drawH, drawX, drawY;
@@ -2045,6 +2366,7 @@ function updateEditorControlsVisibility(imgW, imgH) {
   if (currentCropRatio === '16:9') targetRatio = 16 / 9;
   else if (currentCropRatio === '9:16') targetRatio = 9 / 16;
   else if (currentCropRatio === '1:1') targetRatio = 1;
+  else if (currentCropRatio === '4:3') targetRatio = 4 / 3;
 
   const imgRatio = imgW / imgH;
 
@@ -2080,6 +2402,7 @@ function getCropBounds(w, h, ratioStr) {
   if (ratioStr === '16:9') targetRatio = 16 / 9;
   else if (ratioStr === '9:16') targetRatio = 9 / 16;
   else if (ratioStr === '1:1') targetRatio = 1;
+  else if (ratioStr === '4:3') targetRatio = 4 / 3;
 
   let cropW, cropH;
   if (w / h > targetRatio) {

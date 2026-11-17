@@ -7,7 +7,13 @@ const WALLPAPERS = [
     "format": "GIF",
     "size": "23.19 MB",
     "path": "Anime-Wallpapers-main/1 (1).gif",
-    "id": "wp_1"
+    "id": "wp_1",
+    "tags": [
+      "animated",
+      "anime",
+      "gif",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #1",
@@ -16,7 +22,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.20 MB",
     "path": "Anime-Wallpapers-main/1 (1).jpeg",
-    "id": "wp_2"
+    "id": "wp_2",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #1",
@@ -25,7 +35,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (1).jpg",
-    "id": "wp_3"
+    "id": "wp_3",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #1",
@@ -34,7 +48,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.15 MB",
     "path": "Anime-Wallpapers-main/1 (1).png",
-    "id": "wp_4"
+    "id": "wp_4",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #1",
@@ -43,7 +61,11 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "7.06 MB",
     "path": "Anime-Wallpapers-main/1 (1).webp",
-    "id": "wp_5"
+    "id": "wp_5",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #2",
@@ -52,7 +74,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "8.57 MB",
     "path": "Anime-Wallpapers-main/1 (2).jpeg",
-    "id": "wp_6"
+    "id": "wp_6",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #2",
@@ -61,7 +87,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (2).jpg",
-    "id": "wp_7"
+    "id": "wp_7",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #2",
@@ -70,7 +100,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.20 MB",
     "path": "Anime-Wallpapers-main/1 (2).png",
-    "id": "wp_8"
+    "id": "wp_8",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #3",
@@ -79,7 +113,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "5.59 MB",
     "path": "Anime-Wallpapers-main/1 (3).jpeg",
-    "id": "wp_9"
+    "id": "wp_9",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #3",
@@ -88,7 +126,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "Anime-Wallpapers-main/1 (3).jpg",
-    "id": "wp_10"
+    "id": "wp_10",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #3",
@@ -97,7 +139,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.60 MB",
     "path": "Anime-Wallpapers-main/1 (3).png",
-    "id": "wp_11"
+    "id": "wp_11",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #4",
@@ -106,7 +152,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "3.36 MB",
     "path": "Anime-Wallpapers-main/1 (4).jpeg",
-    "id": "wp_12"
+    "id": "wp_12",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #4",
@@ -115,7 +165,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (4).jpg",
-    "id": "wp_13"
+    "id": "wp_13",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #4",
@@ -124,7 +178,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (4).png",
-    "id": "wp_14"
+    "id": "wp_14",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #5",
@@ -133,7 +191,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (5).jpeg",
-    "id": "wp_15"
+    "id": "wp_15",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #5",
@@ -142,7 +204,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "Anime-Wallpapers-main/1 (5).jpg",
-    "id": "wp_16"
+    "id": "wp_16",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #5",
@@ -151,7 +217,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (5).png",
-    "id": "wp_17"
+    "id": "wp_17",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #6",
@@ -160,7 +230,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "7.37 MB",
     "path": "Anime-Wallpapers-main/1 (6).jpeg",
-    "id": "wp_18"
+    "id": "wp_18",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #6",
@@ -169,7 +243,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.09 MB",
     "path": "Anime-Wallpapers-main/1 (6).jpg",
-    "id": "wp_19"
+    "id": "wp_19",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #6",
@@ -178,7 +256,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.69 MB",
     "path": "Anime-Wallpapers-main/1 (6).png",
-    "id": "wp_20"
+    "id": "wp_20",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #7",
@@ -187,7 +269,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "19.05 MB",
     "path": "Anime-Wallpapers-main/1 (7).jpeg",
-    "id": "wp_21"
+    "id": "wp_21",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #7",
@@ -196,7 +282,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (7).jpg",
-    "id": "wp_22"
+    "id": "wp_22",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #7",
@@ -205,7 +295,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.74 MB",
     "path": "Anime-Wallpapers-main/1 (7).png",
-    "id": "wp_23"
+    "id": "wp_23",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #8",
@@ -214,7 +308,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.93 MB",
     "path": "Anime-Wallpapers-main/1 (8).jpeg",
-    "id": "wp_24"
+    "id": "wp_24",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #8",
@@ -223,7 +321,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.54 MB",
     "path": "Anime-Wallpapers-main/1 (8).jpg",
-    "id": "wp_25"
+    "id": "wp_25",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #8",
@@ -232,7 +334,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.19 MB",
     "path": "Anime-Wallpapers-main/1 (8).png",
-    "id": "wp_26"
+    "id": "wp_26",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #9",
@@ -241,7 +347,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (9).jpeg",
-    "id": "wp_27"
+    "id": "wp_27",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #9",
@@ -250,7 +360,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (9).jpg",
-    "id": "wp_28"
+    "id": "wp_28",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #9",
@@ -259,7 +373,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.26 MB",
     "path": "Anime-Wallpapers-main/1 (9).png",
-    "id": "wp_29"
+    "id": "wp_29",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #10",
@@ -268,7 +386,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "2.98 MB",
     "path": "Anime-Wallpapers-main/1 (10).jpeg",
-    "id": "wp_30"
+    "id": "wp_30",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #10",
@@ -277,7 +399,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.48 MB",
     "path": "Anime-Wallpapers-main/1 (10).jpg",
-    "id": "wp_31"
+    "id": "wp_31",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #10",
@@ -286,7 +412,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.88 MB",
     "path": "Anime-Wallpapers-main/1 (10).png",
-    "id": "wp_32"
+    "id": "wp_32",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #11",
@@ -295,7 +425,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.62 MB",
     "path": "Anime-Wallpapers-main/1 (11).jpeg",
-    "id": "wp_33"
+    "id": "wp_33",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #11",
@@ -304,7 +438,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Anime-Wallpapers-main/1 (11).jpg",
-    "id": "wp_34"
+    "id": "wp_34",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #11",
@@ -313,7 +451,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.28 MB",
     "path": "Anime-Wallpapers-main/1 (11).png",
-    "id": "wp_35"
+    "id": "wp_35",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #12",
@@ -322,7 +464,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.85 MB",
     "path": "Anime-Wallpapers-main/1 (12).jpeg",
-    "id": "wp_36"
+    "id": "wp_36",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #12",
@@ -331,7 +477,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (12).jpg",
-    "id": "wp_37"
+    "id": "wp_37",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #12",
@@ -340,7 +490,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.93 MB",
     "path": "Anime-Wallpapers-main/1 (12).png",
-    "id": "wp_38"
+    "id": "wp_38",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #13",
@@ -349,7 +503,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.28 MB",
     "path": "Anime-Wallpapers-main/1 (13).jpeg",
-    "id": "wp_39"
+    "id": "wp_39",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #13",
@@ -358,7 +516,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (13).jpg",
-    "id": "wp_40"
+    "id": "wp_40",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #13",
@@ -367,7 +529,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Anime-Wallpapers-main/1 (13).png",
-    "id": "wp_41"
+    "id": "wp_41",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #14",
@@ -376,7 +542,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.61 MB",
     "path": "Anime-Wallpapers-main/1 (14).jpeg",
-    "id": "wp_42"
+    "id": "wp_42",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #14",
@@ -385,7 +555,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "Anime-Wallpapers-main/1 (14).jpg",
-    "id": "wp_43"
+    "id": "wp_43",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #14",
@@ -394,7 +568,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.99 MB",
     "path": "Anime-Wallpapers-main/1 (14).png",
-    "id": "wp_44"
+    "id": "wp_44",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #15",
@@ -403,7 +581,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (15).jpeg",
-    "id": "wp_45"
+    "id": "wp_45",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #15",
@@ -412,7 +594,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (15).jpg",
-    "id": "wp_46"
+    "id": "wp_46",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #15",
@@ -421,7 +607,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "6.81 MB",
     "path": "Anime-Wallpapers-main/1 (15).png",
-    "id": "wp_47"
+    "id": "wp_47",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #16",
@@ -430,7 +620,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.62 MB",
     "path": "Anime-Wallpapers-main/1 (16).jpeg",
-    "id": "wp_48"
+    "id": "wp_48",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #16",
@@ -439,7 +633,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (16).jpg",
-    "id": "wp_49"
+    "id": "wp_49",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #16",
@@ -448,7 +646,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.62 MB",
     "path": "Anime-Wallpapers-main/1 (16).png",
-    "id": "wp_50"
+    "id": "wp_50",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #17",
@@ -457,7 +659,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.84 MB",
     "path": "Anime-Wallpapers-main/1 (17).jpeg",
-    "id": "wp_51"
+    "id": "wp_51",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #17",
@@ -466,7 +672,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (17).jpg",
-    "id": "wp_52"
+    "id": "wp_52",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #17",
@@ -475,7 +685,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (17).png",
-    "id": "wp_53"
+    "id": "wp_53",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #18",
@@ -484,7 +698,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.34 MB",
     "path": "Anime-Wallpapers-main/1 (18).jpeg",
-    "id": "wp_54"
+    "id": "wp_54",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #18",
@@ -493,7 +711,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Anime-Wallpapers-main/1 (18).jpg",
-    "id": "wp_55"
+    "id": "wp_55",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #18",
@@ -502,7 +724,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (18).png",
-    "id": "wp_56"
+    "id": "wp_56",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #19",
@@ -511,7 +737,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.51 MB",
     "path": "Anime-Wallpapers-main/1 (19).jpeg",
-    "id": "wp_57"
+    "id": "wp_57",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #19",
@@ -520,7 +750,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (19).jpg",
-    "id": "wp_58"
+    "id": "wp_58",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #19",
@@ -529,7 +763,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (19).png",
-    "id": "wp_59"
+    "id": "wp_59",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #20",
@@ -538,7 +776,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.19 MB",
     "path": "Anime-Wallpapers-main/1 (20).jpeg",
-    "id": "wp_60"
+    "id": "wp_60",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #20",
@@ -547,7 +789,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.70 MB",
     "path": "Anime-Wallpapers-main/1 (20).jpg",
-    "id": "wp_61"
+    "id": "wp_61",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #20",
@@ -556,7 +802,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (20).png",
-    "id": "wp_62"
+    "id": "wp_62",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #21",
@@ -565,7 +815,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (21).jpeg",
-    "id": "wp_63"
+    "id": "wp_63",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #21",
@@ -574,7 +828,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (21).jpg",
-    "id": "wp_64"
+    "id": "wp_64",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #21",
@@ -583,7 +841,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.16 MB",
     "path": "Anime-Wallpapers-main/1 (21).png",
-    "id": "wp_65"
+    "id": "wp_65",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #22",
@@ -592,7 +854,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (22).jpeg",
-    "id": "wp_66"
+    "id": "wp_66",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #22",
@@ -601,7 +867,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.53 MB",
     "path": "Anime-Wallpapers-main/1 (22).jpg",
-    "id": "wp_67"
+    "id": "wp_67",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #22",
@@ -610,7 +880,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (22).png",
-    "id": "wp_68"
+    "id": "wp_68",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #23",
@@ -619,7 +893,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (23).jpeg",
-    "id": "wp_69"
+    "id": "wp_69",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #23",
@@ -628,7 +906,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (23).jpg",
-    "id": "wp_70"
+    "id": "wp_70",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #23",
@@ -637,7 +919,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (23).png",
-    "id": "wp_71"
+    "id": "wp_71",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #24",
@@ -646,7 +932,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (24).jpeg",
-    "id": "wp_72"
+    "id": "wp_72",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #24",
@@ -655,7 +945,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "Anime-Wallpapers-main/1 (24).jpg",
-    "id": "wp_73"
+    "id": "wp_73",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #24",
@@ -664,7 +958,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (24).png",
-    "id": "wp_74"
+    "id": "wp_74",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #25",
@@ -673,7 +971,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (25).jpeg",
-    "id": "wp_75"
+    "id": "wp_75",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #25",
@@ -682,7 +984,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (25).jpg",
-    "id": "wp_76"
+    "id": "wp_76",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #25",
@@ -691,7 +997,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Anime-Wallpapers-main/1 (25).png",
-    "id": "wp_77"
+    "id": "wp_77",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #26",
@@ -700,7 +1010,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (26).jpeg",
-    "id": "wp_78"
+    "id": "wp_78",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #26",
@@ -709,7 +1023,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (26).jpg",
-    "id": "wp_79"
+    "id": "wp_79",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #26",
@@ -718,7 +1036,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (26).png",
-    "id": "wp_80"
+    "id": "wp_80",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #27",
@@ -727,7 +1049,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.37 MB",
     "path": "Anime-Wallpapers-main/1 (27).jpeg",
-    "id": "wp_81"
+    "id": "wp_81",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #27",
@@ -736,7 +1062,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.63 MB",
     "path": "Anime-Wallpapers-main/1 (27).jpg",
-    "id": "wp_82"
+    "id": "wp_82",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #27",
@@ -745,7 +1075,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.17 MB",
     "path": "Anime-Wallpapers-main/1 (27).png",
-    "id": "wp_83"
+    "id": "wp_83",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #28",
@@ -754,7 +1088,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (28).jpeg",
-    "id": "wp_84"
+    "id": "wp_84",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #28",
@@ -763,7 +1101,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (28).jpg",
-    "id": "wp_85"
+    "id": "wp_85",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #28",
@@ -772,7 +1114,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.25 MB",
     "path": "Anime-Wallpapers-main/1 (28).png",
-    "id": "wp_86"
+    "id": "wp_86",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #29",
@@ -781,7 +1127,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (29).jpeg",
-    "id": "wp_87"
+    "id": "wp_87",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #29",
@@ -790,7 +1140,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (29).jpg",
-    "id": "wp_88"
+    "id": "wp_88",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #29",
@@ -799,7 +1153,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.56 MB",
     "path": "Anime-Wallpapers-main/1 (29).png",
-    "id": "wp_89"
+    "id": "wp_89",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #30",
@@ -808,7 +1166,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (30).jpeg",
-    "id": "wp_90"
+    "id": "wp_90",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #30",
@@ -817,7 +1179,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "Anime-Wallpapers-main/1 (30).jpg",
-    "id": "wp_91"
+    "id": "wp_91",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #30",
@@ -826,7 +1192,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.00 MB",
     "path": "Anime-Wallpapers-main/1 (30).png",
-    "id": "wp_92"
+    "id": "wp_92",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #31",
@@ -835,7 +1205,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (31).jpeg",
-    "id": "wp_93"
+    "id": "wp_93",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #31",
@@ -844,7 +1218,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (31).jpg",
-    "id": "wp_94"
+    "id": "wp_94",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #31",
@@ -853,7 +1231,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.09 MB",
     "path": "Anime-Wallpapers-main/1 (31).png",
-    "id": "wp_95"
+    "id": "wp_95",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #32",
@@ -862,7 +1244,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (32).jpeg",
-    "id": "wp_96"
+    "id": "wp_96",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #32",
@@ -871,7 +1257,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.61 MB",
     "path": "Anime-Wallpapers-main/1 (32).jpg",
-    "id": "wp_97"
+    "id": "wp_97",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #32",
@@ -880,7 +1270,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.72 MB",
     "path": "Anime-Wallpapers-main/1 (32).png",
-    "id": "wp_98"
+    "id": "wp_98",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #33",
@@ -889,7 +1283,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.28 MB",
     "path": "Anime-Wallpapers-main/1 (33).jpeg",
-    "id": "wp_99"
+    "id": "wp_99",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #33",
@@ -898,7 +1296,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (33).jpg",
-    "id": "wp_100"
+    "id": "wp_100",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #33",
@@ -907,7 +1309,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.01 MB",
     "path": "Anime-Wallpapers-main/1 (33).png",
-    "id": "wp_101"
+    "id": "wp_101",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #34",
@@ -916,7 +1322,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (34).jpeg",
-    "id": "wp_102"
+    "id": "wp_102",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #34",
@@ -925,7 +1335,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Anime-Wallpapers-main/1 (34).jpg",
-    "id": "wp_103"
+    "id": "wp_103",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #34",
@@ -934,7 +1348,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.96 MB",
     "path": "Anime-Wallpapers-main/1 (34).png",
-    "id": "wp_104"
+    "id": "wp_104",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #35",
@@ -943,7 +1361,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.61 MB",
     "path": "Anime-Wallpapers-main/1 (35).jpeg",
-    "id": "wp_105"
+    "id": "wp_105",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #35",
@@ -952,7 +1374,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Anime-Wallpapers-main/1 (35).jpg",
-    "id": "wp_106"
+    "id": "wp_106",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #35",
@@ -961,7 +1387,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.45 MB",
     "path": "Anime-Wallpapers-main/1 (35).png",
-    "id": "wp_107"
+    "id": "wp_107",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #36",
@@ -970,7 +1400,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (36).jpeg",
-    "id": "wp_108"
+    "id": "wp_108",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #36",
@@ -979,7 +1413,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Anime-Wallpapers-main/1 (36).jpg",
-    "id": "wp_109"
+    "id": "wp_109",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #36",
@@ -988,7 +1426,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "Anime-Wallpapers-main/1 (36).png",
-    "id": "wp_110"
+    "id": "wp_110",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #37",
@@ -997,7 +1439,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (37).jpeg",
-    "id": "wp_111"
+    "id": "wp_111",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #37",
@@ -1006,7 +1452,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (37).jpg",
-    "id": "wp_112"
+    "id": "wp_112",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #37",
@@ -1015,7 +1465,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.11 MB",
     "path": "Anime-Wallpapers-main/1 (37).png",
-    "id": "wp_113"
+    "id": "wp_113",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #38",
@@ -1024,7 +1478,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.02 MB",
     "path": "Anime-Wallpapers-main/1 (38).jpeg",
-    "id": "wp_114"
+    "id": "wp_114",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #38",
@@ -1033,7 +1491,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (38).jpg",
-    "id": "wp_115"
+    "id": "wp_115",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #38",
@@ -1042,7 +1504,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.48 MB",
     "path": "Anime-Wallpapers-main/1 (38).png",
-    "id": "wp_116"
+    "id": "wp_116",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #39",
@@ -1051,7 +1517,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (39).jpeg",
-    "id": "wp_117"
+    "id": "wp_117",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #39",
@@ -1060,7 +1530,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Anime-Wallpapers-main/1 (39).jpg",
-    "id": "wp_118"
+    "id": "wp_118",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #39",
@@ -1069,7 +1543,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.63 MB",
     "path": "Anime-Wallpapers-main/1 (39).png",
-    "id": "wp_119"
+    "id": "wp_119",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #40",
@@ -1078,7 +1556,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.61 MB",
     "path": "Anime-Wallpapers-main/1 (40).jpeg",
-    "id": "wp_120"
+    "id": "wp_120",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #40",
@@ -1087,7 +1569,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "Anime-Wallpapers-main/1 (40).jpg",
-    "id": "wp_121"
+    "id": "wp_121",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #40",
@@ -1096,7 +1582,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.23 MB",
     "path": "Anime-Wallpapers-main/1 (40).png",
-    "id": "wp_122"
+    "id": "wp_122",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #41",
@@ -1105,7 +1595,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.61 MB",
     "path": "Anime-Wallpapers-main/1 (41).jpeg",
-    "id": "wp_123"
+    "id": "wp_123",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #41",
@@ -1114,7 +1608,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.63 MB",
     "path": "Anime-Wallpapers-main/1 (41).jpg",
-    "id": "wp_124"
+    "id": "wp_124",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #41",
@@ -1123,7 +1621,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.21 MB",
     "path": "Anime-Wallpapers-main/1 (41).png",
-    "id": "wp_125"
+    "id": "wp_125",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #42",
@@ -1132,7 +1634,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.56 MB",
     "path": "Anime-Wallpapers-main/1 (42).jpeg",
-    "id": "wp_126"
+    "id": "wp_126",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #42",
@@ -1141,7 +1647,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "Anime-Wallpapers-main/1 (42).jpg",
-    "id": "wp_127"
+    "id": "wp_127",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #42",
@@ -1150,7 +1660,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.54 MB",
     "path": "Anime-Wallpapers-main/1 (42).png",
-    "id": "wp_128"
+    "id": "wp_128",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #43",
@@ -1159,7 +1673,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.47 MB",
     "path": "Anime-Wallpapers-main/1 (43).jpeg",
-    "id": "wp_129"
+    "id": "wp_129",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #43",
@@ -1168,7 +1686,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.10 MB",
     "path": "Anime-Wallpapers-main/1 (43).jpg",
-    "id": "wp_130"
+    "id": "wp_130",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #43",
@@ -1177,7 +1699,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.86 MB",
     "path": "Anime-Wallpapers-main/1 (43).png",
-    "id": "wp_131"
+    "id": "wp_131",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #44",
@@ -1186,7 +1712,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.62 MB",
     "path": "Anime-Wallpapers-main/1 (44).jpeg",
-    "id": "wp_132"
+    "id": "wp_132",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #44",
@@ -1195,7 +1725,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "Anime-Wallpapers-main/1 (44).jpg",
-    "id": "wp_133"
+    "id": "wp_133",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #44",
@@ -1204,7 +1738,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Anime-Wallpapers-main/1 (44).png",
-    "id": "wp_134"
+    "id": "wp_134",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #45",
@@ -1213,7 +1751,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.52 MB",
     "path": "Anime-Wallpapers-main/1 (45).jpeg",
-    "id": "wp_135"
+    "id": "wp_135",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #45",
@@ -1222,7 +1764,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (45).jpg",
-    "id": "wp_136"
+    "id": "wp_136",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #45",
@@ -1231,7 +1777,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.61 MB",
     "path": "Anime-Wallpapers-main/1 (45).png",
-    "id": "wp_137"
+    "id": "wp_137",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #46",
@@ -1240,7 +1790,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.56 MB",
     "path": "Anime-Wallpapers-main/1 (46).jpeg",
-    "id": "wp_138"
+    "id": "wp_138",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #46",
@@ -1249,7 +1803,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.22 MB",
     "path": "Anime-Wallpapers-main/1 (46).jpg",
-    "id": "wp_139"
+    "id": "wp_139",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #46",
@@ -1258,7 +1816,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (46).png",
-    "id": "wp_140"
+    "id": "wp_140",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #47",
@@ -1267,7 +1829,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.65 MB",
     "path": "Anime-Wallpapers-main/1 (47).jpeg",
-    "id": "wp_141"
+    "id": "wp_141",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #47",
@@ -1276,7 +1842,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.49 MB",
     "path": "Anime-Wallpapers-main/1 (47).jpg",
-    "id": "wp_142"
+    "id": "wp_142",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #47",
@@ -1285,7 +1855,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.30 MB",
     "path": "Anime-Wallpapers-main/1 (47).png",
-    "id": "wp_143"
+    "id": "wp_143",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #48",
@@ -1294,7 +1868,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.54 MB",
     "path": "Anime-Wallpapers-main/1 (48).jpeg",
-    "id": "wp_144"
+    "id": "wp_144",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #48",
@@ -1303,7 +1881,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "15.27 MB",
     "path": "Anime-Wallpapers-main/1 (48).jpg",
-    "id": "wp_145"
+    "id": "wp_145",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #48",
@@ -1312,7 +1894,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (48).png",
-    "id": "wp_146"
+    "id": "wp_146",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #49",
@@ -1321,7 +1907,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.55 MB",
     "path": "Anime-Wallpapers-main/1 (49).jpeg",
-    "id": "wp_147"
+    "id": "wp_147",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #49",
@@ -1330,7 +1920,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (49).jpg",
-    "id": "wp_148"
+    "id": "wp_148",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #49",
@@ -1339,7 +1933,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.41 MB",
     "path": "Anime-Wallpapers-main/1 (49).png",
-    "id": "wp_149"
+    "id": "wp_149",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #50",
@@ -1348,7 +1946,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.51 MB",
     "path": "Anime-Wallpapers-main/1 (50).jpeg",
-    "id": "wp_150"
+    "id": "wp_150",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #50",
@@ -1357,7 +1959,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.49 MB",
     "path": "Anime-Wallpapers-main/1 (50).jpg",
-    "id": "wp_151"
+    "id": "wp_151",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #50",
@@ -1366,7 +1972,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.54 MB",
     "path": "Anime-Wallpapers-main/1 (50).png",
-    "id": "wp_152"
+    "id": "wp_152",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #51",
@@ -1375,7 +1985,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (51).jpeg",
-    "id": "wp_153"
+    "id": "wp_153",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #51",
@@ -1384,7 +1998,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.44 MB",
     "path": "Anime-Wallpapers-main/1 (51).jpg",
-    "id": "wp_154"
+    "id": "wp_154",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #51",
@@ -1393,7 +2011,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.86 MB",
     "path": "Anime-Wallpapers-main/1 (51).png",
-    "id": "wp_155"
+    "id": "wp_155",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #52",
@@ -1402,7 +2024,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.62 MB",
     "path": "Anime-Wallpapers-main/1 (52).jpeg",
-    "id": "wp_156"
+    "id": "wp_156",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #52",
@@ -1411,7 +2037,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.93 MB",
     "path": "Anime-Wallpapers-main/1 (52).jpg",
-    "id": "wp_157"
+    "id": "wp_157",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #52",
@@ -1420,7 +2050,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (52).png",
-    "id": "wp_158"
+    "id": "wp_158",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #53",
@@ -1429,7 +2063,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.60 MB",
     "path": "Anime-Wallpapers-main/1 (53).jpeg",
-    "id": "wp_159"
+    "id": "wp_159",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #53",
@@ -1438,7 +2076,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.52 MB",
     "path": "Anime-Wallpapers-main/1 (53).jpg",
-    "id": "wp_160"
+    "id": "wp_160",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #53",
@@ -1447,7 +2089,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (53).png",
-    "id": "wp_161"
+    "id": "wp_161",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #54",
@@ -1456,7 +2102,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.51 MB",
     "path": "Anime-Wallpapers-main/1 (54).jpeg",
-    "id": "wp_162"
+    "id": "wp_162",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #54",
@@ -1465,7 +2115,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.10 MB",
     "path": "Anime-Wallpapers-main/1 (54).jpg",
-    "id": "wp_163"
+    "id": "wp_163",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #54",
@@ -1474,7 +2128,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (54).png",
-    "id": "wp_164"
+    "id": "wp_164",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #55",
@@ -1483,7 +2141,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.57 MB",
     "path": "Anime-Wallpapers-main/1 (55).jpeg",
-    "id": "wp_165"
+    "id": "wp_165",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #55",
@@ -1492,7 +2154,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (55).jpg",
-    "id": "wp_166"
+    "id": "wp_166",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #55",
@@ -1501,7 +2167,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.80 MB",
     "path": "Anime-Wallpapers-main/1 (55).png",
-    "id": "wp_167"
+    "id": "wp_167",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #56",
@@ -1510,7 +2180,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.67 MB",
     "path": "Anime-Wallpapers-main/1 (56).jpeg",
-    "id": "wp_168"
+    "id": "wp_168",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #56",
@@ -1519,7 +2193,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.27 MB",
     "path": "Anime-Wallpapers-main/1 (56).jpg",
-    "id": "wp_169"
+    "id": "wp_169",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #56",
@@ -1528,7 +2206,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.33 MB",
     "path": "Anime-Wallpapers-main/1 (56).png",
-    "id": "wp_170"
+    "id": "wp_170",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #57",
@@ -1537,7 +2219,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.63 MB",
     "path": "Anime-Wallpapers-main/1 (57).jpeg",
-    "id": "wp_171"
+    "id": "wp_171",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #57",
@@ -1546,7 +2232,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.53 MB",
     "path": "Anime-Wallpapers-main/1 (57).jpg",
-    "id": "wp_172"
+    "id": "wp_172",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #57",
@@ -1555,7 +2245,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.66 MB",
     "path": "Anime-Wallpapers-main/1 (57).png",
-    "id": "wp_173"
+    "id": "wp_173",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #58",
@@ -1564,7 +2258,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.48 MB",
     "path": "Anime-Wallpapers-main/1 (58).jpg",
-    "id": "wp_174"
+    "id": "wp_174",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #58",
@@ -1573,7 +2271,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (58).png",
-    "id": "wp_175"
+    "id": "wp_175",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #59",
@@ -1582,7 +2284,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.84 MB",
     "path": "Anime-Wallpapers-main/1 (59).jpg",
-    "id": "wp_176"
+    "id": "wp_176",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #59",
@@ -1591,7 +2297,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (59).png",
-    "id": "wp_177"
+    "id": "wp_177",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #60",
@@ -1600,7 +2310,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.70 MB",
     "path": "Anime-Wallpapers-main/1 (60).jpg",
-    "id": "wp_178"
+    "id": "wp_178",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #60",
@@ -1609,7 +2323,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.44 MB",
     "path": "Anime-Wallpapers-main/1 (60).png",
-    "id": "wp_179"
+    "id": "wp_179",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #61",
@@ -1618,7 +2336,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.56 MB",
     "path": "Anime-Wallpapers-main/1 (61).jpg",
-    "id": "wp_180"
+    "id": "wp_180",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #61",
@@ -1627,7 +2349,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.75 MB",
     "path": "Anime-Wallpapers-main/1 (61).png",
-    "id": "wp_181"
+    "id": "wp_181",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #62",
@@ -1636,7 +2362,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.32 MB",
     "path": "Anime-Wallpapers-main/1 (62).jpg",
-    "id": "wp_182"
+    "id": "wp_182",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #62",
@@ -1645,7 +2375,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.21 MB",
     "path": "Anime-Wallpapers-main/1 (62).png",
-    "id": "wp_183"
+    "id": "wp_183",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #63",
@@ -1654,7 +2388,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.43 MB",
     "path": "Anime-Wallpapers-main/1 (63).jpg",
-    "id": "wp_184"
+    "id": "wp_184",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #63",
@@ -1663,7 +2401,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.06 MB",
     "path": "Anime-Wallpapers-main/1 (63).png",
-    "id": "wp_185"
+    "id": "wp_185",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #64",
@@ -1672,7 +2414,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "Anime-Wallpapers-main/1 (64).jpg",
-    "id": "wp_186"
+    "id": "wp_186",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #64",
@@ -1681,7 +2427,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.17 MB",
     "path": "Anime-Wallpapers-main/1 (64).png",
-    "id": "wp_187"
+    "id": "wp_187",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #65",
@@ -1690,7 +2440,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "15.43 MB",
     "path": "Anime-Wallpapers-main/1 (65).jpg",
-    "id": "wp_188"
+    "id": "wp_188",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #65",
@@ -1699,7 +2453,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "Anime-Wallpapers-main/1 (65).png",
-    "id": "wp_189"
+    "id": "wp_189",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #66",
@@ -1708,7 +2466,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "Anime-Wallpapers-main/1 (66).jpg",
-    "id": "wp_190"
+    "id": "wp_190",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #66",
@@ -1717,7 +2479,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.42 MB",
     "path": "Anime-Wallpapers-main/1 (66).png",
-    "id": "wp_191"
+    "id": "wp_191",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #67",
@@ -1726,7 +2492,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.35 MB",
     "path": "Anime-Wallpapers-main/1 (67).jpg",
-    "id": "wp_192"
+    "id": "wp_192",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #67",
@@ -1735,7 +2505,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.88 MB",
     "path": "Anime-Wallpapers-main/1 (67).png",
-    "id": "wp_193"
+    "id": "wp_193",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #68",
@@ -1744,7 +2518,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.32 MB",
     "path": "Anime-Wallpapers-main/1 (68).jpg",
-    "id": "wp_194"
+    "id": "wp_194",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #68",
@@ -1753,7 +2531,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.15 MB",
     "path": "Anime-Wallpapers-main/1 (68).png",
-    "id": "wp_195"
+    "id": "wp_195",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #69",
@@ -1762,7 +2544,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (69).jpg",
-    "id": "wp_196"
+    "id": "wp_196",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #69",
@@ -1771,7 +2557,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.18 MB",
     "path": "Anime-Wallpapers-main/1 (69).png",
-    "id": "wp_197"
+    "id": "wp_197",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #70",
@@ -1780,7 +2570,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "Anime-Wallpapers-main/1 (70).jpg",
-    "id": "wp_198"
+    "id": "wp_198",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #70",
@@ -1789,7 +2583,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.65 MB",
     "path": "Anime-Wallpapers-main/1 (70).png",
-    "id": "wp_199"
+    "id": "wp_199",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #71",
@@ -1798,7 +2596,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.63 MB",
     "path": "Anime-Wallpapers-main/1 (71).jpg",
-    "id": "wp_200"
+    "id": "wp_200",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #71",
@@ -1807,7 +2609,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.87 MB",
     "path": "Anime-Wallpapers-main/1 (71).png",
-    "id": "wp_201"
+    "id": "wp_201",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #72",
@@ -1816,7 +2622,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.54 MB",
     "path": "Anime-Wallpapers-main/1 (72).jpg",
-    "id": "wp_202"
+    "id": "wp_202",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #72",
@@ -1825,7 +2635,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.50 MB",
     "path": "Anime-Wallpapers-main/1 (72).png",
-    "id": "wp_203"
+    "id": "wp_203",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #73",
@@ -1834,7 +2648,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.02 MB",
     "path": "Anime-Wallpapers-main/1 (73).jpg",
-    "id": "wp_204"
+    "id": "wp_204",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #73",
@@ -1843,7 +2661,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.28 MB",
     "path": "Anime-Wallpapers-main/1 (73).png",
-    "id": "wp_205"
+    "id": "wp_205",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #74",
@@ -1852,7 +2674,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.53 MB",
     "path": "Anime-Wallpapers-main/1 (74).jpg",
-    "id": "wp_206"
+    "id": "wp_206",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #74",
@@ -1861,7 +2687,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.65 MB",
     "path": "Anime-Wallpapers-main/1 (74).png",
-    "id": "wp_207"
+    "id": "wp_207",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #75",
@@ -1870,7 +2700,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (75).jpg",
-    "id": "wp_208"
+    "id": "wp_208",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #75",
@@ -1879,7 +2713,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.85 MB",
     "path": "Anime-Wallpapers-main/1 (75).png",
-    "id": "wp_209"
+    "id": "wp_209",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #76",
@@ -1888,7 +2726,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.07 MB",
     "path": "Anime-Wallpapers-main/1 (76).jpg",
-    "id": "wp_210"
+    "id": "wp_210",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #76",
@@ -1897,7 +2739,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.30 MB",
     "path": "Anime-Wallpapers-main/1 (76).png",
-    "id": "wp_211"
+    "id": "wp_211",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #77",
@@ -1906,7 +2752,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "Anime-Wallpapers-main/1 (77).jpg",
-    "id": "wp_212"
+    "id": "wp_212",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #77",
@@ -1915,7 +2765,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.86 MB",
     "path": "Anime-Wallpapers-main/1 (77).png",
-    "id": "wp_213"
+    "id": "wp_213",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #78",
@@ -1924,7 +2778,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (78).jpg",
-    "id": "wp_214"
+    "id": "wp_214",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #78",
@@ -1933,7 +2791,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.15 MB",
     "path": "Anime-Wallpapers-main/1 (78).png",
-    "id": "wp_215"
+    "id": "wp_215",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #79",
@@ -1942,7 +2804,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (79).jpg",
-    "id": "wp_216"
+    "id": "wp_216",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #79",
@@ -1951,7 +2817,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.07 MB",
     "path": "Anime-Wallpapers-main/1 (79).png",
-    "id": "wp_217"
+    "id": "wp_217",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #80",
@@ -1960,7 +2830,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.92 MB",
     "path": "Anime-Wallpapers-main/1 (80).jpg",
-    "id": "wp_218"
+    "id": "wp_218",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #80",
@@ -1969,7 +2843,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.65 MB",
     "path": "Anime-Wallpapers-main/1 (80).png",
-    "id": "wp_219"
+    "id": "wp_219",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #81",
@@ -1978,7 +2856,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.67 MB",
     "path": "Anime-Wallpapers-main/1 (81).jpg",
-    "id": "wp_220"
+    "id": "wp_220",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #81",
@@ -1987,7 +2869,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.08 MB",
     "path": "Anime-Wallpapers-main/1 (81).png",
-    "id": "wp_221"
+    "id": "wp_221",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #82",
@@ -1996,7 +2882,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.90 MB",
     "path": "Anime-Wallpapers-main/1 (82).jpg",
-    "id": "wp_222"
+    "id": "wp_222",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #82",
@@ -2005,7 +2895,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "Anime-Wallpapers-main/1 (82).png",
-    "id": "wp_223"
+    "id": "wp_223",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #83",
@@ -2014,7 +2908,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "Anime-Wallpapers-main/1 (83).jpg",
-    "id": "wp_224"
+    "id": "wp_224",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #83",
@@ -2023,7 +2921,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.38 MB",
     "path": "Anime-Wallpapers-main/1 (83).png",
-    "id": "wp_225"
+    "id": "wp_225",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #84",
@@ -2032,7 +2934,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.91 MB",
     "path": "Anime-Wallpapers-main/1 (84).jpg",
-    "id": "wp_226"
+    "id": "wp_226",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #84",
@@ -2041,7 +2947,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.61 MB",
     "path": "Anime-Wallpapers-main/1 (84).png",
-    "id": "wp_227"
+    "id": "wp_227",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #85",
@@ -2050,7 +2960,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (85).jpg",
-    "id": "wp_228"
+    "id": "wp_228",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #85",
@@ -2059,7 +2973,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.06 MB",
     "path": "Anime-Wallpapers-main/1 (85).png",
-    "id": "wp_229"
+    "id": "wp_229",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #86",
@@ -2068,7 +2986,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.60 MB",
     "path": "Anime-Wallpapers-main/1 (86).jpg",
-    "id": "wp_230"
+    "id": "wp_230",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #86",
@@ -2077,7 +2999,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.35 MB",
     "path": "Anime-Wallpapers-main/1 (86).png",
-    "id": "wp_231"
+    "id": "wp_231",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #87",
@@ -2086,7 +3012,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.62 MB",
     "path": "Anime-Wallpapers-main/1 (87).jpg",
-    "id": "wp_232"
+    "id": "wp_232",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #87",
@@ -2095,7 +3025,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.66 MB",
     "path": "Anime-Wallpapers-main/1 (87).png",
-    "id": "wp_233"
+    "id": "wp_233",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #88",
@@ -2104,7 +3038,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.04 MB",
     "path": "Anime-Wallpapers-main/1 (88).jpg",
-    "id": "wp_234"
+    "id": "wp_234",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #88",
@@ -2113,7 +3051,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.94 MB",
     "path": "Anime-Wallpapers-main/1 (88).png",
-    "id": "wp_235"
+    "id": "wp_235",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #89",
@@ -2122,7 +3064,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.44 MB",
     "path": "Anime-Wallpapers-main/1 (89).jpg",
-    "id": "wp_236"
+    "id": "wp_236",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #89",
@@ -2131,7 +3077,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.37 MB",
     "path": "Anime-Wallpapers-main/1 (89).png",
-    "id": "wp_237"
+    "id": "wp_237",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #90",
@@ -2140,7 +3090,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.72 MB",
     "path": "Anime-Wallpapers-main/1 (90).jpg",
-    "id": "wp_238"
+    "id": "wp_238",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #90",
@@ -2149,7 +3103,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (90).png",
-    "id": "wp_239"
+    "id": "wp_239",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #91",
@@ -2158,7 +3116,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.99 MB",
     "path": "Anime-Wallpapers-main/1 (91).jpg",
-    "id": "wp_240"
+    "id": "wp_240",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #91",
@@ -2167,7 +3129,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (91).png",
-    "id": "wp_241"
+    "id": "wp_241",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #92",
@@ -2176,7 +3142,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.18 MB",
     "path": "Anime-Wallpapers-main/1 (92).jpg",
-    "id": "wp_242"
+    "id": "wp_242",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #92",
@@ -2185,7 +3155,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.60 MB",
     "path": "Anime-Wallpapers-main/1 (92).png",
-    "id": "wp_243"
+    "id": "wp_243",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #93",
@@ -2194,7 +3168,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "Anime-Wallpapers-main/1 (93).jpg",
-    "id": "wp_244"
+    "id": "wp_244",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #93",
@@ -2203,7 +3181,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.51 MB",
     "path": "Anime-Wallpapers-main/1 (93).png",
-    "id": "wp_245"
+    "id": "wp_245",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #94",
@@ -2212,7 +3194,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (94).jpg",
-    "id": "wp_246"
+    "id": "wp_246",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #94",
@@ -2221,7 +3207,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (94).png",
-    "id": "wp_247"
+    "id": "wp_247",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #95",
@@ -2230,7 +3220,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.75 MB",
     "path": "Anime-Wallpapers-main/1 (95).jpg",
-    "id": "wp_248"
+    "id": "wp_248",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #95",
@@ -2239,7 +3233,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.44 MB",
     "path": "Anime-Wallpapers-main/1 (95).png",
-    "id": "wp_249"
+    "id": "wp_249",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #96",
@@ -2248,7 +3246,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.26 MB",
     "path": "Anime-Wallpapers-main/1 (96).jpg",
-    "id": "wp_250"
+    "id": "wp_250",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #96",
@@ -2257,7 +3259,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.72 MB",
     "path": "Anime-Wallpapers-main/1 (96).png",
-    "id": "wp_251"
+    "id": "wp_251",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #97",
@@ -2266,7 +3272,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.74 MB",
     "path": "Anime-Wallpapers-main/1 (97).jpg",
-    "id": "wp_252"
+    "id": "wp_252",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #97",
@@ -2275,7 +3285,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (97).png",
-    "id": "wp_253"
+    "id": "wp_253",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #98",
@@ -2284,7 +3298,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.17 MB",
     "path": "Anime-Wallpapers-main/1 (98).jpg",
-    "id": "wp_254"
+    "id": "wp_254",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #98",
@@ -2293,7 +3311,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.60 MB",
     "path": "Anime-Wallpapers-main/1 (98).png",
-    "id": "wp_255"
+    "id": "wp_255",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #99",
@@ -2302,7 +3324,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.44 MB",
     "path": "Anime-Wallpapers-main/1 (99).jpg",
-    "id": "wp_256"
+    "id": "wp_256",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #99",
@@ -2311,7 +3337,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.35 MB",
     "path": "Anime-Wallpapers-main/1 (99).png",
-    "id": "wp_257"
+    "id": "wp_257",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #100",
@@ -2320,7 +3350,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.72 MB",
     "path": "Anime-Wallpapers-main/1 (100).jpg",
-    "id": "wp_258"
+    "id": "wp_258",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #100",
@@ -2329,7 +3363,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.18 MB",
     "path": "Anime-Wallpapers-main/1 (100).png",
-    "id": "wp_259"
+    "id": "wp_259",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #101",
@@ -2338,7 +3376,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.51 MB",
     "path": "Anime-Wallpapers-main/1 (101).jpg",
-    "id": "wp_260"
+    "id": "wp_260",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #101",
@@ -2347,7 +3389,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.40 MB",
     "path": "Anime-Wallpapers-main/1 (101).png",
-    "id": "wp_261"
+    "id": "wp_261",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #102",
@@ -2356,7 +3402,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "Anime-Wallpapers-main/1 (102).jpg",
-    "id": "wp_262"
+    "id": "wp_262",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #102",
@@ -2365,7 +3415,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.48 MB",
     "path": "Anime-Wallpapers-main/1 (102).png",
-    "id": "wp_263"
+    "id": "wp_263",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #103",
@@ -2374,7 +3428,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.40 MB",
     "path": "Anime-Wallpapers-main/1 (103).jpg",
-    "id": "wp_264"
+    "id": "wp_264",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #103",
@@ -2383,7 +3441,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.49 MB",
     "path": "Anime-Wallpapers-main/1 (103).png",
-    "id": "wp_265"
+    "id": "wp_265",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #104",
@@ -2392,7 +3454,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.66 MB",
     "path": "Anime-Wallpapers-main/1 (104).jpg",
-    "id": "wp_266"
+    "id": "wp_266",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #104",
@@ -2401,7 +3467,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.48 MB",
     "path": "Anime-Wallpapers-main/1 (104).png",
-    "id": "wp_267"
+    "id": "wp_267",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #105",
@@ -2410,7 +3480,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "Anime-Wallpapers-main/1 (105).jpg",
-    "id": "wp_268"
+    "id": "wp_268",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #105",
@@ -2419,7 +3493,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.79 MB",
     "path": "Anime-Wallpapers-main/1 (105).png",
-    "id": "wp_269"
+    "id": "wp_269",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #106",
@@ -2428,7 +3506,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.49 MB",
     "path": "Anime-Wallpapers-main/1 (106).jpg",
-    "id": "wp_270"
+    "id": "wp_270",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #106",
@@ -2437,7 +3519,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.57 MB",
     "path": "Anime-Wallpapers-main/1 (106).png",
-    "id": "wp_271"
+    "id": "wp_271",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #107",
@@ -2446,7 +3532,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.09 MB",
     "path": "Anime-Wallpapers-main/1 (107).jpg",
-    "id": "wp_272"
+    "id": "wp_272",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #107",
@@ -2455,7 +3545,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.76 MB",
     "path": "Anime-Wallpapers-main/1 (107).png",
-    "id": "wp_273"
+    "id": "wp_273",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #108",
@@ -2464,7 +3558,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.48 MB",
     "path": "Anime-Wallpapers-main/1 (108).jpg",
-    "id": "wp_274"
+    "id": "wp_274",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #108",
@@ -2473,7 +3571,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.49 MB",
     "path": "Anime-Wallpapers-main/1 (108).png",
-    "id": "wp_275"
+    "id": "wp_275",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #109",
@@ -2482,7 +3584,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.73 MB",
     "path": "Anime-Wallpapers-main/1 (109).jpg",
-    "id": "wp_276"
+    "id": "wp_276",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #109",
@@ -2491,7 +3597,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.61 MB",
     "path": "Anime-Wallpapers-main/1 (109).png",
-    "id": "wp_277"
+    "id": "wp_277",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #110",
@@ -2500,7 +3610,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.05 MB",
     "path": "Anime-Wallpapers-main/1 (110).jpg",
-    "id": "wp_278"
+    "id": "wp_278",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #110",
@@ -2509,7 +3623,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.71 MB",
     "path": "Anime-Wallpapers-main/1 (110).png",
-    "id": "wp_279"
+    "id": "wp_279",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #111",
@@ -2518,7 +3636,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "14.30 MB",
     "path": "Anime-Wallpapers-main/1 (111).jpg",
-    "id": "wp_280"
+    "id": "wp_280",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #111",
@@ -2527,7 +3649,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.61 MB",
     "path": "Anime-Wallpapers-main/1 (111).png",
-    "id": "wp_281"
+    "id": "wp_281",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #112",
@@ -2536,7 +3662,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (112).jpg",
-    "id": "wp_282"
+    "id": "wp_282",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #112",
@@ -2545,7 +3675,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.13 MB",
     "path": "Anime-Wallpapers-main/1 (112).png",
-    "id": "wp_283"
+    "id": "wp_283",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #113",
@@ -2554,7 +3688,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "Anime-Wallpapers-main/1 (113).jpg",
-    "id": "wp_284"
+    "id": "wp_284",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #113",
@@ -2563,7 +3701,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.27 MB",
     "path": "Anime-Wallpapers-main/1 (113).png",
-    "id": "wp_285"
+    "id": "wp_285",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #114",
@@ -2572,7 +3714,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.40 MB",
     "path": "Anime-Wallpapers-main/1 (114).jpg",
-    "id": "wp_286"
+    "id": "wp_286",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #114",
@@ -2581,7 +3727,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.75 MB",
     "path": "Anime-Wallpapers-main/1 (114).png",
-    "id": "wp_287"
+    "id": "wp_287",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #115",
@@ -2590,7 +3740,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.90 MB",
     "path": "Anime-Wallpapers-main/1 (115).jpg",
-    "id": "wp_288"
+    "id": "wp_288",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #115",
@@ -2599,7 +3753,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.10 MB",
     "path": "Anime-Wallpapers-main/1 (115).png",
-    "id": "wp_289"
+    "id": "wp_289",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #116",
@@ -2608,7 +3766,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (116).jpg",
-    "id": "wp_290"
+    "id": "wp_290",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #116",
@@ -2617,7 +3779,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (116).png",
-    "id": "wp_291"
+    "id": "wp_291",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #117",
@@ -2626,7 +3792,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.77 MB",
     "path": "Anime-Wallpapers-main/1 (117).jpg",
-    "id": "wp_292"
+    "id": "wp_292",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #117",
@@ -2635,7 +3805,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.40 MB",
     "path": "Anime-Wallpapers-main/1 (117).png",
-    "id": "wp_293"
+    "id": "wp_293",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #118",
@@ -2644,7 +3818,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "Anime-Wallpapers-main/1 (118).jpg",
-    "id": "wp_294"
+    "id": "wp_294",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #118",
@@ -2653,7 +3831,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.04 MB",
     "path": "Anime-Wallpapers-main/1 (118).png",
-    "id": "wp_295"
+    "id": "wp_295",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #119",
@@ -2662,7 +3844,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (119).jpg",
-    "id": "wp_296"
+    "id": "wp_296",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #119",
@@ -2671,7 +3857,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.72 MB",
     "path": "Anime-Wallpapers-main/1 (119).png",
-    "id": "wp_297"
+    "id": "wp_297",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #120",
@@ -2680,7 +3870,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (120).jpg",
-    "id": "wp_298"
+    "id": "wp_298",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #120",
@@ -2689,7 +3883,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.20 MB",
     "path": "Anime-Wallpapers-main/1 (120).png",
-    "id": "wp_299"
+    "id": "wp_299",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #121",
@@ -2698,7 +3896,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "Anime-Wallpapers-main/1 (121).jpg",
-    "id": "wp_300"
+    "id": "wp_300",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #121",
@@ -2707,7 +3909,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.36 MB",
     "path": "Anime-Wallpapers-main/1 (121).png",
-    "id": "wp_301"
+    "id": "wp_301",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #122",
@@ -2716,7 +3922,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.46 MB",
     "path": "Anime-Wallpapers-main/1 (122).jpg",
-    "id": "wp_302"
+    "id": "wp_302",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #122",
@@ -2725,7 +3935,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (122).png",
-    "id": "wp_303"
+    "id": "wp_303",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #123",
@@ -2734,7 +3948,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.43 MB",
     "path": "Anime-Wallpapers-main/1 (123).jpg",
-    "id": "wp_304"
+    "id": "wp_304",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #123",
@@ -2743,7 +3961,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.77 MB",
     "path": "Anime-Wallpapers-main/1 (123).png",
-    "id": "wp_305"
+    "id": "wp_305",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #124",
@@ -2752,7 +3974,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.81 MB",
     "path": "Anime-Wallpapers-main/1 (124).jpg",
-    "id": "wp_306"
+    "id": "wp_306",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #124",
@@ -2761,7 +3987,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.43 MB",
     "path": "Anime-Wallpapers-main/1 (124).png",
-    "id": "wp_307"
+    "id": "wp_307",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #125",
@@ -2770,7 +4000,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.29 MB",
     "path": "Anime-Wallpapers-main/1 (125).jpg",
-    "id": "wp_308"
+    "id": "wp_308",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #125",
@@ -2779,7 +4013,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "15.89 MB",
     "path": "Anime-Wallpapers-main/1 (125).png",
-    "id": "wp_309"
+    "id": "wp_309",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #126",
@@ -2788,7 +4026,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.87 MB",
     "path": "Anime-Wallpapers-main/1 (126).jpg",
-    "id": "wp_310"
+    "id": "wp_310",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #126",
@@ -2797,7 +4039,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.00 MB",
     "path": "Anime-Wallpapers-main/1 (126).png",
-    "id": "wp_311"
+    "id": "wp_311",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #127",
@@ -2806,7 +4052,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.97 MB",
     "path": "Anime-Wallpapers-main/1 (127).jpg",
-    "id": "wp_312"
+    "id": "wp_312",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #127",
@@ -2815,7 +4065,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Anime-Wallpapers-main/1 (127).png",
-    "id": "wp_313"
+    "id": "wp_313",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #128",
@@ -2824,7 +4078,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "12.32 MB",
     "path": "Anime-Wallpapers-main/1 (128).jpg",
-    "id": "wp_314"
+    "id": "wp_314",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #128",
@@ -2833,7 +4091,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.94 MB",
     "path": "Anime-Wallpapers-main/1 (128).png",
-    "id": "wp_315"
+    "id": "wp_315",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #129",
@@ -2842,7 +4104,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.68 MB",
     "path": "Anime-Wallpapers-main/1 (129).jpg",
-    "id": "wp_316"
+    "id": "wp_316",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #129",
@@ -2851,7 +4117,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.60 MB",
     "path": "Anime-Wallpapers-main/1 (129).png",
-    "id": "wp_317"
+    "id": "wp_317",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #130",
@@ -2860,7 +4130,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "Anime-Wallpapers-main/1 (130).jpg",
-    "id": "wp_318"
+    "id": "wp_318",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #130",
@@ -2869,7 +4143,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.98 MB",
     "path": "Anime-Wallpapers-main/1 (130).png",
-    "id": "wp_319"
+    "id": "wp_319",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #131",
@@ -2878,7 +4156,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.24 MB",
     "path": "Anime-Wallpapers-main/1 (131).jpg",
-    "id": "wp_320"
+    "id": "wp_320",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #131",
@@ -2887,7 +4169,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.19 MB",
     "path": "Anime-Wallpapers-main/1 (131).png",
-    "id": "wp_321"
+    "id": "wp_321",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #132",
@@ -2896,7 +4182,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (132).jpg",
-    "id": "wp_322"
+    "id": "wp_322",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #132",
@@ -2905,7 +4195,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Anime-Wallpapers-main/1 (132).png",
-    "id": "wp_323"
+    "id": "wp_323",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #133",
@@ -2914,7 +4208,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "Anime-Wallpapers-main/1 (133).jpg",
-    "id": "wp_324"
+    "id": "wp_324",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #133",
@@ -2923,7 +4221,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.68 MB",
     "path": "Anime-Wallpapers-main/1 (133).png",
-    "id": "wp_325"
+    "id": "wp_325",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #134",
@@ -2932,7 +4234,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (134).jpg",
-    "id": "wp_326"
+    "id": "wp_326",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #134",
@@ -2941,7 +4247,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.33 MB",
     "path": "Anime-Wallpapers-main/1 (134).png",
-    "id": "wp_327"
+    "id": "wp_327",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #135",
@@ -2950,7 +4260,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "Anime-Wallpapers-main/1 (135).jpg",
-    "id": "wp_328"
+    "id": "wp_328",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #135",
@@ -2959,7 +4273,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.51 MB",
     "path": "Anime-Wallpapers-main/1 (135).png",
-    "id": "wp_329"
+    "id": "wp_329",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #136",
@@ -2968,7 +4286,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "Anime-Wallpapers-main/1 (136).jpg",
-    "id": "wp_330"
+    "id": "wp_330",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #136",
@@ -2977,7 +4299,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.79 MB",
     "path": "Anime-Wallpapers-main/1 (136).png",
-    "id": "wp_331"
+    "id": "wp_331",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #137",
@@ -2986,7 +4312,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (137).jpg",
-    "id": "wp_332"
+    "id": "wp_332",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #137",
@@ -2995,7 +4325,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.74 MB",
     "path": "Anime-Wallpapers-main/1 (137).png",
-    "id": "wp_333"
+    "id": "wp_333",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #138",
@@ -3004,7 +4338,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "Anime-Wallpapers-main/1 (138).jpg",
-    "id": "wp_334"
+    "id": "wp_334",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #138",
@@ -3013,7 +4351,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.74 MB",
     "path": "Anime-Wallpapers-main/1 (138).png",
-    "id": "wp_335"
+    "id": "wp_335",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #139",
@@ -3022,7 +4364,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (139).jpg",
-    "id": "wp_336"
+    "id": "wp_336",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #139",
@@ -3031,7 +4377,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.33 MB",
     "path": "Anime-Wallpapers-main/1 (139).png",
-    "id": "wp_337"
+    "id": "wp_337",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #140",
@@ -3040,7 +4390,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.13 MB",
     "path": "Anime-Wallpapers-main/1 (140).jpg",
-    "id": "wp_338"
+    "id": "wp_338",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #140",
@@ -3049,7 +4403,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.67 MB",
     "path": "Anime-Wallpapers-main/1 (140).png",
-    "id": "wp_339"
+    "id": "wp_339",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #141",
@@ -3058,7 +4416,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (141).jpg",
-    "id": "wp_340"
+    "id": "wp_340",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #141",
@@ -3067,7 +4429,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.81 MB",
     "path": "Anime-Wallpapers-main/1 (141).png",
-    "id": "wp_341"
+    "id": "wp_341",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #142",
@@ -3076,7 +4442,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (142).jpg",
-    "id": "wp_342"
+    "id": "wp_342",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #142",
@@ -3085,7 +4455,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.23 MB",
     "path": "Anime-Wallpapers-main/1 (142).png",
-    "id": "wp_343"
+    "id": "wp_343",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #143",
@@ -3094,7 +4468,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (143).jpg",
-    "id": "wp_344"
+    "id": "wp_344",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #143",
@@ -3103,7 +4481,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.54 MB",
     "path": "Anime-Wallpapers-main/1 (143).png",
-    "id": "wp_345"
+    "id": "wp_345",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #144",
@@ -3112,7 +4494,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (144).jpg",
-    "id": "wp_346"
+    "id": "wp_346",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #144",
@@ -3121,7 +4507,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "29.69 MB",
     "path": "Anime-Wallpapers-main/1 (144).png",
-    "id": "wp_347"
+    "id": "wp_347",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #145",
@@ -3130,7 +4520,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Anime-Wallpapers-main/1 (145).jpg",
-    "id": "wp_348"
+    "id": "wp_348",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #145",
@@ -3139,7 +4533,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "13.27 MB",
     "path": "Anime-Wallpapers-main/1 (145).png",
-    "id": "wp_349"
+    "id": "wp_349",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #146",
@@ -3148,7 +4546,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (146).jpg",
-    "id": "wp_350"
+    "id": "wp_350",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #146",
@@ -3157,7 +4559,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.03 MB",
     "path": "Anime-Wallpapers-main/1 (146).png",
-    "id": "wp_351"
+    "id": "wp_351",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #147",
@@ -3166,7 +4572,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Anime-Wallpapers-main/1 (147).jpg",
-    "id": "wp_352"
+    "id": "wp_352",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #147",
@@ -3175,7 +4585,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "14.00 MB",
     "path": "Anime-Wallpapers-main/1 (147).png",
-    "id": "wp_353"
+    "id": "wp_353",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #148",
@@ -3184,7 +4598,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.50 MB",
     "path": "Anime-Wallpapers-main/1 (148).jpg",
-    "id": "wp_354"
+    "id": "wp_354",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #148",
@@ -3193,7 +4611,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.35 MB",
     "path": "Anime-Wallpapers-main/1 (148).png",
-    "id": "wp_355"
+    "id": "wp_355",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #149",
@@ -3202,7 +4624,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (149).jpg",
-    "id": "wp_356"
+    "id": "wp_356",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #149",
@@ -3211,7 +4637,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.44 MB",
     "path": "Anime-Wallpapers-main/1 (149).png",
-    "id": "wp_357"
+    "id": "wp_357",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #150",
@@ -3220,7 +4650,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.51 MB",
     "path": "Anime-Wallpapers-main/1 (150).jpg",
-    "id": "wp_358"
+    "id": "wp_358",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #150",
@@ -3229,7 +4663,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.59 MB",
     "path": "Anime-Wallpapers-main/1 (150).png",
-    "id": "wp_359"
+    "id": "wp_359",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #151",
@@ -3238,7 +4676,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (151).jpg",
-    "id": "wp_360"
+    "id": "wp_360",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #151",
@@ -3247,7 +4689,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.25 MB",
     "path": "Anime-Wallpapers-main/1 (151).png",
-    "id": "wp_361"
+    "id": "wp_361",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #152",
@@ -3256,7 +4702,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (152).jpg",
-    "id": "wp_362"
+    "id": "wp_362",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #152",
@@ -3265,7 +4715,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.52 MB",
     "path": "Anime-Wallpapers-main/1 (152).png",
-    "id": "wp_363"
+    "id": "wp_363",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #153",
@@ -3274,7 +4728,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (153).jpg",
-    "id": "wp_364"
+    "id": "wp_364",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #153",
@@ -3283,7 +4741,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.40 MB",
     "path": "Anime-Wallpapers-main/1 (153).png",
-    "id": "wp_365"
+    "id": "wp_365",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #154",
@@ -3292,7 +4754,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (154).jpg",
-    "id": "wp_366"
+    "id": "wp_366",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #154",
@@ -3301,7 +4767,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (154).png",
-    "id": "wp_367"
+    "id": "wp_367",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #155",
@@ -3310,7 +4780,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (155).jpg",
-    "id": "wp_368"
+    "id": "wp_368",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #155",
@@ -3319,7 +4793,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.63 MB",
     "path": "Anime-Wallpapers-main/1 (155).png",
-    "id": "wp_369"
+    "id": "wp_369",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #156",
@@ -3328,7 +4806,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (156).jpg",
-    "id": "wp_370"
+    "id": "wp_370",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #156",
@@ -3337,7 +4819,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (156).png",
-    "id": "wp_371"
+    "id": "wp_371",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #157",
@@ -3346,7 +4832,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.66 MB",
     "path": "Anime-Wallpapers-main/1 (157).jpg",
-    "id": "wp_372"
+    "id": "wp_372",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #157",
@@ -3355,7 +4845,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.74 MB",
     "path": "Anime-Wallpapers-main/1 (157).png",
-    "id": "wp_373"
+    "id": "wp_373",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #158",
@@ -3364,7 +4858,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (158).jpg",
-    "id": "wp_374"
+    "id": "wp_374",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #158",
@@ -3373,7 +4871,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.54 MB",
     "path": "Anime-Wallpapers-main/1 (158).png",
-    "id": "wp_375"
+    "id": "wp_375",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #159",
@@ -3382,7 +4884,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.71 MB",
     "path": "Anime-Wallpapers-main/1 (159).jpg",
-    "id": "wp_376"
+    "id": "wp_376",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #159",
@@ -3391,7 +4897,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.79 MB",
     "path": "Anime-Wallpapers-main/1 (159).png",
-    "id": "wp_377"
+    "id": "wp_377",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #160",
@@ -3400,7 +4910,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.97 MB",
     "path": "Anime-Wallpapers-main/1 (160).jpg",
-    "id": "wp_378"
+    "id": "wp_378",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #160",
@@ -3409,7 +4923,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (160).png",
-    "id": "wp_379"
+    "id": "wp_379",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #161",
@@ -3418,7 +4936,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (161).jpg",
-    "id": "wp_380"
+    "id": "wp_380",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #161",
@@ -3427,7 +4949,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (161).png",
-    "id": "wp_381"
+    "id": "wp_381",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #162",
@@ -3436,7 +4962,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.31 MB",
     "path": "Anime-Wallpapers-main/1 (162).jpg",
-    "id": "wp_382"
+    "id": "wp_382",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #162",
@@ -3445,7 +4975,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (162).png",
-    "id": "wp_383"
+    "id": "wp_383",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #163",
@@ -3454,7 +4988,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (163).jpg",
-    "id": "wp_384"
+    "id": "wp_384",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #163",
@@ -3463,7 +5001,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (163).png",
-    "id": "wp_385"
+    "id": "wp_385",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #164",
@@ -3472,7 +5014,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.08 MB",
     "path": "Anime-Wallpapers-main/1 (164).jpg",
-    "id": "wp_386"
+    "id": "wp_386",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #164",
@@ -3481,7 +5027,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.24 MB",
     "path": "Anime-Wallpapers-main/1 (164).png",
-    "id": "wp_387"
+    "id": "wp_387",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #165",
@@ -3490,7 +5040,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (165).jpg",
-    "id": "wp_388"
+    "id": "wp_388",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #165",
@@ -3499,7 +5053,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.04 MB",
     "path": "Anime-Wallpapers-main/1 (165).png",
-    "id": "wp_389"
+    "id": "wp_389",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #166",
@@ -3508,7 +5066,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (166).jpg",
-    "id": "wp_390"
+    "id": "wp_390",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #166",
@@ -3517,7 +5079,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.92 MB",
     "path": "Anime-Wallpapers-main/1 (166).png",
-    "id": "wp_391"
+    "id": "wp_391",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #167",
@@ -3526,7 +5092,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (167).jpg",
-    "id": "wp_392"
+    "id": "wp_392",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #167",
@@ -3535,7 +5105,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.94 MB",
     "path": "Anime-Wallpapers-main/1 (167).png",
-    "id": "wp_393"
+    "id": "wp_393",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #168",
@@ -3544,7 +5118,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (168).jpg",
-    "id": "wp_394"
+    "id": "wp_394",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #168",
@@ -3553,7 +5131,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (168).png",
-    "id": "wp_395"
+    "id": "wp_395",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #169",
@@ -3562,7 +5144,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.93 MB",
     "path": "Anime-Wallpapers-main/1 (169).jpg",
-    "id": "wp_396"
+    "id": "wp_396",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #169",
@@ -3571,7 +5157,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (169).png",
-    "id": "wp_397"
+    "id": "wp_397",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #170",
@@ -3580,7 +5170,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.67 MB",
     "path": "Anime-Wallpapers-main/1 (170).jpg",
-    "id": "wp_398"
+    "id": "wp_398",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #170",
@@ -3589,7 +5183,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.32 MB",
     "path": "Anime-Wallpapers-main/1 (170).png",
-    "id": "wp_399"
+    "id": "wp_399",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #171",
@@ -3598,7 +5196,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.44 MB",
     "path": "Anime-Wallpapers-main/1 (171).jpg",
-    "id": "wp_400"
+    "id": "wp_400",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #171",
@@ -3607,7 +5209,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (171).png",
-    "id": "wp_401"
+    "id": "wp_401",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #172",
@@ -3616,7 +5222,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (172).jpg",
-    "id": "wp_402"
+    "id": "wp_402",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #172",
@@ -3625,7 +5235,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.21 MB",
     "path": "Anime-Wallpapers-main/1 (172).png",
-    "id": "wp_403"
+    "id": "wp_403",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #173",
@@ -3634,7 +5248,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (173).jpg",
-    "id": "wp_404"
+    "id": "wp_404",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #173",
@@ -3643,7 +5261,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.29 MB",
     "path": "Anime-Wallpapers-main/1 (173).png",
-    "id": "wp_405"
+    "id": "wp_405",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #174",
@@ -3652,7 +5274,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.98 MB",
     "path": "Anime-Wallpapers-main/1 (174).jpg",
-    "id": "wp_406"
+    "id": "wp_406",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #174",
@@ -3661,7 +5287,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (174).png",
-    "id": "wp_407"
+    "id": "wp_407",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #175",
@@ -3670,7 +5300,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.91 MB",
     "path": "Anime-Wallpapers-main/1 (175).jpg",
-    "id": "wp_408"
+    "id": "wp_408",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #175",
@@ -3679,7 +5313,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "Anime-Wallpapers-main/1 (175).png",
-    "id": "wp_409"
+    "id": "wp_409",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #176",
@@ -3688,7 +5326,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (176).jpg",
-    "id": "wp_410"
+    "id": "wp_410",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #176",
@@ -3697,7 +5339,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.28 MB",
     "path": "Anime-Wallpapers-main/1 (176).png",
-    "id": "wp_411"
+    "id": "wp_411",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #177",
@@ -3706,7 +5352,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.17 MB",
     "path": "Anime-Wallpapers-main/1 (177).jpg",
-    "id": "wp_412"
+    "id": "wp_412",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #177",
@@ -3715,7 +5365,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.24 MB",
     "path": "Anime-Wallpapers-main/1 (177).png",
-    "id": "wp_413"
+    "id": "wp_413",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #178",
@@ -3724,7 +5378,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.34 MB",
     "path": "Anime-Wallpapers-main/1 (178).jpg",
-    "id": "wp_414"
+    "id": "wp_414",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #178",
@@ -3733,7 +5391,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (178).png",
-    "id": "wp_415"
+    "id": "wp_415",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #179",
@@ -3742,7 +5404,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.07 MB",
     "path": "Anime-Wallpapers-main/1 (179).jpg",
-    "id": "wp_416"
+    "id": "wp_416",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #179",
@@ -3751,7 +5417,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.96 MB",
     "path": "Anime-Wallpapers-main/1 (179).png",
-    "id": "wp_417"
+    "id": "wp_417",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #180",
@@ -3760,7 +5430,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.98 MB",
     "path": "Anime-Wallpapers-main/1 (180).jpg",
-    "id": "wp_418"
+    "id": "wp_418",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #180",
@@ -3769,7 +5443,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.61 MB",
     "path": "Anime-Wallpapers-main/1 (180).png",
-    "id": "wp_419"
+    "id": "wp_419",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #181",
@@ -3778,7 +5456,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (181).jpg",
-    "id": "wp_420"
+    "id": "wp_420",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #181",
@@ -3787,7 +5469,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.60 MB",
     "path": "Anime-Wallpapers-main/1 (181).png",
-    "id": "wp_421"
+    "id": "wp_421",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #182",
@@ -3796,7 +5482,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (182).jpg",
-    "id": "wp_422"
+    "id": "wp_422",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #182",
@@ -3805,7 +5495,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.36 MB",
     "path": "Anime-Wallpapers-main/1 (182).png",
-    "id": "wp_423"
+    "id": "wp_423",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #183",
@@ -3814,7 +5508,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (183).jpg",
-    "id": "wp_424"
+    "id": "wp_424",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #183",
@@ -3823,7 +5521,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.43 MB",
     "path": "Anime-Wallpapers-main/1 (183).png",
-    "id": "wp_425"
+    "id": "wp_425",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #184",
@@ -3832,7 +5534,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (184).jpg",
-    "id": "wp_426"
+    "id": "wp_426",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #184",
@@ -3841,7 +5547,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.10 MB",
     "path": "Anime-Wallpapers-main/1 (184).png",
-    "id": "wp_427"
+    "id": "wp_427",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #185",
@@ -3850,7 +5560,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.24 MB",
     "path": "Anime-Wallpapers-main/1 (185).jpg",
-    "id": "wp_428"
+    "id": "wp_428",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #185",
@@ -3859,7 +5573,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.48 MB",
     "path": "Anime-Wallpapers-main/1 (185).png",
-    "id": "wp_429"
+    "id": "wp_429",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #186",
@@ -3868,7 +5586,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Anime-Wallpapers-main/1 (186).jpg",
-    "id": "wp_430"
+    "id": "wp_430",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #186",
@@ -3877,7 +5599,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.33 MB",
     "path": "Anime-Wallpapers-main/1 (186).png",
-    "id": "wp_431"
+    "id": "wp_431",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #187",
@@ -3886,7 +5612,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (187).jpg",
-    "id": "wp_432"
+    "id": "wp_432",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #187",
@@ -3895,7 +5625,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.43 MB",
     "path": "Anime-Wallpapers-main/1 (187).png",
-    "id": "wp_433"
+    "id": "wp_433",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #188",
@@ -3904,7 +5638,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (188).jpg",
-    "id": "wp_434"
+    "id": "wp_434",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #188",
@@ -3913,7 +5651,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.12 MB",
     "path": "Anime-Wallpapers-main/1 (188).png",
-    "id": "wp_435"
+    "id": "wp_435",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #189",
@@ -3922,7 +5664,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (189).jpg",
-    "id": "wp_436"
+    "id": "wp_436",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #189",
@@ -3931,7 +5677,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (189).png",
-    "id": "wp_437"
+    "id": "wp_437",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #190",
@@ -3940,7 +5690,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.08 MB",
     "path": "Anime-Wallpapers-main/1 (190).jpg",
-    "id": "wp_438"
+    "id": "wp_438",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #190",
@@ -3949,7 +5703,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (190).png",
-    "id": "wp_439"
+    "id": "wp_439",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #191",
@@ -3958,7 +5716,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.03 MB",
     "path": "Anime-Wallpapers-main/1 (191).jpg",
-    "id": "wp_440"
+    "id": "wp_440",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #191",
@@ -3967,7 +5729,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (191).png",
-    "id": "wp_441"
+    "id": "wp_441",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #192",
@@ -3976,7 +5742,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.80 MB",
     "path": "Anime-Wallpapers-main/1 (192).jpg",
-    "id": "wp_442"
+    "id": "wp_442",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #192",
@@ -3985,7 +5755,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.19 MB",
     "path": "Anime-Wallpapers-main/1 (192).png",
-    "id": "wp_443"
+    "id": "wp_443",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #193",
@@ -3994,7 +5768,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Anime-Wallpapers-main/1 (193).jpg",
-    "id": "wp_444"
+    "id": "wp_444",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #193",
@@ -4003,7 +5781,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.06 MB",
     "path": "Anime-Wallpapers-main/1 (193).png",
-    "id": "wp_445"
+    "id": "wp_445",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #194",
@@ -4012,7 +5794,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (194).jpg",
-    "id": "wp_446"
+    "id": "wp_446",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #194",
@@ -4021,7 +5807,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.27 MB",
     "path": "Anime-Wallpapers-main/1 (194).png",
-    "id": "wp_447"
+    "id": "wp_447",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #195",
@@ -4030,7 +5820,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Anime-Wallpapers-main/1 (195).jpg",
-    "id": "wp_448"
+    "id": "wp_448",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #195",
@@ -4039,7 +5833,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (195).png",
-    "id": "wp_449"
+    "id": "wp_449",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #196",
@@ -4048,7 +5846,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "Anime-Wallpapers-main/1 (196).jpg",
-    "id": "wp_450"
+    "id": "wp_450",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #196",
@@ -4057,7 +5859,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.83 MB",
     "path": "Anime-Wallpapers-main/1 (196).png",
-    "id": "wp_451"
+    "id": "wp_451",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #197",
@@ -4066,7 +5872,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.82 MB",
     "path": "Anime-Wallpapers-main/1 (197).jpg",
-    "id": "wp_452"
+    "id": "wp_452",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #197",
@@ -4075,7 +5885,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.85 MB",
     "path": "Anime-Wallpapers-main/1 (197).png",
-    "id": "wp_453"
+    "id": "wp_453",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #198",
@@ -4084,7 +5898,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.68 MB",
     "path": "Anime-Wallpapers-main/1 (198).jpg",
-    "id": "wp_454"
+    "id": "wp_454",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #198",
@@ -4093,7 +5911,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.40 MB",
     "path": "Anime-Wallpapers-main/1 (198).png",
-    "id": "wp_455"
+    "id": "wp_455",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #199",
@@ -4102,7 +5924,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.70 MB",
     "path": "Anime-Wallpapers-main/1 (199).jpg",
-    "id": "wp_456"
+    "id": "wp_456",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #199",
@@ -4111,7 +5937,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (199).png",
-    "id": "wp_457"
+    "id": "wp_457",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #200",
@@ -4120,7 +5950,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (200).jpg",
-    "id": "wp_458"
+    "id": "wp_458",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #200",
@@ -4129,7 +5963,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.28 MB",
     "path": "Anime-Wallpapers-main/1 (200).png",
-    "id": "wp_459"
+    "id": "wp_459",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #201",
@@ -4138,7 +5976,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.14 MB",
     "path": "Anime-Wallpapers-main/1 (201).jpg",
-    "id": "wp_460"
+    "id": "wp_460",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #201",
@@ -4147,7 +5989,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.87 MB",
     "path": "Anime-Wallpapers-main/1 (201).png",
-    "id": "wp_461"
+    "id": "wp_461",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #202",
@@ -4156,7 +6002,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.43 MB",
     "path": "Anime-Wallpapers-main/1 (202).jpg",
-    "id": "wp_462"
+    "id": "wp_462",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #202",
@@ -4165,7 +6015,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.60 MB",
     "path": "Anime-Wallpapers-main/1 (202).png",
-    "id": "wp_463"
+    "id": "wp_463",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #203",
@@ -4174,7 +6028,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.43 MB",
     "path": "Anime-Wallpapers-main/1 (203).jpg",
-    "id": "wp_464"
+    "id": "wp_464",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #203",
@@ -4183,7 +6041,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.28 MB",
     "path": "Anime-Wallpapers-main/1 (203).png",
-    "id": "wp_465"
+    "id": "wp_465",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #204",
@@ -4192,7 +6054,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "Anime-Wallpapers-main/1 (204).jpg",
-    "id": "wp_466"
+    "id": "wp_466",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #204",
@@ -4201,7 +6067,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.06 MB",
     "path": "Anime-Wallpapers-main/1 (204).png",
-    "id": "wp_467"
+    "id": "wp_467",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #205",
@@ -4210,7 +6080,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.61 MB",
     "path": "Anime-Wallpapers-main/1 (205).jpg",
-    "id": "wp_468"
+    "id": "wp_468",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #205",
@@ -4219,7 +6093,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.27 MB",
     "path": "Anime-Wallpapers-main/1 (205).png",
-    "id": "wp_469"
+    "id": "wp_469",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #206",
@@ -4228,7 +6106,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.40 MB",
     "path": "Anime-Wallpapers-main/1 (206).jpg",
-    "id": "wp_470"
+    "id": "wp_470",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #206",
@@ -4237,7 +6119,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.16 MB",
     "path": "Anime-Wallpapers-main/1 (206).png",
-    "id": "wp_471"
+    "id": "wp_471",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #207",
@@ -4246,7 +6132,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.19 MB",
     "path": "Anime-Wallpapers-main/1 (207).jpg",
-    "id": "wp_472"
+    "id": "wp_472",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #207",
@@ -4255,7 +6145,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "Anime-Wallpapers-main/1 (207).png",
-    "id": "wp_473"
+    "id": "wp_473",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #208",
@@ -4264,7 +6158,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.88 MB",
     "path": "Anime-Wallpapers-main/1 (208).jpg",
-    "id": "wp_474"
+    "id": "wp_474",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #208",
@@ -4273,7 +6171,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.83 MB",
     "path": "Anime-Wallpapers-main/1 (208).png",
-    "id": "wp_475"
+    "id": "wp_475",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #209",
@@ -4282,7 +6184,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (209).jpg",
-    "id": "wp_476"
+    "id": "wp_476",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #209",
@@ -4291,7 +6197,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Anime-Wallpapers-main/1 (209).png",
-    "id": "wp_477"
+    "id": "wp_477",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #210",
@@ -4300,7 +6210,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (210).jpg",
-    "id": "wp_478"
+    "id": "wp_478",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #210",
@@ -4309,7 +6223,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.98 MB",
     "path": "Anime-Wallpapers-main/1 (210).png",
-    "id": "wp_479"
+    "id": "wp_479",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #211",
@@ -4318,7 +6236,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.59 MB",
     "path": "Anime-Wallpapers-main/1 (211).jpg",
-    "id": "wp_480"
+    "id": "wp_480",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #211",
@@ -4327,7 +6249,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.46 MB",
     "path": "Anime-Wallpapers-main/1 (211).png",
-    "id": "wp_481"
+    "id": "wp_481",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #212",
@@ -4336,7 +6262,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (212).jpg",
-    "id": "wp_482"
+    "id": "wp_482",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #212",
@@ -4345,7 +6275,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.27 MB",
     "path": "Anime-Wallpapers-main/1 (212).png",
-    "id": "wp_483"
+    "id": "wp_483",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #213",
@@ -4354,7 +6288,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (213).jpg",
-    "id": "wp_484"
+    "id": "wp_484",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #213",
@@ -4363,7 +6301,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.87 MB",
     "path": "Anime-Wallpapers-main/1 (213).png",
-    "id": "wp_485"
+    "id": "wp_485",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #214",
@@ -4372,7 +6314,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "Anime-Wallpapers-main/1 (214).jpg",
-    "id": "wp_486"
+    "id": "wp_486",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #214",
@@ -4381,7 +6327,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.47 MB",
     "path": "Anime-Wallpapers-main/1 (214).png",
-    "id": "wp_487"
+    "id": "wp_487",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #215",
@@ -4390,7 +6340,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (215).jpg",
-    "id": "wp_488"
+    "id": "wp_488",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #215",
@@ -4399,7 +6353,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (215).png",
-    "id": "wp_489"
+    "id": "wp_489",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #216",
@@ -4408,7 +6366,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.19 MB",
     "path": "Anime-Wallpapers-main/1 (216).jpg",
-    "id": "wp_490"
+    "id": "wp_490",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #216",
@@ -4417,7 +6379,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.37 MB",
     "path": "Anime-Wallpapers-main/1 (216).png",
-    "id": "wp_491"
+    "id": "wp_491",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #217",
@@ -4426,7 +6392,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.23 MB",
     "path": "Anime-Wallpapers-main/1 (217).jpg",
-    "id": "wp_492"
+    "id": "wp_492",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #217",
@@ -4435,7 +6405,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.48 MB",
     "path": "Anime-Wallpapers-main/1 (217).png",
-    "id": "wp_493"
+    "id": "wp_493",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #218",
@@ -4444,7 +6418,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (218).jpg",
-    "id": "wp_494"
+    "id": "wp_494",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #218",
@@ -4453,7 +6431,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.45 MB",
     "path": "Anime-Wallpapers-main/1 (218).png",
-    "id": "wp_495"
+    "id": "wp_495",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #219",
@@ -4462,7 +6444,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (219).jpg",
-    "id": "wp_496"
+    "id": "wp_496",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #219",
@@ -4471,7 +6457,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.51 MB",
     "path": "Anime-Wallpapers-main/1 (219).png",
-    "id": "wp_497"
+    "id": "wp_497",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #220",
@@ -4480,7 +6470,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Anime-Wallpapers-main/1 (220).jpg",
-    "id": "wp_498"
+    "id": "wp_498",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #220",
@@ -4489,7 +6483,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.01 MB",
     "path": "Anime-Wallpapers-main/1 (220).png",
-    "id": "wp_499"
+    "id": "wp_499",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #221",
@@ -4498,7 +6496,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (221).jpg",
-    "id": "wp_500"
+    "id": "wp_500",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #221",
@@ -4507,7 +6509,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.84 MB",
     "path": "Anime-Wallpapers-main/1 (221).png",
-    "id": "wp_501"
+    "id": "wp_501",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #222",
@@ -4516,7 +6522,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (222).jpg",
-    "id": "wp_502"
+    "id": "wp_502",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #222",
@@ -4525,7 +6535,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.48 MB",
     "path": "Anime-Wallpapers-main/1 (222).png",
-    "id": "wp_503"
+    "id": "wp_503",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #223",
@@ -4534,7 +6548,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.65 MB",
     "path": "Anime-Wallpapers-main/1 (223).jpg",
-    "id": "wp_504"
+    "id": "wp_504",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #223",
@@ -4543,7 +6561,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.31 MB",
     "path": "Anime-Wallpapers-main/1 (223).png",
-    "id": "wp_505"
+    "id": "wp_505",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #224",
@@ -4552,7 +6574,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.59 MB",
     "path": "Anime-Wallpapers-main/1 (224).jpg",
-    "id": "wp_506"
+    "id": "wp_506",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #224",
@@ -4561,7 +6587,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.59 MB",
     "path": "Anime-Wallpapers-main/1 (224).png",
-    "id": "wp_507"
+    "id": "wp_507",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #225",
@@ -4570,7 +6600,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.35 MB",
     "path": "Anime-Wallpapers-main/1 (225).jpg",
-    "id": "wp_508"
+    "id": "wp_508",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #225",
@@ -4579,7 +6613,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.03 MB",
     "path": "Anime-Wallpapers-main/1 (225).png",
-    "id": "wp_509"
+    "id": "wp_509",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #226",
@@ -4588,7 +6626,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.40 MB",
     "path": "Anime-Wallpapers-main/1 (226).jpg",
-    "id": "wp_510"
+    "id": "wp_510",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #226",
@@ -4597,7 +6639,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.55 MB",
     "path": "Anime-Wallpapers-main/1 (226).png",
-    "id": "wp_511"
+    "id": "wp_511",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #227",
@@ -4606,7 +6652,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.11 MB",
     "path": "Anime-Wallpapers-main/1 (227).jpg",
-    "id": "wp_512"
+    "id": "wp_512",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #227",
@@ -4615,7 +6665,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.75 MB",
     "path": "Anime-Wallpapers-main/1 (227).png",
-    "id": "wp_513"
+    "id": "wp_513",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #228",
@@ -4624,7 +6678,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.72 MB",
     "path": "Anime-Wallpapers-main/1 (228).jpg",
-    "id": "wp_514"
+    "id": "wp_514",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #228",
@@ -4633,7 +6691,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.47 MB",
     "path": "Anime-Wallpapers-main/1 (228).png",
-    "id": "wp_515"
+    "id": "wp_515",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #229",
@@ -4642,7 +6704,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.16 MB",
     "path": "Anime-Wallpapers-main/1 (229).jpg",
-    "id": "wp_516"
+    "id": "wp_516",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #229",
@@ -4651,7 +6717,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.56 MB",
     "path": "Anime-Wallpapers-main/1 (229).png",
-    "id": "wp_517"
+    "id": "wp_517",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #230",
@@ -4660,7 +6730,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "Anime-Wallpapers-main/1 (230).jpg",
-    "id": "wp_518"
+    "id": "wp_518",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #230",
@@ -4669,7 +6743,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.94 MB",
     "path": "Anime-Wallpapers-main/1 (230).png",
-    "id": "wp_519"
+    "id": "wp_519",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #231",
@@ -4678,7 +6756,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (231).jpg",
-    "id": "wp_520"
+    "id": "wp_520",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #231",
@@ -4687,7 +6769,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (231).png",
-    "id": "wp_521"
+    "id": "wp_521",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #232",
@@ -4696,7 +6782,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (232).jpg",
-    "id": "wp_522"
+    "id": "wp_522",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #232",
@@ -4705,7 +6795,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (232).png",
-    "id": "wp_523"
+    "id": "wp_523",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #233",
@@ -4714,7 +6808,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (233).jpg",
-    "id": "wp_524"
+    "id": "wp_524",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #233",
@@ -4723,7 +6821,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (233).png",
-    "id": "wp_525"
+    "id": "wp_525",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #234",
@@ -4732,7 +6834,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (234).jpg",
-    "id": "wp_526"
+    "id": "wp_526",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #234",
@@ -4741,7 +6847,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.98 MB",
     "path": "Anime-Wallpapers-main/1 (234).png",
-    "id": "wp_527"
+    "id": "wp_527",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #235",
@@ -4750,7 +6860,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (235).jpg",
-    "id": "wp_528"
+    "id": "wp_528",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #235",
@@ -4759,7 +6873,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.84 MB",
     "path": "Anime-Wallpapers-main/1 (235).png",
-    "id": "wp_529"
+    "id": "wp_529",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #236",
@@ -4768,7 +6886,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.07 MB",
     "path": "Anime-Wallpapers-main/1 (236).jpg",
-    "id": "wp_530"
+    "id": "wp_530",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #236",
@@ -4777,7 +6899,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (236).png",
-    "id": "wp_531"
+    "id": "wp_531",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #237",
@@ -4786,7 +6912,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (237).jpg",
-    "id": "wp_532"
+    "id": "wp_532",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #237",
@@ -4795,7 +6925,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (237).png",
-    "id": "wp_533"
+    "id": "wp_533",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #238",
@@ -4804,7 +6938,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "Anime-Wallpapers-main/1 (238).jpg",
-    "id": "wp_534"
+    "id": "wp_534",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #238",
@@ -4813,7 +6951,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.48 MB",
     "path": "Anime-Wallpapers-main/1 (238).png",
-    "id": "wp_535"
+    "id": "wp_535",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #239",
@@ -4822,7 +6964,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.40 MB",
     "path": "Anime-Wallpapers-main/1 (239).jpg",
-    "id": "wp_536"
+    "id": "wp_536",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #239",
@@ -4831,7 +6977,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (239).png",
-    "id": "wp_537"
+    "id": "wp_537",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #240",
@@ -4840,7 +6990,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.68 MB",
     "path": "Anime-Wallpapers-main/1 (240).jpg",
-    "id": "wp_538"
+    "id": "wp_538",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #240",
@@ -4849,7 +7003,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (240).png",
-    "id": "wp_539"
+    "id": "wp_539",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #241",
@@ -4858,7 +7016,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "Anime-Wallpapers-main/1 (241).jpg",
-    "id": "wp_540"
+    "id": "wp_540",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #241",
@@ -4867,7 +7029,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (241).png",
-    "id": "wp_541"
+    "id": "wp_541",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #242",
@@ -4876,7 +7042,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "Anime-Wallpapers-main/1 (242).jpg",
-    "id": "wp_542"
+    "id": "wp_542",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #242",
@@ -4885,7 +7055,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (242).png",
-    "id": "wp_543"
+    "id": "wp_543",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #243",
@@ -4894,7 +7068,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.14 MB",
     "path": "Anime-Wallpapers-main/1 (243).jpg",
-    "id": "wp_544"
+    "id": "wp_544",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #243",
@@ -4903,7 +7081,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Anime-Wallpapers-main/1 (243).png",
-    "id": "wp_545"
+    "id": "wp_545",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #244",
@@ -4912,7 +7094,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.99 MB",
     "path": "Anime-Wallpapers-main/1 (244).jpg",
-    "id": "wp_546"
+    "id": "wp_546",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #244",
@@ -4921,7 +7107,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.22 MB",
     "path": "Anime-Wallpapers-main/1 (244).png",
-    "id": "wp_547"
+    "id": "wp_547",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #245",
@@ -4930,7 +7120,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.92 MB",
     "path": "Anime-Wallpapers-main/1 (245).jpg",
-    "id": "wp_548"
+    "id": "wp_548",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #245",
@@ -4939,7 +7133,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.63 MB",
     "path": "Anime-Wallpapers-main/1 (245).png",
-    "id": "wp_549"
+    "id": "wp_549",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #246",
@@ -4948,7 +7146,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "Anime-Wallpapers-main/1 (246).jpg",
-    "id": "wp_550"
+    "id": "wp_550",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #246",
@@ -4957,7 +7159,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "17.26 MB",
     "path": "Anime-Wallpapers-main/1 (246).png",
-    "id": "wp_551"
+    "id": "wp_551",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #247",
@@ -4966,7 +7172,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.34 MB",
     "path": "Anime-Wallpapers-main/1 (247).jpg",
-    "id": "wp_552"
+    "id": "wp_552",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #247",
@@ -4975,7 +7185,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.71 MB",
     "path": "Anime-Wallpapers-main/1 (247).png",
-    "id": "wp_553"
+    "id": "wp_553",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #248",
@@ -4984,7 +7198,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "Anime-Wallpapers-main/1 (248).jpg",
-    "id": "wp_554"
+    "id": "wp_554",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #248",
@@ -4993,7 +7211,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.27 MB",
     "path": "Anime-Wallpapers-main/1 (248).png",
-    "id": "wp_555"
+    "id": "wp_555",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #249",
@@ -5002,7 +7224,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Anime-Wallpapers-main/1 (249).jpg",
-    "id": "wp_556"
+    "id": "wp_556",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #249",
@@ -5011,7 +7237,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (249).png",
-    "id": "wp_557"
+    "id": "wp_557",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #250",
@@ -5020,7 +7250,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.53 MB",
     "path": "Anime-Wallpapers-main/1 (250).jpg",
-    "id": "wp_558"
+    "id": "wp_558",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #250",
@@ -5029,7 +7263,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.55 MB",
     "path": "Anime-Wallpapers-main/1 (250).png",
-    "id": "wp_559"
+    "id": "wp_559",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #251",
@@ -5038,7 +7276,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.81 MB",
     "path": "Anime-Wallpapers-main/1 (251).jpg",
-    "id": "wp_560"
+    "id": "wp_560",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #251",
@@ -5047,7 +7289,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.17 MB",
     "path": "Anime-Wallpapers-main/1 (251).png",
-    "id": "wp_561"
+    "id": "wp_561",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #252",
@@ -5056,7 +7302,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.79 MB",
     "path": "Anime-Wallpapers-main/1 (252).jpg",
-    "id": "wp_562"
+    "id": "wp_562",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #252",
@@ -5065,7 +7315,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.19 MB",
     "path": "Anime-Wallpapers-main/1 (252).png",
-    "id": "wp_563"
+    "id": "wp_563",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #253",
@@ -5074,7 +7328,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (253).jpg",
-    "id": "wp_564"
+    "id": "wp_564",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #253",
@@ -5083,7 +7341,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.00 MB",
     "path": "Anime-Wallpapers-main/1 (253).png",
-    "id": "wp_565"
+    "id": "wp_565",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #254",
@@ -5092,7 +7354,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.60 MB",
     "path": "Anime-Wallpapers-main/1 (254).jpg",
-    "id": "wp_566"
+    "id": "wp_566",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #254",
@@ -5101,7 +7367,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.14 MB",
     "path": "Anime-Wallpapers-main/1 (254).png",
-    "id": "wp_567"
+    "id": "wp_567",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #255",
@@ -5110,7 +7380,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "Anime-Wallpapers-main/1 (255).jpg",
-    "id": "wp_568"
+    "id": "wp_568",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #255",
@@ -5119,7 +7393,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.12 MB",
     "path": "Anime-Wallpapers-main/1 (255).png",
-    "id": "wp_569"
+    "id": "wp_569",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #256",
@@ -5128,7 +7406,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.06 MB",
     "path": "Anime-Wallpapers-main/1 (256).jpg",
-    "id": "wp_570"
+    "id": "wp_570",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #256",
@@ -5137,7 +7419,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.82 MB",
     "path": "Anime-Wallpapers-main/1 (256).png",
-    "id": "wp_571"
+    "id": "wp_571",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #257",
@@ -5146,7 +7432,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.39 MB",
     "path": "Anime-Wallpapers-main/1 (257).jpg",
-    "id": "wp_572"
+    "id": "wp_572",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #257",
@@ -5155,7 +7445,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (257).png",
-    "id": "wp_573"
+    "id": "wp_573",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #258",
@@ -5164,7 +7458,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Anime-Wallpapers-main/1 (258).jpg",
-    "id": "wp_574"
+    "id": "wp_574",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #258",
@@ -5173,7 +7471,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (258).png",
-    "id": "wp_575"
+    "id": "wp_575",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #259",
@@ -5182,7 +7484,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (259).jpg",
-    "id": "wp_576"
+    "id": "wp_576",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #259",
@@ -5191,7 +7497,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "Anime-Wallpapers-main/1 (259).png",
-    "id": "wp_577"
+    "id": "wp_577",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #260",
@@ -5200,7 +7510,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (260).jpg",
-    "id": "wp_578"
+    "id": "wp_578",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #260",
@@ -5209,7 +7523,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (260).png",
-    "id": "wp_579"
+    "id": "wp_579",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #261",
@@ -5218,7 +7536,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (261).jpg",
-    "id": "wp_580"
+    "id": "wp_580",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #261",
@@ -5227,7 +7549,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.57 MB",
     "path": "Anime-Wallpapers-main/1 (261).png",
-    "id": "wp_581"
+    "id": "wp_581",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #262",
@@ -5236,7 +7562,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "Anime-Wallpapers-main/1 (262).jpg",
-    "id": "wp_582"
+    "id": "wp_582",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #262",
@@ -5245,7 +7575,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (262).png",
-    "id": "wp_583"
+    "id": "wp_583",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #263",
@@ -5254,7 +7588,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (263).jpg",
-    "id": "wp_584"
+    "id": "wp_584",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #263",
@@ -5263,7 +7601,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (263).png",
-    "id": "wp_585"
+    "id": "wp_585",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #264",
@@ -5272,7 +7614,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "Anime-Wallpapers-main/1 (264).jpg",
-    "id": "wp_586"
+    "id": "wp_586",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #264",
@@ -5281,7 +7627,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (264).png",
-    "id": "wp_587"
+    "id": "wp_587",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #265",
@@ -5290,7 +7640,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "Anime-Wallpapers-main/1 (265).jpg",
-    "id": "wp_588"
+    "id": "wp_588",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #265",
@@ -5299,7 +7653,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.96 MB",
     "path": "Anime-Wallpapers-main/1 (265).png",
-    "id": "wp_589"
+    "id": "wp_589",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #266",
@@ -5308,7 +7666,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Anime-Wallpapers-main/1 (266).jpg",
-    "id": "wp_590"
+    "id": "wp_590",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #266",
@@ -5317,7 +7679,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.91 MB",
     "path": "Anime-Wallpapers-main/1 (266).png",
-    "id": "wp_591"
+    "id": "wp_591",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #267",
@@ -5326,7 +7692,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (267).jpg",
-    "id": "wp_592"
+    "id": "wp_592",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #267",
@@ -5335,7 +7705,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.43 MB",
     "path": "Anime-Wallpapers-main/1 (267).png",
-    "id": "wp_593"
+    "id": "wp_593",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #268",
@@ -5344,7 +7718,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Anime-Wallpapers-main/1 (268).jpg",
-    "id": "wp_594"
+    "id": "wp_594",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #268",
@@ -5353,7 +7731,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.77 MB",
     "path": "Anime-Wallpapers-main/1 (268).png",
-    "id": "wp_595"
+    "id": "wp_595",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #269",
@@ -5362,7 +7744,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "Anime-Wallpapers-main/1 (269).jpg",
-    "id": "wp_596"
+    "id": "wp_596",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #269",
@@ -5371,7 +7757,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.13 MB",
     "path": "Anime-Wallpapers-main/1 (269).png",
-    "id": "wp_597"
+    "id": "wp_597",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #270",
@@ -5380,7 +7770,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.63 MB",
     "path": "Anime-Wallpapers-main/1 (270).jpg",
-    "id": "wp_598"
+    "id": "wp_598",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #270",
@@ -5389,7 +7783,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.70 MB",
     "path": "Anime-Wallpapers-main/1 (270).png",
-    "id": "wp_599"
+    "id": "wp_599",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #271",
@@ -5398,7 +7796,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Anime-Wallpapers-main/1 (271).jpg",
-    "id": "wp_600"
+    "id": "wp_600",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #271",
@@ -5407,7 +7809,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "Anime-Wallpapers-main/1 (271).png",
-    "id": "wp_601"
+    "id": "wp_601",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #272",
@@ -5416,7 +7822,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.25 MB",
     "path": "Anime-Wallpapers-main/1 (272).jpg",
-    "id": "wp_602"
+    "id": "wp_602",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #272",
@@ -5425,7 +7835,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.95 MB",
     "path": "Anime-Wallpapers-main/1 (272).png",
-    "id": "wp_603"
+    "id": "wp_603",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #273",
@@ -5434,7 +7848,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.53 MB",
     "path": "Anime-Wallpapers-main/1 (273).jpg",
-    "id": "wp_604"
+    "id": "wp_604",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #273",
@@ -5443,7 +7861,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.60 MB",
     "path": "Anime-Wallpapers-main/1 (273).png",
-    "id": "wp_605"
+    "id": "wp_605",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #274",
@@ -5452,7 +7874,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (274).jpg",
-    "id": "wp_606"
+    "id": "wp_606",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #274",
@@ -5461,7 +7887,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.54 MB",
     "path": "Anime-Wallpapers-main/1 (274).png",
-    "id": "wp_607"
+    "id": "wp_607",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #275",
@@ -5470,7 +7900,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (275).jpg",
-    "id": "wp_608"
+    "id": "wp_608",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #275",
@@ -5479,7 +7913,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.54 MB",
     "path": "Anime-Wallpapers-main/1 (275).png",
-    "id": "wp_609"
+    "id": "wp_609",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #276",
@@ -5488,7 +7926,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "Anime-Wallpapers-main/1 (276).jpg",
-    "id": "wp_610"
+    "id": "wp_610",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #276",
@@ -5497,7 +7939,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.28 MB",
     "path": "Anime-Wallpapers-main/1 (276).png",
-    "id": "wp_611"
+    "id": "wp_611",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #277",
@@ -5506,7 +7952,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (277).jpg",
-    "id": "wp_612"
+    "id": "wp_612",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #277",
@@ -5515,7 +7965,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.01 MB",
     "path": "Anime-Wallpapers-main/1 (277).png",
-    "id": "wp_613"
+    "id": "wp_613",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #278",
@@ -5524,7 +7978,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (278).jpg",
-    "id": "wp_614"
+    "id": "wp_614",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #278",
@@ -5533,7 +7991,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.34 MB",
     "path": "Anime-Wallpapers-main/1 (278).png",
-    "id": "wp_615"
+    "id": "wp_615",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #279",
@@ -5542,7 +8004,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "Anime-Wallpapers-main/1 (279).jpg",
-    "id": "wp_616"
+    "id": "wp_616",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #279",
@@ -5551,7 +8017,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.79 MB",
     "path": "Anime-Wallpapers-main/1 (279).png",
-    "id": "wp_617"
+    "id": "wp_617",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #280",
@@ -5560,7 +8030,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (280).jpg",
-    "id": "wp_618"
+    "id": "wp_618",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #280",
@@ -5569,7 +8043,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.12 MB",
     "path": "Anime-Wallpapers-main/1 (280).png",
-    "id": "wp_619"
+    "id": "wp_619",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #281",
@@ -5578,7 +8056,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (281).jpg",
-    "id": "wp_620"
+    "id": "wp_620",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #281",
@@ -5587,7 +8069,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.64 MB",
     "path": "Anime-Wallpapers-main/1 (281).png",
-    "id": "wp_621"
+    "id": "wp_621",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #282",
@@ -5596,7 +8082,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (282).jpg",
-    "id": "wp_622"
+    "id": "wp_622",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #282",
@@ -5605,7 +8095,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.74 MB",
     "path": "Anime-Wallpapers-main/1 (282).png",
-    "id": "wp_623"
+    "id": "wp_623",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #283",
@@ -5614,7 +8108,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "Anime-Wallpapers-main/1 (283).jpg",
-    "id": "wp_624"
+    "id": "wp_624",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #283",
@@ -5623,7 +8121,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.29 MB",
     "path": "Anime-Wallpapers-main/1 (283).png",
-    "id": "wp_625"
+    "id": "wp_625",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #284",
@@ -5632,7 +8134,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (284).jpg",
-    "id": "wp_626"
+    "id": "wp_626",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #284",
@@ -5641,7 +8147,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.57 MB",
     "path": "Anime-Wallpapers-main/1 (284).png",
-    "id": "wp_627"
+    "id": "wp_627",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #285",
@@ -5650,7 +8160,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (285).jpg",
-    "id": "wp_628"
+    "id": "wp_628",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #285",
@@ -5659,7 +8173,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.60 MB",
     "path": "Anime-Wallpapers-main/1 (285).png",
-    "id": "wp_629"
+    "id": "wp_629",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #286",
@@ -5668,7 +8186,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (286).jpg",
-    "id": "wp_630"
+    "id": "wp_630",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #286",
@@ -5677,7 +8199,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.20 MB",
     "path": "Anime-Wallpapers-main/1 (286).png",
-    "id": "wp_631"
+    "id": "wp_631",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #287",
@@ -5686,7 +8212,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Anime-Wallpapers-main/1 (287).jpg",
-    "id": "wp_632"
+    "id": "wp_632",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #287",
@@ -5695,7 +8225,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.28 MB",
     "path": "Anime-Wallpapers-main/1 (287).png",
-    "id": "wp_633"
+    "id": "wp_633",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #288",
@@ -5704,7 +8238,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "Anime-Wallpapers-main/1 (288).jpg",
-    "id": "wp_634"
+    "id": "wp_634",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #288",
@@ -5713,7 +8251,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.91 MB",
     "path": "Anime-Wallpapers-main/1 (288).png",
-    "id": "wp_635"
+    "id": "wp_635",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #289",
@@ -5722,7 +8264,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Anime-Wallpapers-main/1 (289).jpg",
-    "id": "wp_636"
+    "id": "wp_636",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #289",
@@ -5731,7 +8277,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Anime-Wallpapers-main/1 (289).png",
-    "id": "wp_637"
+    "id": "wp_637",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #290",
@@ -5740,7 +8290,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Anime-Wallpapers-main/1 (290).jpg",
-    "id": "wp_638"
+    "id": "wp_638",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #290",
@@ -5749,7 +8303,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.15 MB",
     "path": "Anime-Wallpapers-main/1 (290).png",
-    "id": "wp_639"
+    "id": "wp_639",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #291",
@@ -5758,7 +8316,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Anime-Wallpapers-main/1 (291).jpg",
-    "id": "wp_640"
+    "id": "wp_640",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #291",
@@ -5767,7 +8329,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (291).png",
-    "id": "wp_641"
+    "id": "wp_641",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #292",
@@ -5776,7 +8342,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "Anime-Wallpapers-main/1 (292).jpg",
-    "id": "wp_642"
+    "id": "wp_642",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #292",
@@ -5785,7 +8355,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.80 MB",
     "path": "Anime-Wallpapers-main/1 (292).png",
-    "id": "wp_643"
+    "id": "wp_643",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #293",
@@ -5794,7 +8368,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Anime-Wallpapers-main/1 (293).jpg",
-    "id": "wp_644"
+    "id": "wp_644",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #293",
@@ -5803,7 +8381,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.92 MB",
     "path": "Anime-Wallpapers-main/1 (293).png",
-    "id": "wp_645"
+    "id": "wp_645",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #294",
@@ -5812,7 +8394,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "Anime-Wallpapers-main/1 (294).jpg",
-    "id": "wp_646"
+    "id": "wp_646",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #294",
@@ -5821,7 +8407,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Anime-Wallpapers-main/1 (294).png",
-    "id": "wp_647"
+    "id": "wp_647",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #295",
@@ -5830,7 +8420,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Anime-Wallpapers-main/1 (295).jpg",
-    "id": "wp_648"
+    "id": "wp_648",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #295",
@@ -5839,7 +8433,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.76 MB",
     "path": "Anime-Wallpapers-main/1 (295).png",
-    "id": "wp_649"
+    "id": "wp_649",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #296",
@@ -5848,7 +8446,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Anime-Wallpapers-main/1 (296).jpg",
-    "id": "wp_650"
+    "id": "wp_650",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #296",
@@ -5857,7 +8459,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.20 MB",
     "path": "Anime-Wallpapers-main/1 (296).png",
-    "id": "wp_651"
+    "id": "wp_651",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #297",
@@ -5866,7 +8472,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.45 MB",
     "path": "Anime-Wallpapers-main/1 (297).png",
-    "id": "wp_652"
+    "id": "wp_652",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #298",
@@ -5875,7 +8485,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.71 MB",
     "path": "Anime-Wallpapers-main/1 (298).png",
-    "id": "wp_653"
+    "id": "wp_653",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #299",
@@ -5884,7 +8498,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.84 MB",
     "path": "Anime-Wallpapers-main/1 (299).png",
-    "id": "wp_654"
+    "id": "wp_654",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #300",
@@ -5893,7 +8511,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.95 MB",
     "path": "Anime-Wallpapers-main/1 (300).png",
-    "id": "wp_655"
+    "id": "wp_655",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #301",
@@ -5902,7 +8524,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.24 MB",
     "path": "Anime-Wallpapers-main/1 (301).png",
-    "id": "wp_656"
+    "id": "wp_656",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #302",
@@ -5911,7 +8537,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.30 MB",
     "path": "Anime-Wallpapers-main/1 (302).png",
-    "id": "wp_657"
+    "id": "wp_657",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #303",
@@ -5920,7 +8550,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.72 MB",
     "path": "Anime-Wallpapers-main/1 (303).png",
-    "id": "wp_658"
+    "id": "wp_658",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #304",
@@ -5929,7 +8563,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.20 MB",
     "path": "Anime-Wallpapers-main/1 (304).png",
-    "id": "wp_659"
+    "id": "wp_659",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #305",
@@ -5938,7 +8576,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.65 MB",
     "path": "Anime-Wallpapers-main/1 (305).png",
-    "id": "wp_660"
+    "id": "wp_660",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #306",
@@ -5947,7 +8589,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.96 MB",
     "path": "Anime-Wallpapers-main/1 (306).png",
-    "id": "wp_661"
+    "id": "wp_661",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #307",
@@ -5956,7 +8602,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Anime-Wallpapers-main/1 (307).png",
-    "id": "wp_662"
+    "id": "wp_662",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #308",
@@ -5965,7 +8615,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.74 MB",
     "path": "Anime-Wallpapers-main/1 (308).png",
-    "id": "wp_663"
+    "id": "wp_663",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #309",
@@ -5974,7 +8628,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.65 MB",
     "path": "Anime-Wallpapers-main/1 (309).png",
-    "id": "wp_664"
+    "id": "wp_664",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #310",
@@ -5983,7 +8641,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.32 MB",
     "path": "Anime-Wallpapers-main/1 (310).png",
-    "id": "wp_665"
+    "id": "wp_665",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #311",
@@ -5992,7 +8654,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.32 MB",
     "path": "Anime-Wallpapers-main/1 (311).png",
-    "id": "wp_666"
+    "id": "wp_666",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #312",
@@ -6001,7 +8667,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.93 MB",
     "path": "Anime-Wallpapers-main/1 (312).png",
-    "id": "wp_667"
+    "id": "wp_667",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #313",
@@ -6010,7 +8680,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.25 MB",
     "path": "Anime-Wallpapers-main/1 (313).png",
-    "id": "wp_668"
+    "id": "wp_668",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #314",
@@ -6019,7 +8693,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.69 MB",
     "path": "Anime-Wallpapers-main/1 (314).png",
-    "id": "wp_669"
+    "id": "wp_669",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #315",
@@ -6028,7 +8706,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.90 MB",
     "path": "Anime-Wallpapers-main/1 (315).png",
-    "id": "wp_670"
+    "id": "wp_670",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #316",
@@ -6037,7 +8719,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.25 MB",
     "path": "Anime-Wallpapers-main/1 (316).png",
-    "id": "wp_671"
+    "id": "wp_671",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #317",
@@ -6046,7 +8732,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.83 MB",
     "path": "Anime-Wallpapers-main/1 (317).png",
-    "id": "wp_672"
+    "id": "wp_672",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #318",
@@ -6055,7 +8745,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.72 MB",
     "path": "Anime-Wallpapers-main/1 (318).png",
-    "id": "wp_673"
+    "id": "wp_673",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #319",
@@ -6064,7 +8758,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.63 MB",
     "path": "Anime-Wallpapers-main/1 (319).png",
-    "id": "wp_674"
+    "id": "wp_674",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #320",
@@ -6073,7 +8771,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.64 MB",
     "path": "Anime-Wallpapers-main/1 (320).png",
-    "id": "wp_675"
+    "id": "wp_675",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #321",
@@ -6082,7 +8784,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.46 MB",
     "path": "Anime-Wallpapers-main/1 (321).png",
-    "id": "wp_676"
+    "id": "wp_676",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #322",
@@ -6091,7 +8797,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (322).png",
-    "id": "wp_677"
+    "id": "wp_677",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #323",
@@ -6100,7 +8810,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.25 MB",
     "path": "Anime-Wallpapers-main/1 (323).png",
-    "id": "wp_678"
+    "id": "wp_678",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #324",
@@ -6109,7 +8823,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "Anime-Wallpapers-main/1 (324).png",
-    "id": "wp_679"
+    "id": "wp_679",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #325",
@@ -6118,7 +8836,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Anime-Wallpapers-main/1 (325).png",
-    "id": "wp_680"
+    "id": "wp_680",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "Anime #326",
@@ -6127,7 +8849,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.42 MB",
     "path": "Anime-Wallpapers-main/1 (326).png",
-    "id": "wp_681"
+    "id": "wp_681",
+    "tags": [
+      "anime",
+      "wallpapers"
+    ]
   },
   {
     "name": "1",
@@ -6136,7 +8862,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "3.39 MB",
     "path": "AnimeBackgrounds-master/1.jpeg",
-    "id": "wp_682"
+    "id": "wp_682",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "2",
@@ -6145,7 +8876,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "AnimeBackgrounds-master/2.jpg",
-    "id": "wp_683"
+    "id": "wp_683",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "3",
@@ -6154,7 +8890,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "AnimeBackgrounds-master/3.jpg",
-    "id": "wp_684"
+    "id": "wp_684",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "4",
@@ -6163,7 +8904,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.54 MB",
     "path": "AnimeBackgrounds-master/4.png",
-    "id": "wp_685"
+    "id": "wp_685",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "5",
@@ -6172,7 +8918,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "2.37 MB",
     "path": "AnimeBackgrounds-master/5.jpeg",
-    "id": "wp_686"
+    "id": "wp_686",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "6",
@@ -6181,7 +8932,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/6.jpg",
-    "id": "wp_687"
+    "id": "wp_687",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "7",
@@ -6190,7 +8946,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.39 MB",
     "path": "AnimeBackgrounds-master/7.png",
-    "id": "wp_688"
+    "id": "wp_688",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "8",
@@ -6199,7 +8960,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/8.jpg",
-    "id": "wp_689"
+    "id": "wp_689",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "9",
@@ -6208,7 +8974,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "AnimeBackgrounds-master/9.png",
-    "id": "wp_690"
+    "id": "wp_690",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "10",
@@ -6217,7 +8988,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "AnimeBackgrounds-master/10.jpg",
-    "id": "wp_691"
+    "id": "wp_691",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "11",
@@ -6226,7 +9002,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.58 MB",
     "path": "AnimeBackgrounds-master/11.png",
-    "id": "wp_692"
+    "id": "wp_692",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "12",
@@ -6235,7 +9016,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.50 MB",
     "path": "AnimeBackgrounds-master/12.jpg",
-    "id": "wp_693"
+    "id": "wp_693",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "13",
@@ -6244,7 +9030,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.61 MB",
     "path": "AnimeBackgrounds-master/13.png",
-    "id": "wp_694"
+    "id": "wp_694",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "14",
@@ -6253,7 +9044,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "AnimeBackgrounds-master/14.jpg",
-    "id": "wp_695"
+    "id": "wp_695",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "15",
@@ -6262,7 +9058,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.75 MB",
     "path": "AnimeBackgrounds-master/15.png",
-    "id": "wp_696"
+    "id": "wp_696",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "16",
@@ -6271,7 +9072,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.79 MB",
     "path": "AnimeBackgrounds-master/16.jpg",
-    "id": "wp_697"
+    "id": "wp_697",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "17",
@@ -6280,7 +9086,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.83 MB",
     "path": "AnimeBackgrounds-master/17.png",
-    "id": "wp_698"
+    "id": "wp_698",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "18",
@@ -6289,7 +9100,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.64 MB",
     "path": "AnimeBackgrounds-master/18.jpg",
-    "id": "wp_699"
+    "id": "wp_699",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "19",
@@ -6298,7 +9114,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.29 MB",
     "path": "AnimeBackgrounds-master/19.png",
-    "id": "wp_700"
+    "id": "wp_700",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #1",
@@ -6307,7 +9128,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.04 MB",
     "path": "AnimeBackgrounds-master/1 (1).png",
-    "id": "wp_701"
+    "id": "wp_701",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #10",
@@ -6316,7 +9143,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.17 MB",
     "path": "AnimeBackgrounds-master/1 (10).jpg",
-    "id": "wp_702"
+    "id": "wp_702",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #10",
@@ -6325,7 +9158,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.29 MB",
     "path": "AnimeBackgrounds-master/1 (10).png",
-    "id": "wp_703"
+    "id": "wp_703",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #11",
@@ -6334,7 +9173,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "AnimeBackgrounds-master/1 (11).jpg",
-    "id": "wp_704"
+    "id": "wp_704",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #11",
@@ -6343,7 +9188,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.82 MB",
     "path": "AnimeBackgrounds-master/1 (11).png",
-    "id": "wp_705"
+    "id": "wp_705",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #12",
@@ -6352,7 +9203,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.03 MB",
     "path": "AnimeBackgrounds-master/1 (12).jpg",
-    "id": "wp_706"
+    "id": "wp_706",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #12",
@@ -6361,7 +9218,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.55 MB",
     "path": "AnimeBackgrounds-master/1 (12).png",
-    "id": "wp_707"
+    "id": "wp_707",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #13",
@@ -6370,7 +9233,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.76 MB",
     "path": "AnimeBackgrounds-master/1 (13).jpg",
-    "id": "wp_708"
+    "id": "wp_708",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #13",
@@ -6379,7 +9248,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.12 MB",
     "path": "AnimeBackgrounds-master/1 (13).png",
-    "id": "wp_709"
+    "id": "wp_709",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #14",
@@ -6388,7 +9263,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "AnimeBackgrounds-master/1 (14).jpg",
-    "id": "wp_710"
+    "id": "wp_710",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #14",
@@ -6397,7 +9278,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.23 MB",
     "path": "AnimeBackgrounds-master/1 (14).png",
-    "id": "wp_711"
+    "id": "wp_711",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #15",
@@ -6406,7 +9293,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "AnimeBackgrounds-master/1 (15).jpg",
-    "id": "wp_712"
+    "id": "wp_712",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #15",
@@ -6415,7 +9308,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "AnimeBackgrounds-master/1 (15).png",
-    "id": "wp_713"
+    "id": "wp_713",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #16",
@@ -6424,7 +9323,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "AnimeBackgrounds-master/1 (16).jpg",
-    "id": "wp_714"
+    "id": "wp_714",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #16",
@@ -6433,7 +9338,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.09 MB",
     "path": "AnimeBackgrounds-master/1 (16).png",
-    "id": "wp_715"
+    "id": "wp_715",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #17",
@@ -6442,7 +9353,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "AnimeBackgrounds-master/1 (17).jpg",
-    "id": "wp_716"
+    "id": "wp_716",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #17",
@@ -6451,7 +9368,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.25 MB",
     "path": "AnimeBackgrounds-master/1 (17).png",
-    "id": "wp_717"
+    "id": "wp_717",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #18",
@@ -6460,7 +9383,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "AnimeBackgrounds-master/1 (18).jpg",
-    "id": "wp_718"
+    "id": "wp_718",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #18",
@@ -6469,7 +9398,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.18 MB",
     "path": "AnimeBackgrounds-master/1 (18).png",
-    "id": "wp_719"
+    "id": "wp_719",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #19",
@@ -6478,7 +9413,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.26 MB",
     "path": "AnimeBackgrounds-master/1 (19).jpg",
-    "id": "wp_720"
+    "id": "wp_720",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #19",
@@ -6487,7 +9428,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.54 MB",
     "path": "AnimeBackgrounds-master/1 (19).png",
-    "id": "wp_721"
+    "id": "wp_721",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #20",
@@ -6496,7 +9443,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "AnimeBackgrounds-master/1 (20).jpg",
-    "id": "wp_722"
+    "id": "wp_722",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #20",
@@ -6505,7 +9458,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.52 MB",
     "path": "AnimeBackgrounds-master/1 (20).png",
-    "id": "wp_723"
+    "id": "wp_723",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #21",
@@ -6514,7 +9473,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (21).jpg",
-    "id": "wp_724"
+    "id": "wp_724",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #21",
@@ -6523,7 +9488,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.56 MB",
     "path": "AnimeBackgrounds-master/1 (21).png",
-    "id": "wp_725"
+    "id": "wp_725",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #22",
@@ -6532,7 +9503,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.24 MB",
     "path": "AnimeBackgrounds-master/1 (22).jpg",
-    "id": "wp_726"
+    "id": "wp_726",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #22",
@@ -6541,7 +9518,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.06 MB",
     "path": "AnimeBackgrounds-master/1 (22).png",
-    "id": "wp_727"
+    "id": "wp_727",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #23",
@@ -6550,7 +9533,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "AnimeBackgrounds-master/1 (23).jpg",
-    "id": "wp_728"
+    "id": "wp_728",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #23",
@@ -6559,7 +9548,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.80 MB",
     "path": "AnimeBackgrounds-master/1 (23).png",
-    "id": "wp_729"
+    "id": "wp_729",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #24",
@@ -6568,7 +9563,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "AnimeBackgrounds-master/1 (24).jpg",
-    "id": "wp_730"
+    "id": "wp_730",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #24",
@@ -6577,7 +9578,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.98 MB",
     "path": "AnimeBackgrounds-master/1 (24).png",
-    "id": "wp_731"
+    "id": "wp_731",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #25",
@@ -6586,7 +9593,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.51 MB",
     "path": "AnimeBackgrounds-master/1 (25).jpg",
-    "id": "wp_732"
+    "id": "wp_732",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #25",
@@ -6595,7 +9608,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.55 MB",
     "path": "AnimeBackgrounds-master/1 (25).png",
-    "id": "wp_733"
+    "id": "wp_733",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #26",
@@ -6604,7 +9623,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.53 MB",
     "path": "AnimeBackgrounds-master/1 (26).jpg",
-    "id": "wp_734"
+    "id": "wp_734",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #26",
@@ -6613,7 +9638,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.94 MB",
     "path": "AnimeBackgrounds-master/1 (26).png",
-    "id": "wp_735"
+    "id": "wp_735",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #27",
@@ -6622,7 +9653,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "AnimeBackgrounds-master/1 (27).jpg",
-    "id": "wp_736"
+    "id": "wp_736",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #27",
@@ -6631,7 +9668,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.04 MB",
     "path": "AnimeBackgrounds-master/1 (27).png",
-    "id": "wp_737"
+    "id": "wp_737",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #28",
@@ -6640,7 +9683,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.80 MB",
     "path": "AnimeBackgrounds-master/1 (28).jpg",
-    "id": "wp_738"
+    "id": "wp_738",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #28",
@@ -6649,7 +9698,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.14 MB",
     "path": "AnimeBackgrounds-master/1 (28).png",
-    "id": "wp_739"
+    "id": "wp_739",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #29",
@@ -6658,7 +9713,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.26 MB",
     "path": "AnimeBackgrounds-master/1 (29).jpg",
-    "id": "wp_740"
+    "id": "wp_740",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #29",
@@ -6667,7 +9728,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.78 MB",
     "path": "AnimeBackgrounds-master/1 (29).png",
-    "id": "wp_741"
+    "id": "wp_741",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #30",
@@ -6676,7 +9743,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.40 MB",
     "path": "AnimeBackgrounds-master/1 (30).jpg",
-    "id": "wp_742"
+    "id": "wp_742",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #30",
@@ -6685,7 +9758,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.40 MB",
     "path": "AnimeBackgrounds-master/1 (30).png",
-    "id": "wp_743"
+    "id": "wp_743",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #31",
@@ -6694,7 +9773,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.15 MB",
     "path": "AnimeBackgrounds-master/1 (31).jpg",
-    "id": "wp_744"
+    "id": "wp_744",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #31",
@@ -6703,7 +9788,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.49 MB",
     "path": "AnimeBackgrounds-master/1 (31).png",
-    "id": "wp_745"
+    "id": "wp_745",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #32",
@@ -6712,7 +9803,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.00 MB",
     "path": "AnimeBackgrounds-master/1 (32).jpg",
-    "id": "wp_746"
+    "id": "wp_746",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #32",
@@ -6721,7 +9818,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.16 MB",
     "path": "AnimeBackgrounds-master/1 (32).png",
-    "id": "wp_747"
+    "id": "wp_747",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #33",
@@ -6730,7 +9833,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "AnimeBackgrounds-master/1 (33).jpg",
-    "id": "wp_748"
+    "id": "wp_748",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #33",
@@ -6739,7 +9848,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.71 MB",
     "path": "AnimeBackgrounds-master/1 (33).png",
-    "id": "wp_749"
+    "id": "wp_749",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #34",
@@ -6748,7 +9863,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.21 MB",
     "path": "AnimeBackgrounds-master/1 (34).jpg",
-    "id": "wp_750"
+    "id": "wp_750",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #34",
@@ -6757,7 +9878,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.49 MB",
     "path": "AnimeBackgrounds-master/1 (34).png",
-    "id": "wp_751"
+    "id": "wp_751",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #35",
@@ -6766,7 +9893,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.62 MB",
     "path": "AnimeBackgrounds-master/1 (35).jpg",
-    "id": "wp_752"
+    "id": "wp_752",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #35",
@@ -6775,7 +9908,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "AnimeBackgrounds-master/1 (35).png",
-    "id": "wp_753"
+    "id": "wp_753",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #36",
@@ -6784,7 +9923,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.03 MB",
     "path": "AnimeBackgrounds-master/1 (36).jpg",
-    "id": "wp_754"
+    "id": "wp_754",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #36",
@@ -6793,7 +9938,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.69 MB",
     "path": "AnimeBackgrounds-master/1 (36).png",
-    "id": "wp_755"
+    "id": "wp_755",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #37",
@@ -6802,7 +9953,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "AnimeBackgrounds-master/1 (37).jpg",
-    "id": "wp_756"
+    "id": "wp_756",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #37",
@@ -6811,7 +9968,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.13 MB",
     "path": "AnimeBackgrounds-master/1 (37).png",
-    "id": "wp_757"
+    "id": "wp_757",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #38",
@@ -6820,7 +9983,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "AnimeBackgrounds-master/1 (38).jpg",
-    "id": "wp_758"
+    "id": "wp_758",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #38",
@@ -6829,7 +9998,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.59 MB",
     "path": "AnimeBackgrounds-master/1 (38).png",
-    "id": "wp_759"
+    "id": "wp_759",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #39",
@@ -6838,7 +10013,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "AnimeBackgrounds-master/1 (39).jpg",
-    "id": "wp_760"
+    "id": "wp_760",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #39",
@@ -6847,7 +10028,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.58 MB",
     "path": "AnimeBackgrounds-master/1 (39).png",
-    "id": "wp_761"
+    "id": "wp_761",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #40",
@@ -6856,7 +10043,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "AnimeBackgrounds-master/1 (40).jpg",
-    "id": "wp_762"
+    "id": "wp_762",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #40",
@@ -6865,7 +10058,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.12 MB",
     "path": "AnimeBackgrounds-master/1 (40).png",
-    "id": "wp_763"
+    "id": "wp_763",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #41",
@@ -6874,7 +10073,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "AnimeBackgrounds-master/1 (41).jpg",
-    "id": "wp_764"
+    "id": "wp_764",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #41",
@@ -6883,7 +10088,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "AnimeBackgrounds-master/1 (41).png",
-    "id": "wp_765"
+    "id": "wp_765",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #42",
@@ -6892,7 +10103,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "AnimeBackgrounds-master/1 (42).jpg",
-    "id": "wp_766"
+    "id": "wp_766",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #42",
@@ -6901,7 +10118,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.85 MB",
     "path": "AnimeBackgrounds-master/1 (42).png",
-    "id": "wp_767"
+    "id": "wp_767",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #43",
@@ -6910,7 +10133,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.47 MB",
     "path": "AnimeBackgrounds-master/1 (43).jpg",
-    "id": "wp_768"
+    "id": "wp_768",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #43",
@@ -6919,7 +10148,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.43 MB",
     "path": "AnimeBackgrounds-master/1 (43).png",
-    "id": "wp_769"
+    "id": "wp_769",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #44",
@@ -6928,7 +10163,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "AnimeBackgrounds-master/1 (44).jpg",
-    "id": "wp_770"
+    "id": "wp_770",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #44",
@@ -6937,7 +10178,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.22 MB",
     "path": "AnimeBackgrounds-master/1 (44).png",
-    "id": "wp_771"
+    "id": "wp_771",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #45",
@@ -6946,7 +10193,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.31 MB",
     "path": "AnimeBackgrounds-master/1 (45).jpg",
-    "id": "wp_772"
+    "id": "wp_772",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #45",
@@ -6955,7 +10208,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.78 MB",
     "path": "AnimeBackgrounds-master/1 (45).png",
-    "id": "wp_773"
+    "id": "wp_773",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #46",
@@ -6964,7 +10223,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.84 MB",
     "path": "AnimeBackgrounds-master/1 (46).jpg",
-    "id": "wp_774"
+    "id": "wp_774",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #46",
@@ -6973,7 +10238,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.60 MB",
     "path": "AnimeBackgrounds-master/1 (46).png",
-    "id": "wp_775"
+    "id": "wp_775",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #47",
@@ -6982,7 +10253,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.69 MB",
     "path": "AnimeBackgrounds-master/1 (47).jpg",
-    "id": "wp_776"
+    "id": "wp_776",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #47",
@@ -6991,7 +10268,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.45 MB",
     "path": "AnimeBackgrounds-master/1 (47).png",
-    "id": "wp_777"
+    "id": "wp_777",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #48",
@@ -7000,7 +10283,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "AnimeBackgrounds-master/1 (48).jpg",
-    "id": "wp_778"
+    "id": "wp_778",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #48",
@@ -7009,7 +10298,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.69 MB",
     "path": "AnimeBackgrounds-master/1 (48).png",
-    "id": "wp_779"
+    "id": "wp_779",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #49",
@@ -7018,7 +10313,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "AnimeBackgrounds-master/1 (49).jpg",
-    "id": "wp_780"
+    "id": "wp_780",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #49",
@@ -7027,7 +10328,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.95 MB",
     "path": "AnimeBackgrounds-master/1 (49).png",
-    "id": "wp_781"
+    "id": "wp_781",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #50",
@@ -7036,7 +10343,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (50).jpg",
-    "id": "wp_782"
+    "id": "wp_782",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #50",
@@ -7045,7 +10358,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.35 MB",
     "path": "AnimeBackgrounds-master/1 (50).png",
-    "id": "wp_783"
+    "id": "wp_783",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #51",
@@ -7054,7 +10373,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.35 MB",
     "path": "AnimeBackgrounds-master/1 (51).jpg",
-    "id": "wp_784"
+    "id": "wp_784",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #51",
@@ -7063,7 +10388,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (51).png",
-    "id": "wp_785"
+    "id": "wp_785",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #52",
@@ -7072,7 +10403,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "AnimeBackgrounds-master/1 (52).jpg",
-    "id": "wp_786"
+    "id": "wp_786",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #52",
@@ -7081,7 +10418,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.81 MB",
     "path": "AnimeBackgrounds-master/1 (52).png",
-    "id": "wp_787"
+    "id": "wp_787",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #53",
@@ -7090,7 +10433,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "AnimeBackgrounds-master/1 (53).jpg",
-    "id": "wp_788"
+    "id": "wp_788",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #53",
@@ -7099,7 +10448,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.61 MB",
     "path": "AnimeBackgrounds-master/1 (53).png",
-    "id": "wp_789"
+    "id": "wp_789",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #54",
@@ -7108,7 +10463,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.73 MB",
     "path": "AnimeBackgrounds-master/1 (54).jpg",
-    "id": "wp_790"
+    "id": "wp_790",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #54",
@@ -7117,7 +10478,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "AnimeBackgrounds-master/1 (54).png",
-    "id": "wp_791"
+    "id": "wp_791",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #55",
@@ -7126,7 +10493,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "AnimeBackgrounds-master/1 (55).jpg",
-    "id": "wp_792"
+    "id": "wp_792",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #55",
@@ -7135,7 +10508,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.13 MB",
     "path": "AnimeBackgrounds-master/1 (55).png",
-    "id": "wp_793"
+    "id": "wp_793",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #56",
@@ -7144,7 +10523,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.50 MB",
     "path": "AnimeBackgrounds-master/1 (56).jpg",
-    "id": "wp_794"
+    "id": "wp_794",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #56",
@@ -7153,7 +10538,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.72 MB",
     "path": "AnimeBackgrounds-master/1 (56).png",
-    "id": "wp_795"
+    "id": "wp_795",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #57",
@@ -7162,7 +10553,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "AnimeBackgrounds-master/1 (57).jpg",
-    "id": "wp_796"
+    "id": "wp_796",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #57",
@@ -7171,7 +10568,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.86 MB",
     "path": "AnimeBackgrounds-master/1 (57).png",
-    "id": "wp_797"
+    "id": "wp_797",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #58",
@@ -7180,7 +10583,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "AnimeBackgrounds-master/1 (58).jpg",
-    "id": "wp_798"
+    "id": "wp_798",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #58",
@@ -7189,7 +10598,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.72 MB",
     "path": "AnimeBackgrounds-master/1 (58).png",
-    "id": "wp_799"
+    "id": "wp_799",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #59",
@@ -7198,7 +10613,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "AnimeBackgrounds-master/1 (59).jpg",
-    "id": "wp_800"
+    "id": "wp_800",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #59",
@@ -7207,7 +10628,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.16 MB",
     "path": "AnimeBackgrounds-master/1 (59).png",
-    "id": "wp_801"
+    "id": "wp_801",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #60",
@@ -7216,7 +10643,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "AnimeBackgrounds-master/1 (60).jpg",
-    "id": "wp_802"
+    "id": "wp_802",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #60",
@@ -7225,7 +10658,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.14 MB",
     "path": "AnimeBackgrounds-master/1 (60).png",
-    "id": "wp_803"
+    "id": "wp_803",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #61",
@@ -7234,7 +10673,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.71 MB",
     "path": "AnimeBackgrounds-master/1 (61).jpg",
-    "id": "wp_804"
+    "id": "wp_804",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #61",
@@ -7243,7 +10688,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.38 MB",
     "path": "AnimeBackgrounds-master/1 (61).png",
-    "id": "wp_805"
+    "id": "wp_805",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #62",
@@ -7252,7 +10703,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.25 MB",
     "path": "AnimeBackgrounds-master/1 (62).jpg",
-    "id": "wp_806"
+    "id": "wp_806",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #62",
@@ -7261,7 +10718,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.94 MB",
     "path": "AnimeBackgrounds-master/1 (62).png",
-    "id": "wp_807"
+    "id": "wp_807",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #63",
@@ -7270,7 +10733,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "AnimeBackgrounds-master/1 (63).jpg",
-    "id": "wp_808"
+    "id": "wp_808",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #63",
@@ -7279,7 +10748,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.90 MB",
     "path": "AnimeBackgrounds-master/1 (63).png",
-    "id": "wp_809"
+    "id": "wp_809",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #64",
@@ -7288,7 +10763,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.88 MB",
     "path": "AnimeBackgrounds-master/1 (64).jpg",
-    "id": "wp_810"
+    "id": "wp_810",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #64",
@@ -7297,7 +10778,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.47 MB",
     "path": "AnimeBackgrounds-master/1 (64).png",
-    "id": "wp_811"
+    "id": "wp_811",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #65",
@@ -7306,7 +10793,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.52 MB",
     "path": "AnimeBackgrounds-master/1 (65).jpg",
-    "id": "wp_812"
+    "id": "wp_812",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #65",
@@ -7315,7 +10808,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.29 MB",
     "path": "AnimeBackgrounds-master/1 (65).png",
-    "id": "wp_813"
+    "id": "wp_813",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #66",
@@ -7324,7 +10823,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "AnimeBackgrounds-master/1 (66).jpg",
-    "id": "wp_814"
+    "id": "wp_814",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #66",
@@ -7333,7 +10838,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.65 MB",
     "path": "AnimeBackgrounds-master/1 (66).png",
-    "id": "wp_815"
+    "id": "wp_815",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #67",
@@ -7342,7 +10853,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "AnimeBackgrounds-master/1 (67).jpg",
-    "id": "wp_816"
+    "id": "wp_816",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #67",
@@ -7351,7 +10868,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.61 MB",
     "path": "AnimeBackgrounds-master/1 (67).png",
-    "id": "wp_817"
+    "id": "wp_817",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #68",
@@ -7360,7 +10883,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "AnimeBackgrounds-master/1 (68).jpg",
-    "id": "wp_818"
+    "id": "wp_818",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #68",
@@ -7369,7 +10898,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.44 MB",
     "path": "AnimeBackgrounds-master/1 (68).png",
-    "id": "wp_819"
+    "id": "wp_819",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #69",
@@ -7378,7 +10913,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "AnimeBackgrounds-master/1 (69).jpg",
-    "id": "wp_820"
+    "id": "wp_820",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #69",
@@ -7387,7 +10928,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.97 MB",
     "path": "AnimeBackgrounds-master/1 (69).png",
-    "id": "wp_821"
+    "id": "wp_821",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #70",
@@ -7396,7 +10943,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.70 MB",
     "path": "AnimeBackgrounds-master/1 (70).jpg",
-    "id": "wp_822"
+    "id": "wp_822",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #70",
@@ -7405,7 +10958,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.75 MB",
     "path": "AnimeBackgrounds-master/1 (70).png",
-    "id": "wp_823"
+    "id": "wp_823",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #71",
@@ -7414,7 +10973,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "AnimeBackgrounds-master/1 (71).jpg",
-    "id": "wp_824"
+    "id": "wp_824",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #71",
@@ -7423,7 +10988,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.82 MB",
     "path": "AnimeBackgrounds-master/1 (71).png",
-    "id": "wp_825"
+    "id": "wp_825",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #72",
@@ -7432,7 +11003,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "AnimeBackgrounds-master/1 (72).jpg",
-    "id": "wp_826"
+    "id": "wp_826",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #72",
@@ -7441,7 +11018,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.81 MB",
     "path": "AnimeBackgrounds-master/1 (72).png",
-    "id": "wp_827"
+    "id": "wp_827",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #73",
@@ -7450,7 +11033,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "AnimeBackgrounds-master/1 (73).jpg",
-    "id": "wp_828"
+    "id": "wp_828",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #73",
@@ -7459,7 +11048,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.18 MB",
     "path": "AnimeBackgrounds-master/1 (73).png",
-    "id": "wp_829"
+    "id": "wp_829",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #74",
@@ -7468,7 +11063,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "AnimeBackgrounds-master/1 (74).jpg",
-    "id": "wp_830"
+    "id": "wp_830",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #74",
@@ -7477,7 +11078,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.88 MB",
     "path": "AnimeBackgrounds-master/1 (74).png",
-    "id": "wp_831"
+    "id": "wp_831",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #75",
@@ -7486,7 +11093,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "AnimeBackgrounds-master/1 (75).jpg",
-    "id": "wp_832"
+    "id": "wp_832",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #75",
@@ -7495,7 +11108,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.65 MB",
     "path": "AnimeBackgrounds-master/1 (75).png",
-    "id": "wp_833"
+    "id": "wp_833",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #76",
@@ -7504,7 +11123,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "AnimeBackgrounds-master/1 (76).jpg",
-    "id": "wp_834"
+    "id": "wp_834",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #76",
@@ -7513,7 +11138,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.62 MB",
     "path": "AnimeBackgrounds-master/1 (76).png",
-    "id": "wp_835"
+    "id": "wp_835",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #77",
@@ -7522,7 +11153,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.66 MB",
     "path": "AnimeBackgrounds-master/1 (77).jpg",
-    "id": "wp_836"
+    "id": "wp_836",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #77",
@@ -7531,7 +11168,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.20 MB",
     "path": "AnimeBackgrounds-master/1 (77).png",
-    "id": "wp_837"
+    "id": "wp_837",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #78",
@@ -7540,7 +11183,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "AnimeBackgrounds-master/1 (78).jpg",
-    "id": "wp_838"
+    "id": "wp_838",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #78",
@@ -7549,7 +11198,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.74 MB",
     "path": "AnimeBackgrounds-master/1 (78).png",
-    "id": "wp_839"
+    "id": "wp_839",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #79",
@@ -7558,7 +11213,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "AnimeBackgrounds-master/1 (79).jpg",
-    "id": "wp_840"
+    "id": "wp_840",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #79",
@@ -7567,7 +11228,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.80 MB",
     "path": "AnimeBackgrounds-master/1 (79).png",
-    "id": "wp_841"
+    "id": "wp_841",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #80",
@@ -7576,7 +11243,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "AnimeBackgrounds-master/1 (80).jpg",
-    "id": "wp_842"
+    "id": "wp_842",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #80",
@@ -7585,7 +11258,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.87 MB",
     "path": "AnimeBackgrounds-master/1 (80).png",
-    "id": "wp_843"
+    "id": "wp_843",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #81",
@@ -7594,7 +11273,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "AnimeBackgrounds-master/1 (81).jpg",
-    "id": "wp_844"
+    "id": "wp_844",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #81",
@@ -7603,7 +11288,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.73 MB",
     "path": "AnimeBackgrounds-master/1 (81).png",
-    "id": "wp_845"
+    "id": "wp_845",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #82",
@@ -7612,7 +11303,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.92 MB",
     "path": "AnimeBackgrounds-master/1 (82).jpg",
-    "id": "wp_846"
+    "id": "wp_846",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #82",
@@ -7621,7 +11318,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.41 MB",
     "path": "AnimeBackgrounds-master/1 (82).png",
-    "id": "wp_847"
+    "id": "wp_847",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #83",
@@ -7630,7 +11333,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (83).jpg",
-    "id": "wp_848"
+    "id": "wp_848",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #83",
@@ -7639,7 +11348,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.52 MB",
     "path": "AnimeBackgrounds-master/1 (83).png",
-    "id": "wp_849"
+    "id": "wp_849",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #84",
@@ -7648,7 +11363,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "AnimeBackgrounds-master/1 (84).jpg",
-    "id": "wp_850"
+    "id": "wp_850",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #84",
@@ -7657,7 +11378,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.43 MB",
     "path": "AnimeBackgrounds-master/1 (84).png",
-    "id": "wp_851"
+    "id": "wp_851",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #85",
@@ -7666,7 +11393,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.72 MB",
     "path": "AnimeBackgrounds-master/1 (85).jpg",
-    "id": "wp_852"
+    "id": "wp_852",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #85",
@@ -7675,7 +11408,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.98 MB",
     "path": "AnimeBackgrounds-master/1 (85).png",
-    "id": "wp_853"
+    "id": "wp_853",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #86",
@@ -7684,7 +11423,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.96 MB",
     "path": "AnimeBackgrounds-master/1 (86).jpg",
-    "id": "wp_854"
+    "id": "wp_854",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #86",
@@ -7693,7 +11438,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.02 MB",
     "path": "AnimeBackgrounds-master/1 (86).png",
-    "id": "wp_855"
+    "id": "wp_855",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #87",
@@ -7702,7 +11453,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.94 MB",
     "path": "AnimeBackgrounds-master/1 (87).jpg",
-    "id": "wp_856"
+    "id": "wp_856",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #87",
@@ -7711,7 +11468,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.08 MB",
     "path": "AnimeBackgrounds-master/1 (87).png",
-    "id": "wp_857"
+    "id": "wp_857",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #88",
@@ -7720,7 +11483,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "AnimeBackgrounds-master/1 (88).jpg",
-    "id": "wp_858"
+    "id": "wp_858",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #88",
@@ -7729,7 +11498,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.75 MB",
     "path": "AnimeBackgrounds-master/1 (88).png",
-    "id": "wp_859"
+    "id": "wp_859",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #89",
@@ -7738,7 +11513,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.07 MB",
     "path": "AnimeBackgrounds-master/1 (89).jpg",
-    "id": "wp_860"
+    "id": "wp_860",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #89",
@@ -7747,7 +11528,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.55 MB",
     "path": "AnimeBackgrounds-master/1 (89).png",
-    "id": "wp_861"
+    "id": "wp_861",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #90",
@@ -7756,7 +11543,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "AnimeBackgrounds-master/1 (90).jpg",
-    "id": "wp_862"
+    "id": "wp_862",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #90",
@@ -7765,7 +11558,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.12 MB",
     "path": "AnimeBackgrounds-master/1 (90).png",
-    "id": "wp_863"
+    "id": "wp_863",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #91",
@@ -7774,7 +11573,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "AnimeBackgrounds-master/1 (91).jpg",
-    "id": "wp_864"
+    "id": "wp_864",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #91",
@@ -7783,7 +11588,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.63 MB",
     "path": "AnimeBackgrounds-master/1 (91).png",
-    "id": "wp_865"
+    "id": "wp_865",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #92",
@@ -7792,7 +11603,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.30 MB",
     "path": "AnimeBackgrounds-master/1 (92).jpg",
-    "id": "wp_866"
+    "id": "wp_866",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #92",
@@ -7801,7 +11618,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.35 MB",
     "path": "AnimeBackgrounds-master/1 (92).png",
-    "id": "wp_867"
+    "id": "wp_867",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #93",
@@ -7810,7 +11633,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.31 MB",
     "path": "AnimeBackgrounds-master/1 (93).jpg",
-    "id": "wp_868"
+    "id": "wp_868",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #93",
@@ -7819,7 +11648,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.87 MB",
     "path": "AnimeBackgrounds-master/1 (93).png",
-    "id": "wp_869"
+    "id": "wp_869",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #94",
@@ -7828,7 +11663,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.73 MB",
     "path": "AnimeBackgrounds-master/1 (94).jpg",
-    "id": "wp_870"
+    "id": "wp_870",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #94",
@@ -7837,7 +11678,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.63 MB",
     "path": "AnimeBackgrounds-master/1 (94).png",
-    "id": "wp_871"
+    "id": "wp_871",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #95",
@@ -7846,7 +11693,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.79 MB",
     "path": "AnimeBackgrounds-master/1 (95).jpg",
-    "id": "wp_872"
+    "id": "wp_872",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #95",
@@ -7855,7 +11708,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.92 MB",
     "path": "AnimeBackgrounds-master/1 (95).png",
-    "id": "wp_873"
+    "id": "wp_873",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #96",
@@ -7864,7 +11723,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "AnimeBackgrounds-master/1 (96).jpg",
-    "id": "wp_874"
+    "id": "wp_874",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #96",
@@ -7873,7 +11738,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.63 MB",
     "path": "AnimeBackgrounds-master/1 (96).png",
-    "id": "wp_875"
+    "id": "wp_875",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #97",
@@ -7882,7 +11753,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (97).jpg",
-    "id": "wp_876"
+    "id": "wp_876",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #97",
@@ -7891,7 +11768,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.19 MB",
     "path": "AnimeBackgrounds-master/1 (97).png",
-    "id": "wp_877"
+    "id": "wp_877",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #98",
@@ -7900,7 +11783,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.19 MB",
     "path": "AnimeBackgrounds-master/1 (98).jpg",
-    "id": "wp_878"
+    "id": "wp_878",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #98",
@@ -7909,7 +11798,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.34 MB",
     "path": "AnimeBackgrounds-master/1 (98).png",
-    "id": "wp_879"
+    "id": "wp_879",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #99",
@@ -7918,7 +11813,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.66 MB",
     "path": "AnimeBackgrounds-master/1 (99).jpg",
-    "id": "wp_880"
+    "id": "wp_880",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #99",
@@ -7927,7 +11828,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.62 MB",
     "path": "AnimeBackgrounds-master/1 (99).png",
-    "id": "wp_881"
+    "id": "wp_881",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #100",
@@ -7936,7 +11843,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "AnimeBackgrounds-master/1 (100).jpg",
-    "id": "wp_882"
+    "id": "wp_882",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #100",
@@ -7945,7 +11858,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.16 MB",
     "path": "AnimeBackgrounds-master/1 (100).png",
-    "id": "wp_883"
+    "id": "wp_883",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #101",
@@ -7954,7 +11873,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.65 MB",
     "path": "AnimeBackgrounds-master/1 (101).jpg",
-    "id": "wp_884"
+    "id": "wp_884",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #101",
@@ -7963,7 +11888,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.24 MB",
     "path": "AnimeBackgrounds-master/1 (101).png",
-    "id": "wp_885"
+    "id": "wp_885",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #102",
@@ -7972,7 +11903,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.92 MB",
     "path": "AnimeBackgrounds-master/1 (102).jpg",
-    "id": "wp_886"
+    "id": "wp_886",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #102",
@@ -7981,7 +11918,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.15 MB",
     "path": "AnimeBackgrounds-master/1 (102).png",
-    "id": "wp_887"
+    "id": "wp_887",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #103",
@@ -7990,7 +11933,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "AnimeBackgrounds-master/1 (103).jpg",
-    "id": "wp_888"
+    "id": "wp_888",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #103",
@@ -7999,7 +11948,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "AnimeBackgrounds-master/1 (103).png",
-    "id": "wp_889"
+    "id": "wp_889",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #104",
@@ -8008,7 +11963,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "AnimeBackgrounds-master/1 (104).jpg",
-    "id": "wp_890"
+    "id": "wp_890",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #104",
@@ -8017,7 +11978,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.77 MB",
     "path": "AnimeBackgrounds-master/1 (104).png",
-    "id": "wp_891"
+    "id": "wp_891",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #105",
@@ -8026,7 +11993,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.80 MB",
     "path": "AnimeBackgrounds-master/1 (105).jpg",
-    "id": "wp_892"
+    "id": "wp_892",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #105",
@@ -8035,7 +12008,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.07 MB",
     "path": "AnimeBackgrounds-master/1 (105).png",
-    "id": "wp_893"
+    "id": "wp_893",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #106",
@@ -8044,7 +12023,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "AnimeBackgrounds-master/1 (106).jpg",
-    "id": "wp_894"
+    "id": "wp_894",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #106",
@@ -8053,7 +12038,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "11.51 MB",
     "path": "AnimeBackgrounds-master/1 (106).png",
-    "id": "wp_895"
+    "id": "wp_895",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #107",
@@ -8062,7 +12053,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (107).jpg",
-    "id": "wp_896"
+    "id": "wp_896",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #107",
@@ -8071,7 +12068,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.62 MB",
     "path": "AnimeBackgrounds-master/1 (107).png",
-    "id": "wp_897"
+    "id": "wp_897",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #108",
@@ -8080,7 +12083,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "AnimeBackgrounds-master/1 (108).jpg",
-    "id": "wp_898"
+    "id": "wp_898",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #108",
@@ -8089,7 +12098,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.36 MB",
     "path": "AnimeBackgrounds-master/1 (108).png",
-    "id": "wp_899"
+    "id": "wp_899",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #109",
@@ -8098,7 +12113,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "AnimeBackgrounds-master/1 (109).jpg",
-    "id": "wp_900"
+    "id": "wp_900",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #109",
@@ -8107,7 +12128,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.44 MB",
     "path": "AnimeBackgrounds-master/1 (109).png",
-    "id": "wp_901"
+    "id": "wp_901",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #110",
@@ -8116,7 +12143,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "AnimeBackgrounds-master/1 (110).jpg",
-    "id": "wp_902"
+    "id": "wp_902",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #110",
@@ -8125,7 +12158,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.45 MB",
     "path": "AnimeBackgrounds-master/1 (110).png",
-    "id": "wp_903"
+    "id": "wp_903",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #111",
@@ -8134,7 +12173,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.17 MB",
     "path": "AnimeBackgrounds-master/1 (111).jpg",
-    "id": "wp_904"
+    "id": "wp_904",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #111",
@@ -8143,7 +12188,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "13.35 MB",
     "path": "AnimeBackgrounds-master/1 (111).png",
-    "id": "wp_905"
+    "id": "wp_905",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #112",
@@ -8152,7 +12203,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.64 MB",
     "path": "AnimeBackgrounds-master/1 (112).jpg",
-    "id": "wp_906"
+    "id": "wp_906",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #112",
@@ -8161,7 +12218,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.25 MB",
     "path": "AnimeBackgrounds-master/1 (112).png",
-    "id": "wp_907"
+    "id": "wp_907",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #113",
@@ -8170,7 +12233,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.46 MB",
     "path": "AnimeBackgrounds-master/1 (113).jpg",
-    "id": "wp_908"
+    "id": "wp_908",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #113",
@@ -8179,7 +12248,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.15 MB",
     "path": "AnimeBackgrounds-master/1 (113).png",
-    "id": "wp_909"
+    "id": "wp_909",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #114",
@@ -8188,7 +12263,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.51 MB",
     "path": "AnimeBackgrounds-master/1 (114).jpg",
-    "id": "wp_910"
+    "id": "wp_910",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #114",
@@ -8197,7 +12278,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.04 MB",
     "path": "AnimeBackgrounds-master/1 (114).png",
-    "id": "wp_911"
+    "id": "wp_911",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #115",
@@ -8206,7 +12293,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.60 MB",
     "path": "AnimeBackgrounds-master/1 (115).jpg",
-    "id": "wp_912"
+    "id": "wp_912",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #115",
@@ -8215,7 +12308,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.63 MB",
     "path": "AnimeBackgrounds-master/1 (115).png",
-    "id": "wp_913"
+    "id": "wp_913",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #116",
@@ -8224,7 +12323,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.41 MB",
     "path": "AnimeBackgrounds-master/1 (116).jpg",
-    "id": "wp_914"
+    "id": "wp_914",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #116",
@@ -8233,7 +12338,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.86 MB",
     "path": "AnimeBackgrounds-master/1 (116).png",
-    "id": "wp_915"
+    "id": "wp_915",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #117",
@@ -8242,7 +12353,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.82 MB",
     "path": "AnimeBackgrounds-master/1 (117).jpg",
-    "id": "wp_916"
+    "id": "wp_916",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #117",
@@ -8251,7 +12368,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.32 MB",
     "path": "AnimeBackgrounds-master/1 (117).png",
-    "id": "wp_917"
+    "id": "wp_917",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #118",
@@ -8260,7 +12383,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.25 MB",
     "path": "AnimeBackgrounds-master/1 (118).jpg",
-    "id": "wp_918"
+    "id": "wp_918",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #118",
@@ -8269,7 +12398,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "6.42 MB",
     "path": "AnimeBackgrounds-master/1 (118).png",
-    "id": "wp_919"
+    "id": "wp_919",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #119",
@@ -8278,7 +12413,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.30 MB",
     "path": "AnimeBackgrounds-master/1 (119).jpg",
-    "id": "wp_920"
+    "id": "wp_920",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #119",
@@ -8287,7 +12428,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.13 MB",
     "path": "AnimeBackgrounds-master/1 (119).png",
-    "id": "wp_921"
+    "id": "wp_921",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #120",
@@ -8296,7 +12443,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.51 MB",
     "path": "AnimeBackgrounds-master/1 (120).jpg",
-    "id": "wp_922"
+    "id": "wp_922",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #120",
@@ -8305,7 +12458,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.97 MB",
     "path": "AnimeBackgrounds-master/1 (120).png",
-    "id": "wp_923"
+    "id": "wp_923",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #121",
@@ -8314,7 +12473,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.69 MB",
     "path": "AnimeBackgrounds-master/1 (121).jpg",
-    "id": "wp_924"
+    "id": "wp_924",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #121",
@@ -8323,7 +12488,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.51 MB",
     "path": "AnimeBackgrounds-master/1 (121).png",
-    "id": "wp_925"
+    "id": "wp_925",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #122",
@@ -8332,7 +12503,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.65 MB",
     "path": "AnimeBackgrounds-master/1 (122).jpg",
-    "id": "wp_926"
+    "id": "wp_926",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #122",
@@ -8341,7 +12518,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.02 MB",
     "path": "AnimeBackgrounds-master/1 (122).png",
-    "id": "wp_927"
+    "id": "wp_927",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #123",
@@ -8350,7 +12533,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "AnimeBackgrounds-master/1 (123).jpg",
-    "id": "wp_928"
+    "id": "wp_928",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #123",
@@ -8359,7 +12548,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.47 MB",
     "path": "AnimeBackgrounds-master/1 (123).png",
-    "id": "wp_929"
+    "id": "wp_929",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #124",
@@ -8368,7 +12563,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.89 MB",
     "path": "AnimeBackgrounds-master/1 (124).jpg",
-    "id": "wp_930"
+    "id": "wp_930",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #124",
@@ -8377,7 +12578,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.48 MB",
     "path": "AnimeBackgrounds-master/1 (124).png",
-    "id": "wp_931"
+    "id": "wp_931",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #125",
@@ -8386,7 +12593,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.50 MB",
     "path": "AnimeBackgrounds-master/1 (125).jpg",
-    "id": "wp_932"
+    "id": "wp_932",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #125",
@@ -8395,7 +12608,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.44 MB",
     "path": "AnimeBackgrounds-master/1 (125).png",
-    "id": "wp_933"
+    "id": "wp_933",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #126",
@@ -8404,7 +12623,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.43 MB",
     "path": "AnimeBackgrounds-master/1 (126).jpg",
-    "id": "wp_934"
+    "id": "wp_934",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #126",
@@ -8413,7 +12638,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.96 MB",
     "path": "AnimeBackgrounds-master/1 (126).png",
-    "id": "wp_935"
+    "id": "wp_935",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #127",
@@ -8422,7 +12653,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.88 MB",
     "path": "AnimeBackgrounds-master/1 (127).jpg",
-    "id": "wp_936"
+    "id": "wp_936",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #127",
@@ -8431,7 +12668,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.15 MB",
     "path": "AnimeBackgrounds-master/1 (127).png",
-    "id": "wp_937"
+    "id": "wp_937",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #128",
@@ -8440,7 +12683,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.41 MB",
     "path": "AnimeBackgrounds-master/1 (128).jpg",
-    "id": "wp_938"
+    "id": "wp_938",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #128",
@@ -8449,7 +12698,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.09 MB",
     "path": "AnimeBackgrounds-master/1 (128).png",
-    "id": "wp_939"
+    "id": "wp_939",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #129",
@@ -8458,7 +12713,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.40 MB",
     "path": "AnimeBackgrounds-master/1 (129).jpg",
-    "id": "wp_940"
+    "id": "wp_940",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #129",
@@ -8467,7 +12728,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.06 MB",
     "path": "AnimeBackgrounds-master/1 (129).png",
-    "id": "wp_941"
+    "id": "wp_941",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #130",
@@ -8476,7 +12743,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.61 MB",
     "path": "AnimeBackgrounds-master/1 (130).jpg",
-    "id": "wp_942"
+    "id": "wp_942",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #130",
@@ -8485,7 +12758,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.20 MB",
     "path": "AnimeBackgrounds-master/1 (130).png",
-    "id": "wp_943"
+    "id": "wp_943",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #131",
@@ -8494,7 +12773,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.80 MB",
     "path": "AnimeBackgrounds-master/1 (131).jpg",
-    "id": "wp_944"
+    "id": "wp_944",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #131",
@@ -8503,7 +12788,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.24 MB",
     "path": "AnimeBackgrounds-master/1 (131).png",
-    "id": "wp_945"
+    "id": "wp_945",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #132",
@@ -8512,7 +12803,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.20 MB",
     "path": "AnimeBackgrounds-master/1 (132).jpg",
-    "id": "wp_946"
+    "id": "wp_946",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #132",
@@ -8521,7 +12818,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.89 MB",
     "path": "AnimeBackgrounds-master/1 (132).png",
-    "id": "wp_947"
+    "id": "wp_947",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #133",
@@ -8530,7 +12833,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.38 MB",
     "path": "AnimeBackgrounds-master/1 (133).jpg",
-    "id": "wp_948"
+    "id": "wp_948",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #133",
@@ -8539,7 +12848,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.60 MB",
     "path": "AnimeBackgrounds-master/1 (133).png",
-    "id": "wp_949"
+    "id": "wp_949",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #134",
@@ -8548,7 +12863,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.24 MB",
     "path": "AnimeBackgrounds-master/1 (134).jpg",
-    "id": "wp_950"
+    "id": "wp_950",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #134",
@@ -8557,7 +12878,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.65 MB",
     "path": "AnimeBackgrounds-master/1 (134).png",
-    "id": "wp_951"
+    "id": "wp_951",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #135",
@@ -8566,7 +12893,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.45 MB",
     "path": "AnimeBackgrounds-master/1 (135).jpg",
-    "id": "wp_952"
+    "id": "wp_952",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #135",
@@ -8575,7 +12908,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "10.57 MB",
     "path": "AnimeBackgrounds-master/1 (135).png",
-    "id": "wp_953"
+    "id": "wp_953",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #136",
@@ -8584,7 +12923,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.68 MB",
     "path": "AnimeBackgrounds-master/1 (136).jpg",
-    "id": "wp_954"
+    "id": "wp_954",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #136",
@@ -8593,7 +12938,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.17 MB",
     "path": "AnimeBackgrounds-master/1 (136).png",
-    "id": "wp_955"
+    "id": "wp_955",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #137",
@@ -8602,7 +12953,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.46 MB",
     "path": "AnimeBackgrounds-master/1 (137).jpg",
-    "id": "wp_956"
+    "id": "wp_956",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #137",
@@ -8611,7 +12968,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.71 MB",
     "path": "AnimeBackgrounds-master/1 (137).png",
-    "id": "wp_957"
+    "id": "wp_957",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #138",
@@ -8620,7 +12983,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.91 MB",
     "path": "AnimeBackgrounds-master/1 (138).jpg",
-    "id": "wp_958"
+    "id": "wp_958",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #138",
@@ -8629,7 +12998,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.72 MB",
     "path": "AnimeBackgrounds-master/1 (138).png",
-    "id": "wp_959"
+    "id": "wp_959",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #139",
@@ -8638,7 +13013,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.23 MB",
     "path": "AnimeBackgrounds-master/1 (139).jpg",
-    "id": "wp_960"
+    "id": "wp_960",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #139",
@@ -8647,7 +13028,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "10.57 MB",
     "path": "AnimeBackgrounds-master/1 (139).png",
-    "id": "wp_961"
+    "id": "wp_961",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #140",
@@ -8656,7 +13043,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.57 MB",
     "path": "AnimeBackgrounds-master/1 (140).jpg",
-    "id": "wp_962"
+    "id": "wp_962",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #140",
@@ -8665,7 +13058,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.56 MB",
     "path": "AnimeBackgrounds-master/1 (140).png",
-    "id": "wp_963"
+    "id": "wp_963",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #141",
@@ -8674,7 +13073,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.19 MB",
     "path": "AnimeBackgrounds-master/1 (141).jpg",
-    "id": "wp_964"
+    "id": "wp_964",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #141",
@@ -8683,7 +13088,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.28 MB",
     "path": "AnimeBackgrounds-master/1 (141).png",
-    "id": "wp_965"
+    "id": "wp_965",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #142",
@@ -8692,7 +13103,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "AnimeBackgrounds-master/1 (142).jpg",
-    "id": "wp_966"
+    "id": "wp_966",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #142",
@@ -8701,7 +13118,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.28 MB",
     "path": "AnimeBackgrounds-master/1 (142).png",
-    "id": "wp_967"
+    "id": "wp_967",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #143",
@@ -8710,7 +13133,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "AnimeBackgrounds-master/1 (143).jpg",
-    "id": "wp_968"
+    "id": "wp_968",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #143",
@@ -8719,7 +13148,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.45 MB",
     "path": "AnimeBackgrounds-master/1 (143).png",
-    "id": "wp_969"
+    "id": "wp_969",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #144",
@@ -8728,7 +13163,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "AnimeBackgrounds-master/1 (144).jpg",
-    "id": "wp_970"
+    "id": "wp_970",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #144",
@@ -8737,7 +13178,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.57 MB",
     "path": "AnimeBackgrounds-master/1 (144).png",
-    "id": "wp_971"
+    "id": "wp_971",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #145",
@@ -8746,7 +13193,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "AnimeBackgrounds-master/1 (145).jpg",
-    "id": "wp_972"
+    "id": "wp_972",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #145",
@@ -8755,7 +13208,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.97 MB",
     "path": "AnimeBackgrounds-master/1 (145).png",
-    "id": "wp_973"
+    "id": "wp_973",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #146",
@@ -8764,7 +13223,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "AnimeBackgrounds-master/1 (146).jpg",
-    "id": "wp_974"
+    "id": "wp_974",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #146",
@@ -8773,7 +13238,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.72 MB",
     "path": "AnimeBackgrounds-master/1 (146).png",
-    "id": "wp_975"
+    "id": "wp_975",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #147",
@@ -8782,7 +13253,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "AnimeBackgrounds-master/1 (147).jpg",
-    "id": "wp_976"
+    "id": "wp_976",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #147",
@@ -8791,7 +13268,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.51 MB",
     "path": "AnimeBackgrounds-master/1 (147).png",
-    "id": "wp_977"
+    "id": "wp_977",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #148",
@@ -8800,7 +13283,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "AnimeBackgrounds-master/1 (148).jpg",
-    "id": "wp_978"
+    "id": "wp_978",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #148",
@@ -8809,7 +13298,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.30 MB",
     "path": "AnimeBackgrounds-master/1 (148).png",
-    "id": "wp_979"
+    "id": "wp_979",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #149",
@@ -8818,7 +13313,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "AnimeBackgrounds-master/1 (149).jpg",
-    "id": "wp_980"
+    "id": "wp_980",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #149",
@@ -8827,7 +13328,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.03 MB",
     "path": "AnimeBackgrounds-master/1 (149).png",
-    "id": "wp_981"
+    "id": "wp_981",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #150",
@@ -8836,7 +13343,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.49 MB",
     "path": "AnimeBackgrounds-master/1 (150).jpg",
-    "id": "wp_982"
+    "id": "wp_982",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #150",
@@ -8845,7 +13358,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.98 MB",
     "path": "AnimeBackgrounds-master/1 (150).png",
-    "id": "wp_983"
+    "id": "wp_983",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #151",
@@ -8854,7 +13373,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "AnimeBackgrounds-master/1 (151).jpg",
-    "id": "wp_984"
+    "id": "wp_984",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #151",
@@ -8863,7 +13388,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.48 MB",
     "path": "AnimeBackgrounds-master/1 (151).png",
-    "id": "wp_985"
+    "id": "wp_985",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #152",
@@ -8872,7 +13403,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.47 MB",
     "path": "AnimeBackgrounds-master/1 (152).jpg",
-    "id": "wp_986"
+    "id": "wp_986",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #152",
@@ -8881,7 +13418,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.80 MB",
     "path": "AnimeBackgrounds-master/1 (152).png",
-    "id": "wp_987"
+    "id": "wp_987",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #153",
@@ -8890,7 +13433,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.67 MB",
     "path": "AnimeBackgrounds-master/1 (153).jpg",
-    "id": "wp_988"
+    "id": "wp_988",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #153",
@@ -8899,7 +13448,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.36 MB",
     "path": "AnimeBackgrounds-master/1 (153).png",
-    "id": "wp_989"
+    "id": "wp_989",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #154",
@@ -8908,7 +13463,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.90 MB",
     "path": "AnimeBackgrounds-master/1 (154).jpg",
-    "id": "wp_990"
+    "id": "wp_990",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #154",
@@ -8917,7 +13478,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.47 MB",
     "path": "AnimeBackgrounds-master/1 (154).png",
-    "id": "wp_991"
+    "id": "wp_991",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #155",
@@ -8926,7 +13493,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "AnimeBackgrounds-master/1 (155).jpg",
-    "id": "wp_992"
+    "id": "wp_992",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #155",
@@ -8935,7 +13508,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.55 MB",
     "path": "AnimeBackgrounds-master/1 (155).png",
-    "id": "wp_993"
+    "id": "wp_993",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #156",
@@ -8944,7 +13523,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "AnimeBackgrounds-master/1 (156).jpg",
-    "id": "wp_994"
+    "id": "wp_994",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #156",
@@ -8953,7 +13538,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.05 MB",
     "path": "AnimeBackgrounds-master/1 (156).png",
-    "id": "wp_995"
+    "id": "wp_995",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #157",
@@ -8962,7 +13553,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "AnimeBackgrounds-master/1 (157).jpg",
-    "id": "wp_996"
+    "id": "wp_996",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #157",
@@ -8971,7 +13568,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.11 MB",
     "path": "AnimeBackgrounds-master/1 (157).png",
-    "id": "wp_997"
+    "id": "wp_997",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #158",
@@ -8980,7 +13583,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.53 MB",
     "path": "AnimeBackgrounds-master/1 (158).jpg",
-    "id": "wp_998"
+    "id": "wp_998",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #158",
@@ -8989,7 +13598,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.98 MB",
     "path": "AnimeBackgrounds-master/1 (158).png",
-    "id": "wp_999"
+    "id": "wp_999",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #159",
@@ -8998,7 +13613,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.06 MB",
     "path": "AnimeBackgrounds-master/1 (159).jpg",
-    "id": "wp_1000"
+    "id": "wp_1000",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #159",
@@ -9007,7 +13628,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.84 MB",
     "path": "AnimeBackgrounds-master/1 (159).png",
-    "id": "wp_1001"
+    "id": "wp_1001",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #160",
@@ -9016,7 +13643,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (160).jpg",
-    "id": "wp_1002"
+    "id": "wp_1002",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #160",
@@ -9025,7 +13658,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.68 MB",
     "path": "AnimeBackgrounds-master/1 (160).png",
-    "id": "wp_1003"
+    "id": "wp_1003",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #161",
@@ -9034,7 +13673,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "AnimeBackgrounds-master/1 (161).jpg",
-    "id": "wp_1004"
+    "id": "wp_1004",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #161",
@@ -9043,7 +13688,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.20 MB",
     "path": "AnimeBackgrounds-master/1 (161).png",
-    "id": "wp_1005"
+    "id": "wp_1005",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #162",
@@ -9052,7 +13703,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "AnimeBackgrounds-master/1 (162).jpg",
-    "id": "wp_1006"
+    "id": "wp_1006",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #162",
@@ -9061,7 +13718,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.14 MB",
     "path": "AnimeBackgrounds-master/1 (162).png",
-    "id": "wp_1007"
+    "id": "wp_1007",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #163",
@@ -9070,7 +13733,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (163).jpg",
-    "id": "wp_1008"
+    "id": "wp_1008",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #163",
@@ -9079,7 +13748,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.68 MB",
     "path": "AnimeBackgrounds-master/1 (163).png",
-    "id": "wp_1009"
+    "id": "wp_1009",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #164",
@@ -9088,7 +13763,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.81 MB",
     "path": "AnimeBackgrounds-master/1 (164).jpg",
-    "id": "wp_1010"
+    "id": "wp_1010",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #164",
@@ -9097,7 +13778,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.71 MB",
     "path": "AnimeBackgrounds-master/1 (164).png",
-    "id": "wp_1011"
+    "id": "wp_1011",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #165",
@@ -9106,7 +13793,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.00 MB",
     "path": "AnimeBackgrounds-master/1 (165).jpg",
-    "id": "wp_1012"
+    "id": "wp_1012",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #165",
@@ -9115,7 +13808,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.62 MB",
     "path": "AnimeBackgrounds-master/1 (165).png",
-    "id": "wp_1013"
+    "id": "wp_1013",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #166",
@@ -9124,7 +13823,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "AnimeBackgrounds-master/1 (166).jpg",
-    "id": "wp_1014"
+    "id": "wp_1014",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #166",
@@ -9133,7 +13838,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.76 MB",
     "path": "AnimeBackgrounds-master/1 (166).png",
-    "id": "wp_1015"
+    "id": "wp_1015",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #167",
@@ -9142,7 +13853,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.63 MB",
     "path": "AnimeBackgrounds-master/1 (167).jpg",
-    "id": "wp_1016"
+    "id": "wp_1016",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #167",
@@ -9151,7 +13868,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "6.83 MB",
     "path": "AnimeBackgrounds-master/1 (167).png",
-    "id": "wp_1017"
+    "id": "wp_1017",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #168",
@@ -9160,7 +13883,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "AnimeBackgrounds-master/1 (168).jpg",
-    "id": "wp_1018"
+    "id": "wp_1018",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #168",
@@ -9169,7 +13898,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.45 MB",
     "path": "AnimeBackgrounds-master/1 (168).png",
-    "id": "wp_1019"
+    "id": "wp_1019",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #169",
@@ -9178,7 +13913,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.52 MB",
     "path": "AnimeBackgrounds-master/1 (169).jpg",
-    "id": "wp_1020"
+    "id": "wp_1020",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #169",
@@ -9187,7 +13928,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.54 MB",
     "path": "AnimeBackgrounds-master/1 (169).png",
-    "id": "wp_1021"
+    "id": "wp_1021",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #170",
@@ -9196,7 +13943,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (170).jpg",
-    "id": "wp_1022"
+    "id": "wp_1022",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #170",
@@ -9205,7 +13958,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.31 MB",
     "path": "AnimeBackgrounds-master/1 (170).png",
-    "id": "wp_1023"
+    "id": "wp_1023",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #171",
@@ -9214,7 +13973,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "AnimeBackgrounds-master/1 (171).jpg",
-    "id": "wp_1024"
+    "id": "wp_1024",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #171",
@@ -9223,7 +13988,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.91 MB",
     "path": "AnimeBackgrounds-master/1 (171).png",
-    "id": "wp_1025"
+    "id": "wp_1025",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #172",
@@ -9232,7 +14003,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.72 MB",
     "path": "AnimeBackgrounds-master/1 (172).jpg",
-    "id": "wp_1026"
+    "id": "wp_1026",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #172",
@@ -9241,7 +14018,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.61 MB",
     "path": "AnimeBackgrounds-master/1 (172).png",
-    "id": "wp_1027"
+    "id": "wp_1027",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #173",
@@ -9250,7 +14033,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.37 MB",
     "path": "AnimeBackgrounds-master/1 (173).jpg",
-    "id": "wp_1028"
+    "id": "wp_1028",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #173",
@@ -9259,7 +14048,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.97 MB",
     "path": "AnimeBackgrounds-master/1 (173).png",
-    "id": "wp_1029"
+    "id": "wp_1029",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #174",
@@ -9268,7 +14063,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.25 MB",
     "path": "AnimeBackgrounds-master/1 (174).jpg",
-    "id": "wp_1030"
+    "id": "wp_1030",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #174",
@@ -9277,7 +14078,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.25 MB",
     "path": "AnimeBackgrounds-master/1 (174).png",
-    "id": "wp_1031"
+    "id": "wp_1031",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #175",
@@ -9286,7 +14093,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.09 MB",
     "path": "AnimeBackgrounds-master/1 (175).jpg",
-    "id": "wp_1032"
+    "id": "wp_1032",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #175",
@@ -9295,7 +14108,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.68 MB",
     "path": "AnimeBackgrounds-master/1 (175).png",
-    "id": "wp_1033"
+    "id": "wp_1033",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #176",
@@ -9304,7 +14123,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.19 MB",
     "path": "AnimeBackgrounds-master/1 (176).jpg",
-    "id": "wp_1034"
+    "id": "wp_1034",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #176",
@@ -9313,7 +14138,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.79 MB",
     "path": "AnimeBackgrounds-master/1 (176).png",
-    "id": "wp_1035"
+    "id": "wp_1035",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #177",
@@ -9322,7 +14153,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "AnimeBackgrounds-master/1 (177).jpg",
-    "id": "wp_1036"
+    "id": "wp_1036",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #177",
@@ -9331,7 +14168,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "AnimeBackgrounds-master/1 (177).png",
-    "id": "wp_1037"
+    "id": "wp_1037",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #178",
@@ -9340,7 +14183,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.71 MB",
     "path": "AnimeBackgrounds-master/1 (178).jpg",
-    "id": "wp_1038"
+    "id": "wp_1038",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #178",
@@ -9349,7 +14198,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.39 MB",
     "path": "AnimeBackgrounds-master/1 (178).png",
-    "id": "wp_1039"
+    "id": "wp_1039",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #179",
@@ -9358,7 +14213,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.93 MB",
     "path": "AnimeBackgrounds-master/1 (179).jpg",
-    "id": "wp_1040"
+    "id": "wp_1040",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #179",
@@ -9367,7 +14228,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.19 MB",
     "path": "AnimeBackgrounds-master/1 (179).png",
-    "id": "wp_1041"
+    "id": "wp_1041",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #180",
@@ -9376,7 +14243,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "AnimeBackgrounds-master/1 (180).jpg",
-    "id": "wp_1042"
+    "id": "wp_1042",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #181",
@@ -9385,7 +14258,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.47 MB",
     "path": "AnimeBackgrounds-master/1 (181).jpg",
-    "id": "wp_1043"
+    "id": "wp_1043",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #181",
@@ -9394,7 +14273,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "AnimeBackgrounds-master/1 (181).png",
-    "id": "wp_1044"
+    "id": "wp_1044",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #182",
@@ -9403,7 +14288,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.03 MB",
     "path": "AnimeBackgrounds-master/1 (182).jpg",
-    "id": "wp_1045"
+    "id": "wp_1045",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #183",
@@ -9412,7 +14303,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "AnimeBackgrounds-master/1 (183).jpg",
-    "id": "wp_1046"
+    "id": "wp_1046",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #184",
@@ -9421,7 +14318,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.63 MB",
     "path": "AnimeBackgrounds-master/1 (184).jpg",
-    "id": "wp_1047"
+    "id": "wp_1047",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #185",
@@ -9430,7 +14333,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.96 MB",
     "path": "AnimeBackgrounds-master/1 (185).jpg",
-    "id": "wp_1048"
+    "id": "wp_1048",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #186",
@@ -9439,7 +14348,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.38 MB",
     "path": "AnimeBackgrounds-master/1 (186).jpg",
-    "id": "wp_1049"
+    "id": "wp_1049",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #187",
@@ -9448,7 +14363,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.32 MB",
     "path": "AnimeBackgrounds-master/1 (187).jpg",
-    "id": "wp_1050"
+    "id": "wp_1050",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #188",
@@ -9457,7 +14378,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.23 MB",
     "path": "AnimeBackgrounds-master/1 (188).jpg",
-    "id": "wp_1051"
+    "id": "wp_1051",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #189",
@@ -9466,7 +14393,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.38 MB",
     "path": "AnimeBackgrounds-master/1 (189).jpg",
-    "id": "wp_1052"
+    "id": "wp_1052",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #190",
@@ -9475,7 +14408,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "16.99 MB",
     "path": "AnimeBackgrounds-master/1 (190).jpg",
-    "id": "wp_1053"
+    "id": "wp_1053",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #191",
@@ -9484,7 +14423,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.04 MB",
     "path": "AnimeBackgrounds-master/1 (191).jpg",
-    "id": "wp_1054"
+    "id": "wp_1054",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #192",
@@ -9493,7 +14438,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.64 MB",
     "path": "AnimeBackgrounds-master/1 (192).jpg",
-    "id": "wp_1055"
+    "id": "wp_1055",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #193",
@@ -9502,7 +14453,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "AnimeBackgrounds-master/1 (193).jpg",
-    "id": "wp_1056"
+    "id": "wp_1056",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #194",
@@ -9511,7 +14468,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "AnimeBackgrounds-master/1 (194).jpg",
-    "id": "wp_1057"
+    "id": "wp_1057",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #195",
@@ -9520,7 +14483,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.71 MB",
     "path": "AnimeBackgrounds-master/1 (195).jpg",
-    "id": "wp_1058"
+    "id": "wp_1058",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #196",
@@ -9529,7 +14498,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "AnimeBackgrounds-master/1 (196).jpg",
-    "id": "wp_1059"
+    "id": "wp_1059",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #197",
@@ -9538,7 +14513,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "AnimeBackgrounds-master/1 (197).jpg",
-    "id": "wp_1060"
+    "id": "wp_1060",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #198",
@@ -9547,7 +14528,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (198).jpg",
-    "id": "wp_1061"
+    "id": "wp_1061",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #199",
@@ -9556,7 +14543,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.63 MB",
     "path": "AnimeBackgrounds-master/1 (199).jpg",
-    "id": "wp_1062"
+    "id": "wp_1062",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #200",
@@ -9565,7 +14558,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "AnimeBackgrounds-master/1 (200).jpg",
-    "id": "wp_1063"
+    "id": "wp_1063",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #201",
@@ -9574,7 +14573,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.51 MB",
     "path": "AnimeBackgrounds-master/1 (201).jpg",
-    "id": "wp_1064"
+    "id": "wp_1064",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #202",
@@ -9583,7 +14588,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.26 MB",
     "path": "AnimeBackgrounds-master/1 (202).jpg",
-    "id": "wp_1065"
+    "id": "wp_1065",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #203",
@@ -9592,7 +14603,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.44 MB",
     "path": "AnimeBackgrounds-master/1 (203).jpg",
-    "id": "wp_1066"
+    "id": "wp_1066",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #204",
@@ -9601,7 +14618,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.34 MB",
     "path": "AnimeBackgrounds-master/1 (204).jpg",
-    "id": "wp_1067"
+    "id": "wp_1067",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #205",
@@ -9610,7 +14633,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.12 MB",
     "path": "AnimeBackgrounds-master/1 (205).jpg",
-    "id": "wp_1068"
+    "id": "wp_1068",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #206",
@@ -9619,7 +14648,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "AnimeBackgrounds-master/1 (206).jpg",
-    "id": "wp_1069"
+    "id": "wp_1069",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #207",
@@ -9628,7 +14663,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.70 MB",
     "path": "AnimeBackgrounds-master/1 (207).jpg",
-    "id": "wp_1070"
+    "id": "wp_1070",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #208",
@@ -9637,7 +14678,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.79 MB",
     "path": "AnimeBackgrounds-master/1 (208).jpg",
-    "id": "wp_1071"
+    "id": "wp_1071",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #209",
@@ -9646,7 +14693,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "AnimeBackgrounds-master/1 (209).jpg",
-    "id": "wp_1072"
+    "id": "wp_1072",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #210",
@@ -9655,7 +14708,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "AnimeBackgrounds-master/1 (210).jpg",
-    "id": "wp_1073"
+    "id": "wp_1073",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #211",
@@ -9664,7 +14723,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "AnimeBackgrounds-master/1 (211).jpg",
-    "id": "wp_1074"
+    "id": "wp_1074",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #212",
@@ -9673,7 +14738,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "AnimeBackgrounds-master/1 (212).jpg",
-    "id": "wp_1075"
+    "id": "wp_1075",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #213",
@@ -9682,7 +14753,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "AnimeBackgrounds-master/1 (213).jpg",
-    "id": "wp_1076"
+    "id": "wp_1076",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #214",
@@ -9691,7 +14768,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "AnimeBackgrounds-master/1 (214).jpg",
-    "id": "wp_1077"
+    "id": "wp_1077",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #215",
@@ -9700,7 +14783,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.87 MB",
     "path": "AnimeBackgrounds-master/1 (215).jpg",
-    "id": "wp_1078"
+    "id": "wp_1078",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #216",
@@ -9709,7 +14798,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.11 MB",
     "path": "AnimeBackgrounds-master/1 (216).jpg",
-    "id": "wp_1079"
+    "id": "wp_1079",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #217",
@@ -9718,7 +14813,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "AnimeBackgrounds-master/1 (217).jpg",
-    "id": "wp_1080"
+    "id": "wp_1080",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #218",
@@ -9727,7 +14828,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "AnimeBackgrounds-master/1 (218).jpg",
-    "id": "wp_1081"
+    "id": "wp_1081",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #219",
@@ -9736,7 +14843,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "AnimeBackgrounds-master/1 (219).jpg",
-    "id": "wp_1082"
+    "id": "wp_1082",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #220",
@@ -9745,7 +14858,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "AnimeBackgrounds-master/1 (220).jpg",
-    "id": "wp_1083"
+    "id": "wp_1083",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #221",
@@ -9754,7 +14873,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.23 MB",
     "path": "AnimeBackgrounds-master/1 (221).jpg",
-    "id": "wp_1084"
+    "id": "wp_1084",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #222",
@@ -9763,7 +14888,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "AnimeBackgrounds-master/1 (222).jpg",
-    "id": "wp_1085"
+    "id": "wp_1085",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #223",
@@ -9772,7 +14903,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.63 MB",
     "path": "AnimeBackgrounds-master/1 (223).jpg",
-    "id": "wp_1086"
+    "id": "wp_1086",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #224",
@@ -9781,7 +14918,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.54 MB",
     "path": "AnimeBackgrounds-master/1 (224).jpg",
-    "id": "wp_1087"
+    "id": "wp_1087",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #225",
@@ -9790,7 +14933,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.15 MB",
     "path": "AnimeBackgrounds-master/1 (225).jpg",
-    "id": "wp_1088"
+    "id": "wp_1088",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #226",
@@ -9799,7 +14948,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "AnimeBackgrounds-master/1 (226).jpg",
-    "id": "wp_1089"
+    "id": "wp_1089",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #227",
@@ -9808,7 +14963,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "AnimeBackgrounds-master/1 (227).jpg",
-    "id": "wp_1090"
+    "id": "wp_1090",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #228",
@@ -9817,7 +14978,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "AnimeBackgrounds-master/1 (228).jpg",
-    "id": "wp_1091"
+    "id": "wp_1091",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #229",
@@ -9826,7 +14993,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "AnimeBackgrounds-master/1 (229).jpg",
-    "id": "wp_1092"
+    "id": "wp_1092",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #230",
@@ -9835,7 +15008,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "AnimeBackgrounds-master/1 (230).jpg",
-    "id": "wp_1093"
+    "id": "wp_1093",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #231",
@@ -9844,7 +15023,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.66 MB",
     "path": "AnimeBackgrounds-master/1 (231).jpg",
-    "id": "wp_1094"
+    "id": "wp_1094",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #232",
@@ -9853,7 +15038,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.46 MB",
     "path": "AnimeBackgrounds-master/1 (232).jpg",
-    "id": "wp_1095"
+    "id": "wp_1095",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #233",
@@ -9862,7 +15053,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "AnimeBackgrounds-master/1 (233).jpg",
-    "id": "wp_1096"
+    "id": "wp_1096",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #234",
@@ -9871,7 +15068,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.49 MB",
     "path": "AnimeBackgrounds-master/1 (234).jpg",
-    "id": "wp_1097"
+    "id": "wp_1097",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #235",
@@ -9880,7 +15083,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.94 MB",
     "path": "AnimeBackgrounds-master/1 (235).jpg",
-    "id": "wp_1098"
+    "id": "wp_1098",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #236",
@@ -9889,7 +15098,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.56 MB",
     "path": "AnimeBackgrounds-master/1 (236).jpg",
-    "id": "wp_1099"
+    "id": "wp_1099",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #237",
@@ -9898,7 +15113,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.73 MB",
     "path": "AnimeBackgrounds-master/1 (237).jpg",
-    "id": "wp_1100"
+    "id": "wp_1100",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #239",
@@ -9907,7 +15128,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "AnimeBackgrounds-master/1 (239).jpg",
-    "id": "wp_1101"
+    "id": "wp_1101",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "Anime Background #240",
@@ -9916,7 +15143,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "AnimeBackgrounds-master/1 (240).jpg",
-    "id": "wp_1102"
+    "id": "wp_1102",
+    "tags": [
+      "anime",
+      "animebackgrounds",
+      "background",
+      "backgrounds"
+    ]
   },
   {
     "name": "0163",
@@ -9925,7 +15158,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Wallpapers-main/abstract/0163.jpg",
-    "id": "wp_1103"
+    "id": "wp_1103",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0172",
@@ -9934,7 +15170,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Wallpapers-main/abstract/0172.jpg",
-    "id": "wp_1104"
+    "id": "wp_1104",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0202",
@@ -9943,7 +15182,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.90 MB",
     "path": "Wallpapers-main/abstract/0202.jpg",
-    "id": "wp_1105"
+    "id": "wp_1105",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0258",
@@ -9952,7 +15194,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.18 MB",
     "path": "Wallpapers-main/abstract/0258.jpg",
-    "id": "wp_1106"
+    "id": "wp_1106",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0307",
@@ -9961,7 +15206,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.69 MB",
     "path": "Wallpapers-main/abstract/0307.jpg",
-    "id": "wp_1107"
+    "id": "wp_1107",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0313",
@@ -9970,7 +15218,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.74 MB",
     "path": "Wallpapers-main/abstract/0313.jpg",
-    "id": "wp_1108"
+    "id": "wp_1108",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "0524",
@@ -9979,7 +15230,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "Wallpapers-main/abstract/0524.jpg",
-    "id": "wp_1109"
+    "id": "wp_1109",
+    "tags": [
+      "abstract"
+    ]
   },
   {
     "name": "1920x1080",
@@ -9988,7 +15242,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.64 MB",
     "path": "Wallpapers-main/abstract/1920x1080.png",
-    "id": "wp_1110"
+    "id": "wp_1110",
+    "tags": [
+      "1920x1080",
+      "abstract"
+    ]
   },
   {
     "name": "2560x1440",
@@ -9997,7 +15255,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "Wallpapers-main/abstract/2560x1440.png",
-    "id": "wp_1111"
+    "id": "wp_1111",
+    "tags": [
+      "2560x1440",
+      "abstract"
+    ]
   },
   {
     "name": "Abstractrings",
@@ -10006,7 +15268,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/abstract/abstractrings.png",
-    "id": "wp_1112"
+    "id": "wp_1112",
+    "tags": [
+      "abstract",
+      "abstractrings"
+    ]
   },
   {
     "name": "Frame 2 1",
@@ -10015,7 +15281,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.60 MB",
     "path": "Wallpapers-main/abstract/Frame_2_1.png",
-    "id": "wp_1113"
+    "id": "wp_1113",
+    "tags": [
+      "abstract",
+      "frame"
+    ]
   },
   {
     "name": "Keyswitch",
@@ -10024,7 +15294,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.09 MB",
     "path": "Wallpapers-main/abstract/keyswitch.jpg",
-    "id": "wp_1114"
+    "id": "wp_1114",
+    "tags": [
+      "abstract",
+      "keyswitch"
+    ]
   },
   {
     "name": "Minimal1",
@@ -10033,7 +15307,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.74 MB",
     "path": "Wallpapers-main/abstract/minimal1.jpeg",
-    "id": "wp_1115"
+    "id": "wp_1115",
+    "tags": [
+      "abstract",
+      "minimal1"
+    ]
   },
   {
     "name": "Modernity3",
@@ -10042,7 +15320,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/abstract/modernity3.png",
-    "id": "wp_1116"
+    "id": "wp_1116",
+    "tags": [
+      "abstract",
+      "modernity3"
+    ]
   },
   {
     "name": "No Logo Mirage KDE Plasma Theme Wallpaper",
@@ -10051,7 +15333,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.34 MB",
     "path": "Wallpapers-main/abstract/No Logo Mirage KDE Plasma Theme Wallpaper.png",
-    "id": "wp_1117"
+    "id": "wp_1117",
+    "tags": [
+      "abstract",
+      "kde",
+      "logo",
+      "mirage",
+      "plasma",
+      "theme",
+      "wallpaper"
+    ]
   },
   {
     "name": "Superflux4",
@@ -10060,7 +15351,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.92 MB",
     "path": "Wallpapers-main/abstract/superflux4.png",
-    "id": "wp_1118"
+    "id": "wp_1118",
+    "tags": [
+      "abstract",
+      "superflux4"
+    ]
   },
   {
     "name": "Unknown",
@@ -10069,7 +15364,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.78 MB",
     "path": "Wallpapers-main/abstract/unknown.png",
-    "id": "wp_1119"
+    "id": "wp_1119",
+    "tags": [
+      "abstract",
+      "unknown"
+    ]
   },
   {
     "name": "Wallhaven Y8q6l7",
@@ -10078,7 +15377,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.13 MB",
     "path": "Wallpapers-main/abstract/wallhaven-y8q6l7.jpg",
-    "id": "wp_1120"
+    "id": "wp_1120",
+    "tags": [
+      "abstract",
+      "wallhaven",
+      "y8q6l7"
+    ]
   },
   {
     "name": "Wallpapertip Wallpaper Xiaomi 15554",
@@ -10087,7 +15391,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.58 MB",
     "path": "Wallpapers-main/abstract/wallpapertip_wallpaper-xiaomi_15554.jpg",
-    "id": "wp_1121"
+    "id": "wp_1121",
+    "tags": [
+      "abstract",
+      "wallpaper",
+      "wallpapertip",
+      "xiaomi"
+    ]
   },
   {
     "name": "WhaCz6Ug",
@@ -10096,7 +15406,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Wallpapers-main/abstract/WhaCz6Ug.png",
-    "id": "wp_1122"
+    "id": "wp_1122",
+    "tags": [
+      "abstract",
+      "whacz6ug"
+    ]
   },
   {
     "name": "Alley",
@@ -10105,7 +15419,12 @@ const WALLPAPERS = [
     "format": "GIF",
     "size": "0.64 MB",
     "path": "Wallpapers-main/animated/alley.gif",
-    "id": "wp_1123"
+    "id": "wp_1123",
+    "tags": [
+      "alley",
+      "animated",
+      "gif"
+    ]
   },
   {
     "name": "Trees",
@@ -10114,7 +15433,12 @@ const WALLPAPERS = [
     "format": "GIF",
     "size": "1.11 MB",
     "path": "Wallpapers-main/animated/trees.gif",
-    "id": "wp_1124"
+    "id": "wp_1124",
+    "tags": [
+      "animated",
+      "gif",
+      "trees"
+    ]
   },
   {
     "name": "3",
@@ -10123,7 +15447,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/anime/3.png",
-    "id": "wp_1125"
+    "id": "wp_1125",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "9pzfvfavjgn71",
@@ -10132,7 +15459,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.03 MB",
     "path": "Wallpapers-main/anime/9pzfvfavjgn71.png",
-    "id": "wp_1126"
+    "id": "wp_1126",
+    "tags": [
+      "9pzfvfavjgn71",
+      "anime"
+    ]
   },
   {
     "name": "10 5WcIOl6",
@@ -10141,7 +15472,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "Wallpapers-main/anime/10_-_5WcIOl6.jpg",
-    "id": "wp_1127"
+    "id": "wp_1127",
+    "tags": [
+      "5wciol6",
+      "anime"
+    ]
   },
   {
     "name": "10 Va8RSAY",
@@ -10150,7 +15485,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.87 MB",
     "path": "Wallpapers-main/anime/10_-_Va8RSAY.jpg",
-    "id": "wp_1128"
+    "id": "wp_1128",
+    "tags": [
+      "anime",
+      "va8rsay"
+    ]
   },
   {
     "name": "19",
@@ -10159,7 +15498,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.35 MB",
     "path": "Wallpapers-main/anime/19.png",
-    "id": "wp_1129"
+    "id": "wp_1129",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0057",
@@ -10168,7 +15510,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "Wallpapers-main/anime/0057.jpg",
-    "id": "wp_1130"
+    "id": "wp_1130",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0060",
@@ -10177,7 +15522,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.81 MB",
     "path": "Wallpapers-main/anime/0060.jpg",
-    "id": "wp_1131"
+    "id": "wp_1131",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0076",
@@ -10186,7 +15534,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/anime/0076.jpg",
-    "id": "wp_1132"
+    "id": "wp_1132",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0079",
@@ -10195,7 +15546,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "Wallpapers-main/anime/0079.jpg",
-    "id": "wp_1133"
+    "id": "wp_1133",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "94ae229f 168b 422e Adbe Ba024602ad8d",
@@ -10204,7 +15558,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.46 MB",
     "path": "Wallpapers-main/anime/94ae229f-168b-422e-adbe-ba024602ad8d.png",
-    "id": "wp_1134"
+    "id": "wp_1134",
+    "tags": [
+      "168b",
+      "422e",
+      "94ae229f",
+      "adbe",
+      "anime",
+      "ba024602ad8d"
+    ]
   },
   {
     "name": "0120",
@@ -10213,7 +15575,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/anime/0120.jpg",
-    "id": "wp_1135"
+    "id": "wp_1135",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0159",
@@ -10222,7 +15587,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.05 MB",
     "path": "Wallpapers-main/anime/0159.jpg",
-    "id": "wp_1136"
+    "id": "wp_1136",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0168",
@@ -10231,7 +15599,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "Wallpapers-main/anime/0168.jpg",
-    "id": "wp_1137"
+    "id": "wp_1137",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0182",
@@ -10240,7 +15611,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.87 MB",
     "path": "Wallpapers-main/anime/0182.jpg",
-    "id": "wp_1138"
+    "id": "wp_1138",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "189b99ef 35b2 447e Bd88 36de5a1f24ce",
@@ -10249,7 +15623,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/anime/189b99ef-35b2-447e-bd88-36de5a1f24ce.png",
-    "id": "wp_1139"
+    "id": "wp_1139",
+    "tags": [
+      "189b99ef",
+      "35b2",
+      "36de5a1f24ce",
+      "447e",
+      "anime",
+      "bd88"
+    ]
   },
   {
     "name": "0206",
@@ -10258,7 +15640,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "19.97 MB",
     "path": "Wallpapers-main/anime/0206.jpg",
-    "id": "wp_1140"
+    "id": "wp_1140",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0208",
@@ -10267,7 +15652,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.91 MB",
     "path": "Wallpapers-main/anime/0208.jpg",
-    "id": "wp_1141"
+    "id": "wp_1141",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0218",
@@ -10276,7 +15664,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.49 MB",
     "path": "Wallpapers-main/anime/0218.jpg",
-    "id": "wp_1142"
+    "id": "wp_1142",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0256",
@@ -10285,7 +15676,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/anime/0256.jpg",
-    "id": "wp_1143"
+    "id": "wp_1143",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0297",
@@ -10294,7 +15688,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.84 MB",
     "path": "Wallpapers-main/anime/0297.jpg",
-    "id": "wp_1144"
+    "id": "wp_1144",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0312",
@@ -10303,7 +15700,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "Wallpapers-main/anime/0312.jpg",
-    "id": "wp_1145"
+    "id": "wp_1145",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0329",
@@ -10312,7 +15712,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "Wallpapers-main/anime/0329.jpg",
-    "id": "wp_1146"
+    "id": "wp_1146",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0335",
@@ -10321,7 +15724,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.41 MB",
     "path": "Wallpapers-main/anime/0335.jpg",
-    "id": "wp_1147"
+    "id": "wp_1147",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0374",
@@ -10330,7 +15736,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/anime/0374.jpg",
-    "id": "wp_1148"
+    "id": "wp_1148",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0400",
@@ -10339,7 +15748,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/anime/0400.jpg",
-    "id": "wp_1149"
+    "id": "wp_1149",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0411",
@@ -10348,7 +15760,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.53 MB",
     "path": "Wallpapers-main/anime/0411.jpg",
-    "id": "wp_1150"
+    "id": "wp_1150",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0516",
@@ -10357,7 +15772,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.02 MB",
     "path": "Wallpapers-main/anime/0516.jpg",
-    "id": "wp_1151"
+    "id": "wp_1151",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "0526",
@@ -10366,7 +15784,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.76 MB",
     "path": "Wallpapers-main/anime/0526.jpg",
-    "id": "wp_1152"
+    "id": "wp_1152",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "2695f59d40110de50167c679ee97f072",
@@ -10375,7 +15796,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.85 MB",
     "path": "Wallpapers-main/anime/2695f59d40110de50167c679ee97f072.png",
-    "id": "wp_1153"
+    "id": "wp_1153",
+    "tags": [
+      "2695f59d40110de50167c679ee97f072",
+      "anime"
+    ]
   },
   {
     "name": "916704",
@@ -10384,7 +15809,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "Wallpapers-main/anime/916704.jpg",
-    "id": "wp_1154"
+    "id": "wp_1154",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "67927434 P0",
@@ -10393,7 +15821,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "Wallpapers-main/anime/67927434_p0.jpg",
-    "id": "wp_1155"
+    "id": "wp_1155",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "79085051 P0",
@@ -10402,7 +15833,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.91 MB",
     "path": "Wallpapers-main/anime/79085051_p0.png",
-    "id": "wp_1156"
+    "id": "wp_1156",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "117542401 P0",
@@ -10411,7 +15845,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "20.91 MB",
     "path": "Wallpapers-main/anime/117542401_p0.png",
-    "id": "wp_1157"
+    "id": "wp_1157",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "1625298688015",
@@ -10420,7 +15857,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.77 MB",
     "path": "Wallpapers-main/anime/1625298688015.png",
-    "id": "wp_1158"
+    "id": "wp_1158",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "1634847494489",
@@ -10429,7 +15869,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.84 MB",
     "path": "Wallpapers-main/anime/1634847494489.png",
-    "id": "wp_1159"
+    "id": "wp_1159",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "Aerith Gainsborough Final Fantasy 22 1920x1080",
@@ -10438,7 +15881,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "Wallpapers-main/anime/aerith-gainsborough-final-fantasy-22-1920x1080.jpg",
-    "id": "wp_1160"
+    "id": "wp_1160",
+    "tags": [
+      "1920x1080",
+      "aerith",
+      "anime",
+      "fantasy",
+      "final",
+      "gainsborough"
+    ]
   },
   {
     "name": "Ajolote",
@@ -10447,7 +15898,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/anime/ajolote.jpg",
-    "id": "wp_1161"
+    "id": "wp_1161",
+    "tags": [
+      "ajolote",
+      "anime"
+    ]
   },
   {
     "name": "Anime Girl Room Guitar",
@@ -10456,7 +15911,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "Wallpapers-main/anime/anime-girl-room-guitar.jpg",
-    "id": "wp_1162"
+    "id": "wp_1162",
+    "tags": [
+      "anime",
+      "girl",
+      "guitar",
+      "room"
+    ]
   },
   {
     "name": "Blobgirl",
@@ -10465,7 +15926,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/anime/blobgirl.png",
-    "id": "wp_1163"
+    "id": "wp_1163",
+    "tags": [
+      "anime",
+      "blobgirl"
+    ]
   },
   {
     "name": "BocchiWall",
@@ -10474,7 +15939,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/anime/BocchiWall.png",
-    "id": "wp_1164"
+    "id": "wp_1164",
+    "tags": [
+      "anime",
+      "bocchiwall"
+    ]
   },
   {
     "name": "Bruh",
@@ -10483,7 +15952,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.63 MB",
     "path": "Wallpapers-main/anime/bruh.png",
-    "id": "wp_1165"
+    "id": "wp_1165",
+    "tags": [
+      "anime",
+      "bruh"
+    ]
   },
   {
     "name": "Chems",
@@ -10492,7 +15965,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.15 MB",
     "path": "Wallpapers-main/anime/chems.png",
-    "id": "wp_1166"
+    "id": "wp_1166",
+    "tags": [
+      "anime",
+      "chems"
+    ]
   },
   {
     "name": "ChemsFull",
@@ -10501,7 +15978,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "12.28 MB",
     "path": "Wallpapers-main/anime/ChemsFull.png",
-    "id": "wp_1167"
+    "id": "wp_1167",
+    "tags": [
+      "anime",
+      "chemsfull"
+    ]
   },
   {
     "name": "Chikasniper",
@@ -10510,7 +15991,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.03 MB",
     "path": "Wallpapers-main/anime/chikasniper.jpg",
-    "id": "wp_1168"
+    "id": "wp_1168",
+    "tags": [
+      "anime",
+      "chikasniper"
+    ]
   },
   {
     "name": "Dc3f7505 1fd6 41f6 A301 788b5241a327",
@@ -10519,7 +16004,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.36 MB",
     "path": "Wallpapers-main/anime/dc3f7505-1fd6-41f6-a301-788b5241a327.jpg",
-    "id": "wp_1169"
+    "id": "wp_1169",
+    "tags": [
+      "1fd6",
+      "41f6",
+      "788b5241a327",
+      "a301",
+      "anime",
+      "dc3f7505"
+    ]
   },
   {
     "name": "Default 1girl Anime Art By Ilya Kuvshinov",
@@ -10528,7 +16021,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "Wallpapers-main/anime/Default_1girl_anime_art_by_Ilya_Kuvshinov.jpg",
-    "id": "wp_1170"
+    "id": "wp_1170",
+    "tags": [
+      "1girl",
+      "anime",
+      "art",
+      "default",
+      "ilya",
+      "kuvshinov"
+    ]
   },
   {
     "name": "DemonSlayer",
@@ -10537,7 +16038,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.46 MB",
     "path": "Wallpapers-main/anime/DemonSlayer.jpg",
-    "id": "wp_1171"
+    "id": "wp_1171",
+    "tags": [
+      "anime",
+      "demonslayer"
+    ]
   },
   {
     "name": "Digital Art",
@@ -10546,7 +16051,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.24 MB",
     "path": "Wallpapers-main/anime/digital-art.png",
-    "id": "wp_1172"
+    "id": "wp_1172",
+    "tags": [
+      "anime",
+      "art",
+      "digital"
+    ]
   },
   {
     "name": "Dragon Toy 1920x1080",
@@ -10555,7 +16065,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/anime/dragon-toy-1920x1080.jpg",
-    "id": "wp_1173"
+    "id": "wp_1173",
+    "tags": [
+      "1920x1080",
+      "anime",
+      "dragon",
+      "toy"
+    ]
   },
   {
     "name": "Drawing",
@@ -10564,7 +16080,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.57 MB",
     "path": "Wallpapers-main/anime/drawing.png",
-    "id": "wp_1174"
+    "id": "wp_1174",
+    "tags": [
+      "anime",
+      "drawing"
+    ]
   },
   {
     "name": "EnaqeNgW4AIRzzm",
@@ -10573,7 +16093,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "Wallpapers-main/anime/EnaqeNgW4AIRzzm.jpg",
-    "id": "wp_1175"
+    "id": "wp_1175",
+    "tags": [
+      "anime",
+      "enaqengw4airzzm"
+    ]
   },
   {
     "name": "Evangelion",
@@ -10582,7 +16106,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.06 MB",
     "path": "Wallpapers-main/anime/evangelion.png",
-    "id": "wp_1176"
+    "id": "wp_1176",
+    "tags": [
+      "anime",
+      "evangelion"
+    ]
   },
   {
     "name": "Evangelion All Units Lantern",
@@ -10591,7 +16119,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "12.99 MB",
     "path": "Wallpapers-main/anime/evangelion-all-units-lantern.png",
-    "id": "wp_1177"
+    "id": "wp_1177",
+    "tags": [
+      "all",
+      "anime",
+      "evangelion",
+      "lantern",
+      "units"
+    ]
   },
   {
     "name": "Evangelion Unit 001 Beige Lantern Theme",
@@ -10600,7 +16135,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "Wallpapers-main/anime/evangelion-unit-001-beige-lantern-theme.png",
-    "id": "wp_1178"
+    "id": "wp_1178",
+    "tags": [
+      "anime",
+      "beige",
+      "evangelion",
+      "lantern",
+      "theme",
+      "unit"
+    ]
   },
   {
     "name": "Evangelion Unit Mountain",
@@ -10609,7 +16152,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.43 MB",
     "path": "Wallpapers-main/anime/evangelion-unit-mountain.png",
-    "id": "wp_1179"
+    "id": "wp_1179",
+    "tags": [
+      "anime",
+      "evangelion",
+      "mountain",
+      "unit"
+    ]
   },
   {
     "name": "Evangelion1",
@@ -10618,7 +16167,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.16 MB",
     "path": "Wallpapers-main/anime/evangelion1.png",
-    "id": "wp_1180"
+    "id": "wp_1180",
+    "tags": [
+      "anime",
+      "evangelion1"
+    ]
   },
   {
     "name": "EVEjNA9UUAgBg5M",
@@ -10627,7 +16180,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/anime/EVEjNA9UUAgBg5M.jpg",
-    "id": "wp_1181"
+    "id": "wp_1181",
+    "tags": [
+      "anime",
+      "evejna9uuagbg5m"
+    ]
   },
   {
     "name": "Faceplant",
@@ -10636,7 +16193,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.41 MB",
     "path": "Wallpapers-main/anime/faceplant.png",
-    "id": "wp_1182"
+    "id": "wp_1182",
+    "tags": [
+      "anime",
+      "faceplant"
+    ]
   },
   {
     "name": "Focks",
@@ -10645,7 +16206,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.95 MB",
     "path": "Wallpapers-main/anime/focks.jpg",
-    "id": "wp_1183"
+    "id": "wp_1183",
+    "tags": [
+      "anime",
+      "focks"
+    ]
   },
   {
     "name": "Funny86",
@@ -10654,7 +16219,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.99 MB",
     "path": "Wallpapers-main/anime/funny86.png",
-    "id": "wp_1184"
+    "id": "wp_1184",
+    "tags": [
+      "anime",
+      "funny86"
+    ]
   },
   {
     "name": "Funnypowa",
@@ -10663,7 +16232,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "6.31 MB",
     "path": "Wallpapers-main/anime/funnypowa.png",
-    "id": "wp_1185"
+    "id": "wp_1185",
+    "tags": [
+      "anime",
+      "funnypowa"
+    ]
   },
   {
     "name": "Gdngfgh",
@@ -10672,7 +16245,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "11.63 MB",
     "path": "Wallpapers-main/anime/gdngfgh.png",
-    "id": "wp_1186"
+    "id": "wp_1186",
+    "tags": [
+      "anime",
+      "gdngfgh"
+    ]
   },
   {
     "name": "Girl",
@@ -10681,7 +16258,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/anime/girl.png",
-    "id": "wp_1187"
+    "id": "wp_1187",
+    "tags": [
+      "anime",
+      "girl"
+    ]
   },
   {
     "name": "Image1",
@@ -10690,7 +16271,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/anime/image1.jpg",
-    "id": "wp_1188"
+    "id": "wp_1188",
+    "tags": [
+      "anime",
+      "image1"
+    ]
   },
   {
     "name": "IMG 1533",
@@ -10699,7 +16284,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "Wallpapers-main/anime/IMG_1533.jpg",
-    "id": "wp_1189"
+    "id": "wp_1189",
+    "tags": [
+      "anime",
+      "img"
+    ]
   },
   {
     "name": "IMG 7576",
@@ -10708,7 +16297,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.63 MB",
     "path": "Wallpapers-main/anime/IMG_7576.jpg",
-    "id": "wp_1190"
+    "id": "wp_1190",
+    "tags": [
+      "anime",
+      "img"
+    ]
   },
   {
     "name": "Inabakumori Anticyclone",
@@ -10717,7 +16310,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Wallpapers-main/anime/inabakumori-Anticyclone.jpg",
-    "id": "wp_1191"
+    "id": "wp_1191",
+    "tags": [
+      "anime",
+      "anticyclone",
+      "inabakumori"
+    ]
   },
   {
     "name": "Justthetwoofus",
@@ -10726,7 +16324,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.93 MB",
     "path": "Wallpapers-main/anime/justthetwoofus.png",
-    "id": "wp_1192"
+    "id": "wp_1192",
+    "tags": [
+      "anime",
+      "justthetwoofus"
+    ]
   },
   {
     "name": "K4",
@@ -10735,7 +16337,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.46 MB",
     "path": "Wallpapers-main/anime/k4.png",
-    "id": "wp_1193"
+    "id": "wp_1193",
+    "tags": [
+      "anime"
+    ]
   },
   {
     "name": "Kanna",
@@ -10744,7 +16349,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "Wallpapers-main/anime/kanna.jpg",
-    "id": "wp_1194"
+    "id": "wp_1194",
+    "tags": [
+      "anime",
+      "kanna"
+    ]
   },
   {
     "name": "Komi Shouko Holding Introdution To Algorithms",
@@ -10753,7 +16362,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.56 MB",
     "path": "Wallpapers-main/anime/Komi_Shouko_holding_Introdution_to_Algorithms.jpg",
-    "id": "wp_1195"
+    "id": "wp_1195",
+    "tags": [
+      "algorithms",
+      "anime",
+      "holding",
+      "introdution",
+      "komi",
+      "shouko"
+    ]
   },
   {
     "name": "Konachan.Com 376008 Sample",
@@ -10762,7 +16379,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/anime/Konachan.com_-_376008_sample.jpg",
-    "id": "wp_1196"
+    "id": "wp_1196",
+    "tags": [
+      "anime",
+      "com",
+      "konachan",
+      "sample"
+    ]
   },
   {
     "name": "Linux Retro BGpqbmuUmZqaraWkpJRqZmdlrWdtbWU",
@@ -10771,7 +16394,13 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.88 MB",
     "path": "Wallpapers-main/anime/linux-retro_bGpqbmuUmZqaraWkpJRqZmdlrWdtbWU.jpeg",
-    "id": "wp_1197"
+    "id": "wp_1197",
+    "tags": [
+      "anime",
+      "bgpqbmuumzqarawkpjrqzmdlrwdtbwu",
+      "linux",
+      "retro"
+    ]
   },
   {
     "name": "Mashiro Kanon Archlinux",
@@ -10780,7 +16409,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.83 MB",
     "path": "Wallpapers-main/anime/mashiro_kanon_archlinux.png",
-    "id": "wp_1198"
+    "id": "wp_1198",
+    "tags": [
+      "anime",
+      "archlinux",
+      "kanon",
+      "mashiro"
+    ]
   },
   {
     "name": "Mashiro Kanon Debian",
@@ -10789,7 +16424,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.83 MB",
     "path": "Wallpapers-main/anime/mashiro_kanon_debian.png",
-    "id": "wp_1199"
+    "id": "wp_1199",
+    "tags": [
+      "anime",
+      "debian",
+      "kanon",
+      "mashiro"
+    ]
   },
   {
     "name": "May Waterfall Desktop HD",
@@ -10798,7 +16439,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/anime/May_waterfall_desktop_HD.png",
-    "id": "wp_1200"
+    "id": "wp_1200",
+    "tags": [
+      "anime",
+      "desktop",
+      "may",
+      "waterfall"
+    ]
   },
   {
     "name": "Meh",
@@ -10807,7 +16454,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.87 MB",
     "path": "Wallpapers-main/anime/meh.png",
-    "id": "wp_1201"
+    "id": "wp_1201",
+    "tags": [
+      "anime",
+      "meh"
+    ]
   },
   {
     "name": "MitsuboshiJUMPS",
@@ -10816,7 +16467,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.87 MB",
     "path": "Wallpapers-main/anime/mitsuboshiJUMPS.jpg",
-    "id": "wp_1202"
+    "id": "wp_1202",
+    "tags": [
+      "anime",
+      "mitsuboshijumps"
+    ]
   },
   {
     "name": "NoBitches",
@@ -10825,7 +16480,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/anime/noBitches.jpg",
-    "id": "wp_1203"
+    "id": "wp_1203",
+    "tags": [
+      "anime",
+      "nobitches"
+    ]
   },
   {
     "name": "Orangegirl",
@@ -10834,7 +16493,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "12.28 MB",
     "path": "Wallpapers-main/anime/orangegirl.jpg",
-    "id": "wp_1204"
+    "id": "wp_1204",
+    "tags": [
+      "anime",
+      "orangegirl"
+    ]
   },
   {
     "name": "Paradise",
@@ -10843,7 +16506,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.51 MB",
     "path": "Wallpapers-main/anime/paradise.jpg",
-    "id": "wp_1205"
+    "id": "wp_1205",
+    "tags": [
+      "anime",
+      "paradise"
+    ]
   },
   {
     "name": "Patient Wallpaper 2560x1080 14",
@@ -10852,7 +16519,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/anime/patient-wallpaper-2560x1080_14.jpg",
-    "id": "wp_1206"
+    "id": "wp_1206",
+    "tags": [
+      "2560x1080",
+      "anime",
+      "patient",
+      "wallpaper"
+    ]
   },
   {
     "name": "Picsart 22 03 13 16 17 26 583",
@@ -10861,7 +16534,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/anime/Picsart_22-03-13_16-17-26-583.jpg",
-    "id": "wp_1207"
+    "id": "wp_1207",
+    "tags": [
+      "anime",
+      "picsart"
+    ]
   },
   {
     "name": "Pippi Spring 2020",
@@ -10870,7 +16547,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.49 MB",
     "path": "Wallpapers-main/anime/Pippi_spring_2020.png",
-    "id": "wp_1208"
+    "id": "wp_1208",
+    "tags": [
+      "anime",
+      "pippi",
+      "spring"
+    ]
   },
   {
     "name": "RDT 20220515 1030226089683005045040220",
@@ -10879,7 +16561,11 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "0.09 MB",
     "path": "Wallpapers-main/anime/RDT_20220515_1030226089683005045040220.webp",
-    "id": "wp_1209"
+    "id": "wp_1209",
+    "tags": [
+      "anime",
+      "rdt"
+    ]
   },
   {
     "name": "Retro Anime",
@@ -10888,7 +16574,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.39 MB",
     "path": "Wallpapers-main/anime/retro-anime.png",
-    "id": "wp_1210"
+    "id": "wp_1210",
+    "tags": [
+      "anime",
+      "retro"
+    ]
   },
   {
     "name": "Retro Room",
@@ -10897,7 +16587,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.46 MB",
     "path": "Wallpapers-main/anime/retro_room.png",
-    "id": "wp_1211"
+    "id": "wp_1211",
+    "tags": [
+      "anime",
+      "retro",
+      "room"
+    ]
   },
   {
     "name": "Rimuru Tempest Slimes Mrj0i5pb9cjx9pix",
@@ -10906,7 +16601,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.61 MB",
     "path": "Wallpapers-main/anime/rimuru-tempest-slimes-mrj0i5pb9cjx9pix.png",
-    "id": "wp_1212"
+    "id": "wp_1212",
+    "tags": [
+      "anime",
+      "mrj0i5pb9cjx9pix",
+      "rimuru",
+      "slimes",
+      "tempest"
+    ]
   },
   {
     "name": "Screenshot 2022 02 25 175517",
@@ -10915,7 +16617,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.62 MB",
     "path": "Wallpapers-main/anime/Screenshot_2022-02-25_175517.jpeg",
-    "id": "wp_1213"
+    "id": "wp_1213",
+    "tags": [
+      "anime",
+      "screenshot"
+    ]
   },
   {
     "name": "Spy Family Destacada",
@@ -10924,7 +16630,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/anime/spy-family-destacada.jpg",
-    "id": "wp_1214"
+    "id": "wp_1214",
+    "tags": [
+      "anime",
+      "destacada",
+      "family",
+      "spy"
+    ]
   },
   {
     "name": "Stealth 20230926 212553",
@@ -10933,7 +16645,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.12 MB",
     "path": "Wallpapers-main/anime/Stealth_20230926_212553.png",
-    "id": "wp_1215"
+    "id": "wp_1215",
+    "tags": [
+      "anime",
+      "stealth"
+    ]
   },
   {
     "name": "Tanjiro",
@@ -10942,7 +16658,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/anime/Tanjiro.png",
-    "id": "wp_1216"
+    "id": "wp_1216",
+    "tags": [
+      "anime",
+      "tanjiro"
+    ]
   },
   {
     "name": "Tanjiro Wallpaper2",
@@ -10951,7 +16671,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.91 MB",
     "path": "Wallpapers-main/anime/tanjiro-wallpaper2.jpeg",
-    "id": "wp_1217"
+    "id": "wp_1217",
+    "tags": [
+      "anime",
+      "tanjiro",
+      "wallpaper2"
+    ]
   },
   {
     "name": "Thumb 1920 808037",
@@ -10960,7 +16685,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.17 MB",
     "path": "Wallpapers-main/anime/thumb-1920-808037.png",
-    "id": "wp_1218"
+    "id": "wp_1218",
+    "tags": [
+      "anime",
+      "thumb"
+    ]
   },
   {
     "name": "Totoro",
@@ -10969,7 +16698,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "Wallpapers-main/anime/totoro.jpg",
-    "id": "wp_1219"
+    "id": "wp_1219",
+    "tags": [
+      "anime",
+      "totoro"
+    ]
   },
   {
     "name": "Totoro Credits 2 Transformed",
@@ -10978,7 +16711,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.98 MB",
     "path": "Wallpapers-main/anime/totoro_credits-2-transformed.png",
-    "id": "wp_1220"
+    "id": "wp_1220",
+    "tags": [
+      "anime",
+      "credits",
+      "totoro",
+      "transformed"
+    ]
   },
   {
     "name": "Totoro Credits 148O 9zUB Transformed",
@@ -10987,7 +16726,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "15.93 MB",
     "path": "Wallpapers-main/anime/totoro_credits-148O-9zUB-transformed.png",
-    "id": "wp_1221"
+    "id": "wp_1221",
+    "tags": [
+      "148o",
+      "9zub",
+      "anime",
+      "credits",
+      "totoro",
+      "transformed"
+    ]
   },
   {
     "name": "Totoro Wallpaper 3928216915",
@@ -10996,7 +16743,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.29 MB",
     "path": "Wallpapers-main/anime/totoro-wallpaper-3928216915.png",
-    "id": "wp_1222"
+    "id": "wp_1222",
+    "tags": [
+      "anime",
+      "totoro",
+      "wallpaper"
+    ]
   },
   {
     "name": "Totoro Wp",
@@ -11005,7 +16757,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/anime/totoro-wp.png",
-    "id": "wp_1223"
+    "id": "wp_1223",
+    "tags": [
+      "anime",
+      "totoro"
+    ]
   },
   {
     "name": "Tumblr L 228671976829014",
@@ -11014,7 +16770,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Wallpapers-main/anime/Tumblr_l_228671976829014.jpg",
-    "id": "wp_1224"
+    "id": "wp_1224",
+    "tags": [
+      "anime",
+      "tumblr"
+    ]
   },
   {
     "name": "Urara Shiratori Intro Topological Quantun Computation",
@@ -11023,7 +16783,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.70 MB",
     "path": "Wallpapers-main/anime/Urara_Shiratori_Intro_Topological_Quantun_Computation.png",
-    "id": "wp_1225"
+    "id": "wp_1225",
+    "tags": [
+      "anime",
+      "computation",
+      "intro",
+      "quantun",
+      "shiratori",
+      "topological",
+      "urara"
+    ]
   },
   {
     "name": "Url",
@@ -11032,7 +16801,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "Wallpapers-main/anime/url.jpg",
-    "id": "wp_1226"
+    "id": "wp_1226",
+    "tags": [
+      "anime",
+      "url"
+    ]
   },
   {
     "name": "WaifuTea",
@@ -11041,7 +16814,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "Wallpapers-main/anime/WaifuTea.jpg",
-    "id": "wp_1227"
+    "id": "wp_1227",
+    "tags": [
+      "anime",
+      "waifutea"
+    ]
   },
   {
     "name": "Wall2",
@@ -11050,7 +16827,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "Wallpapers-main/anime/wall2.jpg",
-    "id": "wp_1228"
+    "id": "wp_1228",
+    "tags": [
+      "anime",
+      "wall2"
+    ]
   },
   {
     "name": "Wallhaven 4xry9v",
@@ -11059,7 +16840,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/anime/wallhaven-4xry9v.jpg",
-    "id": "wp_1229"
+    "id": "wp_1229",
+    "tags": [
+      "4xry9v",
+      "anime",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 5w9jj8",
@@ -11068,7 +16854,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "Wallpapers-main/anime/wallhaven-5w9jj8.jpg",
-    "id": "wp_1230"
+    "id": "wp_1230",
+    "tags": [
+      "5w9jj8",
+      "anime",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 83d3wo",
@@ -11077,7 +16868,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "Wallpapers-main/anime/wallhaven-83d3wo.jpg",
-    "id": "wp_1231"
+    "id": "wp_1231",
+    "tags": [
+      "83d3wo",
+      "anime",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 281d5y",
@@ -11086,7 +16882,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.64 MB",
     "path": "Wallpapers-main/anime/wallhaven-281d5y.png",
-    "id": "wp_1232"
+    "id": "wp_1232",
+    "tags": [
+      "281d5y",
+      "anime",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Dp2ojo",
@@ -11095,7 +16896,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/anime/wallhaven-dp2ojo.png",
-    "id": "wp_1233"
+    "id": "wp_1233",
+    "tags": [
+      "anime",
+      "dp2ojo",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven E7xx6r",
@@ -11104,7 +16910,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.43 MB",
     "path": "Wallpapers-main/anime/wallhaven-e7xx6r.png",
-    "id": "wp_1234"
+    "id": "wp_1234",
+    "tags": [
+      "anime",
+      "e7xx6r",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven E76mlr 2560x1440",
@@ -11113,7 +16924,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.98 MB",
     "path": "Wallpapers-main/anime/wallhaven-e76mlr_2560x1440.jpg",
-    "id": "wp_1235"
+    "id": "wp_1235",
+    "tags": [
+      "2560x1440",
+      "anime",
+      "e76mlr",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven G7qw9q",
@@ -11122,7 +16939,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "Wallpapers-main/anime/wallhaven-g7qw9q.jpg",
-    "id": "wp_1236"
+    "id": "wp_1236",
+    "tags": [
+      "anime",
+      "g7qw9q",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven G8g6re",
@@ -11131,7 +16953,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.82 MB",
     "path": "Wallpapers-main/anime/wallhaven-g8g6re.png",
-    "id": "wp_1237"
+    "id": "wp_1237",
+    "tags": [
+      "anime",
+      "g8g6re",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Gjv2ke",
@@ -11140,7 +16967,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.25 MB",
     "path": "Wallpapers-main/anime/wallhaven-gjv2ke.png",
-    "id": "wp_1238"
+    "id": "wp_1238",
+    "tags": [
+      "anime",
+      "gjv2ke",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven L3w5wr 3840x2160",
@@ -11149,7 +16981,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.20 MB",
     "path": "Wallpapers-main/anime/wallhaven-l3w5wr_3840x2160.png",
-    "id": "wp_1239"
+    "id": "wp_1239",
+    "tags": [
+      "3840x2160",
+      "anime",
+      "l3w5wr",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Mdq1em",
@@ -11158,7 +16996,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "Wallpapers-main/anime/wallhaven-mdq1em.jpg",
-    "id": "wp_1240"
+    "id": "wp_1240",
+    "tags": [
+      "anime",
+      "mdq1em",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Neyp9o",
@@ -11167,7 +17010,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Wallpapers-main/anime/wallhaven-neyp9o.jpg",
-    "id": "wp_1241"
+    "id": "wp_1241",
+    "tags": [
+      "anime",
+      "neyp9o",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Q2mk17",
@@ -11176,7 +17024,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.44 MB",
     "path": "Wallpapers-main/anime/wallhaven-q2mk17.jpg",
-    "id": "wp_1242"
+    "id": "wp_1242",
+    "tags": [
+      "anime",
+      "q2mk17",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Wygm66",
@@ -11185,7 +17038,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.13 MB",
     "path": "Wallpapers-main/anime/wallhaven-wygm66.png",
-    "id": "wp_1243"
+    "id": "wp_1243",
+    "tags": [
+      "anime",
+      "wallhaven",
+      "wygm66"
+    ]
   },
   {
     "name": "Wallhaven Wypx3r",
@@ -11194,7 +17052,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.79 MB",
     "path": "Wallpapers-main/anime/wallhaven-wypx3r.jpg",
-    "id": "wp_1244"
+    "id": "wp_1244",
+    "tags": [
+      "anime",
+      "wallhaven",
+      "wypx3r"
+    ]
   },
   {
     "name": "Wallhaven Ymj8rg",
@@ -11203,7 +17066,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.54 MB",
     "path": "Wallpapers-main/anime/wallhaven-ymj8rg.jpeg",
-    "id": "wp_1245"
+    "id": "wp_1245",
+    "tags": [
+      "anime",
+      "wallhaven",
+      "ymj8rg"
+    ]
   },
   {
     "name": "Wallhaven Z8pyky",
@@ -11212,7 +17080,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.10 MB",
     "path": "Wallpapers-main/anime/wallhaven-z8pyky.jpg",
-    "id": "wp_1246"
+    "id": "wp_1246",
+    "tags": [
+      "anime",
+      "wallhaven",
+      "z8pyky"
+    ]
   },
   {
     "name": "Wallpaper #1",
@@ -11221,7 +17094,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.51 MB",
     "path": "Wallpapers-main/anime/unknown (1).png",
-    "id": "wp_1247"
+    "id": "wp_1247",
+    "tags": [
+      "anime",
+      "unknown",
+      "wallpaper"
+    ]
   },
   {
     "name": "Wallpaper #2",
@@ -11230,7 +17108,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.11 MB",
     "path": "Wallpapers-main/anime/unknown (2).png",
-    "id": "wp_1248"
+    "id": "wp_1248",
+    "tags": [
+      "anime",
+      "unknown",
+      "wallpaper"
+    ]
   },
   {
     "name": "Wallpaperflare.Com Wallpaper",
@@ -11239,7 +17122,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "Wallpapers-main/anime/wallpaperflare.com_wallpaper.jpg",
-    "id": "wp_1249"
+    "id": "wp_1249",
+    "tags": [
+      "anime",
+      "com",
+      "wallpaper",
+      "wallpaperflare"
+    ]
   },
   {
     "name": "19",
@@ -11248,7 +17137,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Wallpapers-main/cars/19.jpg",
-    "id": "wp_1250"
+    "id": "wp_1250",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "0057",
@@ -11257,7 +17149,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "Wallpapers-main/cars/0057.jpg",
-    "id": "wp_1251"
+    "id": "wp_1251",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "0204",
@@ -11266,7 +17161,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.10 MB",
     "path": "Wallpapers-main/cars/0204.jpg",
-    "id": "wp_1252"
+    "id": "wp_1252",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "0297",
@@ -11275,7 +17173,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.84 MB",
     "path": "Wallpapers-main/cars/0297.jpg",
-    "id": "wp_1253"
+    "id": "wp_1253",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "916704",
@@ -11284,7 +17185,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "Wallpapers-main/cars/916704.jpg",
-    "id": "wp_1254"
+    "id": "wp_1254",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "1620261702024",
@@ -11293,7 +17197,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.59 MB",
     "path": "Wallpapers-main/cars/1620261702024.png",
-    "id": "wp_1255"
+    "id": "wp_1255",
+    "tags": [
+      "cars"
+    ]
   },
   {
     "name": "Assetto Corsa Video Game 5k Bo 1920x1080",
@@ -11302,7 +17209,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.69 MB",
     "path": "Wallpapers-main/cars/assetto-corsa-video-game-5k-bo-1920x1080.jpg",
-    "id": "wp_1256"
+    "id": "wp_1256",
+    "tags": [
+      "1920x1080",
+      "assetto",
+      "cars",
+      "corsa",
+      "game",
+      "video"
+    ]
   },
   {
     "name": "Gdngfgh",
@@ -11311,7 +17226,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "11.63 MB",
     "path": "Wallpapers-main/cars/gdngfgh.png",
-    "id": "wp_1257"
+    "id": "wp_1257",
+    "tags": [
+      "cars",
+      "gdngfgh"
+    ]
   },
   {
     "name": "Khyzyl Saleem Shakotastang2web",
@@ -11320,7 +17239,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.52 MB",
     "path": "Wallpapers-main/cars/khyzyl-saleem-shakotastang2web.png",
-    "id": "wp_1258"
+    "id": "wp_1258",
+    "tags": [
+      "cars",
+      "khyzyl",
+      "saleem",
+      "shakotastang2web"
+    ]
   },
   {
     "name": "Mitqf8vws4r81",
@@ -11329,7 +17254,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "Wallpapers-main/cars/mitqf8vws4r81.jpg",
-    "id": "wp_1259"
+    "id": "wp_1259",
+    "tags": [
+      "cars",
+      "mitqf8vws4r81"
+    ]
   },
   {
     "name": "Skylinexanime",
@@ -11338,7 +17267,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "Wallpapers-main/cars/skylinexanime.jpg",
-    "id": "wp_1260"
+    "id": "wp_1260",
+    "tags": [
+      "cars",
+      "skylinexanime"
+    ]
   },
   {
     "name": "Wallhaven 7p9ldv",
@@ -11347,7 +17280,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.37 MB",
     "path": "Wallpapers-main/cars/wallhaven-7p9ldv.png",
-    "id": "wp_1261"
+    "id": "wp_1261",
+    "tags": [
+      "7p9ldv",
+      "cars",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven K7ezz7",
@@ -11356,7 +17294,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.85 MB",
     "path": "Wallpapers-main/cars/wallhaven-k7ezz7.jpg",
-    "id": "wp_1262"
+    "id": "wp_1262",
+    "tags": [
+      "cars",
+      "k7ezz7",
+      "wallhaven"
+    ]
   },
   {
     "name": "5DCF79F9 6124 4DBD 925E E5DEC87CF129",
@@ -11365,7 +17308,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/catppuccin/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png",
-    "id": "wp_1263"
+    "id": "wp_1263",
+    "tags": [
+      "4dbd",
+      "5dcf79f9",
+      "925e",
+      "catppuccin",
+      "e5dec87cf129"
+    ]
   },
   {
     "name": "Wallhaven Zyp7jo 3840x2160 1",
@@ -11374,7 +17324,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.46 MB",
     "path": "Wallpapers-main/catppuccin/wallhaven-zyp7jo_3840x2160_1.png",
-    "id": "wp_1264"
+    "id": "wp_1264",
+    "tags": [
+      "3840x2160",
+      "catppuccin",
+      "wallhaven",
+      "zyp7jo"
+    ]
   },
   {
     "name": "0259",
@@ -11383,7 +17339,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.50 MB",
     "path": "Wallpapers-main/cyberpunk/0259.jpg",
-    "id": "wp_1265"
+    "id": "wp_1265",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "0279",
@@ -11392,7 +17351,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.52 MB",
     "path": "Wallpapers-main/cyberpunk/0279.jpg",
-    "id": "wp_1266"
+    "id": "wp_1266",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "0324",
@@ -11401,7 +17363,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.90 MB",
     "path": "Wallpapers-main/cyberpunk/0324.jpg",
-    "id": "wp_1267"
+    "id": "wp_1267",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "0360",
@@ -11410,7 +17375,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "Wallpapers-main/cyberpunk/0360.jpg",
-    "id": "wp_1268"
+    "id": "wp_1268",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "0421",
@@ -11419,7 +17387,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.74 MB",
     "path": "Wallpapers-main/cyberpunk/0421.jpg",
-    "id": "wp_1269"
+    "id": "wp_1269",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "Car",
@@ -11428,7 +17399,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.36 MB",
     "path": "Wallpapers-main/cyberpunk/car.png",
-    "id": "wp_1270"
+    "id": "wp_1270",
+    "tags": [
+      "car",
+      "cyberpunk"
+    ]
   },
   {
     "name": "Cyberpunk",
@@ -11437,7 +17412,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.35 MB",
     "path": "Wallpapers-main/cyberpunk/cyberpunk.jpg",
-    "id": "wp_1271"
+    "id": "wp_1271",
+    "tags": [
+      "cyberpunk"
+    ]
   },
   {
     "name": "Delorean From Future 4k Ha 2560x1080",
@@ -11446,7 +17424,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "Wallpapers-main/cyberpunk/delorean-from-future-4k-ha-2560x1080.jpg",
-    "id": "wp_1272"
+    "id": "wp_1272",
+    "tags": [
+      "2560x1080",
+      "4k",
+      "cyberpunk",
+      "delorean",
+      "from",
+      "future",
+      "uhd"
+    ]
   },
   {
     "name": "Image3",
@@ -11455,7 +17442,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/cyberpunk/image3.jpg",
-    "id": "wp_1273"
+    "id": "wp_1273",
+    "tags": [
+      "cyberpunk",
+      "image3"
+    ]
   },
   {
     "name": "Lazy Laser 4k Rd 1920x1080",
@@ -11464,7 +17455,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.11 MB",
     "path": "Wallpapers-main/cyberpunk/lazy-laser-4k-rd-1920x1080.jpg",
-    "id": "wp_1274"
+    "id": "wp_1274",
+    "tags": [
+      "1920x1080",
+      "4k",
+      "cyberpunk",
+      "laser",
+      "lazy",
+      "uhd"
+    ]
   },
   {
     "name": "Space Darkness Neon Graphics Vaporwave.Cleaned",
@@ -11473,7 +17472,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/cyberpunk/space-darkness-neon-graphics-vaporwave.cleaned.jpg",
-    "id": "wp_1275"
+    "id": "wp_1275",
+    "tags": [
+      "cleaned",
+      "cyberpunk",
+      "darkness",
+      "graphics",
+      "neon",
+      "space",
+      "vaporwave"
+    ]
   },
   {
     "name": "Wallhaven Eyqe3k",
@@ -11482,7 +17490,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.89 MB",
     "path": "Wallpapers-main/cyberpunk/wallhaven-eyqe3k.jpg",
-    "id": "wp_1276"
+    "id": "wp_1276",
+    "tags": [
+      "cyberpunk",
+      "eyqe3k",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven G7qw9q",
@@ -11491,7 +17504,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "Wallpapers-main/cyberpunk/wallhaven-g7qw9q.jpg",
-    "id": "wp_1277"
+    "id": "wp_1277",
+    "tags": [
+      "cyberpunk",
+      "g7qw9q",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallpaper #2",
@@ -11500,7 +17518,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.11 MB",
     "path": "Wallpapers-main/cyberpunk/unknown (2).png",
-    "id": "wp_1278"
+    "id": "wp_1278",
+    "tags": [
+      "cyberpunk",
+      "unknown",
+      "wallpaper"
+    ]
   },
   {
     "name": "Blue Unicat",
@@ -11509,7 +17532,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/decay/blue_unicat.png",
-    "id": "wp_1279"
+    "id": "wp_1279",
+    "tags": [
+      "blue",
+      "decay",
+      "unicat"
+    ]
   },
   {
     "name": "City Scape",
@@ -11518,7 +17546,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.37 MB",
     "path": "Wallpapers-main/decay/city-scape.png",
-    "id": "wp_1280"
+    "id": "wp_1280",
+    "tags": [
+      "city",
+      "decay",
+      "scape"
+    ]
   },
   {
     "name": "Conv Cosmos",
@@ -11527,7 +17560,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.61 MB",
     "path": "Wallpapers-main/decay/conv-cosmos.png",
-    "id": "wp_1281"
+    "id": "wp_1281",
+    "tags": [
+      "conv",
+      "cosmos",
+      "decay"
+    ]
   },
   {
     "name": "Conv Kirby",
@@ -11536,7 +17574,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/decay/conv-kirby.png",
-    "id": "wp_1282"
+    "id": "wp_1282",
+    "tags": [
+      "conv",
+      "decay",
+      "kirby"
+    ]
   },
   {
     "name": "Decay 6b97ff3b 9d69 4d80 Ac1e F2835",
@@ -11545,7 +17588,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/decay/decay_6b97ff3b-9d69-4d80-ac1e-f2835.png",
-    "id": "wp_1283"
+    "id": "wp_1283",
+    "tags": [
+      "4d80",
+      "6b97ff3b",
+      "9d69",
+      "ac1e",
+      "decay",
+      "f2835"
+    ]
   },
   {
     "name": "Decay 10 14 Night 6k",
@@ -11554,7 +17605,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.20 MB",
     "path": "Wallpapers-main/decay/decay_10-14-Night-6k.jpeg",
-    "id": "wp_1284"
+    "id": "wp_1284",
+    "tags": [
+      "decay",
+      "night"
+    ]
   },
   {
     "name": "Decay Girl",
@@ -11563,7 +17618,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.13 MB",
     "path": "Wallpapers-main/decay/decay_girl.jpeg",
-    "id": "wp_1285"
+    "id": "wp_1285",
+    "tags": [
+      "decay",
+      "girl"
+    ]
   },
   {
     "name": "Decay Hotels",
@@ -11572,7 +17631,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.51 MB",
     "path": "Wallpapers-main/decay/decay-hotels.png",
-    "id": "wp_1286"
+    "id": "wp_1286",
+    "tags": [
+      "decay",
+      "hotels"
+    ]
   },
   {
     "name": "Decay Human",
@@ -11581,7 +17644,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/decay/decay_human.jpeg",
-    "id": "wp_1287"
+    "id": "wp_1287",
+    "tags": [
+      "decay",
+      "human"
+    ]
   },
   {
     "name": "Decay Skull",
@@ -11590,7 +17657,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.39 MB",
     "path": "Wallpapers-main/decay/decay_skull.jpeg",
-    "id": "wp_1288"
+    "id": "wp_1288",
+    "tags": [
+      "decay",
+      "skull"
+    ]
   },
   {
     "name": "Fractal",
@@ -11599,7 +17670,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.18 MB",
     "path": "Wallpapers-main/decay/fractal.png",
-    "id": "wp_1289"
+    "id": "wp_1289",
+    "tags": [
+      "decay",
+      "fractal"
+    ]
   },
   {
     "name": "Wave",
@@ -11608,7 +17683,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.64 MB",
     "path": "Wallpapers-main/decay/wave.png",
-    "id": "wp_1290"
+    "id": "wp_1290",
+    "tags": [
+      "decay",
+      "wave"
+    ]
   },
   {
     "name": "3vashinji",
@@ -11617,7 +17696,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.72 MB",
     "path": "Wallpapers-main/gruvbox/3vashinji.png",
-    "id": "wp_1291"
+    "id": "wp_1291",
+    "tags": [
+      "3vashinji",
+      "gruvbox"
+    ]
   },
   {
     "name": "0222",
@@ -11626,7 +17709,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Wallpapers-main/gruvbox/0222.jpg",
-    "id": "wp_1292"
+    "id": "wp_1292",
+    "tags": [
+      "gruvbox"
+    ]
   },
   {
     "name": "0305",
@@ -11635,7 +17721,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/gruvbox/0305.jpg",
-    "id": "wp_1293"
+    "id": "wp_1293",
+    "tags": [
+      "gruvbox"
+    ]
   },
   {
     "name": "0345",
@@ -11644,7 +17733,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.46 MB",
     "path": "Wallpapers-main/gruvbox/0345.jpg",
-    "id": "wp_1294"
+    "id": "wp_1294",
+    "tags": [
+      "gruvbox"
+    ]
   },
   {
     "name": "0419",
@@ -11653,7 +17745,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/gruvbox/0419.jpg",
-    "id": "wp_1295"
+    "id": "wp_1295",
+    "tags": [
+      "gruvbox"
+    ]
   },
   {
     "name": "11703372",
@@ -11662,7 +17757,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Wallpapers-main/gruvbox/11703372.png",
-    "id": "wp_1296"
+    "id": "wp_1296",
+    "tags": [
+      "gruvbox"
+    ]
   },
   {
     "name": "153703460 Abef6aa8 3c79 42e5 99e1 Db02876f4c68",
@@ -11671,7 +17769,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.08 MB",
     "path": "Wallpapers-main/gruvbox/153703460-abef6aa8-3c79-42e5-99e1-db02876f4c68.png",
-    "id": "wp_1297"
+    "id": "wp_1297",
+    "tags": [
+      "3c79",
+      "42e5",
+      "99e1",
+      "abef6aa8",
+      "db02876f4c68",
+      "gruvbox"
+    ]
   },
   {
     "name": "Acs8391 Anime Style Anime Composition Kyoto Animation Studio Th 3fa00f6e 1eaa 4d81 8b9a A90f762e9201 3",
@@ -11680,7 +17786,22 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.20 MB",
     "path": "Wallpapers-main/gruvbox/acs8391_anime_style_anime_composition_kyoto_animation_studio_Th_3fa00f6e-1eaa-4d81-8b9a-a90f762e9201-3.png",
-    "id": "wp_1298"
+    "id": "wp_1298",
+    "tags": [
+      "1eaa",
+      "3fa00f6e",
+      "4d81",
+      "8b9a",
+      "a90f762e9201",
+      "acs8391",
+      "animation",
+      "anime",
+      "composition",
+      "gruvbox",
+      "kyoto",
+      "studio",
+      "style"
+    ]
   },
   {
     "name": "FromBelowMaidGruvboxxedDist",
@@ -11689,7 +17810,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/gruvbox/FromBelowMaidGruvboxxedDist.png",
-    "id": "wp_1299"
+    "id": "wp_1299",
+    "tags": [
+      "frombelowmaidgruvboxxeddist",
+      "gruvbox"
+    ]
   },
   {
     "name": "Great Wave Of Kanagawa Gruvbox",
@@ -11698,7 +17823,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/gruvbox/great_wave_of_kanagawa_gruvbox.png",
-    "id": "wp_1300"
+    "id": "wp_1300",
+    "tags": [
+      "great",
+      "gruvbox",
+      "kanagawa",
+      "wave"
+    ]
   },
   {
     "name": "Gruvbox Abstract Colorburst Space",
@@ -11707,7 +17838,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "Wallpapers-main/gruvbox/gruvbox_abstract_colorburst_space.jpg",
-    "id": "wp_1301"
+    "id": "wp_1301",
+    "tags": [
+      "abstract",
+      "colorburst",
+      "gruvbox",
+      "space"
+    ]
   },
   {
     "name": "Gruvbox Pastel Astronaut",
@@ -11716,7 +17853,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.54 MB",
     "path": "Wallpapers-main/gruvbox/gruvbox_pastel_astronaut.jpg",
-    "id": "wp_1302"
+    "id": "wp_1302",
+    "tags": [
+      "astronaut",
+      "gruvbox",
+      "pastel"
+    ]
   },
   {
     "name": "Gruvbox1",
@@ -11725,7 +17867,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.03 MB",
     "path": "Wallpapers-main/gruvbox/gruvbox1.png",
-    "id": "wp_1303"
+    "id": "wp_1303",
+    "tags": [
+      "gruvbox",
+      "gruvbox1"
+    ]
   },
   {
     "name": "GruvboxWin",
@@ -11734,7 +17880,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Wallpapers-main/gruvbox/GruvboxWin.png",
-    "id": "wp_1304"
+    "id": "wp_1304",
+    "tags": [
+      "gruvbox",
+      "gruvboxwin"
+    ]
   },
   {
     "name": "GruvboxWindows",
@@ -11743,7 +17893,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Wallpapers-main/gruvbox/GruvboxWindows.png",
-    "id": "wp_1305"
+    "id": "wp_1305",
+    "tags": [
+      "gruvbox",
+      "gruvboxwindows"
+    ]
   },
   {
     "name": "Image2x",
@@ -11752,7 +17906,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.73 MB",
     "path": "Wallpapers-main/gruvbox/image2x.png",
-    "id": "wp_1306"
+    "id": "wp_1306",
+    "tags": [
+      "gruvbox",
+      "image2x"
+    ]
   },
   {
     "name": "Pacman",
@@ -11761,7 +17919,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Wallpapers-main/gruvbox/Pacman.png",
-    "id": "wp_1307"
+    "id": "wp_1307",
+    "tags": [
+      "gruvbox",
+      "pacman"
+    ]
   },
   {
     "name": "Testtube Gruvboxfix",
@@ -11770,7 +17932,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.75 MB",
     "path": "Wallpapers-main/gruvbox/testtube_gruvboxfix.jpeg",
-    "id": "wp_1308"
+    "id": "wp_1308",
+    "tags": [
+      "gruvbox",
+      "gruvboxfix",
+      "testtube"
+    ]
   },
   {
     "name": "ThonkPad",
@@ -11779,7 +17946,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/gruvbox/ThonkPad.jpg",
-    "id": "wp_1309"
+    "id": "wp_1309",
+    "tags": [
+      "gruvbox",
+      "thonkpad"
+    ]
   },
   {
     "name": "Thugsanta",
@@ -11788,7 +17959,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/gruvbox/thugsanta.png",
-    "id": "wp_1310"
+    "id": "wp_1310",
+    "tags": [
+      "gruvbox",
+      "thugsanta"
+    ]
   },
   {
     "name": "Wahtpflus1471",
@@ -11797,7 +17972,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.55 MB",
     "path": "Wallpapers-main/gruvbox/wahtpflus1471.png",
-    "id": "wp_1311"
+    "id": "wp_1311",
+    "tags": [
+      "gruvbox",
+      "wahtpflus1471"
+    ]
   },
   {
     "name": "Woman In Robes Gruv",
@@ -11806,7 +17985,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.53 MB",
     "path": "Wallpapers-main/gruvbox/woman_in_robes_gruv.png",
-    "id": "wp_1312"
+    "id": "wp_1312",
+    "tags": [
+      "gruv",
+      "gruvbox",
+      "robes",
+      "woman"
+    ]
   },
   {
     "name": "21x0pf6kq5ta1",
@@ -11815,7 +18000,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.79 MB",
     "path": "Wallpapers-main/japanese/21x0pf6kq5ta1.png",
-    "id": "wp_1313"
+    "id": "wp_1313",
+    "tags": [
+      "21x0pf6kq5ta1",
+      "japanese"
+    ]
   },
   {
     "name": "0132",
@@ -11824,7 +18013,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.57 MB",
     "path": "Wallpapers-main/japanese/0132.jpg",
-    "id": "wp_1314"
+    "id": "wp_1314",
+    "tags": [
+      "japanese"
+    ]
   },
   {
     "name": "0215",
@@ -11833,7 +18025,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.53 MB",
     "path": "Wallpapers-main/japanese/0215.jpg",
-    "id": "wp_1315"
+    "id": "wp_1315",
+    "tags": [
+      "japanese"
+    ]
   },
   {
     "name": "0329",
@@ -11842,7 +18037,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "Wallpapers-main/japanese/0329.jpg",
-    "id": "wp_1316"
+    "id": "wp_1316",
+    "tags": [
+      "japanese"
+    ]
   },
   {
     "name": "0419",
@@ -11851,7 +18049,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/japanese/0419.jpg",
-    "id": "wp_1317"
+    "id": "wp_1317",
+    "tags": [
+      "japanese"
+    ]
   },
   {
     "name": "Ajolote",
@@ -11860,7 +18061,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/japanese/ajolote.jpg",
-    "id": "wp_1318"
+    "id": "wp_1318",
+    "tags": [
+      "ajolote",
+      "japanese"
+    ]
   },
   {
     "name": "Japanese Sakura Painting Night",
@@ -11869,7 +18074,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.62 MB",
     "path": "Wallpapers-main/japanese/japanese-sakura-painting-night.png",
-    "id": "wp_1319"
+    "id": "wp_1319",
+    "tags": [
+      "japanese",
+      "night",
+      "painting",
+      "sakura"
+    ]
   },
   {
     "name": "Japanese Sakura Village",
@@ -11878,7 +18089,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.77 MB",
     "path": "Wallpapers-main/japanese/japanese-sakura-village.jpg",
-    "id": "wp_1320"
+    "id": "wp_1320",
+    "tags": [
+      "japanese",
+      "sakura",
+      "village"
+    ]
   },
   {
     "name": "JapaneseWriting",
@@ -11887,7 +18103,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.03 MB",
     "path": "Wallpapers-main/japanese/japaneseWriting.png",
-    "id": "wp_1321"
+    "id": "wp_1321",
+    "tags": [
+      "japanese",
+      "japanesewriting"
+    ]
   },
   {
     "name": "Lantern Light Room",
@@ -11896,7 +18116,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.35 MB",
     "path": "Wallpapers-main/japanese/lantern-light-room.png",
-    "id": "wp_1322"
+    "id": "wp_1322",
+    "tags": [
+      "japanese",
+      "lantern",
+      "light",
+      "room"
+    ]
   },
   {
     "name": "Lantern Theme Charizard",
@@ -11905,7 +18131,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/japanese/lantern-theme-charizard.png",
-    "id": "wp_1323"
+    "id": "wp_1323",
+    "tags": [
+      "charizard",
+      "japanese",
+      "lantern",
+      "theme"
+    ]
   },
   {
     "name": "Red Sea Wallpaper",
@@ -11914,7 +18146,13 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/japanese/red_sea_wallpaper.jpeg",
-    "id": "wp_1324"
+    "id": "wp_1324",
+    "tags": [
+      "japanese",
+      "red",
+      "sea",
+      "wallpaper"
+    ]
   },
   {
     "name": "SakuraRoof",
@@ -11923,7 +18161,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.27 MB",
     "path": "Wallpapers-main/japanese/sakuraRoof.png",
-    "id": "wp_1325"
+    "id": "wp_1325",
+    "tags": [
+      "japanese",
+      "sakuraroof"
+    ]
   },
   {
     "name": "Vibrant Bloosom",
@@ -11932,7 +18174,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "15.11 MB",
     "path": "Wallpapers-main/japanese/vibrant_bloosom.png",
-    "id": "wp_1326"
+    "id": "wp_1326",
+    "tags": [
+      "bloosom",
+      "japanese",
+      "vibrant"
+    ]
   },
   {
     "name": "2 5465217864069812751",
@@ -11941,7 +18188,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/linux/2_5465217864069812751.jpg",
-    "id": "wp_1327"
+    "id": "wp_1327",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0081",
@@ -11950,7 +18200,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "Wallpapers-main/linux/0081.jpg",
-    "id": "wp_1328"
+    "id": "wp_1328",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0085",
@@ -11959,7 +18212,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.61 MB",
     "path": "Wallpapers-main/linux/0085.jpg",
-    "id": "wp_1329"
+    "id": "wp_1329",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0198",
@@ -11968,7 +18224,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.07 MB",
     "path": "Wallpapers-main/linux/0198.jpg",
-    "id": "wp_1330"
+    "id": "wp_1330",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0236",
@@ -11977,7 +18236,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.03 MB",
     "path": "Wallpapers-main/linux/0236.jpg",
-    "id": "wp_1331"
+    "id": "wp_1331",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0252",
@@ -11986,7 +18248,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.40 MB",
     "path": "Wallpapers-main/linux/0252.jpg",
-    "id": "wp_1332"
+    "id": "wp_1332",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0264",
@@ -11995,7 +18260,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/linux/0264.jpg",
-    "id": "wp_1333"
+    "id": "wp_1333",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0311",
@@ -12004,7 +18272,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/linux/0311.jpg",
-    "id": "wp_1334"
+    "id": "wp_1334",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0393",
@@ -12013,7 +18284,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.03 MB",
     "path": "Wallpapers-main/linux/0393.jpg",
-    "id": "wp_1335"
+    "id": "wp_1335",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0405",
@@ -12022,7 +18296,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/linux/0405.jpg",
-    "id": "wp_1336"
+    "id": "wp_1336",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "0416",
@@ -12031,7 +18308,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/linux/0416.jpg",
-    "id": "wp_1337"
+    "id": "wp_1337",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "5962457c8bd780d9",
@@ -12040,7 +18320,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.63 MB",
     "path": "Wallpapers-main/linux/5962457c8bd780d9.png",
-    "id": "wp_1338"
+    "id": "wp_1338",
+    "tags": [
+      "5962457c8bd780d9",
+      "linux"
+    ]
   },
   {
     "name": "Arch Chan To",
@@ -12049,7 +18333,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.76 MB",
     "path": "Wallpapers-main/linux/arch-chan_to.png",
-    "id": "wp_1339"
+    "id": "wp_1339",
+    "tags": [
+      "arch",
+      "chan",
+      "linux"
+    ]
   },
   {
     "name": "Archbown",
@@ -12058,7 +18347,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/linux/archbown.png",
-    "id": "wp_1340"
+    "id": "wp_1340",
+    "tags": [
+      "archbown",
+      "linux"
+    ]
   },
   {
     "name": "Archgradient",
@@ -12067,7 +18360,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/linux/archgradient.png",
-    "id": "wp_1341"
+    "id": "wp_1341",
+    "tags": [
+      "archgradient",
+      "linux"
+    ]
   },
   {
     "name": "Archlinux",
@@ -12076,7 +18373,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.18 MB",
     "path": "Wallpapers-main/linux/archlinux.png",
-    "id": "wp_1342"
+    "id": "wp_1342",
+    "tags": [
+      "archlinux",
+      "linux"
+    ]
   },
   {
     "name": "ArchWaifuaaaaaa",
@@ -12085,7 +18386,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.70 MB",
     "path": "Wallpapers-main/linux/archWaifuaaaaaa.png",
-    "id": "wp_1343"
+    "id": "wp_1343",
+    "tags": [
+      "archwaifuaaaaaa",
+      "linux"
+    ]
   },
   {
     "name": "ArchWithAnotherWaifu",
@@ -12094,7 +18399,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.97 MB",
     "path": "Wallpapers-main/linux/archWithAnotherWaifu.jpg",
-    "id": "wp_1344"
+    "id": "wp_1344",
+    "tags": [
+      "archwithanotherwaifu",
+      "linux"
+    ]
   },
   {
     "name": "Blue",
@@ -12103,7 +18412,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "Wallpapers-main/linux/blue.png",
-    "id": "wp_1345"
+    "id": "wp_1345",
+    "tags": [
+      "blue",
+      "linux"
+    ]
   },
   {
     "name": "Catpuccin 3840 2160",
@@ -12112,7 +18425,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.54 MB",
     "path": "Wallpapers-main/linux/catpuccin_3840_2160.png",
-    "id": "wp_1346"
+    "id": "wp_1346",
+    "tags": [
+      "catpuccin",
+      "linux"
+    ]
   },
   {
     "name": "Crux",
@@ -12121,7 +18438,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/linux/crux.png",
-    "id": "wp_1347"
+    "id": "wp_1347",
+    "tags": [
+      "crux",
+      "linux"
+    ]
   },
   {
     "name": "Debian",
@@ -12130,7 +18451,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/linux/Debian.png",
-    "id": "wp_1348"
+    "id": "wp_1348",
+    "tags": [
+      "debian",
+      "linux"
+    ]
   },
   {
     "name": "Debiangradient",
@@ -12139,7 +18464,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.31 MB",
     "path": "Wallpapers-main/linux/debiangradient.png",
-    "id": "wp_1349"
+    "id": "wp_1349",
+    "tags": [
+      "debiangradient",
+      "linux"
+    ]
   },
   {
     "name": "DebianSus",
@@ -12148,7 +18477,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/linux/debianSus.png",
-    "id": "wp_1350"
+    "id": "wp_1350",
+    "tags": [
+      "debiansus",
+      "linux"
+    ]
   },
   {
     "name": "E5b8b8b2 B754 49b0 Aa98 031d4d21fe9e",
@@ -12157,7 +18490,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.72 MB",
     "path": "Wallpapers-main/linux/e5b8b8b2-b754-49b0-aa98-031d4d21fe9e.png",
-    "id": "wp_1351"
+    "id": "wp_1351",
+    "tags": [
+      "031d4d21fe9e",
+      "49b0",
+      "aa98",
+      "b754",
+      "e5b8b8b2",
+      "linux"
+    ]
   },
   {
     "name": "Group 80",
@@ -12166,7 +18507,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/linux/Group_80.png",
-    "id": "wp_1352"
+    "id": "wp_1352",
+    "tags": [
+      "group",
+      "linux"
+    ]
   },
   {
     "name": "Image0",
@@ -12175,7 +18520,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "Wallpapers-main/linux/image0.jpg",
-    "id": "wp_1353"
+    "id": "wp_1353",
+    "tags": [
+      "image0",
+      "linux"
+    ]
   },
   {
     "name": "IMG 7577",
@@ -12184,7 +18533,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.54 MB",
     "path": "Wallpapers-main/linux/IMG_7577.png",
-    "id": "wp_1354"
+    "id": "wp_1354",
+    "tags": [
+      "img",
+      "linux"
+    ]
   },
   {
     "name": "Linux Retro BGpqbmuUmZqaraWkpJRqZmdlrWdtbWU",
@@ -12193,7 +18546,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.88 MB",
     "path": "Wallpapers-main/linux/linux-retro_bGpqbmuUmZqaraWkpJRqZmdlrWdtbWU.jpeg",
-    "id": "wp_1355"
+    "id": "wp_1355",
+    "tags": [
+      "bgpqbmuumzqarawkpjrqzmdlrwdtbwu",
+      "linux",
+      "retro"
+    ]
   },
   {
     "name": "LinuxWallpaper1",
@@ -12202,7 +18560,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "Wallpapers-main/linux/LinuxWallpaper1.jpg",
-    "id": "wp_1356"
+    "id": "wp_1356",
+    "tags": [
+      "linux",
+      "linuxwallpaper1"
+    ]
   },
   {
     "name": "New Project",
@@ -12211,7 +18573,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.13 MB",
     "path": "Wallpapers-main/linux/New_Project.png",
-    "id": "wp_1357"
+    "id": "wp_1357",
+    "tags": [
+      "linux",
+      "new",
+      "project"
+    ]
   },
   {
     "name": "Nix",
@@ -12220,7 +18587,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/linux/nix.png",
-    "id": "wp_1358"
+    "id": "wp_1358",
+    "tags": [
+      "linux",
+      "nix"
+    ]
   },
   {
     "name": "NixOS Outline",
@@ -12229,7 +18600,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.33 MB",
     "path": "Wallpapers-main/linux/NixOS-Outline.png",
-    "id": "wp_1359"
+    "id": "wp_1359",
+    "tags": [
+      "linux",
+      "nixos",
+      "outline"
+    ]
   },
   {
     "name": "Nyarch Dark",
@@ -12238,7 +18614,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.43 MB",
     "path": "Wallpapers-main/linux/nyarch-dark.png",
-    "id": "wp_1360"
+    "id": "wp_1360",
+    "tags": [
+      "dark",
+      "linux",
+      "nyarch"
+    ]
   },
   {
     "name": "OpenSUSE Dark",
@@ -12247,7 +18628,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.06 MB",
     "path": "Wallpapers-main/linux/openSUSE Dark.png",
-    "id": "wp_1361"
+    "id": "wp_1361",
+    "tags": [
+      "dark",
+      "linux",
+      "opensuse"
+    ]
   },
   {
     "name": "Qyqj7y34hlp31",
@@ -12256,7 +18642,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.33 MB",
     "path": "Wallpapers-main/linux/qyqj7y34hlp31.jpeg",
-    "id": "wp_1362"
+    "id": "wp_1362",
+    "tags": [
+      "linux",
+      "qyqj7y34hlp31"
+    ]
   },
   {
     "name": "Rm Rf",
@@ -12265,7 +18655,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/linux/rm-rf.jpg",
-    "id": "wp_1363"
+    "id": "wp_1363",
+    "tags": [
+      "linux"
+    ]
   },
   {
     "name": "S6Alyhp",
@@ -12274,7 +18667,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.44 MB",
     "path": "Wallpapers-main/linux/S6Alyhp.jpeg",
-    "id": "wp_1364"
+    "id": "wp_1364",
+    "tags": [
+      "linux",
+      "s6alyhp"
+    ]
   },
   {
     "name": "Sudo",
@@ -12283,7 +18680,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/linux/sudo.png",
-    "id": "wp_1365"
+    "id": "wp_1365",
+    "tags": [
+      "linux",
+      "sudo"
+    ]
   },
   {
     "name": "The Dark Side 4K",
@@ -12292,7 +18693,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.34 MB",
     "path": "Wallpapers-main/linux/The_Dark_Side_4K.png",
-    "id": "wp_1366"
+    "id": "wp_1366",
+    "tags": [
+      "4k",
+      "dark",
+      "linux",
+      "side",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "ThonkPad",
@@ -12301,7 +18710,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/linux/ThonkPad.jpg",
-    "id": "wp_1367"
+    "id": "wp_1367",
+    "tags": [
+      "linux",
+      "thonkpad"
+    ]
   },
   {
     "name": "Tux",
@@ -12310,7 +18723,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Wallpapers-main/linux/tux.png",
-    "id": "wp_1368"
+    "id": "wp_1368",
+    "tags": [
+      "linux",
+      "tux"
+    ]
   },
   {
     "name": "TuxGruvbox",
@@ -12319,7 +18736,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/linux/TuxGruvbox.png",
-    "id": "wp_1369"
+    "id": "wp_1369",
+    "tags": [
+      "linux",
+      "tuxgruvbox"
+    ]
   },
   {
     "name": "TuxOutline",
@@ -12328,7 +18749,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "Wallpapers-main/linux/TuxOutline.png",
-    "id": "wp_1370"
+    "id": "wp_1370",
+    "tags": [
+      "linux",
+      "tuxoutline"
+    ]
   },
   {
     "name": "UBUNTO Pastel",
@@ -12337,7 +18762,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "Wallpapers-main/linux/UBUNTO_pastel.png",
-    "id": "wp_1371"
+    "id": "wp_1371",
+    "tags": [
+      "linux",
+      "pastel",
+      "ubunto"
+    ]
   },
   {
     "name": "Untitled100 20230827224638",
@@ -12346,7 +18776,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/linux/Untitled100_20230827224638.png",
-    "id": "wp_1372"
+    "id": "wp_1372",
+    "tags": [
+      "linux",
+      "untitled100"
+    ]
   },
   {
     "name": "Wall2sddmbl",
@@ -12355,7 +18789,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/linux/wall2sddmbl.png",
-    "id": "wp_1373"
+    "id": "wp_1373",
+    "tags": [
+      "linux",
+      "wall2sddmbl"
+    ]
   },
   {
     "name": "Wallpaper Gnu",
@@ -12364,7 +18802,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.86 MB",
     "path": "Wallpapers-main/linux/Wallpaper-gnu.jpeg",
-    "id": "wp_1374"
+    "id": "wp_1374",
+    "tags": [
+      "gnu",
+      "linux",
+      "wallpaper"
+    ]
   },
   {
     "name": "Welcum",
@@ -12373,7 +18816,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.01 MB",
     "path": "Wallpapers-main/linux/welcum.png",
-    "id": "wp_1375"
+    "id": "wp_1375",
+    "tags": [
+      "linux",
+      "welcum"
+    ]
   },
   {
     "name": "Wp9110462 Linus Torvalds Wallpapers",
@@ -12382,7 +18829,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/linux/wp9110462-linus-torvalds-wallpapers.png",
-    "id": "wp_1376"
+    "id": "wp_1376",
+    "tags": [
+      "linus",
+      "linux",
+      "torvalds",
+      "wallpapers",
+      "wp9110462"
+    ]
   },
   {
     "name": "5DCF79F9 6124 4DBD 925E E5DEC87CF129",
@@ -12391,7 +18845,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/misc/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png",
-    "id": "wp_1377"
+    "id": "wp_1377",
+    "tags": [
+      "4dbd",
+      "5dcf79f9",
+      "925e",
+      "e5dec87cf129",
+      "misc"
+    ]
   },
   {
     "name": "0163",
@@ -12400,7 +18861,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Wallpapers-main/misc/0163.jpg",
-    "id": "wp_1378"
+    "id": "wp_1378",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0166",
@@ -12409,7 +18873,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/misc/0166.jpg",
-    "id": "wp_1379"
+    "id": "wp_1379",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0172",
@@ -12418,7 +18885,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "Wallpapers-main/misc/0172.jpg",
-    "id": "wp_1380"
+    "id": "wp_1380",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0272",
@@ -12427,7 +18897,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "Wallpapers-main/misc/0272.jpg",
-    "id": "wp_1381"
+    "id": "wp_1381",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0307",
@@ -12436,7 +18909,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.69 MB",
     "path": "Wallpapers-main/misc/0307.jpg",
-    "id": "wp_1382"
+    "id": "wp_1382",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0318",
@@ -12445,7 +18921,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/misc/0318.jpg",
-    "id": "wp_1383"
+    "id": "wp_1383",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0337",
@@ -12454,7 +18933,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "Wallpapers-main/misc/0337.jpg",
-    "id": "wp_1384"
+    "id": "wp_1384",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0374",
@@ -12463,7 +18945,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/misc/0374.jpg",
-    "id": "wp_1385"
+    "id": "wp_1385",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0376",
@@ -12472,7 +18957,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/misc/0376.jpg",
-    "id": "wp_1386"
+    "id": "wp_1386",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0385",
@@ -12481,7 +18969,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.54 MB",
     "path": "Wallpapers-main/misc/0385.jpg",
-    "id": "wp_1387"
+    "id": "wp_1387",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "0524",
@@ -12490,7 +18981,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "Wallpapers-main/misc/0524.jpg",
-    "id": "wp_1388"
+    "id": "wp_1388",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "1920x1080",
@@ -12499,7 +18993,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.64 MB",
     "path": "Wallpapers-main/misc/1920x1080.png",
-    "id": "wp_1389"
+    "id": "wp_1389",
+    "tags": [
+      "1920x1080",
+      "misc"
+    ]
   },
   {
     "name": "2560x1440",
@@ -12508,7 +19006,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "Wallpapers-main/misc/2560x1440.png",
-    "id": "wp_1390"
+    "id": "wp_1390",
+    "tags": [
+      "2560x1440",
+      "misc"
+    ]
   },
   {
     "name": "6016x6016",
@@ -12517,7 +19019,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.53 MB",
     "path": "Wallpapers-main/misc/6016x6016.jpg",
-    "id": "wp_1391"
+    "id": "wp_1391",
+    "tags": [
+      "6016x6016",
+      "misc"
+    ]
   },
   {
     "name": "1621867976933",
@@ -12526,7 +19032,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.77 MB",
     "path": "Wallpapers-main/misc/1621867976933.png",
-    "id": "wp_1392"
+    "id": "wp_1392",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "1654060485601",
@@ -12535,7 +19044,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.03 MB",
     "path": "Wallpapers-main/misc/1654060485601.jpg",
-    "id": "wp_1393"
+    "id": "wp_1393",
+    "tags": [
+      "misc"
+    ]
   },
   {
     "name": "BlackoutVaporwave",
@@ -12544,7 +19056,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/misc/blackoutVaporwave.jpg",
-    "id": "wp_1394"
+    "id": "wp_1394",
+    "tags": [
+      "blackoutvaporwave",
+      "misc"
+    ]
   },
   {
     "name": "Blobgirl",
@@ -12553,7 +19069,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/misc/blobgirl.png",
-    "id": "wp_1395"
+    "id": "wp_1395",
+    "tags": [
+      "blobgirl",
+      "misc"
+    ]
   },
   {
     "name": "BLUE Audio Bunny",
@@ -12562,7 +19082,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "Wallpapers-main/misc/BLUE_audio-bunny.png",
-    "id": "wp_1396"
+    "id": "wp_1396",
+    "tags": [
+      "audio",
+      "blue",
+      "bunny",
+      "misc"
+    ]
   },
   {
     "name": "Bruh",
@@ -12571,7 +19097,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.63 MB",
     "path": "Wallpapers-main/misc/bruh.png",
-    "id": "wp_1397"
+    "id": "wp_1397",
+    "tags": [
+      "bruh",
+      "misc"
+    ]
   },
   {
     "name": "Dragon Toy 1920x1080",
@@ -12580,7 +19110,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/misc/dragon-toy-1920x1080.jpg",
-    "id": "wp_1398"
+    "id": "wp_1398",
+    "tags": [
+      "1920x1080",
+      "dragon",
+      "misc",
+      "toy"
+    ]
   },
   {
     "name": "Frame 2 1",
@@ -12589,7 +19125,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.60 MB",
     "path": "Wallpapers-main/misc/Frame_2_1.png",
-    "id": "wp_1399"
+    "id": "wp_1399",
+    "tags": [
+      "frame",
+      "misc"
+    ]
   },
   {
     "name": "Keyb2",
@@ -12598,7 +19138,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/misc/keyb2.png",
-    "id": "wp_1400"
+    "id": "wp_1400",
+    "tags": [
+      "keyb2",
+      "misc"
+    ]
   },
   {
     "name": "Keyswitch",
@@ -12607,7 +19151,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.09 MB",
     "path": "Wallpapers-main/misc/keyswitch.jpg",
-    "id": "wp_1401"
+    "id": "wp_1401",
+    "tags": [
+      "keyswitch",
+      "misc"
+    ]
   },
   {
     "name": "Maxresdefault",
@@ -12616,7 +19164,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/misc/maxresdefault.jpg",
-    "id": "wp_1402"
+    "id": "wp_1402",
+    "tags": [
+      "maxresdefault",
+      "misc"
+    ]
   },
   {
     "name": "Modernity3",
@@ -12625,7 +19177,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/misc/modernity3.png",
-    "id": "wp_1403"
+    "id": "wp_1403",
+    "tags": [
+      "misc",
+      "modernity3"
+    ]
   },
   {
     "name": "Monke",
@@ -12634,7 +19190,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.17 MB",
     "path": "Wallpapers-main/misc/monke.png",
-    "id": "wp_1404"
+    "id": "wp_1404",
+    "tags": [
+      "misc",
+      "monke"
+    ]
   },
   {
     "name": "Mono Dot 2",
@@ -12643,7 +19203,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.52 MB",
     "path": "Wallpapers-main/misc/mono-dot-2.jpeg",
-    "id": "wp_1405"
+    "id": "wp_1405",
+    "tags": [
+      "dot",
+      "misc",
+      "mono"
+    ]
   },
   {
     "name": "Red Dot Black 2 No Plasma Logo",
@@ -12652,7 +19217,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.19 MB",
     "path": "Wallpapers-main/misc/Red-Dot-Black-2 No Plasma Logo.png",
-    "id": "wp_1406"
+    "id": "wp_1406",
+    "tags": [
+      "black",
+      "dot",
+      "logo",
+      "misc",
+      "plasma",
+      "red"
+    ]
   },
   {
     "name": "Superflux4",
@@ -12661,7 +19234,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.92 MB",
     "path": "Wallpapers-main/misc/superflux4.png",
-    "id": "wp_1407"
+    "id": "wp_1407",
+    "tags": [
+      "misc",
+      "superflux4"
+    ]
   },
   {
     "name": "Think",
@@ -12670,7 +19247,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "Wallpapers-main/misc/think.jpg",
-    "id": "wp_1408"
+    "id": "wp_1408",
+    "tags": [
+      "misc",
+      "think"
+    ]
   },
   {
     "name": "Unknown",
@@ -12679,7 +19260,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.78 MB",
     "path": "Wallpapers-main/misc/unknown.png",
-    "id": "wp_1409"
+    "id": "wp_1409",
+    "tags": [
+      "misc",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown 1Resized",
@@ -12688,7 +19273,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.41 MB",
     "path": "Wallpapers-main/misc/unknown_1Resized.png",
-    "id": "wp_1410"
+    "id": "wp_1410",
+    "tags": [
+      "1resized",
+      "misc",
+      "unknown"
+    ]
   },
   {
     "name": "Wallhaven 47vwv4",
@@ -12697,7 +19287,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/misc/wallhaven-47vwv4.jpg",
-    "id": "wp_1411"
+    "id": "wp_1411",
+    "tags": [
+      "47vwv4",
+      "misc",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven J89okp",
@@ -12706,7 +19301,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/misc/wallhaven-j89okp.png",
-    "id": "wp_1412"
+    "id": "wp_1412",
+    "tags": [
+      "j89okp",
+      "misc",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Y8q6l7",
@@ -12715,7 +19315,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.13 MB",
     "path": "Wallpapers-main/misc/wallhaven-y8q6l7.jpg",
-    "id": "wp_1413"
+    "id": "wp_1413",
+    "tags": [
+      "misc",
+      "wallhaven",
+      "y8q6l7"
+    ]
   },
   {
     "name": "WhaCz6Ug",
@@ -12724,7 +19329,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.04 MB",
     "path": "Wallpapers-main/misc/WhaCz6Ug.png",
-    "id": "wp_1414"
+    "id": "wp_1414",
+    "tags": [
+      "misc",
+      "whacz6ug"
+    ]
   },
   {
     "name": "Win11",
@@ -12733,7 +19342,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.32 MB",
     "path": "Wallpapers-main/misc/win11.png",
-    "id": "wp_1415"
+    "id": "wp_1415",
+    "tags": [
+      "misc",
+      "win11"
+    ]
   },
   {
     "name": "45c85dc366c5724534fd9bbac40caa21",
@@ -12742,7 +19355,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.03 MB",
     "path": "Wallpapers-main/monochrome/45c85dc366c5724534fd9bbac40caa21.jpg",
-    "id": "wp_1416"
+    "id": "wp_1416",
+    "tags": [
+      "45c85dc366c5724534fd9bbac40caa21",
+      "monochrome"
+    ]
   },
   {
     "name": "BlackoutVaporwave",
@@ -12751,7 +19368,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/monochrome/blackoutVaporwave.jpg",
-    "id": "wp_1417"
+    "id": "wp_1417",
+    "tags": [
+      "blackoutvaporwave",
+      "monochrome"
+    ]
   },
   {
     "name": "Keyb2",
@@ -12760,7 +19381,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.12 MB",
     "path": "Wallpapers-main/monochrome/keyb2.png",
-    "id": "wp_1418"
+    "id": "wp_1418",
+    "tags": [
+      "keyb2",
+      "monochrome"
+    ]
   },
   {
     "name": "Mono Dot 2",
@@ -12769,7 +19394,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.52 MB",
     "path": "Wallpapers-main/monochrome/mono-dot-2.jpeg",
-    "id": "wp_1419"
+    "id": "wp_1419",
+    "tags": [
+      "dot",
+      "mono",
+      "monochrome"
+    ]
   },
   {
     "name": "Monochrome Cloudy Forest Cabin",
@@ -12778,7 +19408,13 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.29 MB",
     "path": "Wallpapers-main/monochrome/monochrome-cloudy-forest-cabin.jpeg",
-    "id": "wp_1420"
+    "id": "wp_1420",
+    "tags": [
+      "cabin",
+      "cloudy",
+      "forest",
+      "monochrome"
+    ]
   },
   {
     "name": "Pexels Eberhard Grossgasteiger 691668",
@@ -12787,7 +19423,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.59 MB",
     "path": "Wallpapers-main/monochrome/pexels-eberhard-grossgasteiger-691668.jpg",
-    "id": "wp_1421"
+    "id": "wp_1421",
+    "tags": [
+      "eberhard",
+      "grossgasteiger",
+      "monochrome",
+      "pexels"
+    ]
   },
   {
     "name": "Pit Stop By Lychi Upscayl 4x Realesrgan X4plus Anime",
@@ -12796,7 +19438,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "22.57 MB",
     "path": "Wallpapers-main/monochrome/pit_stop_by_lychi_upscayl_4x_realesrgan-x4plus-anime.png",
-    "id": "wp_1422"
+    "id": "wp_1422",
+    "tags": [
+      "anime",
+      "lychi",
+      "monochrome",
+      "pit",
+      "realesrgan",
+      "stop",
+      "upscayl",
+      "x4plus"
+    ]
   },
   {
     "name": "Space",
@@ -12805,7 +19457,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/monochrome/Space.jpg",
-    "id": "wp_1423"
+    "id": "wp_1423",
+    "tags": [
+      "monochrome",
+      "space"
+    ]
   },
   {
     "name": "Think",
@@ -12814,7 +19470,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "Wallpapers-main/monochrome/think.jpg",
-    "id": "wp_1424"
+    "id": "wp_1424",
+    "tags": [
+      "monochrome",
+      "think"
+    ]
   },
   {
     "name": "Wallhaven 3lgxx3",
@@ -12823,7 +19483,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.01 MB",
     "path": "Wallpapers-main/monochrome/wallhaven-3lgxx3.jpg",
-    "id": "wp_1425"
+    "id": "wp_1425",
+    "tags": [
+      "3lgxx3",
+      "monochrome",
+      "wallhaven"
+    ]
   },
   {
     "name": "3",
@@ -12832,7 +19497,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "Wallpapers-main/nature/3.png",
-    "id": "wp_1426"
+    "id": "wp_1426",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "56 00b8aWV",
@@ -12841,7 +19509,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.97 MB",
     "path": "Wallpapers-main/nature/56_-_00b8aWV.jpg",
-    "id": "wp_1427"
+    "id": "wp_1427",
+    "tags": [
+      "00b8awv",
+      "nature"
+    ]
   },
   {
     "name": "0132",
@@ -12850,7 +19522,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.57 MB",
     "path": "Wallpapers-main/nature/0132.jpg",
-    "id": "wp_1428"
+    "id": "wp_1428",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "0203",
@@ -12859,7 +19534,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.11 MB",
     "path": "Wallpapers-main/nature/0203.jpg",
-    "id": "wp_1429"
+    "id": "wp_1429",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "0253",
@@ -12868,7 +19546,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.57 MB",
     "path": "Wallpapers-main/nature/0253.jpg",
-    "id": "wp_1430"
+    "id": "wp_1430",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "0256",
@@ -12877,7 +19558,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/nature/0256.jpg",
-    "id": "wp_1431"
+    "id": "wp_1431",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "6016x6016",
@@ -12886,7 +19570,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.53 MB",
     "path": "Wallpapers-main/nature/6016x6016.jpg",
-    "id": "wp_1432"
+    "id": "wp_1432",
+    "tags": [
+      "6016x6016",
+      "nature"
+    ]
   },
   {
     "name": "1654060485601",
@@ -12895,7 +19583,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.03 MB",
     "path": "Wallpapers-main/nature/1654060485601.jpg",
-    "id": "wp_1433"
+    "id": "wp_1433",
+    "tags": [
+      "nature"
+    ]
   },
   {
     "name": "Aesthetic2",
@@ -12904,7 +19595,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/nature/aesthetic2.jpg",
-    "id": "wp_1434"
+    "id": "wp_1434",
+    "tags": [
+      "aesthetic2",
+      "nature"
+    ]
   },
   {
     "name": "City Center",
@@ -12913,7 +19608,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.31 MB",
     "path": "Wallpapers-main/nature/city-center.png",
-    "id": "wp_1435"
+    "id": "wp_1435",
+    "tags": [
+      "center",
+      "city",
+      "nature"
+    ]
   },
   {
     "name": "Dark Forest",
@@ -12922,7 +19622,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "Wallpapers-main/nature/dark_forest.jpg",
-    "id": "wp_1436"
+    "id": "wp_1436",
+    "tags": [
+      "dark",
+      "forest",
+      "nature"
+    ]
   },
   {
     "name": "Dark Nature 01",
@@ -12931,7 +19636,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.71 MB",
     "path": "Wallpapers-main/nature/Dark-Nature-01.png",
-    "id": "wp_1437"
+    "id": "wp_1437",
+    "tags": [
+      "dark",
+      "nature"
+    ]
   },
   {
     "name": "Dark Sky 03",
@@ -12940,7 +19649,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.76 MB",
     "path": "Wallpapers-main/nature/Dark-Sky-03.png",
-    "id": "wp_1438"
+    "id": "wp_1438",
+    "tags": [
+      "dark",
+      "nature",
+      "sky"
+    ]
   },
   {
     "name": "DaysGone",
@@ -12949,7 +19663,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.82 MB",
     "path": "Wallpapers-main/nature/DaysGone.png",
-    "id": "wp_1439"
+    "id": "wp_1439",
+    "tags": [
+      "daysgone",
+      "nature"
+    ]
   },
   {
     "name": "Frame 13",
@@ -12958,7 +19676,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/nature/frame-13.png",
-    "id": "wp_1440"
+    "id": "wp_1440",
+    "tags": [
+      "frame",
+      "nature"
+    ]
   },
   {
     "name": "Golden Field",
@@ -12967,7 +19689,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/nature/golden_field.jpeg",
-    "id": "wp_1441"
+    "id": "wp_1441",
+    "tags": [
+      "field",
+      "golden",
+      "nature"
+    ]
   },
   {
     "name": "IMG 20220416 203750 01",
@@ -12976,7 +19703,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.37 MB",
     "path": "Wallpapers-main/nature/IMG_20220416_203750__01.jpg",
-    "id": "wp_1442"
+    "id": "wp_1442",
+    "tags": [
+      "img",
+      "nature"
+    ]
   },
   {
     "name": "JhOhSvR1fGQ",
@@ -12985,7 +19716,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/nature/JhOhSvR1fGQ.jpg",
-    "id": "wp_1443"
+    "id": "wp_1443",
+    "tags": [
+      "jhohsvr1fgq",
+      "nature"
+    ]
   },
   {
     "name": "Maxresdefault",
@@ -12994,7 +19729,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/nature/maxresdefault.jpg",
-    "id": "wp_1444"
+    "id": "wp_1444",
+    "tags": [
+      "maxresdefault",
+      "nature"
+    ]
   },
   {
     "name": "Monochrome Cloudy Forest Cabin",
@@ -13003,7 +19742,14 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.29 MB",
     "path": "Wallpapers-main/nature/monochrome-cloudy-forest-cabin.jpeg",
-    "id": "wp_1445"
+    "id": "wp_1445",
+    "tags": [
+      "cabin",
+      "cloudy",
+      "forest",
+      "monochrome",
+      "nature"
+    ]
   },
   {
     "name": "Moonforest",
@@ -13012,7 +19758,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.16 MB",
     "path": "Wallpapers-main/nature/moonforest.png",
-    "id": "wp_1446"
+    "id": "wp_1446",
+    "tags": [
+      "moonforest",
+      "nature"
+    ]
   },
   {
     "name": "Nologo",
@@ -13021,7 +19771,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/nature/nologo.jpg",
-    "id": "wp_1447"
+    "id": "wp_1447",
+    "tags": [
+      "nature",
+      "nologo"
+    ]
   },
   {
     "name": "Pixel Art Pokemon City",
@@ -13030,7 +19784,14 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/nature/pixel-art-pokemon-city.jpeg",
-    "id": "wp_1448"
+    "id": "wp_1448",
+    "tags": [
+      "art",
+      "city",
+      "nature",
+      "pixel",
+      "pokemon"
+    ]
   },
   {
     "name": "Pixel Art Red City Autumn",
@@ -13039,7 +19800,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.92 MB",
     "path": "Wallpapers-main/nature/pixel-art-red-city-autumn.png",
-    "id": "wp_1449"
+    "id": "wp_1449",
+    "tags": [
+      "art",
+      "autumn",
+      "city",
+      "nature",
+      "pixel",
+      "red"
+    ]
   },
   {
     "name": "Pixel Art River Pond Tree",
@@ -13048,7 +19817,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.41 MB",
     "path": "Wallpapers-main/nature/pixel-art-river-pond-tree.png",
-    "id": "wp_1450"
+    "id": "wp_1450",
+    "tags": [
+      "art",
+      "nature",
+      "pixel",
+      "pond",
+      "river",
+      "tree"
+    ]
   },
   {
     "name": "Qvidibf92gx81",
@@ -13057,7 +19834,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.91 MB",
     "path": "Wallpapers-main/nature/qvidibf92gx81.png",
-    "id": "wp_1451"
+    "id": "wp_1451",
+    "tags": [
+      "nature",
+      "qvidibf92gx81"
+    ]
   },
   {
     "name": "RDT 20220515 1030226089683005045040220",
@@ -13066,7 +19847,11 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "0.09 MB",
     "path": "Wallpapers-main/nature/RDT_20220515_1030226089683005045040220.webp",
-    "id": "wp_1452"
+    "id": "wp_1452",
+    "tags": [
+      "nature",
+      "rdt"
+    ]
   },
   {
     "name": "Sakura Bw",
@@ -13075,7 +19860,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "20.62 MB",
     "path": "Wallpapers-main/nature/sakura-bw.png",
-    "id": "wp_1453"
+    "id": "wp_1453",
+    "tags": [
+      "nature",
+      "sakura"
+    ]
   },
   {
     "name": "Sea 3840x2160 Ocean Waves 4k 5k 135",
@@ -13084,7 +19873,16 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.79 MB",
     "path": "Wallpapers-main/nature/sea-3840x2160-ocean-waves-4k-5k-135.jpeg",
-    "id": "wp_1454"
+    "id": "wp_1454",
+    "tags": [
+      "3840x2160",
+      "4k",
+      "nature",
+      "ocean",
+      "sea",
+      "uhd",
+      "waves"
+    ]
   },
   {
     "name": "Store",
@@ -13093,7 +19891,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.87 MB",
     "path": "Wallpapers-main/nature/store.jpg",
-    "id": "wp_1455"
+    "id": "wp_1455",
+    "tags": [
+      "nature",
+      "store"
+    ]
   },
   {
     "name": "Wallhaven K7jmg6",
@@ -13102,7 +19904,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/nature/wallhaven-k7jmg6.jpg",
-    "id": "wp_1456"
+    "id": "wp_1456",
+    "tags": [
+      "k7jmg6",
+      "nature",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallpaper141",
@@ -13111,7 +19918,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "Wallpapers-main/nature/Wallpaper141.jpg",
-    "id": "wp_1457"
+    "id": "wp_1457",
+    "tags": [
+      "nature",
+      "wallpaper141"
+    ]
   },
   {
     "name": "Winter In Bohemia",
@@ -13120,7 +19931,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.08 MB",
     "path": "Wallpapers-main/nature/winter-in-bohemia.png",
-    "id": "wp_1458"
+    "id": "wp_1458",
+    "tags": [
+      "bohemia",
+      "nature",
+      "winter"
+    ]
   },
   {
     "name": "0092",
@@ -13129,7 +19945,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "Wallpapers-main/nord/0092.jpg",
-    "id": "wp_1459"
+    "id": "wp_1459",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0166",
@@ -13138,7 +19957,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/nord/0166.jpg",
-    "id": "wp_1460"
+    "id": "wp_1460",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0206",
@@ -13147,7 +19969,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "19.97 MB",
     "path": "Wallpapers-main/nord/0206.jpg",
-    "id": "wp_1461"
+    "id": "wp_1461",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0244",
@@ -13156,7 +19981,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.69 MB",
     "path": "Wallpapers-main/nord/0244.jpg",
-    "id": "wp_1462"
+    "id": "wp_1462",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0264",
@@ -13165,7 +19993,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/nord/0264.jpg",
-    "id": "wp_1463"
+    "id": "wp_1463",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0342",
@@ -13174,7 +20005,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.52 MB",
     "path": "Wallpapers-main/nord/0342.jpg",
-    "id": "wp_1464"
+    "id": "wp_1464",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0365",
@@ -13183,7 +20017,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.73 MB",
     "path": "Wallpapers-main/nord/0365.jpg",
-    "id": "wp_1465"
+    "id": "wp_1465",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0376",
@@ -13192,7 +20029,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/nord/0376.jpg",
-    "id": "wp_1466"
+    "id": "wp_1466",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "0411",
@@ -13201,7 +20041,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.53 MB",
     "path": "Wallpapers-main/nord/0411.jpg",
-    "id": "wp_1467"
+    "id": "wp_1467",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "414e2a61 4d24 4974 9794 3f393ea2de1",
@@ -13210,7 +20053,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.66 MB",
     "path": "Wallpapers-main/nord/414e2a61-4d24-4974-9794-3f393ea2de1.png",
-    "id": "wp_1468"
+    "id": "wp_1468",
+    "tags": [
+      "3f393ea2de1",
+      "414e2a61",
+      "4d24",
+      "nord"
+    ]
   },
   {
     "name": "1620262300551",
@@ -13219,7 +20068,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.08 MB",
     "path": "Wallpapers-main/nord/1620262300551.jpg",
-    "id": "wp_1469"
+    "id": "wp_1469",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "Anime Eye Nord",
@@ -13228,7 +20080,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.02 MB",
     "path": "Wallpapers-main/nord/anime-eye-nord.png",
-    "id": "wp_1470"
+    "id": "wp_1470",
+    "tags": [
+      "anime",
+      "eye",
+      "nord"
+    ]
   },
   {
     "name": "Bg Nord",
@@ -13237,7 +20094,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.82 MB",
     "path": "Wallpapers-main/nord/bg_nord.png",
-    "id": "wp_1471"
+    "id": "wp_1471",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "E5b8b8b2 B754 49b0 Aa98 031d4d21fe9e",
@@ -13246,7 +20106,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.72 MB",
     "path": "Wallpapers-main/nord/e5b8b8b2-b754-49b0-aa98-031d4d21fe9e.png",
-    "id": "wp_1472"
+    "id": "wp_1472",
+    "tags": [
+      "031d4d21fe9e",
+      "49b0",
+      "aa98",
+      "b754",
+      "e5b8b8b2",
+      "nord"
+    ]
   },
   {
     "name": "Flowers",
@@ -13255,7 +20123,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.75 MB",
     "path": "Wallpapers-main/nord/flowers.png",
-    "id": "wp_1473"
+    "id": "wp_1473",
+    "tags": [
+      "flowers",
+      "nord"
+    ]
   },
   {
     "name": "Ign Megumin Dark",
@@ -13264,7 +20136,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.13 MB",
     "path": "Wallpapers-main/nord/ign_megumin_dark.png",
-    "id": "wp_1474"
+    "id": "wp_1474",
+    "tags": [
+      "dark",
+      "ign",
+      "megumin",
+      "nord"
+    ]
   },
   {
     "name": "Ign Outer Space",
@@ -13273,7 +20151,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.50 MB",
     "path": "Wallpapers-main/nord/ign_outer_space.png",
-    "id": "wp_1475"
+    "id": "wp_1475",
+    "tags": [
+      "ign",
+      "nord",
+      "outer",
+      "space"
+    ]
   },
   {
     "name": "Ign Racecar",
@@ -13282,7 +20166,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.31 MB",
     "path": "Wallpapers-main/nord/ign_racecar.png",
-    "id": "wp_1476"
+    "id": "wp_1476",
+    "tags": [
+      "ign",
+      "nord",
+      "racecar"
+    ]
   },
   {
     "name": "Ign Unsplash42",
@@ -13291,7 +20180,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.39 MB",
     "path": "Wallpapers-main/nord/ign_unsplash42.png",
-    "id": "wp_1477"
+    "id": "wp_1477",
+    "tags": [
+      "ign",
+      "nord",
+      "unsplash42"
+    ]
   },
   {
     "name": "Kittyboard",
@@ -13300,7 +20194,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.31 MB",
     "path": "Wallpapers-main/nord/kittyboard.png",
-    "id": "wp_1478"
+    "id": "wp_1478",
+    "tags": [
+      "kittyboard",
+      "nord"
+    ]
   },
   {
     "name": "N113",
@@ -13309,7 +20207,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/nord/n113.png",
-    "id": "wp_1479"
+    "id": "wp_1479",
+    "tags": [
+      "n113",
+      "nord"
+    ]
   },
   {
     "name": "New 1 Pexels Elijah Odonnell 417362",
@@ -13318,7 +20220,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "43.00 MB",
     "path": "Wallpapers-main/nord/new-1_pexels-elijah-odonnell-417362.png",
-    "id": "wp_1480"
+    "id": "wp_1480",
+    "tags": [
+      "elijah",
+      "new",
+      "nord",
+      "odonnell",
+      "pexels"
+    ]
   },
   {
     "name": "Nord",
@@ -13327,7 +20236,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.84 MB",
     "path": "Wallpapers-main/nord/nord.jpg",
-    "id": "wp_1481"
+    "id": "wp_1481",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "Nord 1",
@@ -13336,7 +20248,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.46 MB",
     "path": "Wallpapers-main/nord/nord-1.png",
-    "id": "wp_1482"
+    "id": "wp_1482",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "Nord Anime Girls Ig",
@@ -13345,7 +20260,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/nord/nord_anime_girls_ig.jpg",
-    "id": "wp_1483"
+    "id": "wp_1483",
+    "tags": [
+      "anime",
+      "girls",
+      "nord"
+    ]
   },
   {
     "name": "Nord Forest",
@@ -13354,7 +20274,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "9.33 MB",
     "path": "Wallpapers-main/nord/nord-forest.png",
-    "id": "wp_1484"
+    "id": "wp_1484",
+    "tags": [
+      "forest",
+      "nord"
+    ]
   },
   {
     "name": "Nord Nord",
@@ -13363,7 +20287,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.25 MB",
     "path": "Wallpapers-main/nord/nord-nord.png",
-    "id": "wp_1485"
+    "id": "wp_1485",
+    "tags": [
+      "nord"
+    ]
   },
   {
     "name": "Nord Shards",
@@ -13372,7 +20299,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.42 MB",
     "path": "Wallpapers-main/nord/nord-shards.png",
-    "id": "wp_1486"
+    "id": "wp_1486",
+    "tags": [
+      "nord",
+      "shards"
+    ]
   },
   {
     "name": "Nord Wallpaper",
@@ -13381,7 +20312,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.28 MB",
     "path": "Wallpapers-main/nord/nord-wallpaper.png",
-    "id": "wp_1487"
+    "id": "wp_1487",
+    "tags": [
+      "nord",
+      "wallpaper"
+    ]
   },
   {
     "name": "Result",
@@ -13390,7 +20325,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/nord/result.png",
-    "id": "wp_1488"
+    "id": "wp_1488",
+    "tags": [
+      "nord",
+      "result"
+    ]
   },
   {
     "name": "Retro Room",
@@ -13399,7 +20338,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.46 MB",
     "path": "Wallpapers-main/nord/retro_room.png",
-    "id": "wp_1489"
+    "id": "wp_1489",
+    "tags": [
+      "nord",
+      "retro",
+      "room"
+    ]
   },
   {
     "name": "Test.Processed",
@@ -13408,7 +20352,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/nord/test.processed.jpg",
-    "id": "wp_1490"
+    "id": "wp_1490",
+    "tags": [
+      "nord",
+      "processed",
+      "test"
+    ]
   },
   {
     "name": "UkKocC4",
@@ -13417,7 +20366,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/nord/ukKocC4.png",
-    "id": "wp_1491"
+    "id": "wp_1491",
+    "tags": [
+      "nord",
+      "ukkocc4"
+    ]
   },
   {
     "name": "Wallhaven 4g88qq",
@@ -13426,7 +20379,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.76 MB",
     "path": "Wallpapers-main/nord/wallhaven-4g88qq.png",
-    "id": "wp_1492"
+    "id": "wp_1492",
+    "tags": [
+      "4g88qq",
+      "nord",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 5w9jj8",
@@ -13435,7 +20393,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "Wallpapers-main/nord/wallhaven-5w9jj8.jpg",
-    "id": "wp_1493"
+    "id": "wp_1493",
+    "tags": [
+      "5w9jj8",
+      "nord",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wano Vector",
@@ -13444,7 +20407,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.47 MB",
     "path": "Wallpapers-main/nord/wano_vector.png",
-    "id": "wp_1494"
+    "id": "wp_1494",
+    "tags": [
+      "nord",
+      "vector",
+      "wano"
+    ]
   },
   {
     "name": "Wave Circle No BG",
@@ -13453,7 +20421,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.61 MB",
     "path": "Wallpapers-main/nord/Wave_Circle_no_BG.png",
-    "id": "wp_1495"
+    "id": "wp_1495",
+    "tags": [
+      "circle",
+      "nord",
+      "wave"
+    ]
   },
   {
     "name": "Yingyangnord",
@@ -13462,7 +20435,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.11 MB",
     "path": "Wallpapers-main/nord/yingyangnord.png",
-    "id": "wp_1496"
+    "id": "wp_1496",
+    "tags": [
+      "nord",
+      "yingyangnord"
+    ]
   },
   {
     "name": "0071",
@@ -13471,7 +20448,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/one-dark/0071.jpg",
-    "id": "wp_1497"
+    "id": "wp_1497",
+    "tags": [
+      "dark",
+      "one"
+    ]
   },
   {
     "name": "0099",
@@ -13480,7 +20461,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "Wallpapers-main/one-dark/0099.jpg",
-    "id": "wp_1498"
+    "id": "wp_1498",
+    "tags": [
+      "dark",
+      "one"
+    ]
   },
   {
     "name": "0415",
@@ -13489,7 +20474,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/one-dark/0415.jpg",
-    "id": "wp_1499"
+    "id": "wp_1499",
+    "tags": [
+      "dark",
+      "one"
+    ]
   },
   {
     "name": "0274",
@@ -13498,7 +20487,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.25 MB",
     "path": "Wallpapers-main/other-themes/0274.jpg",
-    "id": "wp_1500"
+    "id": "wp_1500",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "0318",
@@ -13507,7 +20500,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/other-themes/0318.jpg",
-    "id": "wp_1501"
+    "id": "wp_1501",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "0337",
@@ -13516,7 +20513,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "Wallpapers-main/other-themes/0337.jpg",
-    "id": "wp_1502"
+    "id": "wp_1502",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "0368",
@@ -13525,7 +20526,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Wallpapers-main/other-themes/0368.jpg",
-    "id": "wp_1503"
+    "id": "wp_1503",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "0385",
@@ -13534,7 +20539,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.54 MB",
     "path": "Wallpapers-main/other-themes/0385.jpg",
-    "id": "wp_1504"
+    "id": "wp_1504",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Be6a6bc066f00872f8aa35b7ce437583",
@@ -13543,7 +20552,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.03 MB",
     "path": "Wallpapers-main/other-themes/be6a6bc066f00872f8aa35b7ce437583.jpg",
-    "id": "wp_1505"
+    "id": "wp_1505",
+    "tags": [
+      "be6a6bc066f00872f8aa35b7ce437583",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Burst Night",
@@ -13552,7 +20566,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.35 MB",
     "path": "Wallpapers-main/other-themes/Burst_Night.png",
-    "id": "wp_1506"
+    "id": "wp_1506",
+    "tags": [
+      "burst",
+      "night",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Cat Anime Girl Hand In Hair",
@@ -13561,7 +20581,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.56 MB",
     "path": "Wallpapers-main/other-themes/cat_anime-girl-hand-in-hair.png",
-    "id": "wp_1507"
+    "id": "wp_1507",
+    "tags": [
+      "anime",
+      "cat",
+      "girl",
+      "hair",
+      "hand",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Circuits Night",
@@ -13570,7 +20599,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.47 MB",
     "path": "Wallpapers-main/other-themes/Circuits_Night.png",
-    "id": "wp_1508"
+    "id": "wp_1508",
+    "tags": [
+      "circuits",
+      "night",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Crux",
@@ -13579,7 +20614,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.11 MB",
     "path": "Wallpapers-main/other-themes/crux.png",
-    "id": "wp_1509"
+    "id": "wp_1509",
+    "tags": [
+      "crux",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Dot Grid Night 1",
@@ -13588,7 +20628,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "Wallpapers-main/other-themes/Dot_Grid_Night-1.png",
-    "id": "wp_1510"
+    "id": "wp_1510",
+    "tags": [
+      "dot",
+      "grid",
+      "night",
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Lantern Light Room",
@@ -13597,7 +20644,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.35 MB",
     "path": "Wallpapers-main/other-themes/lantern-light-room.png",
-    "id": "wp_1511"
+    "id": "wp_1511",
+    "tags": [
+      "lantern",
+      "light",
+      "other",
+      "room",
+      "themes"
+    ]
   },
   {
     "name": "Lantern Theme Charizard",
@@ -13606,7 +20660,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/other-themes/lantern-theme-charizard.png",
-    "id": "wp_1512"
+    "id": "wp_1512",
+    "tags": [
+      "charizard",
+      "lantern",
+      "other",
+      "theme",
+      "themes"
+    ]
   },
   {
     "name": "Retro Computer",
@@ -13615,7 +20676,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/other-themes/retro_computer.png",
-    "id": "wp_1513"
+    "id": "wp_1513",
+    "tags": [
+      "computer",
+      "other",
+      "retro",
+      "themes"
+    ]
   },
   {
     "name": "St",
@@ -13624,7 +20691,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.50 MB",
     "path": "Wallpapers-main/other-themes/st.png",
-    "id": "wp_1514"
+    "id": "wp_1514",
+    "tags": [
+      "other",
+      "themes"
+    ]
   },
   {
     "name": "Store",
@@ -13633,7 +20704,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.87 MB",
     "path": "Wallpapers-main/other-themes/store.jpg",
-    "id": "wp_1515"
+    "id": "wp_1515",
+    "tags": [
+      "other",
+      "store",
+      "themes"
+    ]
   },
   {
     "name": "Wallhaven 47vwv4",
@@ -13642,7 +20718,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.04 MB",
     "path": "Wallpapers-main/other-themes/wallhaven-47vwv4.jpg",
-    "id": "wp_1516"
+    "id": "wp_1516",
+    "tags": [
+      "47vwv4",
+      "other",
+      "themes",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven Dp2ojo",
@@ -13651,7 +20733,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "Wallpapers-main/other-themes/wallhaven-dp2ojo.png",
-    "id": "wp_1517"
+    "id": "wp_1517",
+    "tags": [
+      "dp2ojo",
+      "other",
+      "themes",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven J89okp",
@@ -13660,7 +20748,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/other-themes/wallhaven-j89okp.png",
-    "id": "wp_1518"
+    "id": "wp_1518",
+    "tags": [
+      "j89okp",
+      "other",
+      "themes",
+      "wallhaven"
+    ]
   },
   {
     "name": "56 00b8aWV",
@@ -13669,7 +20763,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.97 MB",
     "path": "Wallpapers-main/pastel/56_-_00b8aWV.jpg",
-    "id": "wp_1519"
+    "id": "wp_1519",
+    "tags": [
+      "00b8awv",
+      "pastel"
+    ]
   },
   {
     "name": "Pixel Art Pokemon City",
@@ -13678,7 +20776,14 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/pastel/pixel-art-pokemon-city.jpeg",
-    "id": "wp_1520"
+    "id": "wp_1520",
+    "tags": [
+      "art",
+      "city",
+      "pastel",
+      "pixel",
+      "pokemon"
+    ]
   },
   {
     "name": "Pixel Art Red City Autumn",
@@ -13687,7 +20792,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.92 MB",
     "path": "Wallpapers-main/pastel/pixel-art-red-city-autumn.png",
-    "id": "wp_1521"
+    "id": "wp_1521",
+    "tags": [
+      "art",
+      "autumn",
+      "city",
+      "pastel",
+      "pixel",
+      "red"
+    ]
   },
   {
     "name": "0075",
@@ -13696,7 +20809,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "Wallpapers-main/purple/0075.jpg",
-    "id": "wp_1522"
+    "id": "wp_1522",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0105",
@@ -13705,7 +20821,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Wallpapers-main/purple/0105.jpg",
-    "id": "wp_1523"
+    "id": "wp_1523",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0130",
@@ -13714,7 +20833,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.69 MB",
     "path": "Wallpapers-main/purple/0130.jpg",
-    "id": "wp_1524"
+    "id": "wp_1524",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0253",
@@ -13723,7 +20845,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.57 MB",
     "path": "Wallpapers-main/purple/0253.jpg",
-    "id": "wp_1525"
+    "id": "wp_1525",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0258",
@@ -13732,7 +20857,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.18 MB",
     "path": "Wallpapers-main/purple/0258.jpg",
-    "id": "wp_1526"
+    "id": "wp_1526",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0274",
@@ -13741,7 +20869,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.25 MB",
     "path": "Wallpapers-main/purple/0274.jpg",
-    "id": "wp_1527"
+    "id": "wp_1527",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0288",
@@ -13750,7 +20881,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.13 MB",
     "path": "Wallpapers-main/purple/0288.jpg",
-    "id": "wp_1528"
+    "id": "wp_1528",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0313",
@@ -13759,7 +20893,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.74 MB",
     "path": "Wallpapers-main/purple/0313.jpg",
-    "id": "wp_1529"
+    "id": "wp_1529",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0341",
@@ -13768,7 +20905,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/purple/0341.jpg",
-    "id": "wp_1530"
+    "id": "wp_1530",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0360",
@@ -13777,7 +20917,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "Wallpapers-main/purple/0360.jpg",
-    "id": "wp_1531"
+    "id": "wp_1531",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0368",
@@ -13786,7 +20929,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "Wallpapers-main/purple/0368.jpg",
-    "id": "wp_1532"
+    "id": "wp_1532",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0389",
@@ -13795,7 +20941,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/purple/0389.jpg",
-    "id": "wp_1533"
+    "id": "wp_1533",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "0403",
@@ -13804,7 +20953,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "Wallpapers-main/purple/0403.jpg",
-    "id": "wp_1534"
+    "id": "wp_1534",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "1621867976933",
@@ -13813,7 +20965,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.77 MB",
     "path": "Wallpapers-main/purple/1621867976933.png",
-    "id": "wp_1535"
+    "id": "wp_1535",
+    "tags": [
+      "purple"
+    ]
   },
   {
     "name": "Abstractrings",
@@ -13822,7 +20977,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/purple/abstractrings.png",
-    "id": "wp_1536"
+    "id": "wp_1536",
+    "tags": [
+      "abstractrings",
+      "purple"
+    ]
   },
   {
     "name": "Aesthetic2",
@@ -13831,7 +20990,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "Wallpapers-main/purple/aesthetic2.jpg",
-    "id": "wp_1537"
+    "id": "wp_1537",
+    "tags": [
+      "aesthetic2",
+      "purple"
+    ]
   },
   {
     "name": "BLUE Audio Bunny",
@@ -13840,7 +21003,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.66 MB",
     "path": "Wallpapers-main/purple/BLUE_audio-bunny.png",
-    "id": "wp_1538"
+    "id": "wp_1538",
+    "tags": [
+      "audio",
+      "blue",
+      "bunny",
+      "purple"
+    ]
   },
   {
     "name": "FullSize",
@@ -13849,7 +21018,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.16 MB",
     "path": "Wallpapers-main/purple/FullSize.png",
-    "id": "wp_1539"
+    "id": "wp_1539",
+    "tags": [
+      "fullsize",
+      "purple"
+    ]
   },
   {
     "name": "Minimal1",
@@ -13858,7 +21031,11 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "1.74 MB",
     "path": "Wallpapers-main/purple/minimal1.jpeg",
-    "id": "wp_1540"
+    "id": "wp_1540",
+    "tags": [
+      "minimal1",
+      "purple"
+    ]
   },
   {
     "name": "Moonforest",
@@ -13867,7 +21044,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.16 MB",
     "path": "Wallpapers-main/purple/moonforest.png",
-    "id": "wp_1541"
+    "id": "wp_1541",
+    "tags": [
+      "moonforest",
+      "purple"
+    ]
   },
   {
     "name": "Newblackhole3purple",
@@ -13876,7 +21057,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.05 MB",
     "path": "Wallpapers-main/purple/newblackhole3purple.png",
-    "id": "wp_1542"
+    "id": "wp_1542",
+    "tags": [
+      "newblackhole3purple",
+      "purple"
+    ]
   },
   {
     "name": "No Logo Mirage KDE Plasma Theme Wallpaper",
@@ -13885,7 +21070,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.34 MB",
     "path": "Wallpapers-main/purple/No Logo Mirage KDE Plasma Theme Wallpaper.png",
-    "id": "wp_1543"
+    "id": "wp_1543",
+    "tags": [
+      "kde",
+      "logo",
+      "mirage",
+      "plasma",
+      "purple",
+      "theme",
+      "wallpaper"
+    ]
   },
   {
     "name": "Purple Fluid",
@@ -13894,7 +21088,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "7.94 MB",
     "path": "Wallpapers-main/purple/Purple_Fluid.png",
-    "id": "wp_1544"
+    "id": "wp_1544",
+    "tags": [
+      "fluid",
+      "purple"
+    ]
   },
   {
     "name": "Totoro Sunset6",
@@ -13903,7 +21101,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.55 MB",
     "path": "Wallpapers-main/purple/totoro-sunset6.png",
-    "id": "wp_1545"
+    "id": "wp_1545",
+    "tags": [
+      "purple",
+      "sunset6",
+      "totoro"
+    ]
   },
   {
     "name": "Unknown 1Resized",
@@ -13912,7 +21115,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.41 MB",
     "path": "Wallpapers-main/purple/unknown_1Resized.png",
-    "id": "wp_1546"
+    "id": "wp_1546",
+    "tags": [
+      "1resized",
+      "purple",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown1",
@@ -13921,7 +21129,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.52 MB",
     "path": "Wallpapers-main/purple/unknown1.png",
-    "id": "wp_1547"
+    "id": "wp_1547",
+    "tags": [
+      "purple",
+      "unknown1"
+    ]
   },
   {
     "name": "Wallhaven 57jlo1",
@@ -13930,7 +21142,12 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "3.63 MB",
     "path": "Wallpapers-main/purple/wallhaven-57jlo1.jpeg",
-    "id": "wp_1548"
+    "id": "wp_1548",
+    "tags": [
+      "57jlo1",
+      "purple",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 72w5pv",
@@ -13939,7 +21156,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.38 MB",
     "path": "Wallpapers-main/purple/wallhaven-72w5pv.png",
-    "id": "wp_1549"
+    "id": "wp_1549",
+    "tags": [
+      "72w5pv",
+      "purple",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven 282o1m",
@@ -13948,7 +21170,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.14 MB",
     "path": "Wallpapers-main/purple/wallhaven-282o1m.jpg",
-    "id": "wp_1550"
+    "id": "wp_1550",
+    "tags": [
+      "282o1m",
+      "purple",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallhaven K7jmg6",
@@ -13957,7 +21184,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/purple/wallhaven-k7jmg6.jpg",
-    "id": "wp_1551"
+    "id": "wp_1551",
+    "tags": [
+      "k7jmg6",
+      "purple",
+      "wallhaven"
+    ]
   },
   {
     "name": "Wallpaper141",
@@ -13966,7 +21198,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "Wallpapers-main/purple/Wallpaper141.jpg",
-    "id": "wp_1552"
+    "id": "wp_1552",
+    "tags": [
+      "purple",
+      "wallpaper141"
+    ]
   },
   {
     "name": "Wallpapertip Wallpaper Xiaomi 15554",
@@ -13975,7 +21211,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.58 MB",
     "path": "Wallpapers-main/purple/wallpapertip_wallpaper-xiaomi_15554.jpg",
-    "id": "wp_1553"
+    "id": "wp_1553",
+    "tags": [
+      "purple",
+      "wallpaper",
+      "wallpapertip",
+      "xiaomi"
+    ]
   },
   {
     "name": "WallpaperV2",
@@ -13984,7 +21226,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/purple/wallpaperV2.png",
-    "id": "wp_1554"
+    "id": "wp_1554",
+    "tags": [
+      "purple",
+      "wallpaperv2"
+    ]
   },
   {
     "name": "WavesDraculaThonkpad",
@@ -13993,7 +21239,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.22 MB",
     "path": "Wallpapers-main/purple/WavesDraculaThonkpad.png",
-    "id": "wp_1555"
+    "id": "wp_1555",
+    "tags": [
+      "purple",
+      "wavesdraculathonkpad"
+    ]
   },
   {
     "name": "94ae229f 168b 422e Adbe Ba024602ad8d",
@@ -14002,7 +21252,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.46 MB",
     "path": "Wallpapers-main/space/94ae229f-168b-422e-adbe-ba024602ad8d.png",
-    "id": "wp_1556"
+    "id": "wp_1556",
+    "tags": [
+      "168b",
+      "422e",
+      "94ae229f",
+      "adbe",
+      "ba024602ad8d",
+      "space"
+    ]
   },
   {
     "name": "0130",
@@ -14011,7 +21269,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.69 MB",
     "path": "Wallpapers-main/space/0130.jpg",
-    "id": "wp_1557"
+    "id": "wp_1557",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0158",
@@ -14020,7 +21281,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "Wallpapers-main/space/0158.jpg",
-    "id": "wp_1558"
+    "id": "wp_1558",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0184",
@@ -14029,7 +21293,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.17 MB",
     "path": "Wallpapers-main/space/0184.jpg",
-    "id": "wp_1559"
+    "id": "wp_1559",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0201",
@@ -14038,7 +21305,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.84 MB",
     "path": "Wallpapers-main/space/0201.jpg",
-    "id": "wp_1560"
+    "id": "wp_1560",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0262",
@@ -14047,7 +21317,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.50 MB",
     "path": "Wallpapers-main/space/0262.jpg",
-    "id": "wp_1561"
+    "id": "wp_1561",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0304",
@@ -14056,7 +21329,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "Wallpapers-main/space/0304.jpg",
-    "id": "wp_1562"
+    "id": "wp_1562",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0306",
@@ -14065,7 +21341,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.48 MB",
     "path": "Wallpapers-main/space/0306.jpg",
-    "id": "wp_1563"
+    "id": "wp_1563",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0389",
@@ -14074,7 +21353,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/space/0389.jpg",
-    "id": "wp_1564"
+    "id": "wp_1564",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "0940",
@@ -14083,7 +21365,10 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "6.11 MB",
     "path": "Wallpapers-main/space/0940.png",
-    "id": "wp_1565"
+    "id": "wp_1565",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "Among Us",
@@ -14092,7 +21377,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "Wallpapers-main/space/among-us.jpg",
-    "id": "wp_1566"
+    "id": "wp_1566",
+    "tags": [
+      "among",
+      "space"
+    ]
   },
   {
     "name": "Astronaut",
@@ -14101,7 +21390,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.45 MB",
     "path": "Wallpapers-main/space/astronaut.png",
-    "id": "wp_1567"
+    "id": "wp_1567",
+    "tags": [
+      "astronaut",
+      "space"
+    ]
   },
   {
     "name": "Gruvbox Pastel Astronaut",
@@ -14110,7 +21403,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.54 MB",
     "path": "Wallpapers-main/space/gruvbox_pastel_astronaut.jpg",
-    "id": "wp_1568"
+    "id": "wp_1568",
+    "tags": [
+      "astronaut",
+      "gruvbox",
+      "pastel",
+      "space"
+    ]
   },
   {
     "name": "Interstellarpurple",
@@ -14119,7 +21418,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "8.89 MB",
     "path": "Wallpapers-main/space/interstellarpurple.png",
-    "id": "wp_1569"
+    "id": "wp_1569",
+    "tags": [
+      "interstellarpurple",
+      "space"
+    ]
   },
   {
     "name": "Linux 80 With Logo",
@@ -14128,7 +21431,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.87 MB",
     "path": "Wallpapers-main/space/Linux 80 With Logo.png",
-    "id": "wp_1570"
+    "id": "wp_1570",
+    "tags": [
+      "linux",
+      "logo",
+      "space",
+      "with"
+    ]
   },
   {
     "name": "MysticHorizon",
@@ -14137,7 +21446,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "Wallpapers-main/space/MysticHorizon.jpg",
-    "id": "wp_1571"
+    "id": "wp_1571",
+    "tags": [
+      "mystichorizon",
+      "space"
+    ]
   },
   {
     "name": "Newblackhole3purple",
@@ -14146,7 +21459,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.05 MB",
     "path": "Wallpapers-main/space/newblackhole3purple.png",
-    "id": "wp_1572"
+    "id": "wp_1572",
+    "tags": [
+      "newblackhole3purple",
+      "space"
+    ]
   },
   {
     "name": "Space",
@@ -14155,7 +21472,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "Wallpapers-main/space/Space.jpg",
-    "id": "wp_1573"
+    "id": "wp_1573",
+    "tags": [
+      "space"
+    ]
   },
   {
     "name": "Unknown 1",
@@ -14164,7 +21484,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.45 MB",
     "path": "Wallpapers-main/space/unknown_1.png",
-    "id": "wp_1574"
+    "id": "wp_1574",
+    "tags": [
+      "space",
+      "unknown"
+    ]
   },
   {
     "name": "0202",
@@ -14173,7 +21497,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.90 MB",
     "path": "Wallpapers-main/tokyo-night/0202.jpg",
-    "id": "wp_1575"
+    "id": "wp_1575",
+    "tags": [
+      "night",
+      "tokyo"
+    ]
   },
   {
     "name": "Catalina Wallpaper",
@@ -14182,7 +21510,13 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "2.96 MB",
     "path": "Wallpapers-main/tokyo-night/catalina_wallpaper.jpeg",
-    "id": "wp_1576"
+    "id": "wp_1576",
+    "tags": [
+      "catalina",
+      "night",
+      "tokyo",
+      "wallpaper"
+    ]
   },
   {
     "name": "Chasingadream Tn",
@@ -14191,7 +21525,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.33 MB",
     "path": "Wallpapers-main/tokyo-night/chasingadream-tn.png",
-    "id": "wp_1577"
+    "id": "wp_1577",
+    "tags": [
+      "chasingadream",
+      "night",
+      "tokyo"
+    ]
   },
   {
     "name": "City Center",
@@ -14200,7 +21539,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.31 MB",
     "path": "Wallpapers-main/tokyo-night/city-center.png",
-    "id": "wp_1578"
+    "id": "wp_1578",
+    "tags": [
+      "center",
+      "city",
+      "night",
+      "tokyo"
+    ]
   },
   {
     "name": "City Scape",
@@ -14209,7 +21554,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.37 MB",
     "path": "Wallpapers-main/tokyo-night/city-scape.png",
-    "id": "wp_1579"
+    "id": "wp_1579",
+    "tags": [
+      "city",
+      "night",
+      "scape",
+      "tokyo"
+    ]
   },
   {
     "name": "Lantern",
@@ -14218,7 +21569,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.09 MB",
     "path": "Wallpapers-main/tokyo-night/lantern.png",
-    "id": "wp_1580"
+    "id": "wp_1580",
+    "tags": [
+      "lantern",
+      "night",
+      "tokyo"
+    ]
   },
   {
     "name": "Pool",
@@ -14227,7 +21583,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.23 MB",
     "path": "Wallpapers-main/tokyo-night/pool.png",
-    "id": "wp_1581"
+    "id": "wp_1581",
+    "tags": [
+      "night",
+      "pool",
+      "tokyo"
+    ]
   },
   {
     "name": "Qvidibf92gx81",
@@ -14236,7 +21597,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.91 MB",
     "path": "Wallpapers-main/tokyo-night/qvidibf92gx81.png",
-    "id": "wp_1582"
+    "id": "wp_1582",
+    "tags": [
+      "night",
+      "qvidibf92gx81",
+      "tokyo"
+    ]
   },
   {
     "name": "Red Sea Wallpaper",
@@ -14245,7 +21611,14 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/tokyo-night/red_sea_wallpaper.jpeg",
-    "id": "wp_1583"
+    "id": "wp_1583",
+    "tags": [
+      "night",
+      "red",
+      "sea",
+      "tokyo",
+      "wallpaper"
+    ]
   },
   {
     "name": "Spaceship",
@@ -14254,7 +21627,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.29 MB",
     "path": "Wallpapers-main/tokyo-night/spaceship.png",
-    "id": "wp_1584"
+    "id": "wp_1584",
+    "tags": [
+      "night",
+      "spaceship",
+      "tokyo"
+    ]
   },
   {
     "name": "Street Tn",
@@ -14263,7 +21641,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.05 MB",
     "path": "Wallpapers-main/tokyo-night/street-tn.png",
-    "id": "wp_1585"
+    "id": "wp_1585",
+    "tags": [
+      "night",
+      "street",
+      "tokyo"
+    ]
   },
   {
     "name": "Tn Red Sea Wallpaper",
@@ -14272,7 +21655,14 @@ const WALLPAPERS = [
     "format": "JPEG",
     "size": "0.20 MB",
     "path": "Wallpapers-main/tokyo-night/tn-red_sea_wallpaper.jpeg",
-    "id": "wp_1586"
+    "id": "wp_1586",
+    "tags": [
+      "night",
+      "red",
+      "sea",
+      "tokyo",
+      "wallpaper"
+    ]
   },
   {
     "name": "Totoro Sunset6",
@@ -14281,7 +21671,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.55 MB",
     "path": "Wallpapers-main/tokyo-night/totoro-sunset6.png",
-    "id": "wp_1587"
+    "id": "wp_1587",
+    "tags": [
+      "night",
+      "sunset6",
+      "tokyo",
+      "totoro"
+    ]
   },
   {
     "name": "Unknown1",
@@ -14290,7 +21686,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.52 MB",
     "path": "Wallpapers-main/tokyo-night/unknown1.png",
-    "id": "wp_1588"
+    "id": "wp_1588",
+    "tags": [
+      "night",
+      "tokyo",
+      "unknown1"
+    ]
   },
   {
     "name": "Wallhaven Pk3kde",
@@ -14299,7 +21700,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "Wallpapers-main/tokyo-night/wallhaven-pk3kde.jpg",
-    "id": "wp_1589"
+    "id": "wp_1589",
+    "tags": [
+      "night",
+      "pk3kde",
+      "tokyo",
+      "wallhaven"
+    ]
   },
   {
     "name": "2 5465217864069812751",
@@ -14308,7 +21715,10 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "Wallpapers-main/windows/2_5465217864069812751.jpg",
-    "id": "wp_1590"
+    "id": "wp_1590",
+    "tags": [
+      "windows"
+    ]
   },
   {
     "name": "3840x2400",
@@ -14317,7 +21727,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.32 MB",
     "path": "Wallpapers-main/windows/3840x2400.jpg",
-    "id": "wp_1591"
+    "id": "wp_1591",
+    "tags": [
+      "3840x2400",
+      "windows"
+    ]
   },
   {
     "name": "IMG 3762",
@@ -14326,7 +21740,11 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "Wallpapers-main/windows/IMG_3762.jpg",
-    "id": "wp_1592"
+    "id": "wp_1592",
+    "tags": [
+      "img",
+      "windows"
+    ]
   },
   {
     "name": "K1yjShy.00 00 00 00.Still001",
@@ -14335,7 +21753,12 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.17 MB",
     "path": "Wallpapers-main/windows/K1yjShy.00_00_00_00.Still001.png",
-    "id": "wp_1593"
+    "id": "wp_1593",
+    "tags": [
+      "k1yjshy",
+      "still001",
+      "windows"
+    ]
   },
   {
     "name": "Mashiro Kanon Win11",
@@ -14344,7 +21767,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.83 MB",
     "path": "Wallpapers-main/windows/mashiro_kanon_win11.png",
-    "id": "wp_1594"
+    "id": "wp_1594",
+    "tags": [
+      "kanon",
+      "mashiro",
+      "win11",
+      "windows"
+    ]
   },
   {
     "name": "Win10Linux",
@@ -14353,7 +21782,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.05 MB",
     "path": "Wallpapers-main/windows/Win10Linux.png",
-    "id": "wp_1595"
+    "id": "wp_1595",
+    "tags": [
+      "win10linux",
+      "windows"
+    ]
   },
   {
     "name": "Win11",
@@ -14362,7 +21795,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.32 MB",
     "path": "Wallpapers-main/windows/win11.png",
-    "id": "wp_1596"
+    "id": "wp_1596",
+    "tags": [
+      "win11",
+      "windows"
+    ]
   },
   {
     "name": "WINDOWS CLEAN",
@@ -14371,7 +21808,11 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.08 MB",
     "path": "Wallpapers-main/windows/WINDOWS_CLEAN.png",
-    "id": "wp_1597"
+    "id": "wp_1597",
+    "tags": [
+      "clean",
+      "windows"
+    ]
   },
   {
     "name": "Wp9110462 Linus Torvalds Wallpapers",
@@ -14380,7 +21821,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.26 MB",
     "path": "Wallpapers-main/windows/wp9110462-linus-torvalds-wallpapers.png",
-    "id": "wp_1598"
+    "id": "wp_1598",
+    "tags": [
+      "linus",
+      "torvalds",
+      "wallpapers",
+      "windows",
+      "wp9110462"
+    ]
   },
   {
     "name": "4K Hands",
@@ -14389,7 +21837,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.84 MB",
     "path": "wallpapers/abstract/Hands.jpg",
-    "id": "wp_1599"
+    "id": "wp_1599",
+    "tags": [
+      "4k",
+      "abstract",
+      "hands",
+      "uhd"
+    ]
   },
   {
     "name": "4K Walkhrome",
@@ -14398,7 +21852,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.31 MB",
     "path": "wallpapers/abstract/Walkhrome.jpg",
-    "id": "wp_1600"
+    "id": "wp_1600",
+    "tags": [
+      "4k",
+      "abstract",
+      "uhd",
+      "walkhrome"
+    ]
   },
   {
     "name": "4K Acrylic Paint 1",
@@ -14407,7 +21867,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.12 MB",
     "path": "wallpapers/abstract/acrylic-paint-1.jpg",
-    "id": "wp_1601"
+    "id": "wp_1601",
+    "tags": [
+      "4k",
+      "abstract",
+      "acrylic",
+      "paint",
+      "uhd"
+    ]
   },
   {
     "name": "4K Acrylic Paint 2",
@@ -14416,7 +21883,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.07 MB",
     "path": "wallpapers/abstract/acrylic-paint-2.jpg",
-    "id": "wp_1602"
+    "id": "wp_1602",
+    "tags": [
+      "4k",
+      "abstract",
+      "acrylic",
+      "paint",
+      "uhd"
+    ]
   },
   {
     "name": "4K Acrylic Paint 3",
@@ -14425,7 +21899,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.13 MB",
     "path": "wallpapers/abstract/acrylic-paint-3.jpg",
-    "id": "wp_1603"
+    "id": "wp_1603",
+    "tags": [
+      "4k",
+      "abstract",
+      "acrylic",
+      "paint",
+      "uhd"
+    ]
   },
   {
     "name": "4K Fly D Art Photographer 0zMHO8FTOUw Unsplash",
@@ -14434,7 +21915,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.72 MB",
     "path": "wallpapers/abstract/fly-d-art-photographer-0zMHO8FTOUw-unsplash.jpg",
-    "id": "wp_1604"
+    "id": "wp_1604",
+    "tags": [
+      "0zmho8ftouw",
+      "4k",
+      "abstract",
+      "art",
+      "fly",
+      "photographer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Fly D Art Photographer 7PF3tync7xE Unsplash",
@@ -14443,7 +21934,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.55 MB",
     "path": "wallpapers/abstract/fly-d-art-photographer-7PF3tync7xE-unsplash.jpg",
-    "id": "wp_1605"
+    "id": "wp_1605",
+    "tags": [
+      "4k",
+      "7pf3tync7xe",
+      "abstract",
+      "art",
+      "fly",
+      "photographer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Fly D Art Photographer WvCyR1gTDoA Unsplash",
@@ -14452,7 +21953,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.59 MB",
     "path": "wallpapers/abstract/fly-d-art-photographer-WvCyR1gTDoA-unsplash.jpg",
-    "id": "wp_1606"
+    "id": "wp_1606",
+    "tags": [
+      "4k",
+      "abstract",
+      "art",
+      "fly",
+      "photographer",
+      "uhd",
+      "unsplash",
+      "wvcyr1gtdoa"
+    ]
   },
   {
     "name": "4K Fly D Art Photographer X JMt2vfUdo Unsplash",
@@ -14461,7 +21972,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.76 MB",
     "path": "wallpapers/abstract/fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg",
-    "id": "wp_1607"
+    "id": "wp_1607",
+    "tags": [
+      "4k",
+      "abstract",
+      "art",
+      "fly",
+      "jmt2vfudo",
+      "photographer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Fly D Art Photographer XfG3mtbC3ns Unsplash",
@@ -14470,7 +21991,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.91 MB",
     "path": "wallpapers/abstract/fly-d-art-photographer-XfG3mtbC3ns-unsplash.jpg",
-    "id": "wp_1608"
+    "id": "wp_1608",
+    "tags": [
+      "4k",
+      "abstract",
+      "art",
+      "fly",
+      "photographer",
+      "uhd",
+      "unsplash",
+      "xfg3mtbc3ns"
+    ]
   },
   {
     "name": "4K Golden Lights",
@@ -14479,7 +22010,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.35 MB",
     "path": "wallpapers/abstract/golden-lights.jpg",
-    "id": "wp_1609"
+    "id": "wp_1609",
+    "tags": [
+      "4k",
+      "abstract",
+      "golden",
+      "lights",
+      "uhd"
+    ]
   },
   {
     "name": "4K Joel Filipe QwoNAhbmLLo Unsplash",
@@ -14488,7 +22026,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.52 MB",
     "path": "wallpapers/abstract/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
-    "id": "wp_1610"
+    "id": "wp_1610",
+    "tags": [
+      "4k",
+      "abstract",
+      "filipe",
+      "joel",
+      "qwonahbmllo",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Lucas Benjamin R79qkPYvrcM Unsplash",
@@ -14497,7 +22044,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.24 MB",
     "path": "wallpapers/abstract/lucas-benjamin-R79qkPYvrcM-unsplash.jpg",
-    "id": "wp_1611"
+    "id": "wp_1611",
+    "tags": [
+      "4k",
+      "abstract",
+      "benjamin",
+      "lucas",
+      "r79qkpyvrcm",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Neon Dream",
@@ -14506,7 +22062,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.40 MB",
     "path": "wallpapers/abstract/neon-dream.jpg",
-    "id": "wp_1612"
+    "id": "wp_1612",
+    "tags": [
+      "4k",
+      "abstract",
+      "dream",
+      "neon",
+      "uhd"
+    ]
   },
   {
     "name": "4K Neon Paint",
@@ -14515,7 +22078,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.74 MB",
     "path": "wallpapers/abstract/neon-paint.jpg",
-    "id": "wp_1613"
+    "id": "wp_1613",
+    "tags": [
+      "4k",
+      "abstract",
+      "neon",
+      "paint",
+      "uhd"
+    ]
   },
   {
     "name": "4K Pete Godfrey F B6TM8uT2s Unsplash",
@@ -14524,7 +22094,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.32 MB",
     "path": "wallpapers/abstract/pete-godfrey-F_B6TM8uT2s-unsplash.jpg",
-    "id": "wp_1614"
+    "id": "wp_1614",
+    "tags": [
+      "4k",
+      "abstract",
+      "b6tm8ut2s",
+      "godfrey",
+      "pete",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Sand 1",
@@ -14533,7 +22112,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.16 MB",
     "path": "wallpapers/abstract/sand-1.jpg",
-    "id": "wp_1615"
+    "id": "wp_1615",
+    "tags": [
+      "4k",
+      "abstract",
+      "sand",
+      "uhd"
+    ]
   },
   {
     "name": "4K Sand 2",
@@ -14542,7 +22127,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.13 MB",
     "path": "wallpapers/abstract/sand-2.jpg",
-    "id": "wp_1616"
+    "id": "wp_1616",
+    "tags": [
+      "4k",
+      "abstract",
+      "sand",
+      "uhd"
+    ]
   },
   {
     "name": "4K Sediment In The Gulf Of Mexico",
@@ -14551,7 +22142,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.76 MB",
     "path": "wallpapers/abstract/sediment-in-the-gulf-of-mexico.jpg",
-    "id": "wp_1617"
+    "id": "wp_1617",
+    "tags": [
+      "4k",
+      "abstract",
+      "gulf",
+      "mexico",
+      "sediment",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Dolphins",
@@ -14560,7 +22160,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.16 MB",
     "path": "wallpapers/animals/NOUNS-dolphins.jpg",
-    "id": "wp_1618"
+    "id": "wp_1618",
+    "tags": [
+      "4k",
+      "animals",
+      "dolphins",
+      "nouns",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Hairy Penguins 2",
@@ -14569,7 +22176,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.58 MB",
     "path": "wallpapers/animals/NOUNS-hairy-penguins-2.jpg",
-    "id": "wp_1619"
+    "id": "wp_1619",
+    "tags": [
+      "4k",
+      "animals",
+      "hairy",
+      "nouns",
+      "penguins",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Jellyfish 2",
@@ -14578,7 +22193,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.46 MB",
     "path": "wallpapers/animals/NOUNS-jellyfish-2.jpg",
-    "id": "wp_1620"
+    "id": "wp_1620",
+    "tags": [
+      "4k",
+      "animals",
+      "jellyfish",
+      "nouns",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Jellyfish",
@@ -14587,7 +22209,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.68 MB",
     "path": "wallpapers/animals/NOUNS-jellyfish.jpg",
-    "id": "wp_1621"
+    "id": "wp_1621",
+    "tags": [
+      "4k",
+      "animals",
+      "jellyfish",
+      "nouns",
+      "uhd"
+    ]
   },
   {
     "name": "4K Zebras",
@@ -14596,7 +22225,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.71 MB",
     "path": "wallpapers/animals/Zebras.jpg",
-    "id": "wp_1622"
+    "id": "wp_1622",
+    "tags": [
+      "4k",
+      "animals",
+      "uhd",
+      "zebras"
+    ]
   },
   {
     "name": "4K Adam Bignell ADpUIp4Awuc Unsplash",
@@ -14605,7 +22240,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.20 MB",
     "path": "wallpapers/animals/adam-bignell-ADpUIp4Awuc-unsplash.jpg",
-    "id": "wp_1623"
+    "id": "wp_1623",
+    "tags": [
+      "4k",
+      "adam",
+      "adpuip4awuc",
+      "animals",
+      "bignell",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Alan Mersom NzkjR1pw0Lc Unsplash",
@@ -14614,7 +22258,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.44 MB",
     "path": "wallpapers/animals/alan-mersom-NzkjR1pw0Lc-unsplash.jpg",
-    "id": "wp_1624"
+    "id": "wp_1624",
+    "tags": [
+      "4k",
+      "alan",
+      "animals",
+      "mersom",
+      "nzkjr1pw0lc",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Alexas Fotos BUzjetL88RU Unsplash",
@@ -14623,7 +22276,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.20 MB",
     "path": "wallpapers/animals/alexas_fotos-BUzjetL88RU-unsplash.jpg",
-    "id": "wp_1625"
+    "id": "wp_1625",
+    "tags": [
+      "4k",
+      "alexas",
+      "animals",
+      "buzjetl88ru",
+      "fotos",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Alicia Chong W5dsoP W Aw Unsplash",
@@ -14632,7 +22294,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.61 MB",
     "path": "wallpapers/animals/alicia-chong-w5dsoP-W-aw-unsplash.jpg",
-    "id": "wp_1626"
+    "id": "wp_1626",
+    "tags": [
+      "4k",
+      "alicia",
+      "animals",
+      "chong",
+      "uhd",
+      "unsplash",
+      "w5dsop"
+    ]
   },
   {
     "name": "4K Andrew Liu 2nx1Z70CT8I Unsplash",
@@ -14641,7 +22312,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.76 MB",
     "path": "wallpapers/animals/andrew-liu-2nx1Z70CT8I-unsplash.jpg",
-    "id": "wp_1627"
+    "id": "wp_1627",
+    "tags": [
+      "2nx1z70ct8i",
+      "4k",
+      "andrew",
+      "animals",
+      "liu",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Anna Wangler GqwoiT7QY8 Unsplash",
@@ -14650,7 +22330,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.53 MB",
     "path": "wallpapers/animals/anna-wangler-_GqwoiT7QY8-unsplash.jpg",
-    "id": "wp_1628"
+    "id": "wp_1628",
+    "tags": [
+      "4k",
+      "animals",
+      "anna",
+      "gqwoit7qy8",
+      "uhd",
+      "unsplash",
+      "wangler"
+    ]
   },
   {
     "name": "4K Anthony Sebbo KqrNB6efKZU Unsplash",
@@ -14659,7 +22348,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.08 MB",
     "path": "wallpapers/animals/anthony-sebbo-KqrNB6efKZU-unsplash.jpg",
-    "id": "wp_1629"
+    "id": "wp_1629",
+    "tags": [
+      "4k",
+      "animals",
+      "anthony",
+      "kqrnb6efkzu",
+      "sebbo",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Asa Rodger B8xmtKWLrVo Unsplash",
@@ -14668,7 +22366,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.21 MB",
     "path": "wallpapers/animals/asa-rodger-B8xmtKWLrVo-unsplash.jpg",
-    "id": "wp_1630"
+    "id": "wp_1630",
+    "tags": [
+      "4k",
+      "animals",
+      "asa",
+      "b8xmtkwlrvo",
+      "rodger",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Blake Meyer 5RBXc7R YWs Unsplash",
@@ -14677,7 +22384,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.33 MB",
     "path": "wallpapers/animals/blake-meyer-5RBXc7R-YWs-unsplash.jpg",
-    "id": "wp_1631"
+    "id": "wp_1631",
+    "tags": [
+      "4k",
+      "5rbxc7r",
+      "animals",
+      "blake",
+      "meyer",
+      "uhd",
+      "unsplash",
+      "yws"
+    ]
   },
   {
     "name": "4K Cameron Venti Big Fish",
@@ -14686,7 +22403,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.43 MB",
     "path": "wallpapers/animals/cameron-venti-big-fish.jpg",
-    "id": "wp_1632"
+    "id": "wp_1632",
+    "tags": [
+      "4k",
+      "animals",
+      "big",
+      "cameron",
+      "fish",
+      "uhd",
+      "venti"
+    ]
   },
   {
     "name": "4K Courtnie Tosana School Of Dolphins In Australia",
@@ -14695,7 +22421,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.29 MB",
     "path": "wallpapers/animals/courtnie-tosana-school-of-dolphins-in-australia.jpg",
-    "id": "wp_1633"
+    "id": "wp_1633",
+    "tags": [
+      "4k",
+      "animals",
+      "australia",
+      "courtnie",
+      "dolphins",
+      "school",
+      "tosana",
+      "uhd"
+    ]
   },
   {
     "name": "4K Daniela Kalwarowskyj GCI KgOC3do Unsplash",
@@ -14704,7 +22440,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.57 MB",
     "path": "wallpapers/animals/daniela-kalwarowskyj-gCI_kgOC3do-unsplash.jpg",
-    "id": "wp_1634"
+    "id": "wp_1634",
+    "tags": [
+      "4k",
+      "animals",
+      "daniela",
+      "gci",
+      "kalwarowskyj",
+      "kgoc3do",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dave Willhite B8qYoRYS TY Unsplash",
@@ -14713,7 +22459,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.62 MB",
     "path": "wallpapers/animals/dave-willhite-B8qYoRYS-tY-unsplash.jpg",
-    "id": "wp_1635"
+    "id": "wp_1635",
+    "tags": [
+      "4k",
+      "animals",
+      "b8qyorys",
+      "dave",
+      "uhd",
+      "unsplash",
+      "willhite"
+    ]
   },
   {
     "name": "4K David Clode 5uU8HSpfwkI Unsplash",
@@ -14722,7 +22477,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.20 MB",
     "path": "wallpapers/animals/david-clode-5uU8HSpfwkI-unsplash.jpg",
-    "id": "wp_1636"
+    "id": "wp_1636",
+    "tags": [
+      "4k",
+      "5uu8hspfwki",
+      "animals",
+      "clode",
+      "david",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Derek Oyen 3Xd5j9 DrDA Unsplash",
@@ -14731,7 +22495,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "wallpapers/animals/derek-oyen-3Xd5j9-drDA-unsplash.jpg",
-    "id": "wp_1637"
+    "id": "wp_1637",
+    "tags": [
+      "3xd5j9",
+      "4k",
+      "animals",
+      "derek",
+      "drda",
+      "oyen",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Diana Parkhouse YNQrwks9uG8 Unsplash",
@@ -14740,7 +22514,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.71 MB",
     "path": "wallpapers/animals/diana-parkhouse-YNQrwks9uG8-unsplash.jpg",
-    "id": "wp_1638"
+    "id": "wp_1638",
+    "tags": [
+      "4k",
+      "animals",
+      "diana",
+      "parkhouse",
+      "uhd",
+      "unsplash",
+      "ynqrwks9ug8"
+    ]
   },
   {
     "name": "4K Fabian Lauer 8YLfK3cs0UQ Unsplash",
@@ -14749,7 +22532,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "wallpapers/animals/fabian-lauer-8YLfK3cs0UQ-unsplash.jpg",
-    "id": "wp_1639"
+    "id": "wp_1639",
+    "tags": [
+      "4k",
+      "8ylfk3cs0uq",
+      "animals",
+      "fabian",
+      "lauer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Flavio Gasperini Dolphin Coming Up For Air",
@@ -14758,7 +22550,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.48 MB",
     "path": "wallpapers/animals/flavio-gasperini-dolphin-coming-up-for-air.jpg",
-    "id": "wp_1640"
+    "id": "wp_1640",
+    "tags": [
+      "4k",
+      "air",
+      "animals",
+      "coming",
+      "dolphin",
+      "flavio",
+      "for",
+      "gasperini",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hari Nandakumar 6tGANJJC7lg Unsplash",
@@ -14767,7 +22570,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.41 MB",
     "path": "wallpapers/animals/hari-nandakumar-6tGANJJC7lg-unsplash.jpg",
-    "id": "wp_1641"
+    "id": "wp_1641",
+    "tags": [
+      "4k",
+      "6tganjjc7lg",
+      "animals",
+      "hari",
+      "nandakumar",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Helena Lopes RoTyXO1m0wo Unsplash",
@@ -14776,7 +22588,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.18 MB",
     "path": "wallpapers/animals/helena-lopes-RoTyXO1m0wo-unsplash.jpg",
-    "id": "wp_1642"
+    "id": "wp_1642",
+    "tags": [
+      "4k",
+      "animals",
+      "helena",
+      "lopes",
+      "rotyxo1m0wo",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ian Parker TLcLDigmTKE Unsplash",
@@ -14785,7 +22606,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.23 MB",
     "path": "wallpapers/animals/ian-parker-TLcLDigmTKE-unsplash.jpg",
-    "id": "wp_1643"
+    "id": "wp_1643",
+    "tags": [
+      "4k",
+      "animals",
+      "ian",
+      "parker",
+      "tlcldigmtke",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ingo Doerrie TQWAmOShbEM Unsplash",
@@ -14794,7 +22624,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.16 MB",
     "path": "wallpapers/animals/ingo-doerrie-TQWAmOShbEM-unsplash.jpg",
-    "id": "wp_1644"
+    "id": "wp_1644",
+    "tags": [
+      "4k",
+      "animals",
+      "doerrie",
+      "ingo",
+      "tqwamoshbem",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ingo Stiller 3tkxfe2GocY Unsplash",
@@ -14803,7 +22642,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.91 MB",
     "path": "wallpapers/animals/ingo-stiller-3tkxfe2GocY-unsplash.jpg",
-    "id": "wp_1645"
+    "id": "wp_1645",
+    "tags": [
+      "3tkxfe2gocy",
+      "4k",
+      "animals",
+      "ingo",
+      "stiller",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jan Kopriva P1SKuYXxqec Unsplash",
@@ -14812,7 +22660,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.04 MB",
     "path": "wallpapers/animals/jan-kopriva-p1SKuYXxqec-unsplash.jpg",
-    "id": "wp_1646"
+    "id": "wp_1646",
+    "tags": [
+      "4k",
+      "animals",
+      "jan",
+      "kopriva",
+      "p1skuyxxqec",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jay Ruzesky 9zTafGVsv C Unsplash",
@@ -14821,7 +22678,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.15 MB",
     "path": "wallpapers/animals/jay-ruzesky-9zTafGVsv-c-unsplash.jpg",
-    "id": "wp_1647"
+    "id": "wp_1647",
+    "tags": [
+      "4k",
+      "9ztafgvsv",
+      "animals",
+      "jay",
+      "ruzesky",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Joel Filipe AjqGGafofE Unsplash",
@@ -14830,7 +22696,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "wallpapers/animals/joel-filipe-_AjqGGafofE-unsplash.jpg",
-    "id": "wp_1648"
+    "id": "wp_1648",
+    "tags": [
+      "4k",
+      "ajqggafofe",
+      "animals",
+      "filipe",
+      "joel",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jordan Heinrichs UpA6QvGpLHc Unsplash",
@@ -14839,7 +22714,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.01 MB",
     "path": "wallpapers/animals/jordan-heinrichs-UpA6QvGpLHc-unsplash.jpg",
-    "id": "wp_1649"
+    "id": "wp_1649",
+    "tags": [
+      "4k",
+      "animals",
+      "heinrichs",
+      "jordan",
+      "uhd",
+      "unsplash",
+      "upa6qvgplhc"
+    ]
   },
   {
     "name": "4K Joseph Daniel 7FprFl6VIu8 Unsplash",
@@ -14848,7 +22732,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "wallpapers/animals/joseph-daniel-7FprFl6VIu8-unsplash.jpg",
-    "id": "wp_1650"
+    "id": "wp_1650",
+    "tags": [
+      "4k",
+      "7fprfl6viu8",
+      "animals",
+      "daniel",
+      "joseph",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Karl Ibri CQqZ2BWeoAU Unsplash",
@@ -14857,7 +22750,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.32 MB",
     "path": "wallpapers/animals/karl-ibri-CQqZ2BWeoAU-unsplash.jpg",
-    "id": "wp_1651"
+    "id": "wp_1651",
+    "tags": [
+      "4k",
+      "animals",
+      "cqqz2bweoau",
+      "ibri",
+      "karl",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Kris Mikael Krister AGihPIbrtVE Unsplash",
@@ -14866,7 +22768,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.39 MB",
     "path": "wallpapers/animals/kris-mikael-krister-aGihPIbrtVE-unsplash.jpg",
-    "id": "wp_1652"
+    "id": "wp_1652",
+    "tags": [
+      "4k",
+      "agihpibrtve",
+      "animals",
+      "kris",
+      "krister",
+      "mikael",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Lachlan Dempsey Black Whales",
@@ -14875,7 +22787,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.90 MB",
     "path": "wallpapers/animals/lachlan-dempsey-black-whales.jpg",
-    "id": "wp_1653"
+    "id": "wp_1653",
+    "tags": [
+      "4k",
+      "animals",
+      "black",
+      "dempsey",
+      "lachlan",
+      "uhd",
+      "whales"
+    ]
   },
   {
     "name": "4K Mathew Schwartz O31kjYCHzPY Unsplash",
@@ -14884,7 +22805,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "wallpapers/animals/mathew-schwartz-O31kjYCHzPY-unsplash.jpg",
-    "id": "wp_1654"
+    "id": "wp_1654",
+    "tags": [
+      "4k",
+      "animals",
+      "mathew",
+      "o31kjychzpy",
+      "schwartz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Mathew Schwartz RtT0Uk8fkR8 Unsplash",
@@ -14893,7 +22823,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.03 MB",
     "path": "wallpapers/animals/mathew-schwartz-rtT0Uk8fkR8-unsplash.jpg",
-    "id": "wp_1655"
+    "id": "wp_1655",
+    "tags": [
+      "4k",
+      "animals",
+      "mathew",
+      "rtt0uk8fkr8",
+      "schwartz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Matthew Mazzei LfGqCrLmhp0 Unsplash",
@@ -14902,7 +22841,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.10 MB",
     "path": "wallpapers/animals/matthew-mazzei-LfGqCrLmhp0-unsplash.jpg",
-    "id": "wp_1656"
+    "id": "wp_1656",
+    "tags": [
+      "4k",
+      "animals",
+      "lfgqcrlmhp0",
+      "matthew",
+      "mazzei",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Meditations Raven",
@@ -14911,7 +22859,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "wallpapers/animals/meditations-raven.png",
-    "id": "wp_1657"
+    "id": "wp_1657",
+    "tags": [
+      "4k",
+      "animals",
+      "meditations",
+      "raven",
+      "uhd"
+    ]
   },
   {
     "name": "4K Niket Goswami BnqqHaeFq4 Unsplash",
@@ -14920,7 +22875,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.64 MB",
     "path": "wallpapers/animals/niket-goswami--BnqqHaeFq4-unsplash.jpg",
-    "id": "wp_1658"
+    "id": "wp_1658",
+    "tags": [
+      "4k",
+      "animals",
+      "bnqqhaefq4",
+      "goswami",
+      "niket",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nils Huenerfuerst 9aTq1QcnJek Unsplash",
@@ -14929,7 +22893,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "14.54 MB",
     "path": "wallpapers/animals/nils-huenerfuerst-9aTq1QcnJek-unsplash.jpg",
-    "id": "wp_1659"
+    "id": "wp_1659",
+    "tags": [
+      "4k",
+      "9atq1qcnjek",
+      "animals",
+      "huenerfuerst",
+      "nils",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nivedh P SazD8ZHV VI Unsplash",
@@ -14938,7 +22911,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "wallpapers/animals/nivedh-p-sazD8ZHV_VI-unsplash.jpg",
-    "id": "wp_1660"
+    "id": "wp_1660",
+    "tags": [
+      "4k",
+      "animals",
+      "nivedh",
+      "sazd8zhv",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Noaa AQx2VH2731k Unsplash",
@@ -14947,7 +22928,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.26 MB",
     "path": "wallpapers/animals/noaa-AQx2VH2731k-unsplash.jpg",
-    "id": "wp_1661"
+    "id": "wp_1661",
+    "tags": [
+      "4k",
+      "animals",
+      "aqx2vh2731k",
+      "noaa",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Oleksandr Sushko K8MIpUC1gs Unsplash",
@@ -14956,7 +22945,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.83 MB",
     "path": "wallpapers/animals/oleksandr-sushko-_k8MIpUC1gs-unsplash.jpg",
-    "id": "wp_1662"
+    "id": "wp_1662",
+    "tags": [
+      "4k",
+      "animals",
+      "k8mipuc1gs",
+      "oleksandr",
+      "sushko",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Patrick Desloge TgqdM6VQy2E Unsplash",
@@ -14965,7 +22963,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.62 MB",
     "path": "wallpapers/animals/patrick-desloge-tgqdM6VQy2E-unsplash.jpg",
-    "id": "wp_1663"
+    "id": "wp_1663",
+    "tags": [
+      "4k",
+      "animals",
+      "desloge",
+      "patrick",
+      "tgqdm6vqy2e",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Peter Neumann JZRlnfsdcj0 Unsplash",
@@ -14974,7 +22981,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.94 MB",
     "path": "wallpapers/animals/peter-neumann-JZRlnfsdcj0-unsplash.jpg",
-    "id": "wp_1664"
+    "id": "wp_1664",
+    "tags": [
+      "4k",
+      "animals",
+      "jzrlnfsdcj0",
+      "neumann",
+      "peter",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Portrait Of A Flying Falcon On A Black Background Illustration Vector",
@@ -14983,7 +22999,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "wallpapers/animals/portrait-of-a-flying-falcon-on-a-black-background-illustration-vector.jpg",
-    "id": "wp_1665"
+    "id": "wp_1665",
+    "tags": [
+      "4k",
+      "animals",
+      "background",
+      "black",
+      "falcon",
+      "flying",
+      "illustration",
+      "portrait",
+      "uhd",
+      "vector"
+    ]
   },
   {
     "name": "4K Ray Hennessy 9rloii Qmmw Unsplash",
@@ -14992,7 +23020,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.42 MB",
     "path": "wallpapers/animals/ray-hennessy-9rloii_qmmw-unsplash.jpg",
-    "id": "wp_1666"
+    "id": "wp_1666",
+    "tags": [
+      "4k",
+      "9rloii",
+      "animals",
+      "hennessy",
+      "qmmw",
+      "ray",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ray Hennessy K6dkxDUuLGo Unsplash",
@@ -15001,7 +23039,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.01 MB",
     "path": "wallpapers/animals/ray-hennessy-K6dkxDUuLGo-unsplash.jpg",
-    "id": "wp_1667"
+    "id": "wp_1667",
+    "tags": [
+      "4k",
+      "animals",
+      "hennessy",
+      "k6dkxduulgo",
+      "ray",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ricardo Braham Turtles In Playa Del Carmen Mexico",
@@ -15010,7 +23057,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.34 MB",
     "path": "wallpapers/animals/ricardo-braham-turtles-in-playa-del-carmen-mexico.jpg",
-    "id": "wp_1668"
+    "id": "wp_1668",
+    "tags": [
+      "4k",
+      "animals",
+      "braham",
+      "carmen",
+      "del",
+      "mexico",
+      "playa",
+      "ricardo",
+      "turtles",
+      "uhd"
+    ]
   },
   {
     "name": "4K Richard Jacobs 8oenpCXktqQ Unsplash",
@@ -15019,7 +23078,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.06 MB",
     "path": "wallpapers/animals/richard-jacobs-8oenpCXktqQ-unsplash.jpg",
-    "id": "wp_1669"
+    "id": "wp_1669",
+    "tags": [
+      "4k",
+      "8oenpcxktqq",
+      "animals",
+      "jacobs",
+      "richard",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Rishi Ragunathan Fs6NPHYMN7o Unsplash",
@@ -15028,7 +23096,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.68 MB",
     "path": "wallpapers/animals/rishi-ragunathan-fs6NPHYMN7o-unsplash.jpg",
-    "id": "wp_1670"
+    "id": "wp_1670",
+    "tags": [
+      "4k",
+      "animals",
+      "fs6nphymn7o",
+      "ragunathan",
+      "rishi",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Sebastian Hages Jn67 91aoOg Unsplash",
@@ -15037,7 +23114,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.12 MB",
     "path": "wallpapers/animals/sebastian-hages-Jn67_91aoOg-unsplash.jpg",
-    "id": "wp_1671"
+    "id": "wp_1671",
+    "tags": [
+      "4k",
+      "91aoog",
+      "animals",
+      "hages",
+      "jn67",
+      "sebastian",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Theodor Lundqvist 6Ox3fPG Qvo Unsplash",
@@ -15046,7 +23133,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.12 MB",
     "path": "wallpapers/animals/theodor-lundqvist-6Ox3fPG-qvo-unsplash.jpg",
-    "id": "wp_1672"
+    "id": "wp_1672",
+    "tags": [
+      "4k",
+      "6ox3fpg",
+      "animals",
+      "lundqvist",
+      "qvo",
+      "theodor",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Torsten Dederichs WRrGflm Umo Unsplash",
@@ -15055,7 +23152,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.83 MB",
     "path": "wallpapers/animals/torsten-dederichs-WRrGflm_Umo-unsplash.jpg",
-    "id": "wp_1673"
+    "id": "wp_1673",
+    "tags": [
+      "4k",
+      "animals",
+      "dederichs",
+      "torsten",
+      "uhd",
+      "umo",
+      "unsplash",
+      "wrrgflm"
+    ]
   },
   {
     "name": "4K Xyrene Gf QlgCmnyQ Unsplash",
@@ -15064,7 +23171,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.33 MB",
     "path": "wallpapers/animals/xyrene-Gf-QlgCmnyQ-unsplash.jpg",
-    "id": "wp_1674"
+    "id": "wp_1674",
+    "tags": [
+      "4k",
+      "animals",
+      "qlgcmnyq",
+      "uhd",
+      "unsplash",
+      "xyrene"
+    ]
   },
   {
     "name": "4K Zdenek Machacek XUFMiGkv 60 Unsplash",
@@ -15073,7 +23188,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.28 MB",
     "path": "wallpapers/animals/zdenek-machacek-XUFMiGkv-60-unsplash.jpg",
-    "id": "wp_1675"
+    "id": "wp_1675",
+    "tags": [
+      "4k",
+      "animals",
+      "machacek",
+      "uhd",
+      "unsplash",
+      "xufmigkv",
+      "zdenek"
+    ]
   },
   {
     "name": "4K NOUNS Giant Golf Ball",
@@ -15082,7 +23206,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.73 MB",
     "path": "wallpapers/architecture/NOUNS-giant-golf-ball.jpg",
-    "id": "wp_1676"
+    "id": "wp_1676",
+    "tags": [
+      "4k",
+      "architecture",
+      "ball",
+      "giant",
+      "golf",
+      "nouns",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES Germnay",
@@ -15091,7 +23224,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.66 MB",
     "path": "wallpapers/architecture/PLACES-germnay.jpg",
-    "id": "wp_1677"
+    "id": "wp_1677",
+    "tags": [
+      "4k",
+      "architecture",
+      "germnay",
+      "places",
+      "uhd"
+    ]
   },
   {
     "name": "4K Allec Gomes BE7D3J 3t3g Unsplash",
@@ -15100,7 +23240,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.81 MB",
     "path": "wallpapers/architecture/allec-gomes-bE7D3J-3t3g-unsplash.jpg",
-    "id": "wp_1678"
+    "id": "wp_1678",
+    "tags": [
+      "3t3g",
+      "4k",
+      "allec",
+      "architecture",
+      "be7d3j",
+      "gomes",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Andres Oropeza 3iJXHzSfpEw Unsplash",
@@ -15109,7 +23259,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.41 MB",
     "path": "wallpapers/architecture/andres-oropeza-3iJXHzSfpEw-unsplash.jpg",
-    "id": "wp_1679"
+    "id": "wp_1679",
+    "tags": [
+      "3ijxhzsfpew",
+      "4k",
+      "andres",
+      "architecture",
+      "oropeza",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Barmaan 0fPLISfPfeg Unsplash",
@@ -15118,7 +23277,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.58 MB",
     "path": "wallpapers/architecture/barmaan-0fPLISfPfeg-unsplash.jpg",
-    "id": "wp_1680"
+    "id": "wp_1680",
+    "tags": [
+      "0fplisfpfeg",
+      "4k",
+      "architecture",
+      "barmaan",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Bjorn Snelders ZNNPSqKRR2c Unsplash",
@@ -15127,7 +23294,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.74 MB",
     "path": "wallpapers/architecture/bjorn-snelders-zNNPSqKRR2c-unsplash.jpg",
-    "id": "wp_1681"
+    "id": "wp_1681",
+    "tags": [
+      "4k",
+      "architecture",
+      "bjorn",
+      "snelders",
+      "uhd",
+      "unsplash",
+      "znnpsqkrr2c"
+    ]
   },
   {
     "name": "4K Braden Collum 75XHJzEIeUc Unsplash",
@@ -15136,7 +23312,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.59 MB",
     "path": "wallpapers/architecture/braden-collum-75XHJzEIeUc-unsplash.jpg",
-    "id": "wp_1682"
+    "id": "wp_1682",
+    "tags": [
+      "4k",
+      "75xhjzeieuc",
+      "architecture",
+      "braden",
+      "collum",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Clem Onojeghuo JNx7P5a8DpE Unsplash",
@@ -15145,7 +23330,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.24 MB",
     "path": "wallpapers/architecture/clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg",
-    "id": "wp_1683"
+    "id": "wp_1683",
+    "tags": [
+      "4k",
+      "architecture",
+      "clem",
+      "jnx7p5a8dpe",
+      "onojeghuo",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Cristina Gottardi I1Lv2yX67GI Unsplash",
@@ -15154,7 +23348,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.24 MB",
     "path": "wallpapers/architecture/cristina-gottardi-I1Lv2yX67GI-unsplash.jpg",
-    "id": "wp_1684"
+    "id": "wp_1684",
+    "tags": [
+      "4k",
+      "architecture",
+      "cristina",
+      "gottardi",
+      "i1lv2yx67gi",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dan MdTtpxGlrz8 Unsplash",
@@ -15163,7 +23366,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.06 MB",
     "path": "wallpapers/architecture/dan-MdTtpxGlrz8-unsplash.jpg",
-    "id": "wp_1685"
+    "id": "wp_1685",
+    "tags": [
+      "4k",
+      "architecture",
+      "dan",
+      "mdttpxglrz8",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Daniel Prado NwFlIx9Mag8 Unsplash",
@@ -15172,7 +23383,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.71 MB",
     "path": "wallpapers/architecture/daniel-prado-nwFlIx9Mag8-unsplash.jpg",
-    "id": "wp_1686"
+    "id": "wp_1686",
+    "tags": [
+      "4k",
+      "architecture",
+      "daniel",
+      "nwflix9mag8",
+      "prado",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ddp CwGbo3wKBGM Unsplash",
@@ -15181,7 +23401,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.47 MB",
     "path": "wallpapers/architecture/ddp-cwGbo3wKBGM-unsplash.jpg",
-    "id": "wp_1687"
+    "id": "wp_1687",
+    "tags": [
+      "4k",
+      "architecture",
+      "cwgbo3wkbgm",
+      "ddp",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Engjell Gjepali M0OIyN5u8ZM Unsplash",
@@ -15190,7 +23418,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.77 MB",
     "path": "wallpapers/architecture/engjell-gjepali-M0OIyN5u8ZM-unsplash.jpg",
-    "id": "wp_1688"
+    "id": "wp_1688",
+    "tags": [
+      "4k",
+      "architecture",
+      "engjell",
+      "gjepali",
+      "m0oiyn5u8zm",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Frank Samol GslTbLa2FEA Unsplash",
@@ -15199,7 +23436,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.50 MB",
     "path": "wallpapers/architecture/frank-samol-gslTbLa2FEA-unsplash.jpg",
-    "id": "wp_1689"
+    "id": "wp_1689",
+    "tags": [
+      "4k",
+      "architecture",
+      "frank",
+      "gsltbla2fea",
+      "samol",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Gaurav D Lathiya I74RH4XeHlA Unsplash",
@@ -15208,7 +23454,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.70 MB",
     "path": "wallpapers/architecture/gaurav-d-lathiya-I74RH4XeHlA-unsplash.jpg",
-    "id": "wp_1690"
+    "id": "wp_1690",
+    "tags": [
+      "4k",
+      "architecture",
+      "gaurav",
+      "i74rh4xehla",
+      "lathiya",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Hans Reniers DELDTYAjPrg Unsplash",
@@ -15217,7 +23472,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "wallpapers/architecture/hans-reniers-DELDTYAjPrg-unsplash.jpg",
-    "id": "wp_1691"
+    "id": "wp_1691",
+    "tags": [
+      "4k",
+      "architecture",
+      "deldtyajprg",
+      "hans",
+      "reniers",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Hera",
@@ -15226,7 +23490,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.72 MB",
     "path": "wallpapers/architecture/hera.jpg",
-    "id": "wp_1692"
+    "id": "wp_1692",
+    "tags": [
+      "4k",
+      "architecture",
+      "hera",
+      "uhd"
+    ]
   },
   {
     "name": "4K Jacek Dylag DcQ8dSqEosA Unsplash",
@@ -15235,7 +23505,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.45 MB",
     "path": "wallpapers/architecture/jacek-dylag-DcQ8dSqEosA-unsplash.jpg",
-    "id": "wp_1693"
+    "id": "wp_1693",
+    "tags": [
+      "4k",
+      "architecture",
+      "dcq8dsqeosa",
+      "dylag",
+      "jacek",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jonathan Gallegos VA2q0 NroU Unsplash",
@@ -15244,7 +23523,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.19 MB",
     "path": "wallpapers/architecture/jonathan-gallegos-_vA2q0-NroU-unsplash.jpg",
-    "id": "wp_1694"
+    "id": "wp_1694",
+    "tags": [
+      "4k",
+      "architecture",
+      "gallegos",
+      "jonathan",
+      "nrou",
+      "uhd",
+      "unsplash",
+      "va2q0"
+    ]
   },
   {
     "name": "4K Jovyn Chamb IWMfiInivp4 Unsplash",
@@ -15253,7 +23542,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.63 MB",
     "path": "wallpapers/architecture/jovyn-chamb-iWMfiInivp4-unsplash.jpg",
-    "id": "wp_1695"
+    "id": "wp_1695",
+    "tags": [
+      "4k",
+      "architecture",
+      "chamb",
+      "iwmfiinivp4",
+      "jovyn",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K K Mitch Hodge OQ9pECond48 Unsplash",
@@ -15262,7 +23560,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.42 MB",
     "path": "wallpapers/architecture/k-mitch-hodge-oQ9pECond48-unsplash.jpg",
-    "id": "wp_1696"
+    "id": "wp_1696",
+    "tags": [
+      "4k",
+      "architecture",
+      "hodge",
+      "mitch",
+      "oq9pecond48",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Lewis J Goetz JbWg7W953LY Unsplash",
@@ -15271,7 +23578,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.10 MB",
     "path": "wallpapers/architecture/lewis-j-goetz-JbWg7W953LY-unsplash.jpg",
-    "id": "wp_1697"
+    "id": "wp_1697",
+    "tags": [
+      "4k",
+      "architecture",
+      "goetz",
+      "jbwg7w953ly",
+      "lewis",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Mathias Reding AUDG Ja0MOU Unsplash",
@@ -15280,7 +23596,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.66 MB",
     "path": "wallpapers/architecture/mathias-reding-AUDG_Ja0MOU-unsplash.jpg",
-    "id": "wp_1698"
+    "id": "wp_1698",
+    "tags": [
+      "4k",
+      "architecture",
+      "audg",
+      "ja0mou",
+      "mathias",
+      "reding",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Max Chen ZQxxar2ovS0 Unsplash",
@@ -15289,7 +23615,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.95 MB",
     "path": "wallpapers/architecture/max-chen-ZQxxar2ovS0-unsplash.jpg",
-    "id": "wp_1699"
+    "id": "wp_1699",
+    "tags": [
+      "4k",
+      "architecture",
+      "chen",
+      "max",
+      "uhd",
+      "unsplash",
+      "zqxxar2ovs0"
+    ]
   },
   {
     "name": "4K Mihaela Claudia Puscas JTxzqYDR9oI Unsplash",
@@ -15298,7 +23633,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.59 MB",
     "path": "wallpapers/architecture/mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg",
-    "id": "wp_1700"
+    "id": "wp_1700",
+    "tags": [
+      "4k",
+      "architecture",
+      "claudia",
+      "jtxzqydr9oi",
+      "mihaela",
+      "puscas",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nader Saremi VOuIAXFMmUU Unsplash",
@@ -15307,7 +23652,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.83 MB",
     "path": "wallpapers/architecture/nader-saremi-VOuIAXFMmUU-unsplash.jpg",
-    "id": "wp_1701"
+    "id": "wp_1701",
+    "tags": [
+      "4k",
+      "architecture",
+      "nader",
+      "saremi",
+      "uhd",
+      "unsplash",
+      "vouiaxfmmuu"
+    ]
   },
   {
     "name": "4K Noel Schlafli 9 Pl TT5Low Unsplash",
@@ -15316,7 +23670,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.84 MB",
     "path": "wallpapers/architecture/noel-schlafli-9_pl_TT5Low-unsplash.jpg",
-    "id": "wp_1702"
+    "id": "wp_1702",
+    "tags": [
+      "4k",
+      "architecture",
+      "noel",
+      "schlafli",
+      "tt5low",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ouael Ben Salah 0xe2FGo7Vc0 Unsplash",
@@ -15325,7 +23688,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.20 MB",
     "path": "wallpapers/architecture/ouael-ben-salah-0xe2FGo7Vc0-unsplash.jpg",
-    "id": "wp_1703"
+    "id": "wp_1703",
+    "tags": [
+      "0xe2fgo7vc0",
+      "4k",
+      "architecture",
+      "ben",
+      "ouael",
+      "salah",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Patricia Hellinger HzYJ5e 0FEE Unsplash",
@@ -15334,7 +23707,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.75 MB",
     "path": "wallpapers/architecture/patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg",
-    "id": "wp_1704"
+    "id": "wp_1704",
+    "tags": [
+      "0fee",
+      "4k",
+      "architecture",
+      "hellinger",
+      "hzyj5e",
+      "patricia",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Priscilla Fraire 1LvAexVWa8 Unsplash",
@@ -15343,7 +23726,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.11 MB",
     "path": "wallpapers/architecture/priscilla-fraire-_1LvAexVWa8-unsplash.jpg",
-    "id": "wp_1705"
+    "id": "wp_1705",
+    "tags": [
+      "1lvaexvwa8",
+      "4k",
+      "architecture",
+      "fraire",
+      "priscilla",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Priyank V YP8HHiF2okM Unsplash",
@@ -15352,7 +23744,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.14 MB",
     "path": "wallpapers/architecture/priyank-v-yP8HHiF2okM-unsplash.jpg",
-    "id": "wp_1706"
+    "id": "wp_1706",
+    "tags": [
+      "4k",
+      "architecture",
+      "priyank",
+      "uhd",
+      "unsplash",
+      "yp8hhif2okm"
+    ]
   },
   {
     "name": "4K Rene Deanda ZfKlCKK Ql0 Unsplash",
@@ -15361,7 +23761,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.88 MB",
     "path": "wallpapers/architecture/rene-deanda-zfKlCKK-Ql0-unsplash.jpg",
-    "id": "wp_1707"
+    "id": "wp_1707",
+    "tags": [
+      "4k",
+      "architecture",
+      "deanda",
+      "ql0",
+      "rene",
+      "uhd",
+      "unsplash",
+      "zfklckk"
+    ]
   },
   {
     "name": "4K Sara Cottle 6iS1PGNwwAI Unsplash",
@@ -15370,7 +23780,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.47 MB",
     "path": "wallpapers/architecture/sara-cottle-6iS1PGNwwAI-unsplash.jpg",
-    "id": "wp_1708"
+    "id": "wp_1708",
+    "tags": [
+      "4k",
+      "6is1pgnwwai",
+      "architecture",
+      "cottle",
+      "sara",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Spencer Davis IlQmlVIMN4c Unsplash",
@@ -15379,7 +23798,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.71 MB",
     "path": "wallpapers/architecture/spencer-davis-ilQmlVIMN4c-unsplash.jpg",
-    "id": "wp_1709"
+    "id": "wp_1709",
+    "tags": [
+      "4k",
+      "architecture",
+      "davis",
+      "ilqmlvimn4c",
+      "spencer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Stephanie Leblanc 53aGntxJ8iA Unsplash",
@@ -15388,7 +23816,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.27 MB",
     "path": "wallpapers/architecture/stephanie-leblanc-53aGntxJ8iA-unsplash.jpg",
-    "id": "wp_1710"
+    "id": "wp_1710",
+    "tags": [
+      "4k",
+      "53agntxj8ia",
+      "architecture",
+      "leblanc",
+      "stephanie",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Swapnil Deshpandey EPyY T5d6RI Unsplash",
@@ -15397,7 +23834,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.48 MB",
     "path": "wallpapers/architecture/swapnil-deshpandey-ePyY_T5d6RI-unsplash.jpg",
-    "id": "wp_1711"
+    "id": "wp_1711",
+    "tags": [
+      "4k",
+      "architecture",
+      "deshpandey",
+      "epyy",
+      "swapnil",
+      "t5d6ri",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Venti Views YtWSAmu2ITw Unsplash",
@@ -15406,7 +23853,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.42 MB",
     "path": "wallpapers/architecture/venti-views-ytWSAmu2ITw-unsplash.jpg",
-    "id": "wp_1712"
+    "id": "wp_1712",
+    "tags": [
+      "4k",
+      "architecture",
+      "uhd",
+      "unsplash",
+      "venti",
+      "views",
+      "ytwsamu2itw"
+    ]
   },
   {
     "name": "4K William Olivieri VhKZvNFmpPU Unsplash",
@@ -15415,7 +23871,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.46 MB",
     "path": "wallpapers/architecture/william-olivieri-vhKZvNFmpPU-unsplash.jpg",
-    "id": "wp_1713"
+    "id": "wp_1713",
+    "tags": [
+      "4k",
+      "architecture",
+      "olivieri",
+      "uhd",
+      "unsplash",
+      "vhkzvnfmppu",
+      "william"
+    ]
   },
   {
     "name": "4K Wolfgang Weiser TDcIDI9bY8A Unsplash",
@@ -15424,7 +23889,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.65 MB",
     "path": "wallpapers/architecture/wolfgang-weiser-TDcIDI9bY8A-unsplash.jpg",
-    "id": "wp_1714"
+    "id": "wp_1714",
+    "tags": [
+      "4k",
+      "architecture",
+      "tdcidi9by8a",
+      "uhd",
+      "unsplash",
+      "weiser",
+      "wolfgang"
+    ]
   },
   {
     "name": "4K Ws Chae T7wM3VQPiTY Unsplash",
@@ -15433,7 +23907,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.24 MB",
     "path": "wallpapers/architecture/ws-chae-t7wM3VQPiTY-unsplash.jpg",
-    "id": "wp_1715"
+    "id": "wp_1715",
+    "tags": [
+      "4k",
+      "architecture",
+      "chae",
+      "t7wm3vqpity",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Yuki Hirosawa RWCzERK2Peo Unsplash",
@@ -15442,7 +23924,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.00 MB",
     "path": "wallpapers/architecture/yuki-hirosawa-RWCzERK2Peo-unsplash.jpg",
-    "id": "wp_1716"
+    "id": "wp_1716",
+    "tags": [
+      "4k",
+      "architecture",
+      "hirosawa",
+      "rwczerk2peo",
+      "uhd",
+      "unsplash",
+      "yuki"
+    ]
   },
   {
     "name": "4K ARTWORK Bridal Procession On The Hardangerfjord",
@@ -15451,7 +23942,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.57 MB",
     "path": "wallpapers/art/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg",
-    "id": "wp_1717"
+    "id": "wp_1717",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "bridal",
+      "hardangerfjord",
+      "procession",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Christianas World",
@@ -15460,7 +23961,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.14 MB",
     "path": "wallpapers/art/ARTWORK-christianas-world.jpg",
-    "id": "wp_1718"
+    "id": "wp_1718",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "christianas",
+      "uhd",
+      "world"
+    ]
   },
   {
     "name": "4K ARTWORK Echo And Narcassias",
@@ -15469,7 +23978,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.84 MB",
     "path": "wallpapers/art/ARTWORK-echo-and-narcassias.jpg",
-    "id": "wp_1719"
+    "id": "wp_1719",
+    "tags": [
+      "4k",
+      "and",
+      "art",
+      "artwork",
+      "echo",
+      "narcassias",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Hylas And The Nymphs",
@@ -15478,7 +23996,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.25 MB",
     "path": "wallpapers/art/ARTWORK-hylas-and-the-nymphs.jpg",
-    "id": "wp_1720"
+    "id": "wp_1720",
+    "tags": [
+      "4k",
+      "and",
+      "art",
+      "artwork",
+      "hylas",
+      "nymphs",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK La Miennas",
@@ -15487,7 +24015,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.05 MB",
     "path": "wallpapers/art/ARTWORK-la-miennas.jpg",
-    "id": "wp_1721"
+    "id": "wp_1721",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "miennas",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Lonely Tree",
@@ -15496,7 +24031,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.46 MB",
     "path": "wallpapers/art/ARTWORK-lonely-tree.jpg",
-    "id": "wp_1722"
+    "id": "wp_1722",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "lonely",
+      "tree",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Medusas Raft",
@@ -15505,7 +24048,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.58 MB",
     "path": "wallpapers/art/ARTWORK-medusas-raft.jpg",
-    "id": "wp_1723"
+    "id": "wp_1723",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "medusas",
+      "raft",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Meisje Met De Parel",
@@ -15514,7 +24065,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.32 MB",
     "path": "wallpapers/art/ARTWORK-meisje-met-de-parel.jpg",
-    "id": "wp_1724"
+    "id": "wp_1724",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "meisje",
+      "met",
+      "parel",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Nighthawk",
@@ -15523,7 +24083,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.91 MB",
     "path": "wallpapers/art/ARTWORK-nighthawk.jpg",
-    "id": "wp_1725"
+    "id": "wp_1725",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "nighthawk",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Nightmare",
@@ -15532,7 +24099,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.15 MB",
     "path": "wallpapers/art/ARTWORK-nightmare.jpg",
-    "id": "wp_1726"
+    "id": "wp_1726",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "nightmare",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Spring",
@@ -15541,7 +24115,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.18 MB",
     "path": "wallpapers/art/ARTWORK-spring.jpg",
-    "id": "wp_1727"
+    "id": "wp_1727",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "spring",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK The Kiss",
@@ -15550,7 +24131,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.38 MB",
     "path": "wallpapers/art/ARTWORK-the-kiss.jpg",
-    "id": "wp_1728"
+    "id": "wp_1728",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "kiss",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK The Lady Of Shallot Waterhouse",
@@ -15559,7 +24148,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.19 MB",
     "path": "wallpapers/art/ARTWORK-the-lady-of-shallot-waterhouse.jpg",
-    "id": "wp_1729"
+    "id": "wp_1729",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "lady",
+      "shallot",
+      "the",
+      "uhd",
+      "waterhouse"
+    ]
   },
   {
     "name": "4K ARTWORK The Oath Of Horaces",
@@ -15568,7 +24167,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.45 MB",
     "path": "wallpapers/art/ARTWORK-the-oath-of-horaces.jpg",
-    "id": "wp_1730"
+    "id": "wp_1730",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "horaces",
+      "oath",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K ARTWORK Wanderer Above The Sea Of Fog",
@@ -15577,7 +24185,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.63 MB",
     "path": "wallpapers/art/ARTWORK-wanderer-above-the-sea-of-fog.jpg",
-    "id": "wp_1731"
+    "id": "wp_1731",
+    "tags": [
+      "4k",
+      "above",
+      "art",
+      "artwork",
+      "fog",
+      "sea",
+      "the",
+      "uhd",
+      "wanderer"
+    ]
   },
   {
     "name": "4K ARTWORK Washington Crossing The Deleware",
@@ -15586,7 +24205,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.41 MB",
     "path": "wallpapers/art/ARTWORK-washington-crossing-the-deleware.jpg",
-    "id": "wp_1732"
+    "id": "wp_1732",
+    "tags": [
+      "4k",
+      "art",
+      "artwork",
+      "crossing",
+      "deleware",
+      "the",
+      "uhd",
+      "washington"
+    ]
   },
   {
     "name": "4K Barge Haulers On The Volga",
@@ -15595,7 +24224,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.13 MB",
     "path": "wallpapers/art/Barge Haulers on the Volga.jpg",
-    "id": "wp_1733"
+    "id": "wp_1733",
+    "tags": [
+      "4k",
+      "art",
+      "barge",
+      "haulers",
+      "the",
+      "uhd",
+      "volga"
+    ]
   },
   {
     "name": "4K Belshazzar'S Feast",
@@ -15604,7 +24242,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.23 MB",
     "path": "wallpapers/art/Belshazzar's Feast.jpg",
-    "id": "wp_1734"
+    "id": "wp_1734",
+    "tags": [
+      "4k",
+      "art",
+      "belshazzar",
+      "feast",
+      "uhd"
+    ]
   },
   {
     "name": "4K Boyaryna Morozova",
@@ -15613,7 +24258,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.19 MB",
     "path": "wallpapers/art/Boyaryna Morozova.jpg",
-    "id": "wp_1735"
+    "id": "wp_1735",
+    "tags": [
+      "4k",
+      "art",
+      "boyaryna",
+      "morozova",
+      "uhd"
+    ]
   },
   {
     "name": "4K CreacióN De AdáN",
@@ -15622,7 +24274,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.82 MB",
     "path": "wallpapers/art/Creación_de_Adán.jpg",
-    "id": "wp_1736"
+    "id": "wp_1736",
+    "tags": [
+      "4k",
+      "art",
+      "creaci",
+      "uhd"
+    ]
   },
   {
     "name": "4K Cyrus The Great Defeating The Chaldean Wellcome",
@@ -15631,7 +24289,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.85 MB",
     "path": "wallpapers/art/Cyrus the Great defeating the Chaldean Wellcome.jpg",
-    "id": "wp_1737"
+    "id": "wp_1737",
+    "tags": [
+      "4k",
+      "art",
+      "chaldean",
+      "cyrus",
+      "defeating",
+      "great",
+      "the",
+      "uhd",
+      "wellcome"
+    ]
   },
   {
     "name": "4K Destruction Of Pompeii And Herculaneum",
@@ -15640,7 +24309,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.81 MB",
     "path": "wallpapers/art/Destruction of Pompeii and Herculaneum.jpg",
-    "id": "wp_1738"
+    "id": "wp_1738",
+    "tags": [
+      "4k",
+      "and",
+      "art",
+      "destruction",
+      "herculaneum",
+      "pompeii",
+      "uhd"
+    ]
   },
   {
     "name": "4K Heros Vasnetsov",
@@ -15649,7 +24327,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.05 MB",
     "path": "wallpapers/art/Heros - Vasnetsov.jpg",
-    "id": "wp_1739"
+    "id": "wp_1739",
+    "tags": [
+      "4k",
+      "art",
+      "heros",
+      "uhd",
+      "vasnetsov"
+    ]
   },
   {
     "name": "4K Joshua Commanding The Sun To Stand Still Upon Gibeon",
@@ -15658,7 +24343,20 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "10.79 MB",
     "path": "wallpapers/art/Joshua Commanding the Sun to Stand Still upon Gibeon.jpg",
-    "id": "wp_1740"
+    "id": "wp_1740",
+    "tags": [
+      "4k",
+      "art",
+      "commanding",
+      "gibeon",
+      "joshua",
+      "stand",
+      "still",
+      "sun",
+      "the",
+      "uhd",
+      "upon"
+    ]
   },
   {
     "name": "4K Joshua Commanding The Sun To Stand Still",
@@ -15667,7 +24365,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.45 MB",
     "path": "wallpapers/art/Joshua Commanding the Sun to Stand Still.jpg",
-    "id": "wp_1741"
+    "id": "wp_1741",
+    "tags": [
+      "4k",
+      "art",
+      "commanding",
+      "joshua",
+      "stand",
+      "still",
+      "sun",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K Le DéSespéRé Courbet",
@@ -15676,7 +24385,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.99 MB",
     "path": "wallpapers/art/Le Désespéré - Courbet.jpg",
-    "id": "wp_1742"
+    "id": "wp_1742",
+    "tags": [
+      "4k",
+      "art",
+      "courbet",
+      "sesp",
+      "uhd"
+    ]
   },
   {
     "name": "4K Los Romanos De La Decadencia",
@@ -15685,7 +24401,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "14.98 MB",
     "path": "wallpapers/art/Los Romanos de la Decadencia.jpg",
-    "id": "wp_1743"
+    "id": "wp_1743",
+    "tags": [
+      "4k",
+      "art",
+      "decadencia",
+      "los",
+      "romanos",
+      "uhd"
+    ]
   },
   {
     "name": "4K Macbeth",
@@ -15694,7 +24418,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.40 MB",
     "path": "wallpapers/art/Macbeth.jpg",
-    "id": "wp_1744"
+    "id": "wp_1744",
+    "tags": [
+      "4k",
+      "art",
+      "macbeth",
+      "uhd"
+    ]
   },
   {
     "name": "4K Moonlight Chepstow Castle",
@@ -15703,7 +24433,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.16 MB",
     "path": "wallpapers/art/Moonlight - Chepstow Castle.jpg",
-    "id": "wp_1745"
+    "id": "wp_1745",
+    "tags": [
+      "4k",
+      "art",
+      "castle",
+      "chepstow",
+      "moonlight",
+      "uhd"
+    ]
   },
   {
     "name": "4K Morning In A Pine Forest",
@@ -15712,7 +24450,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "15.53 MB",
     "path": "wallpapers/art/Morning in a Pine Forest.jpg",
-    "id": "wp_1746"
+    "id": "wp_1746",
+    "tags": [
+      "4k",
+      "art",
+      "forest",
+      "morning",
+      "pine",
+      "uhd"
+    ]
   },
   {
     "name": "4K Morning Of The Streltsy Execution",
@@ -15721,7 +24467,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.42 MB",
     "path": "wallpapers/art/Morning of the Streltsy Execution.jpg",
-    "id": "wp_1747"
+    "id": "wp_1747",
+    "tags": [
+      "4k",
+      "art",
+      "execution",
+      "morning",
+      "streltsy",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K Ruins Of An Ancient City",
@@ -15730,7 +24485,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.05 MB",
     "path": "wallpapers/art/Ruins of an Ancient City.jpg",
-    "id": "wp_1748"
+    "id": "wp_1748",
+    "tags": [
+      "4k",
+      "ancient",
+      "art",
+      "city",
+      "ruins",
+      "uhd"
+    ]
   },
   {
     "name": "4K Rye Shishskin",
@@ -15739,7 +24502,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.85 MB",
     "path": "wallpapers/art/Rye  - Shishskin.jpg",
-    "id": "wp_1749"
+    "id": "wp_1749",
+    "tags": [
+      "4k",
+      "art",
+      "rye",
+      "shishskin",
+      "uhd"
+    ]
   },
   {
     "name": "4K Satan Presiding At The Infernal Council",
@@ -15748,7 +24518,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.22 MB",
     "path": "wallpapers/art/Satan Presiding at the Infernal Council.jpg",
-    "id": "wp_1750"
+    "id": "wp_1750",
+    "tags": [
+      "4k",
+      "art",
+      "council",
+      "infernal",
+      "presiding",
+      "satan",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Appearance Of Christ Before The People Ivanov",
@@ -15757,7 +24537,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.89 MB",
     "path": "wallpapers/art/The Appearance of Christ Before the People - Ivanov.jpg",
-    "id": "wp_1751"
+    "id": "wp_1751",
+    "tags": [
+      "4k",
+      "appearance",
+      "art",
+      "before",
+      "christ",
+      "ivanov",
+      "people",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Death Of Socrates",
@@ -15766,7 +24557,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.28 MB",
     "path": "wallpapers/art/The Death of Socrates.jpg",
-    "id": "wp_1752"
+    "id": "wp_1752",
+    "tags": [
+      "4k",
+      "art",
+      "death",
+      "socrates",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Deluge",
@@ -15775,7 +24574,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.47 MB",
     "path": "wallpapers/art/The Deluge.jpg",
-    "id": "wp_1753"
+    "id": "wp_1753",
+    "tags": [
+      "4k",
+      "art",
+      "deluge",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Eve Of The Deluge",
@@ -15784,7 +24590,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.34 MB",
     "path": "wallpapers/art/The Eve of the Deluge.jpg",
-    "id": "wp_1754"
+    "id": "wp_1754",
+    "tags": [
+      "4k",
+      "art",
+      "deluge",
+      "eve",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Flying Carpet Vasnetsov",
@@ -15793,7 +24607,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.47 MB",
     "path": "wallpapers/art/The Flying Carpet - Vasnetsov.jpg",
-    "id": "wp_1755"
+    "id": "wp_1755",
+    "tags": [
+      "4k",
+      "art",
+      "carpet",
+      "flying",
+      "the",
+      "uhd",
+      "vasnetsov"
+    ]
   },
   {
     "name": "4K The Four Horsemen Of The Apocalypse Vasnetsov",
@@ -15802,7 +24625,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "wallpapers/art/The Four Horsemen of the Apocalypse - Vasnetsov.jpg",
-    "id": "wp_1756"
+    "id": "wp_1756",
+    "tags": [
+      "4k",
+      "apocalypse",
+      "art",
+      "four",
+      "horsemen",
+      "the",
+      "uhd",
+      "vasnetsov"
+    ]
   },
   {
     "name": "4K The Intervention Of The Sabine Women",
@@ -15811,7 +24644,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "12.23 MB",
     "path": "wallpapers/art/The Intervention of the Sabine Women.jpg",
-    "id": "wp_1757"
+    "id": "wp_1757",
+    "tags": [
+      "4k",
+      "art",
+      "intervention",
+      "sabine",
+      "the",
+      "uhd",
+      "women"
+    ]
   },
   {
     "name": "4K The Knight At The Crossroads Vasnetsov",
@@ -15820,7 +24662,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.38 MB",
     "path": "wallpapers/art/The Knight At The Crossroads - Vasnetsov.jpg",
-    "id": "wp_1758"
+    "id": "wp_1758",
+    "tags": [
+      "4k",
+      "art",
+      "crossroads",
+      "knight",
+      "the",
+      "uhd",
+      "vasnetsov"
+    ]
   },
   {
     "name": "4K The Last Supper",
@@ -15829,7 +24680,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.81 MB",
     "path": "wallpapers/art/The Last Supper.jpg",
-    "id": "wp_1759"
+    "id": "wp_1759",
+    "tags": [
+      "4k",
+      "art",
+      "last",
+      "supper",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Lictors Bring To Brutus The Bodies Of His Sons",
@@ -15838,7 +24697,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.19 MB",
     "path": "wallpapers/art/The Lictors Bring to Brutus the Bodies of His Sons.jpg",
-    "id": "wp_1760"
+    "id": "wp_1760",
+    "tags": [
+      "4k",
+      "art",
+      "bodies",
+      "bring",
+      "brutus",
+      "his",
+      "lictors",
+      "sons",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Seventh Plauge",
@@ -15847,7 +24718,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.25 MB",
     "path": "wallpapers/art/The Seventh Plauge.jpg",
-    "id": "wp_1761"
+    "id": "wp_1761",
+    "tags": [
+      "4k",
+      "art",
+      "plauge",
+      "seventh",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Taking Of Christ Caravaggio",
@@ -15856,7 +24735,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.94 MB",
     "path": "wallpapers/art/The Taking of Christ - Caravaggio.jpg",
-    "id": "wp_1762"
+    "id": "wp_1762",
+    "tags": [
+      "4k",
+      "art",
+      "caravaggio",
+      "christ",
+      "taking",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K William Simpson George Zobel England And America. The Visit Of Her Majesty Queen Victoria To The Arctic Ship Resolute December 16th, 1856 (Cropped)",
@@ -15865,7 +24753,31 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "32.77 MB",
     "path": "wallpapers/art/William_Simpson_-_George_Zobel_-_England_and_America._The_visit_of_her_majesty_Queen_Victoria_to_the_Arctic_ship_Resolute_-_December_16th,_1856_(cropped).jpg",
-    "id": "wp_1763"
+    "id": "wp_1763",
+    "tags": [
+      "16th",
+      "4k",
+      "america",
+      "and",
+      "arctic",
+      "art",
+      "cropped",
+      "december",
+      "england",
+      "george",
+      "her",
+      "majesty",
+      "queen",
+      "resolute",
+      "ship",
+      "simpson",
+      "the",
+      "uhd",
+      "victoria",
+      "visit",
+      "william",
+      "zobel"
+    ]
   },
   {
     "name": "4K BirthOfVenus",
@@ -15874,7 +24786,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.49 MB",
     "path": "wallpapers/art/birthOfVenus.jpg",
-    "id": "wp_1764"
+    "id": "wp_1764",
+    "tags": [
+      "4k",
+      "art",
+      "birthofvenus",
+      "uhd"
+    ]
   },
   {
     "name": "4K Breezing Up",
@@ -15883,7 +24801,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.26 MB",
     "path": "wallpapers/art/breezing-up.jpg",
-    "id": "wp_1765"
+    "id": "wp_1765",
+    "tags": [
+      "4k",
+      "art",
+      "breezing",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hms Resolute",
@@ -15892,7 +24816,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.93 MB",
     "path": "wallpapers/art/hms-resolute-.jpg",
-    "id": "wp_1766"
+    "id": "wp_1766",
+    "tags": [
+      "4k",
+      "art",
+      "hms",
+      "resolute",
+      "uhd"
+    ]
   },
   {
     "name": "4K Liberty Leading The People",
@@ -15901,7 +24832,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.27 MB",
     "path": "wallpapers/art/liberty-leading-the-people.jpg",
-    "id": "wp_1767"
+    "id": "wp_1767",
+    "tags": [
+      "4k",
+      "art",
+      "leading",
+      "liberty",
+      "people",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K Lovers",
@@ -15910,7 +24850,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.61 MB",
     "path": "wallpapers/art/lovers.jpg",
-    "id": "wp_1768"
+    "id": "wp_1768",
+    "tags": [
+      "4k",
+      "art",
+      "lovers",
+      "uhd"
+    ]
   },
   {
     "name": "4K Pandemonium",
@@ -15919,7 +24865,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.31 MB",
     "path": "wallpapers/art/pandemonium.jpg",
-    "id": "wp_1769"
+    "id": "wp_1769",
+    "tags": [
+      "4k",
+      "art",
+      "pandemonium",
+      "uhd"
+    ]
   },
   {
     "name": "4K The Gleaners",
@@ -15928,7 +24880,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "15.30 MB",
     "path": "wallpapers/art/the-gleaners.jpg",
-    "id": "wp_1770"
+    "id": "wp_1770",
+    "tags": [
+      "4k",
+      "art",
+      "gleaners",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K TheGulfSteam",
@@ -15937,7 +24896,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.12 MB",
     "path": "wallpapers/art/theGulfSteam.jpg",
-    "id": "wp_1771"
+    "id": "wp_1771",
+    "tags": [
+      "4k",
+      "art",
+      "thegulfsteam",
+      "uhd"
+    ]
   },
   {
     "name": "4K TheNinthWave",
@@ -15946,7 +24911,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.53 MB",
     "path": "wallpapers/art/theNinthWave.jpg",
-    "id": "wp_1772"
+    "id": "wp_1772",
+    "tags": [
+      "4k",
+      "art",
+      "theninthwave",
+      "uhd"
+    ]
   },
   {
     "name": "4K Old Man Of Storr",
@@ -15955,7 +24926,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.75 MB",
     "path": "wallpapers/landscape/Old Man of Storr.jpg",
-    "id": "wp_1773"
+    "id": "wp_1773",
+    "tags": [
+      "4k",
+      "landscape",
+      "man",
+      "old",
+      "storr",
+      "uhd"
+    ]
   },
   {
     "name": "4K Anders Jilden CYrMQA7a3Wc Unsplash",
@@ -15964,7 +24943,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.77 MB",
     "path": "wallpapers/landscape/anders-jilden-cYrMQA7a3Wc-unsplash.jpg",
-    "id": "wp_1774"
+    "id": "wp_1774",
+    "tags": [
+      "4k",
+      "anders",
+      "cyrmqa7a3wc",
+      "jilden",
+      "landscape",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Annie Spratt 8nAvFWUig3c Unsplash",
@@ -15973,7 +24961,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.10 MB",
     "path": "wallpapers/landscape/annie-spratt-8nAvFWUig3c-unsplash.jpg",
-    "id": "wp_1775"
+    "id": "wp_1775",
+    "tags": [
+      "4k",
+      "8navfwuig3c",
+      "annie",
+      "landscape",
+      "spratt",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Annie Spratt Nvq1vngu4ZQ Unsplash",
@@ -15982,7 +24979,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.39 MB",
     "path": "wallpapers/landscape/annie-spratt-Nvq1vngu4ZQ-unsplash.jpg",
-    "id": "wp_1776"
+    "id": "wp_1776",
+    "tags": [
+      "4k",
+      "annie",
+      "landscape",
+      "nvq1vngu4zq",
+      "spratt",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Bjorn Snelders Cd3Ek7rNXSk Unsplash",
@@ -15991,7 +24997,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.77 MB",
     "path": "wallpapers/landscape/bjorn-snelders-Cd3Ek7rNXSk-unsplash.jpg",
-    "id": "wp_1777"
+    "id": "wp_1777",
+    "tags": [
+      "4k",
+      "bjorn",
+      "cd3ek7rnxsk",
+      "landscape",
+      "snelders",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Caleb White R3d2GdiVRyg Unsplash",
@@ -16000,7 +25015,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.95 MB",
     "path": "wallpapers/landscape/caleb-white-R3d2GdiVRyg-unsplash.jpg",
-    "id": "wp_1778"
+    "id": "wp_1778",
+    "tags": [
+      "4k",
+      "caleb",
+      "landscape",
+      "r3d2gdivryg",
+      "uhd",
+      "unsplash",
+      "white"
+    ]
   },
   {
     "name": "4K Daniel Leone G30P1zcOzXo Unsplash",
@@ -16009,7 +25033,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.27 MB",
     "path": "wallpapers/landscape/daniel-leone-g30P1zcOzXo-unsplash.jpg",
-    "id": "wp_1779"
+    "id": "wp_1779",
+    "tags": [
+      "4k",
+      "daniel",
+      "g30p1zcozxo",
+      "landscape",
+      "leone",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Deborah Diem Ds NPvoAzro Unsplash",
@@ -16018,7 +25051,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.77 MB",
     "path": "wallpapers/landscape/deborah-diem-ds_NPvoAzro-unsplash.jpg",
-    "id": "wp_1780"
+    "id": "wp_1780",
+    "tags": [
+      "4k",
+      "deborah",
+      "diem",
+      "landscape",
+      "npvoazro",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jack Anstey HtUBBdNDxpQ Unsplash",
@@ -16027,7 +25069,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.80 MB",
     "path": "wallpapers/landscape/jack-anstey-HtUBBdNDxpQ-unsplash.jpg",
-    "id": "wp_1781"
+    "id": "wp_1781",
+    "tags": [
+      "4k",
+      "anstey",
+      "htubbdndxpq",
+      "jack",
+      "landscape",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jeremy Bishop DvACrXUExLs Unsplash",
@@ -16036,7 +25087,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.82 MB",
     "path": "wallpapers/landscape/jeremy-bishop-dvACrXUExLs-unsplash.jpg",
-    "id": "wp_1782"
+    "id": "wp_1782",
+    "tags": [
+      "4k",
+      "bishop",
+      "dvacrxuexls",
+      "jeremy",
+      "landscape",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jessica Pamp XiHRIiwq2jY Unsplash",
@@ -16045,7 +25105,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.04 MB",
     "path": "wallpapers/landscape/jessica-pamp-XiHRIiwq2jY-unsplash.jpg",
-    "id": "wp_1783"
+    "id": "wp_1783",
+    "tags": [
+      "4k",
+      "jessica",
+      "landscape",
+      "pamp",
+      "uhd",
+      "unsplash",
+      "xihriiwq2jy"
+    ]
   },
   {
     "name": "4K John O Nolan 6f ANCcbj3o Unsplash",
@@ -16054,7 +25123,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.23 MB",
     "path": "wallpapers/landscape/john-o-nolan-6f_ANCcbj3o-unsplash.jpg",
-    "id": "wp_1784"
+    "id": "wp_1784",
+    "tags": [
+      "4k",
+      "anccbj3o",
+      "john",
+      "landscape",
+      "nolan",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jon Flobrant RB7 LCa DiU Unsplash",
@@ -16063,7 +25141,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.45 MB",
     "path": "wallpapers/landscape/jon-flobrant-rB7-LCa_diU-unsplash.jpg",
-    "id": "wp_1785"
+    "id": "wp_1785",
+    "tags": [
+      "4k",
+      "diu",
+      "flobrant",
+      "jon",
+      "landscape",
+      "lca",
+      "rb7",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Joris Visser 8konJx6dY4g Unsplash",
@@ -16072,7 +25161,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.03 MB",
     "path": "wallpapers/landscape/joris-visser-8konJx6dY4g-unsplash.jpg",
-    "id": "wp_1786"
+    "id": "wp_1786",
+    "tags": [
+      "4k",
+      "8konjx6dy4g",
+      "joris",
+      "landscape",
+      "uhd",
+      "unsplash",
+      "visser"
+    ]
   },
   {
     "name": "4K Kalen Emsley Bkci 8qcdvQ Unsplash",
@@ -16081,7 +25179,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.81 MB",
     "path": "wallpapers/landscape/kalen-emsley-Bkci_8qcdvQ-unsplash.jpg",
-    "id": "wp_1787"
+    "id": "wp_1787",
+    "tags": [
+      "4k",
+      "8qcdvq",
+      "bkci",
+      "emsley",
+      "kalen",
+      "landscape",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Kazuend CCthPLHmrzI Unsplash",
@@ -16090,7 +25198,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.58 MB",
     "path": "wallpapers/landscape/kazuend-cCthPLHmrzI-unsplash.jpg",
-    "id": "wp_1788"
+    "id": "wp_1788",
+    "tags": [
+      "4k",
+      "ccthplhmrzi",
+      "kazuend",
+      "landscape",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Marc Zimmer YktwU2t1qHA Unsplash",
@@ -16099,7 +25215,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.05 MB",
     "path": "wallpapers/landscape/marc-zimmer-yktwU2t1qHA-unsplash.jpg",
-    "id": "wp_1789"
+    "id": "wp_1789",
+    "tags": [
+      "4k",
+      "landscape",
+      "marc",
+      "uhd",
+      "unsplash",
+      "yktwu2t1qha",
+      "zimmer"
+    ]
   },
   {
     "name": "4K Matthew Lancaster NVhhrnQvSU Unsplash",
@@ -16108,7 +25233,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.02 MB",
     "path": "wallpapers/landscape/matthew-lancaster--nVhhrnQvSU-unsplash.jpg",
-    "id": "wp_1790"
+    "id": "wp_1790",
+    "tags": [
+      "4k",
+      "lancaster",
+      "landscape",
+      "matthew",
+      "nvhhrnqvsu",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Michael DXQB5D1njMY Unsplash",
@@ -16117,7 +25251,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.32 MB",
     "path": "wallpapers/landscape/michael-DXQB5D1njMY-unsplash.jpg",
-    "id": "wp_1791"
+    "id": "wp_1791",
+    "tags": [
+      "4k",
+      "dxqb5d1njmy",
+      "landscape",
+      "michael",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Michael Fousert LE5 Z4nTCTQ Unsplash",
@@ -16126,7 +25268,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.37 MB",
     "path": "wallpapers/landscape/michael-fousert-lE5-z4nTCTQ-unsplash.jpg",
-    "id": "wp_1792"
+    "id": "wp_1792",
+    "tags": [
+      "4k",
+      "fousert",
+      "landscape",
+      "le5",
+      "michael",
+      "uhd",
+      "unsplash",
+      "z4ntctq"
+    ]
   },
   {
     "name": "4K Mike Smith 0FijUNA1GiY Unsplash",
@@ -16135,7 +25287,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.72 MB",
     "path": "wallpapers/landscape/mike-smith-0FijUNA1GiY-unsplash.jpg",
-    "id": "wp_1793"
+    "id": "wp_1793",
+    "tags": [
+      "0fijuna1giy",
+      "4k",
+      "landscape",
+      "mike",
+      "smith",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Mitchell Kmetz 5a3gboOg9qc Unsplash",
@@ -16144,7 +25305,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.38 MB",
     "path": "wallpapers/landscape/mitchell-kmetz-5a3gboOg9qc-unsplash.jpg",
-    "id": "wp_1794"
+    "id": "wp_1794",
+    "tags": [
+      "4k",
+      "5a3gboog9qc",
+      "kmetz",
+      "landscape",
+      "mitchell",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa HWIOLU7 O6w Unsplash",
@@ -16153,7 +25323,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "wallpapers/landscape/nasa-HWIOLU7_O6w-unsplash.jpg",
-    "id": "wp_1795"
+    "id": "wp_1795",
+    "tags": [
+      "4k",
+      "hwiolu7",
+      "landscape",
+      "nasa",
+      "o6w",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Neom UqAUg1zvMXQ Unsplash",
@@ -16162,7 +25341,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.79 MB",
     "path": "wallpapers/landscape/neom-uqAUg1zvMXQ-unsplash.jpg",
-    "id": "wp_1796"
+    "id": "wp_1796",
+    "tags": [
+      "4k",
+      "landscape",
+      "neom",
+      "uhd",
+      "unsplash",
+      "uqaug1zvmxq"
+    ]
   },
   {
     "name": "4K Pietro De Grandi T7K4aEPoGGk Unsplash",
@@ -16171,7 +25358,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.91 MB",
     "path": "wallpapers/landscape/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg",
-    "id": "wp_1797"
+    "id": "wp_1797",
+    "tags": [
+      "4k",
+      "grandi",
+      "landscape",
+      "pietro",
+      "t7k4aepoggk",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Rohit Tandon 9wg5jCEPBsw Unsplash",
@@ -16180,7 +25376,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.19 MB",
     "path": "wallpapers/landscape/rohit-tandon-9wg5jCEPBsw-unsplash.jpg",
-    "id": "wp_1798"
+    "id": "wp_1798",
+    "tags": [
+      "4k",
+      "9wg5jcepbsw",
+      "landscape",
+      "rohit",
+      "tandon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Tim Stief YFFGkE3y4F8 Unsplash",
@@ -16189,7 +25394,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.36 MB",
     "path": "wallpapers/landscape/tim-stief-YFFGkE3y4F8-unsplash.jpg",
-    "id": "wp_1799"
+    "id": "wp_1799",
+    "tags": [
+      "4k",
+      "landscape",
+      "stief",
+      "tim",
+      "uhd",
+      "unsplash",
+      "yffgke3y4f8"
+    ]
   },
   {
     "name": "4K Utakaha 5C7jwiUDhYU Unsplash",
@@ -16198,7 +25412,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.13 MB",
     "path": "wallpapers/landscape/utakaha-5C7jwiUDhYU-unsplash.jpg",
-    "id": "wp_1800"
+    "id": "wp_1800",
+    "tags": [
+      "4k",
+      "5c7jwiudhyu",
+      "landscape",
+      "uhd",
+      "unsplash",
+      "utakaha"
+    ]
   },
   {
     "name": "4K Black Map",
@@ -16207,7 +25429,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "wallpapers/maps/black-map.jpg",
-    "id": "wp_1801"
+    "id": "wp_1801",
+    "tags": [
+      "4k",
+      "black",
+      "map",
+      "maps",
+      "uhd"
+    ]
   },
   {
     "name": "4K Ny Public Library World Map",
@@ -16216,7 +25445,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.60 MB",
     "path": "wallpapers/maps/ny-public-library-world-map.jpg",
-    "id": "wp_1802"
+    "id": "wp_1802",
+    "tags": [
+      "4k",
+      "library",
+      "map",
+      "maps",
+      "public",
+      "uhd",
+      "world"
+    ]
   },
   {
     "name": "4K Vintage 2 Heminspheres",
@@ -16225,7 +25463,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.95 MB",
     "path": "wallpapers/maps/vintage-2-heminspheres.jpg",
-    "id": "wp_1803"
+    "id": "wp_1803",
+    "tags": [
+      "4k",
+      "heminspheres",
+      "maps",
+      "uhd",
+      "vintage"
+    ]
   },
   {
     "name": "4K Oled",
@@ -16234,7 +25479,12 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "wallpapers/oled.jpg",
-    "id": "wp_1804"
+    "id": "wp_1804",
+    "tags": [
+      "4k",
+      "oled",
+      "uhd"
+    ]
   },
   {
     "name": "4K Aurelius",
@@ -16243,7 +25493,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "wallpapers/people/aurelius.jpg",
-    "id": "wp_1805"
+    "id": "wp_1805",
+    "tags": [
+      "4k",
+      "aurelius",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Dostoyevsky",
@@ -16252,7 +25508,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.09 MB",
     "path": "wallpapers/people/dostoyevsky.jpg",
-    "id": "wp_1806"
+    "id": "wp_1806",
+    "tags": [
+      "4k",
+      "dostoyevsky",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Fdr",
@@ -16261,7 +25523,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "wallpapers/people/fdr.jpg",
-    "id": "wp_1807"
+    "id": "wp_1807",
+    "tags": [
+      "4k",
+      "fdr",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Goodall",
@@ -16270,7 +25538,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "wallpapers/people/goodall.jpg",
-    "id": "wp_1808"
+    "id": "wp_1808",
+    "tags": [
+      "4k",
+      "goodall",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hemmingway",
@@ -16279,7 +25553,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.25 MB",
     "path": "wallpapers/people/hemmingway.jpg",
-    "id": "wp_1809"
+    "id": "wp_1809",
+    "tags": [
+      "4k",
+      "hemmingway",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hepburn B",
@@ -16288,7 +25568,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "wallpapers/people/hepburn-B.jpg",
-    "id": "wp_1810"
+    "id": "wp_1810",
+    "tags": [
+      "4k",
+      "hepburn",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hepburn C",
@@ -16297,7 +25583,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.77 MB",
     "path": "wallpapers/people/hepburn-C.jpg",
-    "id": "wp_1811"
+    "id": "wp_1811",
+    "tags": [
+      "4k",
+      "hepburn",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Hitchcock",
@@ -16306,7 +25598,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.35 MB",
     "path": "wallpapers/people/hitchcock.jpg",
-    "id": "wp_1812"
+    "id": "wp_1812",
+    "tags": [
+      "4k",
+      "hitchcock",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Jefferson",
@@ -16315,7 +25613,13 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "0.29 MB",
     "path": "wallpapers/people/jefferson.webp",
-    "id": "wp_1813"
+    "id": "wp_1813",
+    "tags": [
+      "4k",
+      "jefferson",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Kazantzakis",
@@ -16324,7 +25628,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.85 MB",
     "path": "wallpapers/people/kazantzakis.jpg",
-    "id": "wp_1814"
+    "id": "wp_1814",
+    "tags": [
+      "4k",
+      "kazantzakis",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Lincoln",
@@ -16333,7 +25643,13 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "0.32 MB",
     "path": "wallpapers/people/lincoln.webp",
-    "id": "wp_1815"
+    "id": "wp_1815",
+    "tags": [
+      "4k",
+      "lincoln",
+      "people",
+      "uhd"
+    ]
   },
   {
     "name": "4K Sanders",
@@ -16342,7 +25658,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.65 MB",
     "path": "wallpapers/people/sanders.jpg",
-    "id": "wp_1816"
+    "id": "wp_1816",
+    "tags": [
+      "4k",
+      "people",
+      "sanders",
+      "uhd"
+    ]
   },
   {
     "name": "4K Stewart",
@@ -16351,7 +25673,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.33 MB",
     "path": "wallpapers/people/stewart.jpg",
-    "id": "wp_1817"
+    "id": "wp_1817",
+    "tags": [
+      "4k",
+      "people",
+      "stewart",
+      "uhd"
+    ]
   },
   {
     "name": "4K Tedd Roosevelt C",
@@ -16360,7 +25688,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.99 MB",
     "path": "wallpapers/people/tedd-roosevelt-C.jpg",
-    "id": "wp_1818"
+    "id": "wp_1818",
+    "tags": [
+      "4k",
+      "people",
+      "roosevelt",
+      "tedd",
+      "uhd"
+    ]
   },
   {
     "name": "4K Teddy Roosevelt B",
@@ -16369,7 +25704,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "wallpapers/people/teddy-roosevelt-B.jpg",
-    "id": "wp_1819"
+    "id": "wp_1819",
+    "tags": [
+      "4k",
+      "people",
+      "roosevelt",
+      "teddy",
+      "uhd"
+    ]
   },
   {
     "name": "4K Washington",
@@ -16378,7 +25720,13 @@ const WALLPAPERS = [
     "format": "WEBP",
     "size": "0.93 MB",
     "path": "wallpapers/people/washington.webp",
-    "id": "wp_1820"
+    "id": "wp_1820",
+    "tags": [
+      "4k",
+      "people",
+      "uhd",
+      "washington"
+    ]
   },
   {
     "name": "4K Watts",
@@ -16387,7 +25735,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.43 MB",
     "path": "wallpapers/people/watts.jpg",
-    "id": "wp_1821"
+    "id": "wp_1821",
+    "tags": [
+      "4k",
+      "people",
+      "uhd",
+      "watts"
+    ]
   },
   {
     "name": "4K GENERAL Black Boat Sea",
@@ -16396,7 +25750,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "10.85 MB",
     "path": "wallpapers/poseidon/GENERAL-black-boat-sea.jpg",
-    "id": "wp_1822"
+    "id": "wp_1822",
+    "tags": [
+      "4k",
+      "black",
+      "boat",
+      "general",
+      "poseidon",
+      "sea",
+      "uhd"
+    ]
   },
   {
     "name": "4K GENERAL Black Sea",
@@ -16405,7 +25768,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.93 MB",
     "path": "wallpapers/poseidon/GENERAL-black-sea.jpg",
-    "id": "wp_1823"
+    "id": "wp_1823",
+    "tags": [
+      "4k",
+      "black",
+      "general",
+      "poseidon",
+      "sea",
+      "uhd"
+    ]
   },
   {
     "name": "4K GENERAL Boats On The Sea",
@@ -16414,7 +25785,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.86 MB",
     "path": "wallpapers/poseidon/GENERAL-boats-on-the-sea.jpg",
-    "id": "wp_1824"
+    "id": "wp_1824",
+    "tags": [
+      "4k",
+      "boats",
+      "general",
+      "poseidon",
+      "sea",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "4K GENERAL Ipad Space Grey",
@@ -16423,7 +25803,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.82 MB",
     "path": "wallpapers/poseidon/GENERAL-ipad-space-grey.jpg",
-    "id": "wp_1825"
+    "id": "wp_1825",
+    "tags": [
+      "4k",
+      "general",
+      "grey",
+      "ipad",
+      "poseidon",
+      "space",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Ship Two",
@@ -16432,7 +25821,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.96 MB",
     "path": "wallpapers/poseidon/NOUNS-ship-two.jpg",
-    "id": "wp_1826"
+    "id": "wp_1826",
+    "tags": [
+      "4k",
+      "nouns",
+      "poseidon",
+      "ship",
+      "two",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES Canary Islands",
@@ -16441,7 +25838,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.10 MB",
     "path": "wallpapers/poseidon/PLACES-canary-islands.jpg",
-    "id": "wp_1827"
+    "id": "wp_1827",
+    "tags": [
+      "4k",
+      "canary",
+      "islands",
+      "places",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES La Jolla Cove",
@@ -16450,7 +25855,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.06 MB",
     "path": "wallpapers/poseidon/PLACES-la-jolla-cove.jpg",
-    "id": "wp_1828"
+    "id": "wp_1828",
+    "tags": [
+      "4k",
+      "cove",
+      "jolla",
+      "places",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES Mount Mauganui New Zealand",
@@ -16459,7 +25872,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.54 MB",
     "path": "wallpapers/poseidon/PLACES-mount-mauganui-new-zealand.jpg",
-    "id": "wp_1829"
+    "id": "wp_1829",
+    "tags": [
+      "4k",
+      "mauganui",
+      "mount",
+      "new",
+      "places",
+      "poseidon",
+      "uhd",
+      "zealand"
+    ]
   },
   {
     "name": "4K PLACES Ocean",
@@ -16468,7 +25891,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.33 MB",
     "path": "wallpapers/poseidon/PLACES-ocean.jpg",
-    "id": "wp_1830"
+    "id": "wp_1830",
+    "tags": [
+      "4k",
+      "ocean",
+      "places",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES Seattle",
@@ -16477,7 +25907,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.62 MB",
     "path": "wallpapers/poseidon/PLACES-seattle.jpg",
-    "id": "wp_1831"
+    "id": "wp_1831",
+    "tags": [
+      "4k",
+      "places",
+      "poseidon",
+      "seattle",
+      "uhd"
+    ]
   },
   {
     "name": "4K PLACES Yacht",
@@ -16486,7 +25923,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "wallpapers/poseidon/PLACES-yacht.jpg",
-    "id": "wp_1832"
+    "id": "wp_1832",
+    "tags": [
+      "4k",
+      "places",
+      "poseidon",
+      "uhd",
+      "yacht"
+    ]
   },
   {
     "name": "4K Alex Perez Bridge In Marco Island",
@@ -16495,7 +25939,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.42 MB",
     "path": "wallpapers/poseidon/alex-perez-bridge-in-marco-island.jpg",
-    "id": "wp_1833"
+    "id": "wp_1833",
+    "tags": [
+      "4k",
+      "alex",
+      "bridge",
+      "island",
+      "marco",
+      "perez",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K Alex Perez Marco Island",
@@ -16504,7 +25958,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.61 MB",
     "path": "wallpapers/poseidon/alex-perez-marco-island.jpg",
-    "id": "wp_1834"
+    "id": "wp_1834",
+    "tags": [
+      "4k",
+      "alex",
+      "island",
+      "marco",
+      "perez",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K Alex Perez Pontoon Boat Marco Island",
@@ -16513,7 +25976,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.13 MB",
     "path": "wallpapers/poseidon/alex-perez-pontoon-boat-marco-island.jpg",
-    "id": "wp_1835"
+    "id": "wp_1835",
+    "tags": [
+      "4k",
+      "alex",
+      "boat",
+      "island",
+      "marco",
+      "perez",
+      "pontoon",
+      "poseidon",
+      "uhd"
+    ]
   },
   {
     "name": "4K Alex Perez Wooden Pier Marco Island",
@@ -16522,7 +25996,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.41 MB",
     "path": "wallpapers/poseidon/alex-perez-wooden-pier-marco-island.jpg",
-    "id": "wp_1836"
+    "id": "wp_1836",
+    "tags": [
+      "4k",
+      "alex",
+      "island",
+      "marco",
+      "perez",
+      "pier",
+      "poseidon",
+      "uhd",
+      "wooden"
+    ]
   },
   {
     "name": "4K Alex Rose CcWJHxUeM7c Unsplash",
@@ -16531,7 +26016,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.32 MB",
     "path": "wallpapers/poseidon/alex-rose-ccWJHxUeM7c-unsplash.jpg",
-    "id": "wp_1837"
+    "id": "wp_1837",
+    "tags": [
+      "4k",
+      "alex",
+      "ccwjhxuem7c",
+      "poseidon",
+      "rose",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Alexandra Cozmei XSdSkTnEZ O Unsplash",
@@ -16540,7 +26034,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.81 MB",
     "path": "wallpapers/poseidon/alexandra-cozmei-XSdSkTnEZ_o-unsplash.jpg",
-    "id": "wp_1838"
+    "id": "wp_1838",
+    "tags": [
+      "4k",
+      "alexandra",
+      "cozmei",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "xsdsktnez"
+    ]
   },
   {
     "name": "4K Andrzej Kryszpiniuk 4wFqHZ1ONnM Unsplash",
@@ -16549,7 +26052,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.71 MB",
     "path": "wallpapers/poseidon/andrzej-kryszpiniuk-4wFqHZ1ONnM-unsplash.jpg",
-    "id": "wp_1839"
+    "id": "wp_1839",
+    "tags": [
+      "4k",
+      "4wfqhz1onnm",
+      "andrzej",
+      "kryszpiniuk",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Atanas Malamov 4jgWVpKHO 4 Unsplash",
@@ -16558,7 +26070,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.93 MB",
     "path": "wallpapers/poseidon/atanas-malamov-4jgWVpKHO_4-unsplash.jpg",
-    "id": "wp_1840"
+    "id": "wp_1840",
+    "tags": [
+      "4jgwvpkho",
+      "4k",
+      "atanas",
+      "malamov",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Atanas Malamov XGhaXZtQb1s Unsplash",
@@ -16567,7 +26088,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.09 MB",
     "path": "wallpapers/poseidon/atanas-malamov-xGhaXZtQb1s-unsplash.jpg",
-    "id": "wp_1841"
+    "id": "wp_1841",
+    "tags": [
+      "4k",
+      "atanas",
+      "malamov",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "xghaxztqb1s"
+    ]
   },
   {
     "name": "4K Caleb George Ship Ahore In Hati",
@@ -16576,7 +26106,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.53 MB",
     "path": "wallpapers/poseidon/caleb-george-ship-ahore-in-hati.jpg",
-    "id": "wp_1842"
+    "id": "wp_1842",
+    "tags": [
+      "4k",
+      "ahore",
+      "caleb",
+      "george",
+      "hati",
+      "poseidon",
+      "ship",
+      "uhd"
+    ]
   },
   {
     "name": "4K Calin Stan X HCoTDGgZw Unsplash",
@@ -16585,7 +26125,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.16 MB",
     "path": "wallpapers/poseidon/calin-stan-x-HCoTDGgZw-unsplash.jpg",
-    "id": "wp_1843"
+    "id": "wp_1843",
+    "tags": [
+      "4k",
+      "calin",
+      "hcotdggzw",
+      "poseidon",
+      "stan",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Christoffer Engstrom Wc9avd2RaN0 Unsplash",
@@ -16594,7 +26143,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.30 MB",
     "path": "wallpapers/poseidon/christoffer-engstrom-wc9avd2RaN0-unsplash.jpg",
-    "id": "wp_1844"
+    "id": "wp_1844",
+    "tags": [
+      "4k",
+      "christoffer",
+      "engstrom",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "wc9avd2ran0"
+    ]
   },
   {
     "name": "4K Christopher Politano YSUFHMW1hc4 Unsplash",
@@ -16603,7 +26161,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.98 MB",
     "path": "wallpapers/poseidon/christopher-politano-ySUFHMW1hc4-unsplash.jpg",
-    "id": "wp_1845"
+    "id": "wp_1845",
+    "tags": [
+      "4k",
+      "christopher",
+      "politano",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "ysufhmw1hc4"
+    ]
   },
   {
     "name": "4K Clay Banks 2ujVsmHIPbA Unsplash",
@@ -16612,7 +26179,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.39 MB",
     "path": "wallpapers/poseidon/clay-banks-2ujVsmHIPbA-unsplash.jpg",
-    "id": "wp_1846"
+    "id": "wp_1846",
+    "tags": [
+      "2ujvsmhipba",
+      "4k",
+      "banks",
+      "clay",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Constantinos Kollias YqBvJJ8jGBQ Unsplash",
@@ -16621,7 +26197,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.22 MB",
     "path": "wallpapers/poseidon/constantinos-kollias-yqBvJJ8jGBQ-unsplash.jpg",
-    "id": "wp_1847"
+    "id": "wp_1847",
+    "tags": [
+      "4k",
+      "constantinos",
+      "kollias",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "yqbvjj8jgbq"
+    ]
   },
   {
     "name": "4K Cosmic Timetraveler LgrGHYZzBSk Unsplash",
@@ -16630,7 +26215,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "7.61 MB",
     "path": "wallpapers/poseidon/cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg",
-    "id": "wp_1848"
+    "id": "wp_1848",
+    "tags": [
+      "4k",
+      "cosmic",
+      "lgrghyzzbsk",
+      "poseidon",
+      "timetraveler",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Cy Sirok Beach In Tigertail Court",
@@ -16639,7 +26233,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.97 MB",
     "path": "wallpapers/poseidon/cy-sirok-beach-in-tigertail-court.jpg",
-    "id": "wp_1849"
+    "id": "wp_1849",
+    "tags": [
+      "4k",
+      "beach",
+      "court",
+      "poseidon",
+      "sirok",
+      "tigertail",
+      "uhd"
+    ]
   },
   {
     "name": "4K Dan MdTtpxGlrz8 Unsplash",
@@ -16648,7 +26251,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.06 MB",
     "path": "wallpapers/poseidon/dan-MdTtpxGlrz8-unsplash.jpg",
-    "id": "wp_1850"
+    "id": "wp_1850",
+    "tags": [
+      "4k",
+      "dan",
+      "mdttpxglrz8",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dan Stark DLwUVlzrP0Q Unsplash",
@@ -16657,7 +26268,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.14 MB",
     "path": "wallpapers/poseidon/dan-stark-DLwUVlzrP0Q-unsplash.jpg",
-    "id": "wp_1851"
+    "id": "wp_1851",
+    "tags": [
+      "4k",
+      "dan",
+      "dlwuvlzrp0q",
+      "poseidon",
+      "stark",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Denys Nevozhai GuNIjIuUcgY Unsplash",
@@ -16666,7 +26286,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.50 MB",
     "path": "wallpapers/poseidon/denys-nevozhai-guNIjIuUcgY-unsplash.jpg",
-    "id": "wp_1852"
+    "id": "wp_1852",
+    "tags": [
+      "4k",
+      "denys",
+      "gunijiuucgy",
+      "nevozhai",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dimitris Kiriakakis 7AW5yeITXlU Unsplash",
@@ -16675,7 +26304,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.11 MB",
     "path": "wallpapers/poseidon/dimitris-kiriakakis-7AW5yeITXlU-unsplash.jpg",
-    "id": "wp_1853"
+    "id": "wp_1853",
+    "tags": [
+      "4k",
+      "7aw5yeitxlu",
+      "dimitris",
+      "kiriakakis",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dimitris Kiriakakis El4cLaVOTJg Unsplash",
@@ -16684,7 +26322,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.55 MB",
     "path": "wallpapers/poseidon/dimitris-kiriakakis-El4cLaVOTJg-unsplash.jpg",
-    "id": "wp_1854"
+    "id": "wp_1854",
+    "tags": [
+      "4k",
+      "dimitris",
+      "el4clavotjg",
+      "kiriakakis",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Dimitris Kiriakakis VNpz4 Nleeg Unsplash",
@@ -16693,7 +26340,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.84 MB",
     "path": "wallpapers/poseidon/dimitris-kiriakakis-VNpz4_Nleeg-unsplash.jpg",
-    "id": "wp_1855"
+    "id": "wp_1855",
+    "tags": [
+      "4k",
+      "dimitris",
+      "kiriakakis",
+      "nleeg",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "vnpz4"
+    ]
   },
   {
     "name": "4K Dimitris Kiriakakis Vg2KSKsRA8c Unsplash",
@@ -16702,7 +26359,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.51 MB",
     "path": "wallpapers/poseidon/dimitris-kiriakakis-vg2KSKsRA8c-unsplash.jpg",
-    "id": "wp_1856"
+    "id": "wp_1856",
+    "tags": [
+      "4k",
+      "dimitris",
+      "kiriakakis",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "vg2ksksra8c"
+    ]
   },
   {
     "name": "4K Emjeii Beattie CHyQZIMPYRk Unsplash",
@@ -16711,7 +26377,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.52 MB",
     "path": "wallpapers/poseidon/emjeii-beattie-CHyQZIMPYRk-unsplash.jpg",
-    "id": "wp_1857"
+    "id": "wp_1857",
+    "tags": [
+      "4k",
+      "beattie",
+      "chyqzimpyrk",
+      "emjeii",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Erika M LAS9QB5iAus Unsplash",
@@ -16720,7 +26395,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.60 MB",
     "path": "wallpapers/poseidon/erika-m-lAS9QB5iAus-unsplash.jpg",
-    "id": "wp_1858"
+    "id": "wp_1858",
+    "tags": [
+      "4k",
+      "erika",
+      "las9qb5iaus",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Etienne Delorieux E5sp18O40yA Unsplash",
@@ -16729,7 +26412,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.65 MB",
     "path": "wallpapers/poseidon/etienne-delorieux-e5sp18O40yA-unsplash.jpg",
-    "id": "wp_1859"
+    "id": "wp_1859",
+    "tags": [
+      "4k",
+      "delorieux",
+      "e5sp18o40ya",
+      "etienne",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Fadi Al Shami Cq 6tLezcaQ Unsplash",
@@ -16738,7 +26430,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.40 MB",
     "path": "wallpapers/poseidon/fadi-al-shami-Cq-6tLezcaQ-unsplash.jpg",
-    "id": "wp_1860"
+    "id": "wp_1860",
+    "tags": [
+      "4k",
+      "6tlezcaq",
+      "fadi",
+      "poseidon",
+      "shami",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Frames For Your Heart 1aPFk4UV5Ec Unsplash",
@@ -16747,7 +26448,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.55 MB",
     "path": "wallpapers/poseidon/frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg",
-    "id": "wp_1861"
+    "id": "wp_1861",
+    "tags": [
+      "1apfk4uv5ec",
+      "4k",
+      "for",
+      "frames",
+      "heart",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "your"
+    ]
   },
   {
     "name": "4K Gatis Marcinkevics A5uptAdUmjE Unsplash",
@@ -16756,7 +26468,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.82 MB",
     "path": "wallpapers/poseidon/gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg",
-    "id": "wp_1862"
+    "id": "wp_1862",
+    "tags": [
+      "4k",
+      "a5uptadumje",
+      "gatis",
+      "marcinkevics",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Guille Pozzi PO0UHx 5mHo Unsplash",
@@ -16765,7 +26486,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.42 MB",
     "path": "wallpapers/poseidon/guille-pozzi-PO0UHx-5mHo-unsplash.jpg",
-    "id": "wp_1863"
+    "id": "wp_1863",
+    "tags": [
+      "4k",
+      "5mho",
+      "guille",
+      "po0uhx",
+      "poseidon",
+      "pozzi",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Hermansyah 7uXn7nudorc Unsplash",
@@ -16774,7 +26505,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.02 MB",
     "path": "wallpapers/poseidon/hermansyah-7uXn7nudorc-unsplash.jpg",
-    "id": "wp_1864"
+    "id": "wp_1864",
+    "tags": [
+      "4k",
+      "7uxn7nudorc",
+      "hermansyah",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ivan Ragozin ICzu TVSjos Unsplash",
@@ -16783,7 +26522,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.64 MB",
     "path": "wallpapers/poseidon/ivan-ragozin-ICzu-TVSjos-unsplash.jpg",
-    "id": "wp_1865"
+    "id": "wp_1865",
+    "tags": [
+      "4k",
+      "iczu",
+      "ivan",
+      "poseidon",
+      "ragozin",
+      "tvsjos",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K James Donaldson ToPRrcyAIUY Unsplash",
@@ -16792,7 +26541,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.00 MB",
     "path": "wallpapers/poseidon/james-donaldson-toPRrcyAIUY-unsplash.jpg",
-    "id": "wp_1866"
+    "id": "wp_1866",
+    "tags": [
+      "4k",
+      "donaldson",
+      "james",
+      "poseidon",
+      "toprrcyaiuy",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jeremy Bishop 7KLUhedmR2c Unsplash",
@@ -16801,7 +26559,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.70 MB",
     "path": "wallpapers/poseidon/jeremy-bishop-7KLUhedmR2c-unsplash.jpg",
-    "id": "wp_1867"
+    "id": "wp_1867",
+    "tags": [
+      "4k",
+      "7kluhedmr2c",
+      "bishop",
+      "jeremy",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Jeremy Bishop A0wvBW Hjbs Unsplash",
@@ -16810,7 +26577,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.53 MB",
     "path": "wallpapers/poseidon/jeremy-bishop-A0wvBW-Hjbs-unsplash.jpg",
-    "id": "wp_1868"
+    "id": "wp_1868",
+    "tags": [
+      "4k",
+      "a0wvbw",
+      "bishop",
+      "hjbs",
+      "jeremy",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Joao Silveira Ships Docking In Portugal",
@@ -16819,7 +26596,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "8.70 MB",
     "path": "wallpapers/poseidon/joao-silveira-ships-docking-in-portugal.jpg",
-    "id": "wp_1869"
+    "id": "wp_1869",
+    "tags": [
+      "4k",
+      "docking",
+      "joao",
+      "portugal",
+      "poseidon",
+      "ships",
+      "silveira",
+      "uhd"
+    ]
   },
   {
     "name": "4K Joel Vodell 8Ogfqvw15Rg Unsplash",
@@ -16828,7 +26615,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.63 MB",
     "path": "wallpapers/poseidon/joel-vodell-8Ogfqvw15Rg-unsplash.jpg",
-    "id": "wp_1870"
+    "id": "wp_1870",
+    "tags": [
+      "4k",
+      "8ogfqvw15rg",
+      "joel",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "vodell"
+    ]
   },
   {
     "name": "4K John O Nolan YkeLTANUQyE Unsplash",
@@ -16837,7 +26633,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.84 MB",
     "path": "wallpapers/poseidon/john-o-nolan-ykeLTANUQyE-unsplash.jpg",
-    "id": "wp_1871"
+    "id": "wp_1871",
+    "tags": [
+      "4k",
+      "john",
+      "nolan",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "ykeltanuqye"
+    ]
   },
   {
     "name": "4K Johnny Africa ZX0S27D3fw Unsplash",
@@ -16846,7 +26651,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.31 MB",
     "path": "wallpapers/poseidon/johnny-africa-_ZX0S27D3fw-unsplash.jpg",
-    "id": "wp_1872"
+    "id": "wp_1872",
+    "tags": [
+      "4k",
+      "africa",
+      "johnny",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "zx0s27d3fw"
+    ]
   },
   {
     "name": "4K Johny Vino New York Harbour",
@@ -16855,7 +26669,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.20 MB",
     "path": "wallpapers/poseidon/johny-vino-new-york-harbour.jpg",
-    "id": "wp_1873"
+    "id": "wp_1873",
+    "tags": [
+      "4k",
+      "harbour",
+      "johny",
+      "new",
+      "poseidon",
+      "uhd",
+      "vino",
+      "york"
+    ]
   },
   {
     "name": "4K Jonathan Smith IlAAXi1TnbY Unsplash",
@@ -16864,7 +26688,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.51 MB",
     "path": "wallpapers/poseidon/jonathan-smith-ilAAXi1TnbY-unsplash.jpg",
-    "id": "wp_1874"
+    "id": "wp_1874",
+    "tags": [
+      "4k",
+      "ilaaxi1tnby",
+      "jonathan",
+      "poseidon",
+      "smith",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Kazden Cattapan ForMsOsa Ng Unsplash",
@@ -16873,7 +26706,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.14 MB",
     "path": "wallpapers/poseidon/kazden-cattapan-forMsOsa_Ng-unsplash.jpg",
-    "id": "wp_1875"
+    "id": "wp_1875",
+    "tags": [
+      "4k",
+      "cattapan",
+      "formsosa",
+      "kazden",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Kire M6Wg9t2Uq4 Unsplash",
@@ -16882,7 +26724,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.17 MB",
     "path": "wallpapers/poseidon/kire-_M6Wg9t2Uq4-unsplash.jpg",
-    "id": "wp_1876"
+    "id": "wp_1876",
+    "tags": [
+      "4k",
+      "kire",
+      "m6wg9t2uq4",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Laura Lugaresi 4o2gxfuD5BU Unsplash",
@@ -16891,7 +26741,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.12 MB",
     "path": "wallpapers/poseidon/laura-lugaresi-4o2gxfuD5BU-unsplash.jpg",
-    "id": "wp_1877"
+    "id": "wp_1877",
+    "tags": [
+      "4k",
+      "4o2gxfud5bu",
+      "laura",
+      "lugaresi",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Leonard Cotte P45bsq O L8 Unsplash",
@@ -16900,7 +26759,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.14 MB",
     "path": "wallpapers/poseidon/leonard-cotte-P45bsq-O_L8-unsplash.jpg",
-    "id": "wp_1878"
+    "id": "wp_1878",
+    "tags": [
+      "4k",
+      "cotte",
+      "leonard",
+      "p45bsq",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Luca Cassani KwShh0LgQik Unsplash",
@@ -16909,7 +26777,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.96 MB",
     "path": "wallpapers/poseidon/luca-cassani-kwShh0LgQik-unsplash.jpg",
-    "id": "wp_1879"
+    "id": "wp_1879",
+    "tags": [
+      "4k",
+      "cassani",
+      "kwshh0lgqik",
+      "luca",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Luis Diego Aguilar 4hl866ST7kI Unsplash",
@@ -16918,7 +26795,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.86 MB",
     "path": "wallpapers/poseidon/luis-diego-aguilar-4hl866ST7kI-unsplash.jpg",
-    "id": "wp_1880"
+    "id": "wp_1880",
+    "tags": [
+      "4hl866st7ki",
+      "4k",
+      "aguilar",
+      "diego",
+      "luis",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Marek Okon TWWCqIMiUmg Unsplash",
@@ -16927,7 +26814,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.98 MB",
     "path": "wallpapers/poseidon/marek-okon-tWWCqIMiUmg-unsplash.jpg",
-    "id": "wp_1881"
+    "id": "wp_1881",
+    "tags": [
+      "4k",
+      "marek",
+      "okon",
+      "poseidon",
+      "twwcqimiumg",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Massimo Virgilio Xi4H7Z9MDfA Unsplash",
@@ -16936,7 +26832,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.37 MB",
     "path": "wallpapers/poseidon/massimo-virgilio-xi4H7Z9MDfA-unsplash.jpg",
-    "id": "wp_1882"
+    "id": "wp_1882",
+    "tags": [
+      "4k",
+      "massimo",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "virgilio",
+      "xi4h7z9mdfa"
+    ]
   },
   {
     "name": "4K Matt Hardy 6ArTTluciuA Unsplash",
@@ -16945,7 +26850,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.51 MB",
     "path": "wallpapers/poseidon/matt-hardy-6ArTTluciuA-unsplash.jpg",
-    "id": "wp_1883"
+    "id": "wp_1883",
+    "tags": [
+      "4k",
+      "6arttluciua",
+      "hardy",
+      "matt",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Miltiadis Fragkidis YZBuJZ808 4 Unsplash",
@@ -16954,7 +26868,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.42 MB",
     "path": "wallpapers/poseidon/miltiadis-fragkidis-YZBuJZ808-4-unsplash.jpg",
-    "id": "wp_1884"
+    "id": "wp_1884",
+    "tags": [
+      "4k",
+      "fragkidis",
+      "miltiadis",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "yzbujz808"
+    ]
   },
   {
     "name": "4K Nasa WKT3TE5AQu0 Unsplash",
@@ -16963,7 +26886,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.32 MB",
     "path": "wallpapers/poseidon/nasa-WKT3TE5AQu0-unsplash.jpg",
-    "id": "wp_1885"
+    "id": "wp_1885",
+    "tags": [
+      "4k",
+      "nasa",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "wkt3te5aqu0"
+    ]
   },
   {
     "name": "4K Nasa KDsNr Vu7ms Unsplash",
@@ -16972,7 +26903,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.68 MB",
     "path": "wallpapers/poseidon/nasa-kDsNr-vu7ms-unsplash.jpg",
-    "id": "wp_1886"
+    "id": "wp_1886",
+    "tags": [
+      "4k",
+      "kdsnr",
+      "nasa",
+      "poseidon",
+      "uhd",
+      "unsplash",
+      "vu7ms"
+    ]
   },
   {
     "name": "4K Orva Studio YC8qqp50BdA Unsplash",
@@ -16981,7 +26921,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.10 MB",
     "path": "wallpapers/poseidon/orva-studio-YC8qqp50BdA-unsplash.jpg",
-    "id": "wp_1887"
+    "id": "wp_1887",
+    "tags": [
+      "4k",
+      "orva",
+      "poseidon",
+      "studio",
+      "uhd",
+      "unsplash",
+      "yc8qqp50bda"
+    ]
   },
   {
     "name": "4K Peter Fogden Jx5IB1f5 4w Unsplash",
@@ -16990,7 +26939,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.09 MB",
     "path": "wallpapers/poseidon/peter-fogden-Jx5IB1f5-4w-unsplash.jpg",
-    "id": "wp_1888"
+    "id": "wp_1888",
+    "tags": [
+      "4k",
+      "fogden",
+      "jx5ib1f5",
+      "peter",
+      "poseidon",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Quentin Lagache ToRqtc8iP60 Unsplash",
@@ -16999,7 +26957,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.61 MB",
     "path": "wallpapers/poseidon/quentin-lagache-toRqtc8iP60-unsplash.jpg",
-    "id": "wp_1889"
+    "id": "wp_1889",
+    "tags": [
+      "4k",
+      "lagache",
+      "poseidon",
+      "quentin",
+      "torqtc8ip60",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Romeo A VAtK8vTHb4Q Unsplash",
@@ -17008,7 +26975,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.33 MB",
     "path": "wallpapers/poseidon/romeo-a-VAtK8vTHb4Q-unsplash.jpg",
-    "id": "wp_1890"
+    "id": "wp_1890",
+    "tags": [
+      "4k",
+      "poseidon",
+      "romeo",
+      "uhd",
+      "unsplash",
+      "vatk8vthb4q"
+    ]
   },
   {
     "name": "4K Romeo A RZ7vGf5fzyM Unsplash",
@@ -17017,7 +26992,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.44 MB",
     "path": "wallpapers/poseidon/romeo-a-rZ7vGf5fzyM-unsplash.jpg",
-    "id": "wp_1891"
+    "id": "wp_1891",
+    "tags": [
+      "4k",
+      "poseidon",
+      "romeo",
+      "rz7vgf5fzym",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Sam Wermut 35muyqODIHA Unsplash",
@@ -17026,7 +27009,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.45 MB",
     "path": "wallpapers/poseidon/sam-wermut-35muyqODIHA-unsplash.jpg",
-    "id": "wp_1892"
+    "id": "wp_1892",
+    "tags": [
+      "35muyqodiha",
+      "4k",
+      "poseidon",
+      "sam",
+      "uhd",
+      "unsplash",
+      "wermut"
+    ]
   },
   {
     "name": "4K Samsommer J3ABLQjZQBg Unsplash",
@@ -17035,7 +27027,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.50 MB",
     "path": "wallpapers/poseidon/samsommer-J3ABLQjZQBg-unsplash.jpg",
-    "id": "wp_1893"
+    "id": "wp_1893",
+    "tags": [
+      "4k",
+      "j3ablqjzqbg",
+      "poseidon",
+      "samsommer",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Sean 105m46GatAg Unsplash",
@@ -17044,7 +27044,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.98 MB",
     "path": "wallpapers/poseidon/sean-105m46GatAg-unsplash.jpg",
-    "id": "wp_1894"
+    "id": "wp_1894",
+    "tags": [
+      "105m46gatag",
+      "4k",
+      "poseidon",
+      "sean",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon 4mQbBC6Do0Y Unsplash",
@@ -17053,7 +27061,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.67 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-4mQbBC6Do0Y-unsplash.jpg",
-    "id": "wp_1895"
+    "id": "wp_1895",
+    "tags": [
+      "4k",
+      "4mqbbc6do0y",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon 58GWNC Hq K Unsplash",
@@ -17062,7 +27079,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.65 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-58GWNC-hq_k-unsplash.jpg",
-    "id": "wp_1896"
+    "id": "wp_1896",
+    "tags": [
+      "4k",
+      "58gwnc",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon 9K9ipjhDdks Unsplash",
@@ -17071,7 +27097,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.47 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg",
-    "id": "wp_1897"
+    "id": "wp_1897",
+    "tags": [
+      "4k",
+      "9k9ipjhddks",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon QwhQR KF0AQ Unsplash",
@@ -17080,7 +27115,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.69 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-QwhQR_kF0AQ-unsplash.jpg",
-    "id": "wp_1898"
+    "id": "wp_1898",
+    "tags": [
+      "4k",
+      "kf0aq",
+      "poseidon",
+      "qwhqr",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon Rl9l9mL6Pvs Unsplash",
@@ -17089,7 +27134,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.19 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-Rl9l9mL6Pvs-unsplash.jpg",
-    "id": "wp_1899"
+    "id": "wp_1899",
+    "tags": [
+      "4k",
+      "poseidon",
+      "rl9l9ml6pvs",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon IkVBaapsTPg Unsplash",
@@ -17098,7 +27152,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.73 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg",
-    "id": "wp_1900"
+    "id": "wp_1900",
+    "tags": [
+      "4k",
+      "ikvbaapstpg",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon Nl4UmJuc Gw Unsplash",
@@ -17107,7 +27170,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.06 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-nl4UmJuc-gw-unsplash.jpg",
-    "id": "wp_1901"
+    "id": "wp_1901",
+    "tags": [
+      "4k",
+      "nl4umjuc",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon OR0uERTVyD0 Unsplash",
@@ -17116,7 +27188,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.30 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg",
-    "id": "wp_1902"
+    "id": "wp_1902",
+    "tags": [
+      "4k",
+      "or0uertvyd0",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Shifaaz Shamoon SLAk1guBG90 Unsplash",
@@ -17125,7 +27206,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.85 MB",
     "path": "wallpapers/poseidon/shifaaz-shamoon-sLAk1guBG90-unsplash.jpg",
-    "id": "wp_1903"
+    "id": "wp_1903",
+    "tags": [
+      "4k",
+      "poseidon",
+      "shamoon",
+      "shifaaz",
+      "slak1gubg90",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Silas Baisch LDiZP1yLQxg Unsplash",
@@ -17134,7 +27224,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.97 MB",
     "path": "wallpapers/poseidon/silas-baisch-LDiZP1yLQxg-unsplash.jpg",
-    "id": "wp_1904"
+    "id": "wp_1904",
+    "tags": [
+      "4k",
+      "baisch",
+      "ldizp1ylqxg",
+      "poseidon",
+      "silas",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Silas Baisch OCzvgBqCJKY Unsplash",
@@ -17143,7 +27242,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.28 MB",
     "path": "wallpapers/poseidon/silas-baisch-OCzvgBqCJKY-unsplash.jpg",
-    "id": "wp_1905"
+    "id": "wp_1905",
+    "tags": [
+      "4k",
+      "baisch",
+      "oczvgbqcjky",
+      "poseidon",
+      "silas",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Stefanie Akkerman MiERXgVogyM Unsplash",
@@ -17152,7 +27260,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.99 MB",
     "path": "wallpapers/poseidon/stefanie-akkerman-miERXgVogyM-unsplash.jpg",
-    "id": "wp_1906"
+    "id": "wp_1906",
+    "tags": [
+      "4k",
+      "akkerman",
+      "mierxgvogym",
+      "poseidon",
+      "stefanie",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Sterling Lanier WDBqiHt3tNo Unsplash",
@@ -17161,7 +27278,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.14 MB",
     "path": "wallpapers/poseidon/sterling-lanier-WDBqiHt3tNo-unsplash.jpg",
-    "id": "wp_1907"
+    "id": "wp_1907",
+    "tags": [
+      "4k",
+      "lanier",
+      "poseidon",
+      "sterling",
+      "uhd",
+      "unsplash",
+      "wdbqiht3tno"
+    ]
   },
   {
     "name": "4K Syd Sujuaan FywWHwkizaQ Unsplash",
@@ -17170,7 +27296,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.24 MB",
     "path": "wallpapers/poseidon/syd-sujuaan-FywWHwkizaQ-unsplash.jpg",
-    "id": "wp_1908"
+    "id": "wp_1908",
+    "tags": [
+      "4k",
+      "fywwhwkizaq",
+      "poseidon",
+      "sujuaan",
+      "syd",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Syuhei Inoue 19e FIygUPE Unsplash",
@@ -17179,7 +27314,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.91 MB",
     "path": "wallpapers/poseidon/syuhei-inoue-19e_fIygUPE-unsplash.jpg",
-    "id": "wp_1909"
+    "id": "wp_1909",
+    "tags": [
+      "19e",
+      "4k",
+      "fiygupe",
+      "inoue",
+      "poseidon",
+      "syuhei",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Thierry Meier PKEPAeMBOIU Unsplash",
@@ -17188,7 +27333,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "wallpapers/poseidon/thierry-meier-PKEPAeMBOIU-unsplash.jpg",
-    "id": "wp_1910"
+    "id": "wp_1910",
+    "tags": [
+      "4k",
+      "meier",
+      "pkepaemboiu",
+      "poseidon",
+      "thierry",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Thomas Vimare IZ01rjX0XQA Unsplash",
@@ -17197,7 +27351,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "wallpapers/poseidon/thomas-vimare-IZ01rjX0XQA-unsplash.jpg",
-    "id": "wp_1911"
+    "id": "wp_1911",
+    "tags": [
+      "4k",
+      "iz01rjx0xqa",
+      "poseidon",
+      "thomas",
+      "uhd",
+      "unsplash",
+      "vimare"
+    ]
   },
   {
     "name": "4K Tim Marshall UanoYn1AmPs Unsplash",
@@ -17206,7 +27369,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.63 MB",
     "path": "wallpapers/poseidon/tim-marshall-uanoYn1AmPs-unsplash.jpg",
-    "id": "wp_1912"
+    "id": "wp_1912",
+    "tags": [
+      "4k",
+      "marshall",
+      "poseidon",
+      "tim",
+      "uanoyn1amps",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Tim Marshall YEOCA6oiVqg Unsplash",
@@ -17215,7 +27387,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.99 MB",
     "path": "wallpapers/poseidon/tim-marshall-yEOCA6oiVqg-unsplash.jpg",
-    "id": "wp_1913"
+    "id": "wp_1913",
+    "tags": [
+      "4k",
+      "marshall",
+      "poseidon",
+      "tim",
+      "uhd",
+      "unsplash",
+      "yeoca6oivqg"
+    ]
   },
   {
     "name": "4K Two Boats Off Maldives",
@@ -17224,7 +27405,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.79 MB",
     "path": "wallpapers/poseidon/two-boats-off-maldives.jpg",
-    "id": "wp_1914"
+    "id": "wp_1914",
+    "tags": [
+      "4k",
+      "boats",
+      "maldives",
+      "off",
+      "poseidon",
+      "two",
+      "uhd"
+    ]
   },
   {
     "name": "4K Vasiliki Theodoridou 5hwgNSho GA Unsplash",
@@ -17233,7 +27423,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.96 MB",
     "path": "wallpapers/poseidon/vasiliki-theodoridou-5hwgNSho-gA-unsplash.jpg",
-    "id": "wp_1915"
+    "id": "wp_1915",
+    "tags": [
+      "4k",
+      "5hwgnsho",
+      "poseidon",
+      "theodoridou",
+      "uhd",
+      "unsplash",
+      "vasiliki"
+    ]
   },
   {
     "name": "4K Yucar Studios CfR V1QuEKw Unsplash",
@@ -17242,7 +27441,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.54 MB",
     "path": "wallpapers/poseidon/yucar-studios-cfR-V1QuEKw-unsplash.jpg",
-    "id": "wp_1916"
+    "id": "wp_1916",
+    "tags": [
+      "4k",
+      "cfr",
+      "poseidon",
+      "studios",
+      "uhd",
+      "unsplash",
+      "v1quekw",
+      "yucar"
+    ]
   },
   {
     "name": "4K 7e5294 9b9219bf09aa44c7beec83c4733b1f3b~Mv2 D 3906 3939 S 4 2",
@@ -17251,7 +27460,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.02 MB",
     "path": "wallpapers/psychedelic/7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg",
-    "id": "wp_1917"
+    "id": "wp_1917",
+    "tags": [
+      "4k",
+      "7e5294",
+      "9b9219bf09aa44c7beec83c4733b1f3b",
+      "mv2",
+      "psychedelic",
+      "uhd"
+    ]
   },
   {
     "name": "4K Alex Grey Net Of Being",
@@ -17260,7 +27477,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.18 MB",
     "path": "wallpapers/psychedelic/Alex Grey - Net of Being.jpg",
-    "id": "wp_1918"
+    "id": "wp_1918",
+    "tags": [
+      "4k",
+      "alex",
+      "being",
+      "grey",
+      "net",
+      "psychedelic",
+      "uhd"
+    ]
   },
   {
     "name": "4K Binf17Y",
@@ -17269,7 +27495,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.64 MB",
     "path": "wallpapers/psychedelic/Binf17Y.jpg",
-    "id": "wp_1919"
+    "id": "wp_1919",
+    "tags": [
+      "4k",
+      "binf17y",
+      "psychedelic",
+      "uhd"
+    ]
   },
   {
     "name": "4K Jellyfish Night Fantasy Artwork Psychedelic 4000x2400",
@@ -17278,7 +27510,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.70 MB",
     "path": "wallpapers/psychedelic/Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg",
-    "id": "wp_1920"
+    "id": "wp_1920",
+    "tags": [
+      "4000x2400",
+      "4k",
+      "artwork",
+      "fantasy",
+      "jellyfish",
+      "night",
+      "psychedelic",
+      "uhd"
+    ]
   },
   {
     "name": "4K MD2o9m",
@@ -17287,7 +27529,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.88 MB",
     "path": "wallpapers/psychedelic/MD2o9m.jpg",
-    "id": "wp_1921"
+    "id": "wp_1921",
+    "tags": [
+      "4k",
+      "md2o9m",
+      "psychedelic",
+      "uhd"
+    ]
   },
   {
     "name": "4K Abstract Window Glass City Urban Pattern 1168704 Pxhere.Com",
@@ -17296,7 +27544,20 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.81 MB",
     "path": "wallpapers/psychedelic/abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg",
-    "id": "wp_1922"
+    "id": "wp_1922",
+    "tags": [
+      "4k",
+      "abstract",
+      "city",
+      "com",
+      "glass",
+      "pattern",
+      "psychedelic",
+      "pxhere",
+      "uhd",
+      "urban",
+      "window"
+    ]
   },
   {
     "name": "4K Peter Burdon BaVn5jdPnHw Unsplash",
@@ -17305,7 +27566,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "5.93 MB",
     "path": "wallpapers/psychedelic/peter-burdon-BaVn5jdPnHw-unsplash.jpg",
-    "id": "wp_1923"
+    "id": "wp_1923",
+    "tags": [
+      "4k",
+      "bavn5jdpnhw",
+      "burdon",
+      "peter",
+      "psychedelic",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Susan Wilkinson UFAscr07OaQ Unsplash",
@@ -17314,7 +27584,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.51 MB",
     "path": "wallpapers/psychedelic/susan-wilkinson-UFAscr07OaQ-unsplash.jpg",
-    "id": "wp_1924"
+    "id": "wp_1924",
+    "tags": [
+      "4k",
+      "psychedelic",
+      "susan",
+      "ufascr07oaq",
+      "uhd",
+      "unsplash",
+      "wilkinson"
+    ]
   },
   {
     "name": "4K 55459753868 458217b2c9 O",
@@ -17323,7 +27602,13 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "wallpapers/space/55459753868-458217b2c9-o.jpg",
-    "id": "wp_1925"
+    "id": "wp_1925",
+    "tags": [
+      "458217b2c9",
+      "4k",
+      "space",
+      "uhd"
+    ]
   },
   {
     "name": "4K NOUNS Saturn",
@@ -17332,7 +27617,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.04 MB",
     "path": "wallpapers/space/NOUNS-saturn.jpg",
-    "id": "wp_1926"
+    "id": "wp_1926",
+    "tags": [
+      "4k",
+      "nouns",
+      "saturn",
+      "space",
+      "uhd"
+    ]
   },
   {
     "name": "4K Aldebaran S QtRF RxCAo0 Unsplash",
@@ -17341,7 +27633,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.29 MB",
     "path": "wallpapers/space/aldebaran-s-qtRF_RxCAo0-unsplash.jpg",
-    "id": "wp_1927"
+    "id": "wp_1927",
+    "tags": [
+      "4k",
+      "aldebaran",
+      "qtrf",
+      "rxcao0",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Aldebaran S UXchDIKs4qI Unsplash",
@@ -17350,7 +27651,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.70 MB",
     "path": "wallpapers/space/aldebaran-s-uXchDIKs4qI-unsplash.jpg",
-    "id": "wp_1928"
+    "id": "wp_1928",
+    "tags": [
+      "4k",
+      "aldebaran",
+      "space",
+      "uhd",
+      "unsplash",
+      "uxchdiks4qi"
+    ]
   },
   {
     "name": "4K Aperture Vintage Z6EpCdMcoUU Unsplash",
@@ -17359,7 +27668,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.77 MB",
     "path": "wallpapers/space/aperture-vintage-Z6EpCdMcoUU-unsplash.jpg",
-    "id": "wp_1929"
+    "id": "wp_1929",
+    "tags": [
+      "4k",
+      "aperture",
+      "space",
+      "uhd",
+      "unsplash",
+      "vintage",
+      "z6epcdmcouu"
+    ]
   },
   {
     "name": "4K Doug Walters QQ9MzSs O1I Unsplash",
@@ -17368,7 +27686,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "wallpapers/space/doug-walters-QQ9MzSs-o1I-unsplash.jpg",
-    "id": "wp_1930"
+    "id": "wp_1930",
+    "tags": [
+      "4k",
+      "doug",
+      "o1i",
+      "qq9mzss",
+      "space",
+      "uhd",
+      "unsplash",
+      "walters"
+    ]
   },
   {
     "name": "4K Guillermo Ferla Oze6U2m1oYU Unsplash",
@@ -17377,7 +27705,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.04 MB",
     "path": "wallpapers/space/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg",
-    "id": "wp_1931"
+    "id": "wp_1931",
+    "tags": [
+      "4k",
+      "ferla",
+      "guillermo",
+      "oze6u2m1oyu",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Ian Parker RWey WseEcY Unsplash",
@@ -17386,7 +27723,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.81 MB",
     "path": "wallpapers/space/ian-parker-rWey_wseEcY-unsplash.jpg",
-    "id": "wp_1932"
+    "id": "wp_1932",
+    "tags": [
+      "4k",
+      "ian",
+      "parker",
+      "rwey",
+      "space",
+      "uhd",
+      "unsplash",
+      "wseecy"
+    ]
   },
   {
     "name": "4K Nasa 5477L9Z5eqI Unsplash",
@@ -17395,7 +27742,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.35 MB",
     "path": "wallpapers/space/nasa-5477L9Z5eqI-unsplash.jpg",
-    "id": "wp_1933"
+    "id": "wp_1933",
+    "tags": [
+      "4k",
+      "5477l9z5eqi",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa 8Hjx3GNZYeA Unsplash",
@@ -17404,7 +27759,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.66 MB",
     "path": "wallpapers/space/nasa-8Hjx3GNZYeA-unsplash.jpg",
-    "id": "wp_1934"
+    "id": "wp_1934",
+    "tags": [
+      "4k",
+      "8hjx3gnzyea",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa CpHNKNRwXps Unsplash",
@@ -17413,7 +27776,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.79 MB",
     "path": "wallpapers/space/nasa-CpHNKNRwXps-unsplash.jpg",
-    "id": "wp_1935"
+    "id": "wp_1935",
+    "tags": [
+      "4k",
+      "cphnknrwxps",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa Q1p7bh3SHj8 Unsplash",
@@ -17422,7 +27793,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.84 MB",
     "path": "wallpapers/space/nasa-Q1p7bh3SHj8-unsplash.jpg",
-    "id": "wp_1936"
+    "id": "wp_1936",
+    "tags": [
+      "4k",
+      "nasa",
+      "q1p7bh3shj8",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa Yj1M5riCKk4 Unsplash",
@@ -17431,7 +27810,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.50 MB",
     "path": "wallpapers/space/nasa-Yj1M5riCKk4-unsplash.jpg",
-    "id": "wp_1937"
+    "id": "wp_1937",
+    "tags": [
+      "4k",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash",
+      "yj1m5rickk4"
+    ]
   },
   {
     "name": "4K Nasa CoEJ3MW8jV8 Unsplash",
@@ -17440,7 +27827,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.73 MB",
     "path": "wallpapers/space/nasa-coEJ3MW8jV8-unsplash.jpg",
-    "id": "wp_1938"
+    "id": "wp_1938",
+    "tags": [
+      "4k",
+      "coej3mw8jv8",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Nasa YZygONrUBe8 Unsplash",
@@ -17449,7 +27844,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.49 MB",
     "path": "wallpapers/space/nasa-yZygONrUBe8-unsplash.jpg",
-    "id": "wp_1939"
+    "id": "wp_1939",
+    "tags": [
+      "4k",
+      "nasa",
+      "space",
+      "uhd",
+      "unsplash",
+      "yzygonrube8"
+    ]
   },
   {
     "name": "4K Nate Rayfield WR6tUIAJe8 Unsplash",
@@ -17458,7 +27861,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.76 MB",
     "path": "wallpapers/space/nate-rayfield-_WR6tUIAJe8-unsplash.jpg",
-    "id": "wp_1940"
+    "id": "wp_1940",
+    "tags": [
+      "4k",
+      "nate",
+      "rayfield",
+      "space",
+      "uhd",
+      "unsplash",
+      "wr6tuiaje8"
+    ]
   },
   {
     "name": "4K Nicolas Thomas WKlqqfNTLsI Unsplash",
@@ -17467,7 +27879,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.88 MB",
     "path": "wallpapers/space/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg",
-    "id": "wp_1941"
+    "id": "wp_1941",
+    "tags": [
+      "4k",
+      "nicolas",
+      "space",
+      "thomas",
+      "uhd",
+      "unsplash",
+      "wklqqfntlsi"
+    ]
   },
   {
     "name": "4K Nighthawk",
@@ -17476,7 +27897,13 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.03 MB",
     "path": "wallpapers/space/nighthawk.png",
-    "id": "wp_1942"
+    "id": "wp_1942",
+    "tags": [
+      "4k",
+      "nighthawk",
+      "space",
+      "uhd"
+    ]
   },
   {
     "name": "4K Niketh Vellanki QkSN 8XcXwQ Unsplash",
@@ -17485,7 +27912,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.07 MB",
     "path": "wallpapers/space/niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg",
-    "id": "wp_1943"
+    "id": "wp_1943",
+    "tags": [
+      "4k",
+      "8xcxwq",
+      "niketh",
+      "qksn",
+      "space",
+      "uhd",
+      "unsplash",
+      "vellanki"
+    ]
   },
   {
     "name": "4K Saturn I Think",
@@ -17494,7 +27931,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "wallpapers/space/saturn-i-think.jpg",
-    "id": "wp_1944"
+    "id": "wp_1944",
+    "tags": [
+      "4k",
+      "saturn",
+      "space",
+      "think",
+      "uhd"
+    ]
   },
   {
     "name": "4K Shot By Cerqueira 0o GEzyargo Unsplash",
@@ -17503,7 +27947,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "3.19 MB",
     "path": "wallpapers/space/shot-by-cerqueira-0o_GEzyargo-unsplash.jpg",
-    "id": "wp_1945"
+    "id": "wp_1945",
+    "tags": [
+      "4k",
+      "cerqueira",
+      "gezyargo",
+      "shot",
+      "space",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Spacex P KCm6xB9I Unsplash",
@@ -17512,7 +27965,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "wallpapers/space/spacex--p-KCm6xB9I-unsplash.jpg",
-    "id": "wp_1946"
+    "id": "wp_1946",
+    "tags": [
+      "4k",
+      "kcm6xb9i",
+      "space",
+      "spacex",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Spacex YJv97tE7GDM Unsplash",
@@ -17521,7 +27982,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "wallpapers/space/spacex-yJv97tE7GDM-unsplash.jpg",
-    "id": "wp_1947"
+    "id": "wp_1947",
+    "tags": [
+      "4k",
+      "space",
+      "spacex",
+      "uhd",
+      "unsplash",
+      "yjv97te7gdm"
+    ]
   },
   {
     "name": "4K Steve Busch BhBD1RMjVQ8 Unsplash",
@@ -17530,7 +27999,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.78 MB",
     "path": "wallpapers/space/steve-busch-bhBD1RMjVQ8-unsplash.jpg",
-    "id": "wp_1948"
+    "id": "wp_1948",
+    "tags": [
+      "4k",
+      "bhbd1rmjvq8",
+      "busch",
+      "space",
+      "steve",
+      "uhd",
+      "unsplash"
+    ]
   },
   {
     "name": "4K Stravros Messios Blood Moon In Cyprus",
@@ -17539,7 +28017,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.80 MB",
     "path": "wallpapers/space/stravros-messios-blood-moon-in-cyprus.jpg",
-    "id": "wp_1949"
+    "id": "wp_1949",
+    "tags": [
+      "4k",
+      "blood",
+      "cyprus",
+      "messios",
+      "moon",
+      "space",
+      "stravros",
+      "uhd"
+    ]
   },
   {
     "name": "4K Stsci 01kx6d0xbhsyp7q1em5qtc43rp",
@@ -17548,7 +28036,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "16.50 MB",
     "path": "wallpapers/space/stsci-01kx6d0xbhsyp7q1em5qtc43rp.jpg",
-    "id": "wp_1950"
+    "id": "wp_1950",
+    "tags": [
+      "01kx6d0xbhsyp7q1em5qtc43rp",
+      "4k",
+      "space",
+      "stsci",
+      "uhd"
+    ]
   },
   {
     "name": "4K Tyler Van Der Hoeven Ok8uVzL2gI Unsplash",
@@ -17557,7 +28052,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "wallpapers/space/tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg",
-    "id": "wp_1951"
+    "id": "wp_1951",
+    "tags": [
+      "4k",
+      "der",
+      "hoeven",
+      "ok8uvzl2gi",
+      "space",
+      "tyler",
+      "uhd",
+      "unsplash",
+      "van"
+    ]
   },
   {
     "name": "4K 10 0 10 1 6k",
@@ -17566,7 +28072,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "4.59 MB",
     "path": "wallpapers/win-mac/10-0_10-1-6k.jpg",
-    "id": "wp_1952"
+    "id": "wp_1952",
+    "tags": [
+      "4k",
+      "mac",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K 10 5 Server 6k",
@@ -17575,7 +28088,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "6.21 MB",
     "path": "wallpapers/win-mac/10-5-Server-6k.jpg",
-    "id": "wp_1953"
+    "id": "wp_1953",
+    "tags": [
+      "4k",
+      "mac",
+      "server",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K MacBook Pro Event Wallpaper Ari Weinkle Spiral 1B",
@@ -17584,7 +28105,21 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.92 MB",
     "path": "wallpapers/win-mac/MacBook-Pro-Event-Wallpaper-ari-weinkle-Spiral_1B.jpg",
-    "id": "wp_1954"
+    "id": "wp_1954",
+    "tags": [
+      "4k",
+      "ari",
+      "event",
+      "mac",
+      "macbook",
+      "pro",
+      "spiral",
+      "uhd",
+      "wallpaper",
+      "weinkle",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K MacBook Pro Event Wallpaper Ari Weinkle Spiral 4B",
@@ -17593,7 +28128,21 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "wallpapers/win-mac/MacBook-Pro-Event-Wallpaper-ari-weinkle-Spiral_4B.jpg",
-    "id": "wp_1955"
+    "id": "wp_1955",
+    "tags": [
+      "4k",
+      "ari",
+      "event",
+      "mac",
+      "macbook",
+      "pro",
+      "spiral",
+      "uhd",
+      "wallpaper",
+      "weinkle",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K OSX 10 5 6k",
@@ -17602,7 +28151,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "10.30 MB",
     "path": "wallpapers/win-mac/OSX-10-5-6k.jpg",
-    "id": "wp_1956"
+    "id": "wp_1956",
+    "tags": [
+      "4k",
+      "mac",
+      "osx",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K OSX 10 6 6k",
@@ -17611,7 +28168,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "10.81 MB",
     "path": "wallpapers/win-mac/OSX-10-6-6k.jpg",
-    "id": "wp_1957"
+    "id": "wp_1957",
+    "tags": [
+      "4k",
+      "mac",
+      "osx",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K OSX 10 6 Server 6k",
@@ -17620,7 +28185,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "9.51 MB",
     "path": "wallpapers/win-mac/OSX-10-6-Server-6k.jpg",
-    "id": "wp_1958"
+    "id": "wp_1958",
+    "tags": [
+      "4k",
+      "mac",
+      "osx",
+      "server",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K OSX 10 7 6k",
@@ -17629,7 +28203,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "19.08 MB",
     "path": "wallpapers/win-mac/OSX-10-7-6k.jpg",
-    "id": "wp_1959"
+    "id": "wp_1959",
+    "tags": [
+      "4k",
+      "mac",
+      "osx",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K OSX 10 8 6k",
@@ -17638,7 +28220,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "10.55 MB",
     "path": "wallpapers/win-mac/OSX-10-8-6k.jpg",
-    "id": "wp_1960"
+    "id": "wp_1960",
+    "tags": [
+      "4k",
+      "mac",
+      "osx",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K Color Burst 2",
@@ -17647,7 +28237,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.58 MB",
     "path": "wallpapers/win-mac/color-burst-2.jpg",
-    "id": "wp_1961"
+    "id": "wp_1961",
+    "tags": [
+      "4k",
+      "burst",
+      "color",
+      "mac",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K Color Burst 3",
@@ -17656,7 +28255,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.41 MB",
     "path": "wallpapers/win-mac/color-burst-3.jpg",
-    "id": "wp_1962"
+    "id": "wp_1962",
+    "tags": [
+      "4k",
+      "burst",
+      "color",
+      "mac",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K Vista",
@@ -17665,7 +28273,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "2.07 MB",
     "path": "wallpapers/win-mac/vista.jpg",
-    "id": "wp_1963"
+    "id": "wp_1963",
+    "tags": [
+      "4k",
+      "mac",
+      "uhd",
+      "vista",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K Win 98",
@@ -17674,7 +28290,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.07 MB",
     "path": "wallpapers/win-mac/win-98.png",
-    "id": "wp_1964"
+    "id": "wp_1964",
+    "tags": [
+      "4k",
+      "mac",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "4K Windows Xp Bliss 4k Lu",
@@ -17683,7 +28306,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "wallpapers/win-mac/windows-xp-bliss-4k-lu.jpg",
-    "id": "wp_1965"
+    "id": "wp_1965",
+    "tags": [
+      "4k",
+      "bliss",
+      "mac",
+      "uhd",
+      "win",
+      "windows"
+    ]
   },
   {
     "name": "Electronic Sample 96 Calm Night",
@@ -17692,7 +28323,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.85 MB",
     "path": "images/Electronic_Sample_96-calm-night.png",
-    "id": "wp_1966"
+    "id": "wp_1966",
+    "tags": [
+      "4k",
+      "calm",
+      "electronic",
+      "minimalist",
+      "night",
+      "sample",
+      "uhd"
+    ]
   },
   {
     "name": "OGARart Eagle Mountain Sunset Minimalist",
@@ -17701,7 +28341,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/OGARart-eagle-mountain-sunset-minimalist.jpg",
-    "id": "wp_1967"
+    "id": "wp_1967",
+    "tags": [
+      "4k",
+      "eagle",
+      "minimalist",
+      "mountain",
+      "ogarart",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "P82En Cherry Blossom Mountain Range",
@@ -17710,7 +28359,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.67 MB",
     "path": "images/P82En-cherry-blossom-mountain-range.jpg",
-    "id": "wp_1968"
+    "id": "wp_1968",
+    "tags": [
+      "4k",
+      "blossom",
+      "cherry",
+      "minimalist",
+      "mountain",
+      "p82en",
+      "range",
+      "uhd"
+    ]
   },
   {
     "name": "VorgBardo Midjourney 1960s Sci Fi Planet",
@@ -17719,7 +28378,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/VorgBardo-midjourney-1960s-sci-fi-planet.jpg",
-    "id": "wp_1969"
+    "id": "wp_1969",
+    "tags": [
+      "1960s",
+      "4k",
+      "midjourney",
+      "minimalist",
+      "planet",
+      "sci",
+      "uhd",
+      "vorgbardo"
+    ]
   },
   {
     "name": "Acoolrocket Dalle2 Hokusai Non Prompt Landscape",
@@ -17728,7 +28397,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.26 MB",
     "path": "images/acoolrocket-dalle2-hokusai-non-prompt-landscape.png",
-    "id": "wp_1970"
+    "id": "wp_1970",
+    "tags": [
+      "4k",
+      "acoolrocket",
+      "dalle2",
+      "hokusai",
+      "landscape",
+      "minimalist",
+      "non",
+      "prompt",
+      "uhd"
+    ]
   },
   {
     "name": "Afreen Red Sunset Horizon",
@@ -17737,7 +28417,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.78 MB",
     "path": "images/afreen-red-sunset-horizon.png",
-    "id": "wp_1971"
+    "id": "wp_1971",
+    "tags": [
+      "4k",
+      "afreen",
+      "horizon",
+      "minimalist",
+      "red",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Another World",
@@ -17746,7 +28435,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/alejagalesa-another-world.jpg",
-    "id": "wp_1972"
+    "id": "wp_1972",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "another",
+      "minimalist",
+      "uhd",
+      "world"
+    ]
   },
   {
     "name": "Alejagalesa Calm Day",
@@ -17755,7 +28452,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/alejagalesa-calm-day.jpg",
-    "id": "wp_1973"
+    "id": "wp_1973",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "calm",
+      "day",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Camp",
@@ -17764,7 +28469,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.20 MB",
     "path": "images/alejagalesa-camp.jpg",
-    "id": "wp_1974"
+    "id": "wp_1974",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "camp",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Horse In The Sunset",
@@ -17773,7 +28485,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/alejagalesa-horse-in-the-sunset.jpg",
-    "id": "wp_1975"
+    "id": "wp_1975",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "horse",
+      "minimalist",
+      "sunset",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Modern Buildings",
@@ -17782,7 +28503,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "images/alejagalesa-modern-buildings.jpg",
-    "id": "wp_1976"
+    "id": "wp_1976",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "buildings",
+      "minimalist",
+      "modern",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Mount Fuji",
@@ -17791,7 +28520,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/alejagalesa-mount-fuji.jpg",
-    "id": "wp_1977"
+    "id": "wp_1977",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "fuji",
+      "minimalist",
+      "mount",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Multivist Landscape",
@@ -17800,7 +28537,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/alejagalesa-multivist-landscape.jpg",
-    "id": "wp_1978"
+    "id": "wp_1978",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "landscape",
+      "minimalist",
+      "multivist",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Pink Landscape",
@@ -17809,7 +28554,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/alejagalesa-pink-landscape.jpg",
-    "id": "wp_1979"
+    "id": "wp_1979",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "landscape",
+      "minimalist",
+      "pink",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Purple Bear",
@@ -17818,7 +28571,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/alejagalesa-purple-bear.jpg",
-    "id": "wp_1980"
+    "id": "wp_1980",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "bear",
+      "minimalist",
+      "purple",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa Starry Nigh",
@@ -17827,7 +28588,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "images/alejagalesa-starry-nigh.jpg",
-    "id": "wp_1981"
+    "id": "wp_1981",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "minimalist",
+      "nigh",
+      "starry",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa The Beach Neighborhood",
@@ -17836,7 +28605,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/alejagalesa-the-beach-neighborhood.jpg",
-    "id": "wp_1982"
+    "id": "wp_1982",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "beach",
+      "minimalist",
+      "neighborhood",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Alejagalesa The City",
@@ -17845,7 +28623,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/alejagalesa-the-city.jpg",
-    "id": "wp_1983"
+    "id": "wp_1983",
+    "tags": [
+      "4k",
+      "alejagalesa",
+      "city",
+      "minimalist",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami 7pm",
@@ -17854,7 +28640,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.37 MB",
     "path": "images/alena-aenami-7pm.png",
-    "id": "wp_1984"
+    "id": "wp_1984",
+    "tags": [
+      "4k",
+      "7pm",
+      "aenami",
+      "alena",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Any Minute Now",
@@ -17863,7 +28657,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/alena-aenami-any-minute-now.jpg",
-    "id": "wp_1985"
+    "id": "wp_1985",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "any",
+      "minimalist",
+      "minute",
+      "now",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Around Us",
@@ -17872,7 +28676,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/alena-aenami-around-us.jpg",
-    "id": "wp_1986"
+    "id": "wp_1986",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "around",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Autumn In Budapest",
@@ -17881,7 +28693,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.94 MB",
     "path": "images/alena-aenami-autumn-in-budapest.png",
-    "id": "wp_1987"
+    "id": "wp_1987",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "autumn",
+      "budapest",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Away",
@@ -17890,7 +28711,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "images/alena-aenami-away.jpg",
-    "id": "wp_1988"
+    "id": "wp_1988",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "away",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Blue Hour",
@@ -17899,7 +28728,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "images/alena-aenami-blue-hour.jpg",
-    "id": "wp_1989"
+    "id": "wp_1989",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "blue",
+      "hour",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Castle In The Sky",
@@ -17908,7 +28746,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.49 MB",
     "path": "images/alena-aenami-castle-in-the-sky.jpg",
-    "id": "wp_1990"
+    "id": "wp_1990",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "castle",
+      "minimalist",
+      "sky",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Clouds",
@@ -17917,7 +28765,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.79 MB",
     "path": "images/alena-aenami-clouds.jpg",
-    "id": "wp_1991"
+    "id": "wp_1991",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "clouds",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Dawn",
@@ -17926,7 +28782,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/alena-aenami-dawn.jpg",
-    "id": "wp_1992"
+    "id": "wp_1992",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "dawn",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Eclipse",
@@ -17935,7 +28799,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/alena-aenami-eclipse.jpg",
-    "id": "wp_1993"
+    "id": "wp_1993",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "eclipse",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Escape",
@@ -17944,7 +28816,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/alena-aenami-escape.jpg",
-    "id": "wp_1994"
+    "id": "wp_1994",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "escape",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Far From Tomorrow",
@@ -17953,7 +28833,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "images/alena-aenami-far-from-tomorrow.jpg",
-    "id": "wp_1995"
+    "id": "wp_1995",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "far",
+      "from",
+      "minimalist",
+      "tomorrow",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Horizon",
@@ -17962,7 +28852,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.47 MB",
     "path": "images/alena-aenami-horizon.png",
-    "id": "wp_1996"
+    "id": "wp_1996",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "horizon",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami In Search Of Peace",
@@ -17971,7 +28869,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.14 MB",
     "path": "images/alena-aenami-in-search-of-peace.png",
-    "id": "wp_1997"
+    "id": "wp_1997",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "peace",
+      "search",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Lights",
@@ -17980,7 +28887,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "images/alena-aenami-lights.jpg",
-    "id": "wp_1998"
+    "id": "wp_1998",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "lights",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Lost In Between",
@@ -17989,7 +28904,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "images/alena-aenami-lost-in-between.jpg",
-    "id": "wp_1999"
+    "id": "wp_1999",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "between",
+      "lost",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Out Of Time",
@@ -17998,7 +28922,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.40 MB",
     "path": "images/alena-aenami-out-of-time.png",
-    "id": "wp_2000"
+    "id": "wp_2000",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "out",
+      "time",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Sky Mirror",
@@ -18007,7 +28940,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.51 MB",
     "path": "images/alena-aenami-sky-mirror.jpg",
-    "id": "wp_2001"
+    "id": "wp_2001",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "mirror",
+      "sky",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Stardust",
@@ -18016,7 +28958,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "images/alena-aenami-stardust.jpg",
-    "id": "wp_2002"
+    "id": "wp_2002",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "stardust",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Stars And You",
@@ -18025,7 +28975,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.90 MB",
     "path": "images/alena-aenami-stars-and-you.png",
-    "id": "wp_2003"
+    "id": "wp_2003",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "and",
+      "minimalist",
+      "stars",
+      "uhd",
+      "you"
+    ]
   },
   {
     "name": "Alena Aenami The Witcher",
@@ -18034,7 +28994,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/alena-aenami-the-witcher.jpg",
-    "id": "wp_2004"
+    "id": "wp_2004",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "the",
+      "uhd",
+      "witcher"
+    ]
   },
   {
     "name": "Alena Aenami Timeless",
@@ -18043,7 +29012,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.44 MB",
     "path": "images/alena-aenami-timeless.jpg",
-    "id": "wp_2005"
+    "id": "wp_2005",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "timeless",
+      "uhd"
+    ]
   },
   {
     "name": "Alena Aenami Wait",
@@ -18052,7 +29029,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/alena-aenami-wait.jpg",
-    "id": "wp_2006"
+    "id": "wp_2006",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "uhd",
+      "wait"
+    ]
   },
   {
     "name": "Alena Aenami Wings",
@@ -18061,7 +29046,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "images/alena-aenami-wings.jpg",
-    "id": "wp_2007"
+    "id": "wp_2007",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "uhd",
+      "wings"
+    ]
   },
   {
     "name": "Alena Aenami You",
@@ -18070,7 +29063,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/alena-aenami-you.jpg",
-    "id": "wp_2008"
+    "id": "wp_2008",
+    "tags": [
+      "4k",
+      "aenami",
+      "alena",
+      "minimalist",
+      "uhd",
+      "you"
+    ]
   },
   {
     "name": "Altos Odyssey Balloon Over Blue Mountains",
@@ -18079,7 +29080,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/altos-odyssey-balloon-over-blue-mountains.jpg",
-    "id": "wp_2009"
+    "id": "wp_2009",
+    "tags": [
+      "4k",
+      "altos",
+      "balloon",
+      "blue",
+      "minimalist",
+      "mountains",
+      "odyssey",
+      "over",
+      "uhd"
+    ]
   },
   {
     "name": "Altos Odyssey Blue Hills Balloon",
@@ -18088,7 +29100,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/altos-odyssey-blue-hills-balloon.jpg",
-    "id": "wp_2010"
+    "id": "wp_2010",
+    "tags": [
+      "4k",
+      "altos",
+      "balloon",
+      "blue",
+      "hills",
+      "minimalist",
+      "odyssey",
+      "uhd"
+    ]
   },
   {
     "name": "Altos Odyssey Chasm Jump",
@@ -18097,7 +29119,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/altos-odyssey-chasm-jump.jpg",
-    "id": "wp_2011"
+    "id": "wp_2011",
+    "tags": [
+      "4k",
+      "altos",
+      "chasm",
+      "jump",
+      "minimalist",
+      "odyssey",
+      "uhd"
+    ]
   },
   {
     "name": "Altos Odyssey Palm Kicker",
@@ -18106,7 +29137,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "images/altos-odyssey-palm-kicker.jpg",
-    "id": "wp_2012"
+    "id": "wp_2012",
+    "tags": [
+      "4k",
+      "altos",
+      "kicker",
+      "minimalist",
+      "odyssey",
+      "palm",
+      "uhd"
+    ]
   },
   {
     "name": "Altos Odyssey Purple Mountain Castle",
@@ -18115,7 +29155,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/altos-odyssey-purple-mountain-castle.jpg",
-    "id": "wp_2013"
+    "id": "wp_2013",
+    "tags": [
+      "4k",
+      "altos",
+      "castle",
+      "minimalist",
+      "mountain",
+      "odyssey",
+      "purple",
+      "uhd"
+    ]
   },
   {
     "name": "Alx Colorful Clouds",
@@ -18124,7 +29174,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.81 MB",
     "path": "images/alx-colorful-clouds.png",
-    "id": "wp_2014"
+    "id": "wp_2014",
+    "tags": [
+      "4k",
+      "alx",
+      "clouds",
+      "colorful",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Alx Sunset Over Palm Trees",
@@ -18133,7 +29191,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.83 MB",
     "path": "images/alx-sunset-over-palm-trees.png",
-    "id": "wp_2015"
+    "id": "wp_2015",
+    "tags": [
+      "4k",
+      "alx",
+      "minimalist",
+      "over",
+      "palm",
+      "sunset",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Among Trees Campsite",
@@ -18142,7 +29210,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/among-trees-campsite.jpg",
-    "id": "wp_2016"
+    "id": "wp_2016",
+    "tags": [
+      "4k",
+      "among",
+      "campsite",
+      "minimalist",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Among Trees Dadaws Night Is Coming",
@@ -18151,7 +29227,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/among-trees-dadaws-night-is-coming.jpg",
-    "id": "wp_2017"
+    "id": "wp_2017",
+    "tags": [
+      "4k",
+      "among",
+      "coming",
+      "dadaws",
+      "minimalist",
+      "night",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Among Trees Dadaws Small Cliffs",
@@ -18160,7 +29246,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/among-trees-dadaws-small-cliffs.jpg",
-    "id": "wp_2018"
+    "id": "wp_2018",
+    "tags": [
+      "4k",
+      "among",
+      "cliffs",
+      "dadaws",
+      "minimalist",
+      "small",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Andrew Maleski Ghostly Gate",
@@ -18169,7 +29265,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/andrew-maleski-ghostly-gate.jpg",
-    "id": "wp_2019"
+    "id": "wp_2019",
+    "tags": [
+      "4k",
+      "andrew",
+      "gate",
+      "ghostly",
+      "maleski",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Arcipello Scorched Earth",
@@ -18178,7 +29283,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/arcipello-scorched-earth.jpg",
-    "id": "wp_2020"
+    "id": "wp_2020",
+    "tags": [
+      "4k",
+      "arcipello",
+      "earth",
+      "minimalist",
+      "scorched",
+      "uhd"
+    ]
   },
   {
     "name": "Arcipello What Once Was",
@@ -18187,7 +29300,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "images/arcipello-what-once-was.jpg",
-    "id": "wp_2021"
+    "id": "wp_2021",
+    "tags": [
+      "4k",
+      "arcipello",
+      "minimalist",
+      "once",
+      "uhd",
+      "was",
+      "what"
+    ]
   },
   {
     "name": "Arseniy Chebynkin Tokyo Street Night",
@@ -18196,7 +29318,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.59 MB",
     "path": "images/arseniy-chebynkin-tokyo-street-night.jpg",
-    "id": "wp_2022"
+    "id": "wp_2022",
+    "tags": [
+      "4k",
+      "arseniy",
+      "chebynkin",
+      "minimalist",
+      "night",
+      "street",
+      "tokyo",
+      "uhd"
+    ]
   },
   {
     "name": "Artwithflo Empire State Building",
@@ -18205,7 +29337,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.02 MB",
     "path": "images/artwithflo-empire-state-building.png",
-    "id": "wp_2023"
+    "id": "wp_2023",
+    "tags": [
+      "4k",
+      "artwithflo",
+      "building",
+      "empire",
+      "minimalist",
+      "state",
+      "uhd"
+    ]
   },
   {
     "name": "Baajjii Vector Desert",
@@ -18214,7 +29355,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/baajjii-vector-desert.jpg",
-    "id": "wp_2024"
+    "id": "wp_2024",
+    "tags": [
+      "4k",
+      "baajjii",
+      "desert",
+      "minimalist",
+      "uhd",
+      "vector"
+    ]
   },
   {
     "name": "Bastien Grivet The Guy And The Id Checking Bot",
@@ -18223,7 +29372,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.44 MB",
     "path": "images/bastien-grivet-the-guy-and-the-id-checking-bot.jpg",
-    "id": "wp_2025"
+    "id": "wp_2025",
+    "tags": [
+      "4k",
+      "and",
+      "bastien",
+      "bot",
+      "checking",
+      "grivet",
+      "guy",
+      "minimalist",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Bisbiswas A Summer Evening",
@@ -18232,7 +29393,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.69 MB",
     "path": "images/bisbiswas-a-summer-evening.png",
-    "id": "wp_2026"
+    "id": "wp_2026",
+    "tags": [
+      "4k",
+      "bisbiswas",
+      "evening",
+      "minimalist",
+      "summer",
+      "uhd"
+    ]
   },
   {
     "name": "Bisbiswas Burning Clouds",
@@ -18241,7 +29410,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.94 MB",
     "path": "images/bisbiswas-burning-clouds.png",
-    "id": "wp_2027"
+    "id": "wp_2027",
+    "tags": [
+      "4k",
+      "bisbiswas",
+      "burning",
+      "clouds",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Bisbiswas Gathering",
@@ -18250,7 +29427,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/bisbiswas-gathering.jpg",
-    "id": "wp_2028"
+    "id": "wp_2028",
+    "tags": [
+      "4k",
+      "bisbiswas",
+      "gathering",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Bisbiswas Lit Up Sky",
@@ -18259,7 +29443,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/bisbiswas-lit-up-sky.jpg",
-    "id": "wp_2029"
+    "id": "wp_2029",
+    "tags": [
+      "4k",
+      "bisbiswas",
+      "lit",
+      "minimalist",
+      "sky",
+      "uhd"
+    ]
   },
   {
     "name": "Bisbiswas Verdant Moonlight No People Edit",
@@ -18268,7 +29460,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/bisbiswas-verdant-moonlight-no-people-edit.jpg",
-    "id": "wp_2030"
+    "id": "wp_2030",
+    "tags": [
+      "4k",
+      "bisbiswas",
+      "edit",
+      "minimalist",
+      "moonlight",
+      "people",
+      "uhd",
+      "verdant"
+    ]
   },
   {
     "name": "Blackwolfshadow1 Wolf Of The Night",
@@ -18277,7 +29479,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "images/blackwolfshadow1-wolf-of-the-night.jpg",
-    "id": "wp_2031"
+    "id": "wp_2031",
+    "tags": [
+      "4k",
+      "blackwolfshadow1",
+      "minimalist",
+      "night",
+      "the",
+      "uhd",
+      "wolf"
+    ]
   },
   {
     "name": "By Kvacm Gorod Zakat Liudi Siluty Budushchee",
@@ -18286,7 +29497,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/by-kvacm-gorod-zakat-liudi-siluty-budushchee.jpg",
-    "id": "wp_2032"
+    "id": "wp_2032",
+    "tags": [
+      "4k",
+      "budushchee",
+      "gorod",
+      "kvacm",
+      "liudi",
+      "minimalist",
+      "siluty",
+      "uhd",
+      "zakat"
+    ]
   },
   {
     "name": "Byrotek Calm Meadow",
@@ -18295,7 +29517,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/byrotek-calm-meadow.jpg",
-    "id": "wp_2033"
+    "id": "wp_2033",
+    "tags": [
+      "4k",
+      "byrotek",
+      "calm",
+      "meadow",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Byrotek Mountain View",
@@ -18304,7 +29534,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.78 MB",
     "path": "images/byrotek-mountain-view.png",
-    "id": "wp_2034"
+    "id": "wp_2034",
+    "tags": [
+      "4k",
+      "byrotek",
+      "minimalist",
+      "mountain",
+      "uhd",
+      "view"
+    ]
   },
   {
     "name": "Byrotek North Capital",
@@ -18313,7 +29551,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.82 MB",
     "path": "images/byrotek-north-capital.png",
-    "id": "wp_2035"
+    "id": "wp_2035",
+    "tags": [
+      "4k",
+      "byrotek",
+      "capital",
+      "minimalist",
+      "north",
+      "uhd"
+    ]
   },
   {
     "name": "Byrotek Sundown Landscape",
@@ -18322,7 +29568,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.58 MB",
     "path": "images/byrotek-sundown-landscape.png",
-    "id": "wp_2036"
+    "id": "wp_2036",
+    "tags": [
+      "4k",
+      "byrotek",
+      "landscape",
+      "minimalist",
+      "sundown",
+      "uhd"
+    ]
   },
   {
     "name": "Chilledcow Kupla Kingdom In Blue",
@@ -18331,7 +29585,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/chilledcow-kupla-kingdom-in-blue.jpg",
-    "id": "wp_2037"
+    "id": "wp_2037",
+    "tags": [
+      "4k",
+      "blue",
+      "chilledcow",
+      "kingdom",
+      "kupla",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Chrisostrowski The Esteemed Palace Light",
@@ -18340,7 +29603,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.31 MB",
     "path": "images/chrisostrowski-the-esteemed-palace-light.jpg",
-    "id": "wp_2038"
+    "id": "wp_2038",
+    "tags": [
+      "4k",
+      "chrisostrowski",
+      "esteemed",
+      "light",
+      "minimalist",
+      "palace",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Chrisostrowski The Esteemed Palace",
@@ -18349,7 +29622,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/chrisostrowski-the-esteemed-palace.jpg",
-    "id": "wp_2039"
+    "id": "wp_2039",
+    "tags": [
+      "4k",
+      "chrisostrowski",
+      "esteemed",
+      "minimalist",
+      "palace",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Ciorano The Sacred Creature",
@@ -18358,7 +29640,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/ciorano-the-sacred-creature.jpg",
-    "id": "wp_2040"
+    "id": "wp_2040",
+    "tags": [
+      "4k",
+      "ciorano",
+      "creature",
+      "minimalist",
+      "sacred",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Colormate Monogatari",
@@ -18367,7 +29658,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/colormate-monogatari.jpg",
-    "id": "wp_2041"
+    "id": "wp_2041",
+    "tags": [
+      "4k",
+      "colormate",
+      "minimalist",
+      "monogatari",
+      "uhd"
+    ]
   },
   {
     "name": "Craig Nacroix Mountains",
@@ -18376,7 +29674,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/craig-nacroix-mountains.jpg",
-    "id": "wp_2042"
+    "id": "wp_2042",
+    "tags": [
+      "4k",
+      "craig",
+      "minimalist",
+      "mountains",
+      "nacroix",
+      "uhd"
+    ]
   },
   {
     "name": "Dalle2 Minimalistic Colorful Flat Mountain Landscape",
@@ -18385,7 +29691,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.44 MB",
     "path": "images/dalle2-minimalistic-colorful-flat-mountain-landscape.png",
-    "id": "wp_2043"
+    "id": "wp_2043",
+    "tags": [
+      "4k",
+      "colorful",
+      "dalle2",
+      "flat",
+      "landscape",
+      "minimalist",
+      "minimalistic",
+      "mountain",
+      "uhd"
+    ]
   },
   {
     "name": "Dangiuz Leopoldo D Angelo Westofthesun",
@@ -18394,7 +29711,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.98 MB",
     "path": "images/dangiuz-leopoldo-d-angelo-westofthesun.png",
-    "id": "wp_2044"
+    "id": "wp_2044",
+    "tags": [
+      "4k",
+      "angelo",
+      "dangiuz",
+      "leopoldo",
+      "minimalist",
+      "uhd",
+      "westofthesun"
+    ]
   },
   {
     "name": "Daniel Ignacio The Deer Spirit",
@@ -18403,7 +29729,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "images/daniel-ignacio-the-deer-spirit.jpg",
-    "id": "wp_2045"
+    "id": "wp_2045",
+    "tags": [
+      "4k",
+      "daniel",
+      "deer",
+      "ignacio",
+      "minimalist",
+      "spirit",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Darkkal44 Come With Me Surfaces",
@@ -18412,7 +29748,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.95 MB",
     "path": "images/darkkal44-come-with-me-surfaces.png",
-    "id": "wp_2046"
+    "id": "wp_2046",
+    "tags": [
+      "4k",
+      "come",
+      "darkkal44",
+      "minimalist",
+      "surfaces",
+      "uhd",
+      "with"
+    ]
   },
   {
     "name": "Dataxiii Upscaled Vector Landscape",
@@ -18421,7 +29766,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "images/dataxiii-upscaled-vector-landscape.jpg",
-    "id": "wp_2047"
+    "id": "wp_2047",
+    "tags": [
+      "4k",
+      "dataxiii",
+      "landscape",
+      "minimalist",
+      "uhd",
+      "upscaled",
+      "vector"
+    ]
   },
   {
     "name": "Denis Istomin Chicco3",
@@ -18430,7 +29784,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/denis-istomin-chicco3.jpg",
-    "id": "wp_2048"
+    "id": "wp_2048",
+    "tags": [
+      "4k",
+      "chicco3",
+      "denis",
+      "istomin",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Denis Istomin Listen To Your Heart",
@@ -18439,7 +29801,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.49 MB",
     "path": "images/denis-istomin-listen-to-your-heart.jpg",
-    "id": "wp_2049"
+    "id": "wp_2049",
+    "tags": [
+      "4k",
+      "denis",
+      "heart",
+      "istomin",
+      "listen",
+      "minimalist",
+      "uhd",
+      "your"
+    ]
   },
   {
     "name": "Denis Istomin Midnight Gazing",
@@ -18448,7 +29820,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.49 MB",
     "path": "images/denis-istomin-midnight-gazing.png",
-    "id": "wp_2050"
+    "id": "wp_2050",
+    "tags": [
+      "4k",
+      "denis",
+      "gazing",
+      "istomin",
+      "midnight",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Dpcdpc11 Exodus",
@@ -18457,7 +29838,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.16 MB",
     "path": "images/dpcdpc11-exodus.png",
-    "id": "wp_2051"
+    "id": "wp_2051",
+    "tags": [
+      "4k",
+      "dpcdpc11",
+      "exodus",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Dpcdpc11 Isolation",
@@ -18466,7 +29854,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.55 MB",
     "path": "images/dpcdpc11-isolation.png",
-    "id": "wp_2052"
+    "id": "wp_2052",
+    "tags": [
+      "4k",
+      "dpcdpc11",
+      "isolation",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Dpcdpc11 Summer On The Lake",
@@ -18475,7 +29870,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.35 MB",
     "path": "images/dpcdpc11-summer-on-the-lake.png",
-    "id": "wp_2053"
+    "id": "wp_2053",
+    "tags": [
+      "4k",
+      "dpcdpc11",
+      "lake",
+      "minimalist",
+      "summer",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Drawingsandstuff Lonely Tree",
@@ -18484,7 +29888,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.87 MB",
     "path": "images/drawingsandstuff-lonely-tree.png",
-    "id": "wp_2054"
+    "id": "wp_2054",
+    "tags": [
+      "4k",
+      "drawingsandstuff",
+      "lonely",
+      "minimalist",
+      "tree",
+      "uhd"
+    ]
   },
   {
     "name": "Dropside The Valley Ultrawide Gradient Landscape",
@@ -18493,7 +29905,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "images/dropside-the-valley-ultrawide-gradient-landscape.png",
-    "id": "wp_2055"
+    "id": "wp_2055",
+    "tags": [
+      "4k",
+      "dropside",
+      "gradient",
+      "landscape",
+      "minimalist",
+      "the",
+      "uhd",
+      "ultrawide",
+      "valley"
+    ]
   },
   {
     "name": "Edward11mk Deer In Forest",
@@ -18502,7 +29925,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.41 MB",
     "path": "images/edward11mk-deer-in-forest.jpg",
-    "id": "wp_2056"
+    "id": "wp_2056",
+    "tags": [
+      "4k",
+      "deer",
+      "edward11mk",
+      "forest",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Edward11mk Tents In Nature",
@@ -18511,7 +29942,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/edward11mk-tents-in-nature.jpg",
-    "id": "wp_2057"
+    "id": "wp_2057",
+    "tags": [
+      "4k",
+      "edward11mk",
+      "minimalist",
+      "nature",
+      "tents",
+      "uhd"
+    ]
   },
   {
     "name": "Ellysiumn Flaming Kingdom",
@@ -18520,7 +29959,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "images/ellysiumn-flaming-kingdom.jpg",
-    "id": "wp_2058"
+    "id": "wp_2058",
+    "tags": [
+      "4k",
+      "ellysiumn",
+      "flaming",
+      "kingdom",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Era7 Asian Spirit",
@@ -18529,7 +29976,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "images/era7-asian-spirit.jpg",
-    "id": "wp_2059"
+    "id": "wp_2059",
+    "tags": [
+      "4k",
+      "asian",
+      "era7",
+      "minimalist",
+      "spirit",
+      "uhd"
+    ]
   },
   {
     "name": "Era7 City Of The Amethyst Nights",
@@ -18538,7 +29993,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "images/era7-city-of-the-amethyst-nights.jpg",
-    "id": "wp_2060"
+    "id": "wp_2060",
+    "tags": [
+      "4k",
+      "amethyst",
+      "city",
+      "era7",
+      "minimalist",
+      "nights",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Eric Elwell Tropical Environment",
@@ -18547,7 +30012,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/eric-elwell-tropical-environment.jpg",
-    "id": "wp_2061"
+    "id": "wp_2061",
+    "tags": [
+      "4k",
+      "elwell",
+      "environment",
+      "eric",
+      "minimalist",
+      "tropical",
+      "uhd"
+    ]
   },
   {
     "name": "Exitmothership Sunset Scene",
@@ -18556,7 +30030,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/exitmothership-sunset-scene.jpg",
-    "id": "wp_2062"
+    "id": "wp_2062",
+    "tags": [
+      "4k",
+      "exitmothership",
+      "minimalist",
+      "scene",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "F Tam Mountain Wilderness",
@@ -18565,7 +30047,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.99 MB",
     "path": "images/f-tam-mountain-wilderness.png",
-    "id": "wp_2063"
+    "id": "wp_2063",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountain",
+      "tam",
+      "uhd",
+      "wilderness"
+    ]
   },
   {
     "name": "Faithhal Boat And Mountains",
@@ -18574,7 +30064,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/faithhal-boat-and-mountains.jpg",
-    "id": "wp_2064"
+    "id": "wp_2064",
+    "tags": [
+      "4k",
+      "and",
+      "boat",
+      "faithhal",
+      "minimalist",
+      "mountains",
+      "uhd"
+    ]
   },
   {
     "name": "Farjana5240 Bridge Forest",
@@ -18583,7 +30082,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/farjana5240-bridge-forest.jpg",
-    "id": "wp_2065"
+    "id": "wp_2065",
+    "tags": [
+      "4k",
+      "bridge",
+      "farjana5240",
+      "forest",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Ferdinand Ladera Rice Terraces",
@@ -18592,7 +30099,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/ferdinand-ladera-rice-terraces.jpg",
-    "id": "wp_2066"
+    "id": "wp_2066",
+    "tags": [
+      "4k",
+      "ferdinand",
+      "ladera",
+      "minimalist",
+      "rice",
+      "terraces",
+      "uhd"
+    ]
   },
   {
     "name": "Forangeillustrations Ashenvale",
@@ -18601,7 +30117,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.12 MB",
     "path": "images/forangeillustrations-ashenvale.png",
-    "id": "wp_2067"
+    "id": "wp_2067",
+    "tags": [
+      "4k",
+      "ashenvale",
+      "forangeillustrations",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Frank Sun Twelve Suns",
@@ -18610,7 +30133,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/frank-sun-twelve-suns.jpg",
-    "id": "wp_2068"
+    "id": "wp_2068",
+    "tags": [
+      "4k",
+      "frank",
+      "minimalist",
+      "sun",
+      "suns",
+      "twelve",
+      "uhd"
+    ]
   },
   {
     "name": "Gamesdas Fantasy Collection 3",
@@ -18619,7 +30151,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.62 MB",
     "path": "images/gamesdas-fantasy-collection-3.jpg",
-    "id": "wp_2069"
+    "id": "wp_2069",
+    "tags": [
+      "4k",
+      "collection",
+      "fantasy",
+      "gamesdas",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Gavrl Snowy Forest",
@@ -18628,7 +30168,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.73 MB",
     "path": "images/gavrl-snowy-forest.jpg",
-    "id": "wp_2070"
+    "id": "wp_2070",
+    "tags": [
+      "4k",
+      "forest",
+      "gavrl",
+      "minimalist",
+      "snowy",
+      "uhd"
+    ]
   },
   {
     "name": "Gavryl Broken Structures",
@@ -18637,7 +30185,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/gavryl-broken-structures.jpg",
-    "id": "wp_2071"
+    "id": "wp_2071",
+    "tags": [
+      "4k",
+      "broken",
+      "gavryl",
+      "minimalist",
+      "structures",
+      "uhd"
+    ]
   },
   {
     "name": "Gavryl By Your Side",
@@ -18646,7 +30202,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/gavryl-by-your-side.jpg",
-    "id": "wp_2072"
+    "id": "wp_2072",
+    "tags": [
+      "4k",
+      "gavryl",
+      "minimalist",
+      "side",
+      "uhd",
+      "your"
+    ]
   },
   {
     "name": "Gavryl Cozy Night",
@@ -18655,7 +30219,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/gavryl-cozy-night.jpg",
-    "id": "wp_2073"
+    "id": "wp_2073",
+    "tags": [
+      "4k",
+      "cozy",
+      "gavryl",
+      "minimalist",
+      "night",
+      "uhd"
+    ]
   },
   {
     "name": "Gloomilygray Journey",
@@ -18664,7 +30236,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/gloomilygray-journey.jpg",
-    "id": "wp_2074"
+    "id": "wp_2074",
+    "tags": [
+      "4k",
+      "gloomilygray",
+      "journey",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Gustavo Arteaga Ancient Tree Shrine",
@@ -18673,7 +30252,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.35 MB",
     "path": "images/gustavo-arteaga-ancient-tree-shrine.png",
-    "id": "wp_2075"
+    "id": "wp_2075",
+    "tags": [
+      "4k",
+      "ancient",
+      "arteaga",
+      "gustavo",
+      "minimalist",
+      "shrine",
+      "tree",
+      "uhd"
+    ]
   },
   {
     "name": "Gustavo Arteaga Monolith On Giants Causeway",
@@ -18682,7 +30271,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/gustavo-arteaga-monolith-on-giants-causeway.jpg",
-    "id": "wp_2076"
+    "id": "wp_2076",
+    "tags": [
+      "4k",
+      "arteaga",
+      "causeway",
+      "giants",
+      "gustavo",
+      "minimalist",
+      "monolith",
+      "uhd"
+    ]
   },
   {
     "name": "Gustavo Arteaga Reload",
@@ -18691,7 +30290,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.37 MB",
     "path": "images/gustavo-arteaga-reload.jpg",
-    "id": "wp_2077"
+    "id": "wp_2077",
+    "tags": [
+      "4k",
+      "arteaga",
+      "gustavo",
+      "minimalist",
+      "reload",
+      "uhd"
+    ]
   },
   {
     "name": "Gustavo Arteaga Revenge",
@@ -18700,7 +30307,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "images/gustavo-arteaga-revenge.jpg",
-    "id": "wp_2078"
+    "id": "wp_2078",
+    "tags": [
+      "4k",
+      "arteaga",
+      "gustavo",
+      "minimalist",
+      "revenge",
+      "uhd"
+    ]
   },
   {
     "name": "Gydw1n Whisper Of The Heart",
@@ -18709,7 +30324,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.71 MB",
     "path": "images/gydw1n-whisper-of-the-heart.jpg",
-    "id": "wp_2079"
+    "id": "wp_2079",
+    "tags": [
+      "4k",
+      "gydw1n",
+      "heart",
+      "minimalist",
+      "the",
+      "uhd",
+      "whisper"
+    ]
   },
   {
     "name": "Haneron Landscape Mountain Home",
@@ -18718,7 +30342,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/haneron-landscape-mountain-home.jpg",
-    "id": "wp_2080"
+    "id": "wp_2080",
+    "tags": [
+      "4k",
+      "haneron",
+      "home",
+      "landscape",
+      "minimalist",
+      "mountain",
+      "uhd"
+    ]
   },
   {
     "name": "Hangmoon Alexander Komarov White Blue Red Clouds",
@@ -18727,7 +30360,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/hangmoon-alexander-komarov-white-blue-red-clouds.jpg",
-    "id": "wp_2081"
+    "id": "wp_2081",
+    "tags": [
+      "4k",
+      "alexander",
+      "blue",
+      "clouds",
+      "hangmoon",
+      "komarov",
+      "minimalist",
+      "red",
+      "uhd",
+      "white"
+    ]
   },
   {
     "name": "Hangmoon City",
@@ -18736,7 +30381,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "images/hangmoon-city.jpg",
-    "id": "wp_2082"
+    "id": "wp_2082",
+    "tags": [
+      "4k",
+      "city",
+      "hangmoon",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Hangmoon White Blue Red Clouds",
@@ -18745,7 +30397,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.46 MB",
     "path": "images/hangmoon-white-blue-red-clouds.jpg",
-    "id": "wp_2083"
+    "id": "wp_2083",
+    "tags": [
+      "4k",
+      "blue",
+      "clouds",
+      "hangmoon",
+      "minimalist",
+      "red",
+      "uhd",
+      "white"
+    ]
   },
   {
     "name": "Higgsas Outrun",
@@ -18754,7 +30416,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.93 MB",
     "path": "images/higgsas-outrun.jpg",
-    "id": "wp_2084"
+    "id": "wp_2084",
+    "tags": [
+      "4k",
+      "higgsas",
+      "minimalist",
+      "outrun",
+      "uhd"
+    ]
   },
   {
     "name": "Howard Chen Mao Mao Forest Campsite",
@@ -18763,7 +30432,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.69 MB",
     "path": "images/howard-chen-mao-mao-forest-campsite.jpg",
-    "id": "wp_2085"
+    "id": "wp_2085",
+    "tags": [
+      "4k",
+      "campsite",
+      "chen",
+      "forest",
+      "howard",
+      "mao",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Hugobarretcastan House In Forest",
@@ -18772,7 +30451,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.67 MB",
     "path": "images/hugobarretcastan-house-in-forest.jpg",
-    "id": "wp_2086"
+    "id": "wp_2086",
+    "tags": [
+      "4k",
+      "forest",
+      "house",
+      "hugobarretcastan",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Icondesire Train Cross",
@@ -18781,7 +30468,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "images/icondesire-train-cross.png",
-    "id": "wp_2087"
+    "id": "wp_2087",
+    "tags": [
+      "4k",
+      "cross",
+      "icondesire",
+      "minimalist",
+      "train",
+      "uhd"
+    ]
   },
   {
     "name": "Incognit0ergosum Stable Diffusion Ultimate City Autumn Meadow",
@@ -18790,7 +30485,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "images/incognit0ergosum-stable-diffusion-ultimate-city-autumn-meadow.jpg",
-    "id": "wp_2088"
+    "id": "wp_2088",
+    "tags": [
+      "4k",
+      "autumn",
+      "city",
+      "diffusion",
+      "incognit0ergosum",
+      "meadow",
+      "minimalist",
+      "stable",
+      "uhd",
+      "ultimate"
+    ]
   },
   {
     "name": "Itsmatt Japanese Painting Remade",
@@ -18799,7 +30506,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.28 MB",
     "path": "images/itsmatt-japanese-painting-remade.jpg",
-    "id": "wp_2089"
+    "id": "wp_2089",
+    "tags": [
+      "4k",
+      "itsmatt",
+      "japanese",
+      "minimalist",
+      "painting",
+      "remade",
+      "uhd"
+    ]
   },
   {
     "name": "Itspatra Trailer In Yosemite",
@@ -18808,7 +30524,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.24 MB",
     "path": "images/itspatra-trailer-in-yosemite.png",
-    "id": "wp_2090"
+    "id": "wp_2090",
+    "tags": [
+      "4k",
+      "itspatra",
+      "minimalist",
+      "trailer",
+      "uhd",
+      "yosemite"
+    ]
   },
   {
     "name": "Jay V Jackson Between The Twin Cities Recolored",
@@ -18817,7 +30541,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/jay_v_jackson-between-the-twin-cities-recolored.jpg",
-    "id": "wp_2091"
+    "id": "wp_2091",
+    "tags": [
+      "4k",
+      "between",
+      "cities",
+      "jackson",
+      "jay",
+      "minimalist",
+      "recolored",
+      "the",
+      "twin",
+      "uhd"
+    ]
   },
   {
     "name": "Jaynit Samurai Bridge",
@@ -18826,7 +30562,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "images/jaynit-samurai-bridge.jpg",
-    "id": "wp_2092"
+    "id": "wp_2092",
+    "tags": [
+      "4k",
+      "bridge",
+      "jaynit",
+      "minimalist",
+      "samurai",
+      "uhd"
+    ]
   },
   {
     "name": "Jeff Ostberg Cozy Autumn Rain",
@@ -18835,7 +30579,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "images/jeff-ostberg-cozy-autumn-rain.jpg",
-    "id": "wp_2093"
+    "id": "wp_2093",
+    "tags": [
+      "4k",
+      "autumn",
+      "cozy",
+      "jeff",
+      "minimalist",
+      "ostberg",
+      "rain",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz A Simple Scene",
@@ -18844,7 +30598,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/joeyjazz-a-simple-scene.jpg",
-    "id": "wp_2094"
+    "id": "wp_2094",
+    "tags": [
+      "4k",
+      "joeyjazz",
+      "minimalist",
+      "scene",
+      "simple",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Antares",
@@ -18853,7 +30615,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.78 MB",
     "path": "images/joeyjazz-antares.png",
-    "id": "wp_2095"
+    "id": "wp_2095",
+    "tags": [
+      "4k",
+      "antares",
+      "joeyjazz",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Behind The Blister",
@@ -18862,7 +30631,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.47 MB",
     "path": "images/joeyjazz-behind-the-blister.jpg",
-    "id": "wp_2096"
+    "id": "wp_2096",
+    "tags": [
+      "4k",
+      "behind",
+      "blister",
+      "joeyjazz",
+      "minimalist",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Dreams In Pastel",
@@ -18871,7 +30649,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/joeyjazz-dreams-in-pastel.jpg",
-    "id": "wp_2097"
+    "id": "wp_2097",
+    "tags": [
+      "4k",
+      "dreams",
+      "joeyjazz",
+      "minimalist",
+      "pastel",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Just A Tree And A Breeze",
@@ -18880,7 +30666,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "images/joeyjazz-just-a-tree-and-a-breeze.jpg",
-    "id": "wp_2098"
+    "id": "wp_2098",
+    "tags": [
+      "4k",
+      "and",
+      "breeze",
+      "joeyjazz",
+      "just",
+      "minimalist",
+      "tree",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Place Out Of Place",
@@ -18889,7 +30685,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.93 MB",
     "path": "images/joeyjazz-place-out-of-place.png",
-    "id": "wp_2099"
+    "id": "wp_2099",
+    "tags": [
+      "4k",
+      "joeyjazz",
+      "minimalist",
+      "out",
+      "place",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Sp Fields Of Bronze",
@@ -18898,7 +30702,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/joeyjazz-sp-fields-of-bronze.jpg",
-    "id": "wp_2100"
+    "id": "wp_2100",
+    "tags": [
+      "4k",
+      "bronze",
+      "fields",
+      "joeyjazz",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Sp Highrise",
@@ -18907,7 +30719,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/joeyjazz-sp-highrise.jpg",
-    "id": "wp_2101"
+    "id": "wp_2101",
+    "tags": [
+      "4k",
+      "highrise",
+      "joeyjazz",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Timeless",
@@ -18916,7 +30735,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/joeyjazz-timeless.jpg",
-    "id": "wp_2102"
+    "id": "wp_2102",
+    "tags": [
+      "4k",
+      "joeyjazz",
+      "minimalist",
+      "timeless",
+      "uhd"
+    ]
   },
   {
     "name": "Joeyjazz Under The Strange Horizon",
@@ -18925,7 +30751,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/joeyjazz-under-the-strange-horizon.jpg",
-    "id": "wp_2103"
+    "id": "wp_2103",
+    "tags": [
+      "4k",
+      "horizon",
+      "joeyjazz",
+      "minimalist",
+      "strange",
+      "the",
+      "uhd",
+      "under"
+    ]
   },
   {
     "name": "Joeyjazz Water Air And Some Magic",
@@ -18934,7 +30770,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/joeyjazz-water-air-and-some-magic.jpg",
-    "id": "wp_2104"
+    "id": "wp_2104",
+    "tags": [
+      "4k",
+      "air",
+      "and",
+      "joeyjazz",
+      "magic",
+      "minimalist",
+      "some",
+      "uhd",
+      "water"
+    ]
   },
   {
     "name": "Joeyjazz Where Day And Night Meet",
@@ -18943,7 +30790,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/joeyjazz-where-day-and-night-meet.jpg",
-    "id": "wp_2105"
+    "id": "wp_2105",
+    "tags": [
+      "4k",
+      "and",
+      "day",
+      "joeyjazz",
+      "meet",
+      "minimalist",
+      "night",
+      "uhd",
+      "where"
+    ]
   },
   {
     "name": "Jonadinges Getaway",
@@ -18952,7 +30810,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.93 MB",
     "path": "images/jonadinges-getaway.png",
-    "id": "wp_2106"
+    "id": "wp_2106",
+    "tags": [
+      "4k",
+      "getaway",
+      "jonadinges",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Josef Barton The Last One",
@@ -18961,7 +30826,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/josef-barton-the-last-one.jpg",
-    "id": "wp_2107"
+    "id": "wp_2107",
+    "tags": [
+      "4k",
+      "barton",
+      "josef",
+      "last",
+      "minimalist",
+      "one",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Josegoncalo Beasts",
@@ -18970,7 +30845,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/josegoncalo-beasts.jpg",
-    "id": "wp_2108"
+    "id": "wp_2108",
+    "tags": [
+      "4k",
+      "beasts",
+      "josegoncalo",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Junhyuk Lim Acoolrocket Tree Of Life Edit",
@@ -18979,7 +30861,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.70 MB",
     "path": "images/junhyuk-lim-acoolrocket-tree-of-life-edit.png",
-    "id": "wp_2109"
+    "id": "wp_2109",
+    "tags": [
+      "4k",
+      "acoolrocket",
+      "edit",
+      "junhyuk",
+      "life",
+      "lim",
+      "minimalist",
+      "tree",
+      "uhd"
+    ]
   },
   {
     "name": "Jurrig Hutan Owl Forest Night",
@@ -18988,7 +30881,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/jurrig-hutan-owl-forest-night.jpg",
-    "id": "wp_2110"
+    "id": "wp_2110",
+    "tags": [
+      "4k",
+      "forest",
+      "hutan",
+      "jurrig",
+      "minimalist",
+      "night",
+      "owl",
+      "uhd"
+    ]
   },
   {
     "name": "Kak8gm Louis Coyle Inspired Lakeside Aurora",
@@ -18997,7 +30900,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/kak8gm-louis-coyle-inspired-lakeside-aurora.jpg",
-    "id": "wp_2111"
+    "id": "wp_2111",
+    "tags": [
+      "4k",
+      "aurora",
+      "coyle",
+      "inspired",
+      "kak8gm",
+      "lakeside",
+      "louis",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Kevin Gnutzmans Singularity",
@@ -19006,7 +30920,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "images/kevin-gnutzmans-singularity.jpg",
-    "id": "wp_2112"
+    "id": "wp_2112",
+    "tags": [
+      "4k",
+      "gnutzmans",
+      "kevin",
+      "minimalist",
+      "singularity",
+      "uhd"
+    ]
   },
   {
     "name": "Kuldarleement Stellar Collision",
@@ -19015,7 +30937,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/kuldarleement-stellar-collision.jpg",
-    "id": "wp_2113"
+    "id": "wp_2113",
+    "tags": [
+      "4k",
+      "collision",
+      "kuldarleement",
+      "minimalist",
+      "stellar",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Africa Feeling",
@@ -19024,7 +30954,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.02 MB",
     "path": "images/kvacm-africa-feeling.png",
-    "id": "wp_2114"
+    "id": "wp_2114",
+    "tags": [
+      "4k",
+      "africa",
+      "feeling",
+      "kvacm",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Amythest Kingdom",
@@ -19033,7 +30971,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.34 MB",
     "path": "images/kvacm-amythest-kingdom.jpg",
-    "id": "wp_2115"
+    "id": "wp_2115",
+    "tags": [
+      "4k",
+      "amythest",
+      "kingdom",
+      "kvacm",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Early Evening",
@@ -19042,7 +30988,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/kvacm-early-evening.jpg",
-    "id": "wp_2116"
+    "id": "wp_2116",
+    "tags": [
+      "4k",
+      "early",
+      "evening",
+      "kvacm",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Falling Sun",
@@ -19051,7 +31005,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.94 MB",
     "path": "images/kvacm-falling-sun.png",
-    "id": "wp_2117"
+    "id": "wp_2117",
+    "tags": [
+      "4k",
+      "falling",
+      "kvacm",
+      "minimalist",
+      "sun",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Magenta Bay",
@@ -19060,7 +31022,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.84 MB",
     "path": "images/kvacm-magenta-bay.png",
-    "id": "wp_2118"
+    "id": "wp_2118",
+    "tags": [
+      "4k",
+      "bay",
+      "kvacm",
+      "magenta",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Misty Mountains",
@@ -19069,7 +31039,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.60 MB",
     "path": "images/kvacm-misty-mountains.jpg",
-    "id": "wp_2119"
+    "id": "wp_2119",
+    "tags": [
+      "4k",
+      "kvacm",
+      "minimalist",
+      "misty",
+      "mountains",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Night Patrol",
@@ -19078,7 +31056,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/kvacm-night-patrol.jpg",
-    "id": "wp_2120"
+    "id": "wp_2120",
+    "tags": [
+      "4k",
+      "kvacm",
+      "minimalist",
+      "night",
+      "patrol",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Pinky Purple",
@@ -19087,7 +31073,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "images/kvacm-pinky-purple.jpg",
-    "id": "wp_2121"
+    "id": "wp_2121",
+    "tags": [
+      "4k",
+      "kvacm",
+      "minimalist",
+      "pinky",
+      "purple",
+      "uhd"
+    ]
   },
   {
     "name": "Kvacm Synth Waterfall",
@@ -19096,7 +31090,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.89 MB",
     "path": "images/kvacm-synth-waterfall.png",
-    "id": "wp_2122"
+    "id": "wp_2122",
+    "tags": [
+      "4k",
+      "kvacm",
+      "minimalist",
+      "synth",
+      "uhd",
+      "waterfall"
+    ]
   },
   {
     "name": "Kvacm Synthwave View",
@@ -19105,7 +31107,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "images/kvacm-synthwave-view.jpg",
-    "id": "wp_2123"
+    "id": "wp_2123",
+    "tags": [
+      "4k",
+      "kvacm",
+      "minimalist",
+      "synthwave",
+      "uhd",
+      "view"
+    ]
   },
   {
     "name": "Kvacm Torii City",
@@ -19114,7 +31124,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/kvacm-torii-city.jpg",
-    "id": "wp_2124"
+    "id": "wp_2124",
+    "tags": [
+      "4k",
+      "city",
+      "kvacm",
+      "minimalist",
+      "torii",
+      "uhd"
+    ]
   },
   {
     "name": "Lee Zudarts Study",
@@ -19123,7 +31141,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/lee_zudarts-study.jpg",
-    "id": "wp_2125"
+    "id": "wp_2125",
+    "tags": [
+      "4k",
+      "lee",
+      "minimalist",
+      "study",
+      "uhd",
+      "zudarts"
+    ]
   },
   {
     "name": "Lofi Coffee",
@@ -19132,7 +31158,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "images/lofi-coffee.jpg",
-    "id": "wp_2126"
+    "id": "wp_2126",
+    "tags": [
+      "4k",
+      "coffee",
+      "lofi",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Louis Coyle Inspired Lakeside",
@@ -19141,7 +31174,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.94 MB",
     "path": "images/louis-coyle-inspired-lakeside.png",
-    "id": "wp_2127"
+    "id": "wp_2127",
+    "tags": [
+      "4k",
+      "coyle",
+      "inspired",
+      "lakeside",
+      "louis",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Louis Coyle Sunrise",
@@ -19150,7 +31192,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/louis-coyle-sunrise.jpg",
-    "id": "wp_2128"
+    "id": "wp_2128",
+    "tags": [
+      "4k",
+      "coyle",
+      "louis",
+      "minimalist",
+      "sunrise",
+      "uhd"
+    ]
   },
   {
     "name": "Mark Kirkpatrick Mk Landscape 05",
@@ -19159,7 +31209,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/mark-kirkpatrick-mk-landscape-05.jpg",
-    "id": "wp_2129"
+    "id": "wp_2129",
+    "tags": [
+      "4k",
+      "kirkpatrick",
+      "landscape",
+      "mark",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Masterteacher Red Sky Background",
@@ -19168,7 +31226,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/masterteacher-red-sky-background.jpg",
-    "id": "wp_2130"
+    "id": "wp_2130",
+    "tags": [
+      "4k",
+      "background",
+      "masterteacher",
+      "minimalist",
+      "red",
+      "sky",
+      "uhd"
+    ]
   },
   {
     "name": "Matt Carlson Spring Mountain",
@@ -19177,7 +31244,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.23 MB",
     "path": "images/matt-carlson-spring-mountain.png",
-    "id": "wp_2131"
+    "id": "wp_2131",
+    "tags": [
+      "4k",
+      "carlson",
+      "matt",
+      "minimalist",
+      "mountain",
+      "spring",
+      "uhd"
+    ]
   },
   {
     "name": "Michal Lisowski Entergalactic",
@@ -19186,7 +31262,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.50 MB",
     "path": "images/michal-lisowski-entergalactic.png",
-    "id": "wp_2132"
+    "id": "wp_2132",
+    "tags": [
+      "4k",
+      "entergalactic",
+      "lisowski",
+      "michal",
+      "minimalist",
+      "uhd"
+    ]
   },
   {
     "name": "Mitchrandom Alpine Sunset",
@@ -19195,7 +31279,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.21 MB",
     "path": "images/mitchrandom-alpine-sunset.png",
-    "id": "wp_2133"
+    "id": "wp_2133",
+    "tags": [
+      "4k",
+      "alpine",
+      "minimalist",
+      "mitchrandom",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson Among Trees Deer",
@@ -19204,7 +31296,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/mklgustafsson-among-trees-deer.jpg",
-    "id": "wp_2134"
+    "id": "wp_2134",
+    "tags": [
+      "4k",
+      "among",
+      "deer",
+      "minimalist",
+      "mklgustafsson",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson Among Trees Forest",
@@ -19213,7 +31314,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.73 MB",
     "path": "images/mklgustafsson-among-trees-forest.png",
-    "id": "wp_2135"
+    "id": "wp_2135",
+    "tags": [
+      "4k",
+      "among",
+      "forest",
+      "minimalist",
+      "mklgustafsson",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson Among Trees Fox",
@@ -19222,7 +31332,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "images/mklgustafsson-among-trees-fox.jpg",
-    "id": "wp_2136"
+    "id": "wp_2136",
+    "tags": [
+      "4k",
+      "among",
+      "fox",
+      "minimalist",
+      "mklgustafsson",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson Among Trees River Side",
@@ -19231,7 +31350,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/mklgustafsson-among-trees-river-side.jpg",
-    "id": "wp_2137"
+    "id": "wp_2137",
+    "tags": [
+      "4k",
+      "among",
+      "minimalist",
+      "mklgustafsson",
+      "river",
+      "side",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson Small Memory",
@@ -19240,7 +31369,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.31 MB",
     "path": "images/mklgustafsson-small-memory.png",
-    "id": "wp_2138"
+    "id": "wp_2138",
+    "tags": [
+      "4k",
+      "memory",
+      "minimalist",
+      "mklgustafsson",
+      "small",
+      "uhd"
+    ]
   },
   {
     "name": "Mklgustafsson The Girl And The Bear",
@@ -19249,7 +31386,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.69 MB",
     "path": "images/mklgustafsson-the-girl-and-the-bear.png",
-    "id": "wp_2139"
+    "id": "wp_2139",
+    "tags": [
+      "4k",
+      "and",
+      "bear",
+      "girl",
+      "minimalist",
+      "mklgustafsson",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Moewanders Summers End",
@@ -19258,7 +31405,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.72 MB",
     "path": "images/moewanders-summers-end.jpg",
-    "id": "wp_2140"
+    "id": "wp_2140",
+    "tags": [
+      "4k",
+      "end",
+      "minimalist",
+      "moewanders",
+      "summers",
+      "uhd"
+    ]
   },
   {
     "name": "Moewanders The Frontier",
@@ -19267,7 +31422,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.73 MB",
     "path": "images/moewanders-the-frontier.jpg",
-    "id": "wp_2141"
+    "id": "wp_2141",
+    "tags": [
+      "4k",
+      "frontier",
+      "minimalist",
+      "moewanders",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Mofghfgfgh Moon Mountain",
@@ -19276,7 +31439,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.29 MB",
     "path": "images/mofghfgfgh-moon-mountain.png",
-    "id": "wp_2142"
+    "id": "wp_2142",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mofghfgfgh",
+      "moon",
+      "mountain",
+      "uhd"
+    ]
   },
   {
     "name": "Mofghfgfgh Ocean Sunset",
@@ -19285,7 +31456,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.58 MB",
     "path": "images/mofghfgfgh-ocean-sunset.png",
-    "id": "wp_2143"
+    "id": "wp_2143",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mofghfgfgh",
+      "ocean",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Mrwhoseboss Dalle2 Edit Alone But Awesome",
@@ -19294,7 +31473,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.38 MB",
     "path": "images/mrwhoseboss-dalle2-edit-alone-but-awesome.jpg",
-    "id": "wp_2144"
+    "id": "wp_2144",
+    "tags": [
+      "4k",
+      "alone",
+      "awesome",
+      "but",
+      "dalle2",
+      "edit",
+      "minimalist",
+      "mrwhoseboss",
+      "uhd"
+    ]
   },
   {
     "name": "Muhammad Nafay Deer And The Fireflies",
@@ -19303,7 +31493,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "images/muhammad-nafay-deer-and-the-fireflies.jpg",
-    "id": "wp_2145"
+    "id": "wp_2145",
+    "tags": [
+      "4k",
+      "and",
+      "deer",
+      "fireflies",
+      "minimalist",
+      "muhammad",
+      "nafay",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Muhammad Nafay The New Light",
@@ -19312,7 +31513,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.39 MB",
     "path": "images/muhammad-nafay-the-new-light.jpg",
-    "id": "wp_2146"
+    "id": "wp_2146",
+    "tags": [
+      "4k",
+      "light",
+      "minimalist",
+      "muhammad",
+      "nafay",
+      "new",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Muhammad Nafay Couple Cityscape",
@@ -19321,7 +31532,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.25 MB",
     "path": "images/muhammad_nafay-couple-cityscape.png",
-    "id": "wp_2147"
+    "id": "wp_2147",
+    "tags": [
+      "4k",
+      "cityscape",
+      "couple",
+      "minimalist",
+      "muhammad",
+      "nafay",
+      "uhd"
+    ]
   },
   {
     "name": "MuriLLu Anime Scenery Sunset",
@@ -19330,7 +31550,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.25 MB",
     "path": "images/muriLLu-Anime-Scenery-Sunset.jpg",
-    "id": "wp_2148"
+    "id": "wp_2148",
+    "tags": [
+      "4k",
+      "anime",
+      "minimalist",
+      "murillu",
+      "scenery",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "MuriLLu Japan Neo Wallpaper",
@@ -19339,7 +31568,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.22 MB",
     "path": "images/muriLLu-Japan-Neo-Wallpaper.png",
-    "id": "wp_2149"
+    "id": "wp_2149",
+    "tags": [
+      "4k",
+      "japan",
+      "minimalist",
+      "murillu",
+      "neo",
+      "uhd",
+      "wallpaper"
+    ]
   },
   {
     "name": "Ncoll36 Forest Mountain",
@@ -19348,7 +31586,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/ncoll36-forest-mountain.jpg",
-    "id": "wp_2150"
+    "id": "wp_2150",
+    "tags": [
+      "4k",
+      "forest",
+      "minimalist",
+      "mountain",
+      "ncoll36",
+      "uhd"
+    ]
   },
   {
     "name": "Neonoverdrive Pastel Sunset By",
@@ -19357,7 +31603,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "4.59 MB",
     "path": "images/neonoverdrive-pastel_sunset_by.png",
-    "id": "wp_2151"
+    "id": "wp_2151",
+    "tags": [
+      "4k",
+      "minimalist",
+      "neonoverdrive",
+      "pastel",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Neonoverdrive Vaporwave Off Kanagawa",
@@ -19366,7 +31620,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "images/neonoverdrive-vaporwave-off-kanagawa.jpg",
-    "id": "wp_2152"
+    "id": "wp_2152",
+    "tags": [
+      "4k",
+      "kanagawa",
+      "minimalist",
+      "neonoverdrive",
+      "off",
+      "uhd",
+      "vaporwave"
+    ]
   },
   {
     "name": "Neonoverdrive Vast Neon Cityscape",
@@ -19375,7 +31638,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.52 MB",
     "path": "images/neonoverdrive-vast-neon-cityscape.jpg",
-    "id": "wp_2153"
+    "id": "wp_2153",
+    "tags": [
+      "4k",
+      "cityscape",
+      "minimalist",
+      "neon",
+      "neonoverdrive",
+      "uhd",
+      "vast"
+    ]
   },
   {
     "name": "Normieboy96 Cherry Blossom",
@@ -19384,7 +31656,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.44 MB",
     "path": "images/normieboy96-cherry-blossom.jpg",
-    "id": "wp_2154"
+    "id": "wp_2154",
+    "tags": [
+      "4k",
+      "blossom",
+      "cherry",
+      "minimalist",
+      "normieboy96",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Bitter Coast",
@@ -19393,7 +31673,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/ogarart-bitter-coast.jpg",
-    "id": "wp_2155"
+    "id": "wp_2155",
+    "tags": [
+      "4k",
+      "bitter",
+      "coast",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Blue Lighthouse 2019 01 13",
@@ -19402,7 +31690,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/ogarart-blue-lighthouse-2019-01-13.jpg",
-    "id": "wp_2156"
+    "id": "wp_2156",
+    "tags": [
+      "4k",
+      "blue",
+      "lighthouse",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Bridge",
@@ -19411,7 +31707,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/ogarart-bridge.jpg",
-    "id": "wp_2157"
+    "id": "wp_2157",
+    "tags": [
+      "4k",
+      "bridge",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Cactus 2019 01 20",
@@ -19420,7 +31723,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/ogarart-cactus-2019-01-20.jpg",
-    "id": "wp_2158"
+    "id": "wp_2158",
+    "tags": [
+      "4k",
+      "cactus",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Forest Mountains 2019 01 17",
@@ -19429,7 +31739,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/ogarart-forest-mountains-2019-01-17.jpg",
-    "id": "wp_2159"
+    "id": "wp_2159",
+    "tags": [
+      "4k",
+      "forest",
+      "minimalist",
+      "mountains",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Forest Sunset 2019 01 25",
@@ -19438,7 +31756,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.33 MB",
     "path": "images/ogarart-forest-sunset-2019-01-25.png",
-    "id": "wp_2160"
+    "id": "wp_2160",
+    "tags": [
+      "4k",
+      "forest",
+      "minimalist",
+      "ogarart",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Forest Trees",
@@ -19447,7 +31773,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "images/ogarart-forest-trees.jpg",
-    "id": "wp_2161"
+    "id": "wp_2161",
+    "tags": [
+      "4k",
+      "forest",
+      "minimalist",
+      "ogarart",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Fortress",
@@ -19456,7 +31790,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/ogarart-fortress.jpg",
-    "id": "wp_2162"
+    "id": "wp_2162",
+    "tags": [
+      "4k",
+      "fortress",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Frozen",
@@ -19465,7 +31806,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.21 MB",
     "path": "images/ogarart-frozen.jpg",
-    "id": "wp_2163"
+    "id": "wp_2163",
+    "tags": [
+      "4k",
+      "frozen",
+      "minimalist",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Lone Wanderer",
@@ -19474,7 +31822,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/ogarart-lone-wanderer.jpg",
-    "id": "wp_2164"
+    "id": "wp_2164",
+    "tags": [
+      "4k",
+      "lone",
+      "minimalist",
+      "ogarart",
+      "uhd",
+      "wanderer"
+    ]
   },
   {
     "name": "Ogarart Mountains Ice",
@@ -19483,7 +31839,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/ogarart-mountains-ice.jpg",
-    "id": "wp_2165"
+    "id": "wp_2165",
+    "tags": [
+      "4k",
+      "ice",
+      "minimalist",
+      "mountains",
+      "ogarart",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Orange Sky Red Rocks 2019 03 04",
@@ -19492,7 +31856,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/ogarart-orange-sky-red-rocks-2019-03-04.jpg",
-    "id": "wp_2166"
+    "id": "wp_2166",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ogarart",
+      "orange",
+      "red",
+      "rocks",
+      "sky",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Purple Mountains 2019 01 29",
@@ -19501,7 +31875,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/ogarart-purple-mountains-2019-01-29.jpg",
-    "id": "wp_2167"
+    "id": "wp_2167",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "ogarart",
+      "purple",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Purple Trees 2019 02 11",
@@ -19510,7 +31892,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "images/ogarart-purple-trees-2019-02-11.jpg",
-    "id": "wp_2168"
+    "id": "wp_2168",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ogarart",
+      "purple",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Purple Trees And Deer 2019 01 15",
@@ -19519,7 +31909,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/ogarart-purple-trees-and-deer-2019-01-15.jpg",
-    "id": "wp_2169"
+    "id": "wp_2169",
+    "tags": [
+      "4k",
+      "and",
+      "deer",
+      "minimalist",
+      "ogarart",
+      "purple",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Purple Trees Under Stars 2019 01 27",
@@ -19528,7 +31928,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/ogarart-purple-trees-under-stars-2019-01-27.jpg",
-    "id": "wp_2170"
+    "id": "wp_2170",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ogarart",
+      "purple",
+      "stars",
+      "trees",
+      "uhd",
+      "under"
+    ]
   },
   {
     "name": "Ogarart Red Cave",
@@ -19537,7 +31947,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/ogarart-red-cave.jpg",
-    "id": "wp_2171"
+    "id": "wp_2171",
+    "tags": [
+      "4k",
+      "cave",
+      "minimalist",
+      "ogarart",
+      "red",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Red Mountains Lake 2019 10 06",
@@ -19546,7 +31964,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/ogarart-red-mountains-lake-2019-10-06.jpg",
-    "id": "wp_2172"
+    "id": "wp_2172",
+    "tags": [
+      "4k",
+      "lake",
+      "minimalist",
+      "mountains",
+      "ogarart",
+      "red",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Red Mountains",
@@ -19555,7 +31982,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "images/ogarart-red-mountains.jpg",
-    "id": "wp_2173"
+    "id": "wp_2173",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "ogarart",
+      "red",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Savannah",
@@ -19564,7 +31999,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/ogarart-savannah.jpg",
-    "id": "wp_2174"
+    "id": "wp_2174",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ogarart",
+      "savannah",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Sunset 2",
@@ -19573,7 +32015,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/ogarart-sunset-2.jpg",
-    "id": "wp_2175"
+    "id": "wp_2175",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ogarart",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Ogarart Wolf And Blue Trees 2019 01 22",
@@ -19582,7 +32031,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/ogarart-wolf-and-blue-trees-2019-01-22.jpg",
-    "id": "wp_2176"
+    "id": "wp_2176",
+    "tags": [
+      "4k",
+      "and",
+      "blue",
+      "minimalist",
+      "ogarart",
+      "trees",
+      "uhd",
+      "wolf"
+    ]
   },
   {
     "name": "Olly Moss Boris001 Firewatch",
@@ -19591,7 +32050,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/olly-moss-boris001-firewatch.jpg",
-    "id": "wp_2177"
+    "id": "wp_2177",
+    "tags": [
+      "4k",
+      "boris001",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Dadaws Firewatch Bright Moon",
@@ -19600,7 +32068,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/olly-moss-dadaws-firewatch-bright-moon.jpg",
-    "id": "wp_2178"
+    "id": "wp_2178",
+    "tags": [
+      "4k",
+      "bright",
+      "dadaws",
+      "firewatch",
+      "minimalist",
+      "moon",
+      "moss",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Dadaws Firewatch Cliff",
@@ -19609,7 +32088,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.27 MB",
     "path": "images/olly-moss-dadaws-firewatch-cliff.jpg",
-    "id": "wp_2179"
+    "id": "wp_2179",
+    "tags": [
+      "4k",
+      "cliff",
+      "dadaws",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Blue Forest",
@@ -19618,7 +32107,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.59 MB",
     "path": "images/olly-moss-firewatch-blue-forest.png",
-    "id": "wp_2180"
+    "id": "wp_2180",
+    "tags": [
+      "4k",
+      "blue",
+      "firewatch",
+      "forest",
+      "minimalist",
+      "moss",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Green",
@@ -19627,7 +32126,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.62 MB",
     "path": "images/olly-moss-firewatch-green.png",
-    "id": "wp_2181"
+    "id": "wp_2181",
+    "tags": [
+      "4k",
+      "firewatch",
+      "green",
+      "minimalist",
+      "moss",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Night",
@@ -19636,7 +32144,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/olly-moss-firewatch-night.jpg",
-    "id": "wp_2182"
+    "id": "wp_2182",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "night",
+      "olly",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Purple",
@@ -19645,7 +32162,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/olly-moss-firewatch-purple.jpg",
-    "id": "wp_2183"
+    "id": "wp_2183",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "purple",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Red",
@@ -19654,7 +32180,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/olly-moss-firewatch-red.jpg",
-    "id": "wp_2184"
+    "id": "wp_2184",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "red",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch River",
@@ -19663,7 +32198,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.56 MB",
     "path": "images/olly-moss-firewatch-river.png",
-    "id": "wp_2185"
+    "id": "wp_2185",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "river",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Stag",
@@ -19672,7 +32216,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.40 MB",
     "path": "images/olly-moss-firewatch-stag.jpg",
-    "id": "wp_2186"
+    "id": "wp_2186",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "stag",
+      "uhd"
+    ]
   },
   {
     "name": "Olly Moss Firewatch Yellow",
@@ -19681,7 +32234,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/olly-moss-firewatch-yellow.jpg",
-    "id": "wp_2187"
+    "id": "wp_2187",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "olly",
+      "uhd",
+      "yellow"
+    ]
   },
   {
     "name": "Olly Moss Sunset Mountains Firewatch",
@@ -19690,7 +32252,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/olly-moss-sunset-mountains-firewatch.jpg",
-    "id": "wp_2188"
+    "id": "wp_2188",
+    "tags": [
+      "4k",
+      "firewatch",
+      "minimalist",
+      "moss",
+      "mountains",
+      "olly",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Paralloid Reaching The Stars Over Mountain",
@@ -19699,7 +32271,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.63 MB",
     "path": "images/paralloid-reaching-the-stars-over-mountain.jpg",
-    "id": "wp_2189"
+    "id": "wp_2189",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountain",
+      "over",
+      "paralloid",
+      "reaching",
+      "stars",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Partenoxenese Blue Faro",
@@ -19708,7 +32291,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.15 MB",
     "path": "images/partenoxenese-blue-faro.jpg",
-    "id": "wp_2190"
+    "id": "wp_2190",
+    "tags": [
+      "4k",
+      "blue",
+      "faro",
+      "minimalist",
+      "partenoxenese",
+      "uhd"
+    ]
   },
   {
     "name": "Phantomghostx Mountains",
@@ -19717,7 +32308,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/phantomghostx-mountains.jpg",
-    "id": "wp_2191"
+    "id": "wp_2191",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "phantomghostx",
+      "uhd"
+    ]
   },
   {
     "name": "Quentinmarsollier Unexplored",
@@ -19726,7 +32324,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.92 MB",
     "path": "images/quentinmarsollier-unexplored.png",
-    "id": "wp_2192"
+    "id": "wp_2192",
+    "tags": [
+      "4k",
+      "minimalist",
+      "quentinmarsollier",
+      "uhd",
+      "unexplored"
+    ]
   },
   {
     "name": "Raven2cz Sunset River Among Trees",
@@ -19735,7 +32340,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.68 MB",
     "path": "images/raven2cz-sunset-river-among-trees.png",
-    "id": "wp_2193"
+    "id": "wp_2193",
+    "tags": [
+      "4k",
+      "among",
+      "minimalist",
+      "raven2cz",
+      "river",
+      "sunset",
+      "trees",
+      "uhd"
+    ]
   },
   {
     "name": "Redditislikefb Astral Summit",
@@ -19744,7 +32359,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.81 MB",
     "path": "images/redditislikefb-astral-summit.png",
-    "id": "wp_2194"
+    "id": "wp_2194",
+    "tags": [
+      "4k",
+      "astral",
+      "minimalist",
+      "redditislikefb",
+      "summit",
+      "uhd"
+    ]
   },
   {
     "name": "Refiend Carmine Rock",
@@ -19753,7 +32376,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.53 MB",
     "path": "images/refiend-carmine-rock.jpg",
-    "id": "wp_2195"
+    "id": "wp_2195",
+    "tags": [
+      "4k",
+      "carmine",
+      "minimalist",
+      "refiend",
+      "rock",
+      "uhd"
+    ]
   },
   {
     "name": "Rhads Survivors",
@@ -19762,7 +32393,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.15 MB",
     "path": "images/rhads-survivors.png",
-    "id": "wp_2196"
+    "id": "wp_2196",
+    "tags": [
+      "4k",
+      "minimalist",
+      "rhads",
+      "survivors",
+      "uhd"
+    ]
   },
   {
     "name": "Richarddorran City Of Life",
@@ -19771,7 +32409,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "1.03 MB",
     "path": "images/richarddorran-city-of-life.jpg",
-    "id": "wp_2197"
+    "id": "wp_2197",
+    "tags": [
+      "4k",
+      "city",
+      "life",
+      "minimalist",
+      "richarddorran",
+      "uhd"
+    ]
   },
   {
     "name": "Ricodz Lost",
@@ -19780,7 +32426,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.55 MB",
     "path": "images/ricodz-lost.jpg",
-    "id": "wp_2198"
+    "id": "wp_2198",
+    "tags": [
+      "4k",
+      "lost",
+      "minimalist",
+      "ricodz",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Alien Moon",
@@ -19789,7 +32442,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/rmradev-alien-moon.jpg",
-    "id": "wp_2199"
+    "id": "wp_2199",
+    "tags": [
+      "4k",
+      "alien",
+      "minimalist",
+      "moon",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Colorful Landscape",
@@ -19798,7 +32459,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.48 MB",
     "path": "images/rmradev-colorful-landscape.png",
-    "id": "wp_2200"
+    "id": "wp_2200",
+    "tags": [
+      "4k",
+      "colorful",
+      "landscape",
+      "minimalist",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Colorful Mountains",
@@ -19807,7 +32476,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/rmradev-colorful-mountains.jpg",
-    "id": "wp_2201"
+    "id": "wp_2201",
+    "tags": [
+      "4k",
+      "colorful",
+      "minimalist",
+      "mountains",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Evening Forest",
@@ -19816,7 +32493,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.41 MB",
     "path": "images/rmradev-evening-forest.png",
-    "id": "wp_2202"
+    "id": "wp_2202",
+    "tags": [
+      "4k",
+      "evening",
+      "forest",
+      "minimalist",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Moon Sunset Landscape",
@@ -19825,7 +32510,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.03 MB",
     "path": "images/rmradev-moon-sunset-landscape.png",
-    "id": "wp_2203"
+    "id": "wp_2203",
+    "tags": [
+      "4k",
+      "landscape",
+      "minimalist",
+      "moon",
+      "rmradev",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Mountain Retreat",
@@ -19834,7 +32528,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/rmradev-mountain-retreat.jpg",
-    "id": "wp_2204"
+    "id": "wp_2204",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountain",
+      "retreat",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Mountains",
@@ -19843,7 +32545,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/rmradev-mountains.jpg",
-    "id": "wp_2205"
+    "id": "wp_2205",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Peaceful Lake",
@@ -19852,7 +32561,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.82 MB",
     "path": "images/rmradev-peaceful-lake.png",
-    "id": "wp_2206"
+    "id": "wp_2206",
+    "tags": [
+      "4k",
+      "lake",
+      "minimalist",
+      "peaceful",
+      "rmradev",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Sunset Landscape",
@@ -19861,7 +32578,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/rmradev-sunset-landscape.jpg",
-    "id": "wp_2207"
+    "id": "wp_2207",
+    "tags": [
+      "4k",
+      "landscape",
+      "minimalist",
+      "rmradev",
+      "sunset",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Tranquility",
@@ -19870,7 +32595,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.54 MB",
     "path": "images/rmradev-tranquility.png",
-    "id": "wp_2208"
+    "id": "wp_2208",
+    "tags": [
+      "4k",
+      "minimalist",
+      "rmradev",
+      "tranquility",
+      "uhd"
+    ]
   },
   {
     "name": "Rmradev Vampire Castle",
@@ -19879,7 +32611,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/rmradev-vampire-castle.jpg",
-    "id": "wp_2209"
+    "id": "wp_2209",
+    "tags": [
+      "4k",
+      "castle",
+      "minimalist",
+      "rmradev",
+      "uhd",
+      "vampire"
+    ]
   },
   {
     "name": "Roboturtle Purple Sky",
@@ -19888,7 +32628,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/roboturtle_-purple-sky.jpg",
-    "id": "wp_2210"
+    "id": "wp_2210",
+    "tags": [
+      "4k",
+      "minimalist",
+      "purple",
+      "roboturtle",
+      "sky",
+      "uhd"
+    ]
   },
   {
     "name": "Romain Trystram Neon Alleyway",
@@ -19897,7 +32645,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/romain-trystram-Neon-Alleyway.jpg",
-    "id": "wp_2211"
+    "id": "wp_2211",
+    "tags": [
+      "4k",
+      "alleyway",
+      "minimalist",
+      "neon",
+      "romain",
+      "trystram",
+      "uhd"
+    ]
   },
   {
     "name": "Romen Deva Awakening",
@@ -19906,7 +32663,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/romen-deva-awakening.jpg",
-    "id": "wp_2212"
+    "id": "wp_2212",
+    "tags": [
+      "4k",
+      "awakening",
+      "deva",
+      "minimalist",
+      "romen",
+      "uhd"
+    ]
   },
   {
     "name": "Rook Rip Mt Fuji",
@@ -19915,7 +32680,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.41 MB",
     "path": "images/rook-rip-mt-fuji.png",
-    "id": "wp_2213"
+    "id": "wp_2213",
+    "tags": [
+      "4k",
+      "fuji",
+      "minimalist",
+      "rip",
+      "rook",
+      "uhd"
+    ]
   },
   {
     "name": "Ryky Sky Wave",
@@ -19924,7 +32697,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.91 MB",
     "path": "images/ryky-sky-wave.png",
-    "id": "wp_2214"
+    "id": "wp_2214",
+    "tags": [
+      "4k",
+      "minimalist",
+      "ryky",
+      "sky",
+      "uhd",
+      "wave"
+    ]
   },
   {
     "name": "Ryky The Rest",
@@ -19933,7 +32714,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.97 MB",
     "path": "images/ryky-the-rest.png",
-    "id": "wp_2215"
+    "id": "wp_2215",
+    "tags": [
+      "4k",
+      "minimalist",
+      "rest",
+      "ryky",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Sabbathbl00dysabbath Desert Synthwave Ai Landscape",
@@ -19942,7 +32731,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "5.41 MB",
     "path": "images/sabbathbl00dysabbath-desert-synthwave-ai-landscape.png",
-    "id": "wp_2216"
+    "id": "wp_2216",
+    "tags": [
+      "4k",
+      "desert",
+      "landscape",
+      "minimalist",
+      "sabbathbl00dysabbath",
+      "synthwave",
+      "uhd"
+    ]
   },
   {
     "name": "Saisho Moonlit Night Wedding",
@@ -19951,7 +32749,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/saisho-moonlit-night-wedding.jpg",
-    "id": "wp_2217"
+    "id": "wp_2217",
+    "tags": [
+      "4k",
+      "minimalist",
+      "moonlit",
+      "night",
+      "saisho",
+      "uhd",
+      "wedding"
+    ]
   },
   {
     "name": "Salman Illustrator Japanese Landscape",
@@ -19960,7 +32767,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.13 MB",
     "path": "images/salman-illustrator-japanese-landscape.png",
-    "id": "wp_2218"
+    "id": "wp_2218",
+    "tags": [
+      "4k",
+      "illustrator",
+      "japanese",
+      "landscape",
+      "minimalist",
+      "salman",
+      "uhd"
+    ]
   },
   {
     "name": "Samantha Lee Purple Deer",
@@ -19969,7 +32785,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.85 MB",
     "path": "images/samantha-lee-purple-deer.png",
-    "id": "wp_2219"
+    "id": "wp_2219",
+    "tags": [
+      "4k",
+      "deer",
+      "lee",
+      "minimalist",
+      "purple",
+      "samantha",
+      "uhd"
+    ]
   },
   {
     "name": "Sandace11 Dusk",
@@ -19978,7 +32803,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.30 MB",
     "path": "images/sandace11-dusk.jpg",
-    "id": "wp_2220"
+    "id": "wp_2220",
+    "tags": [
+      "4k",
+      "dusk",
+      "minimalist",
+      "sandace11",
+      "uhd"
+    ]
   },
   {
     "name": "Significancefit6753 Samurai Evening Jonah Edit",
@@ -19987,7 +32819,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/significancefit6753-samurai-evening-jonah-edit.jpg",
-    "id": "wp_2221"
+    "id": "wp_2221",
+    "tags": [
+      "4k",
+      "edit",
+      "evening",
+      "jonah",
+      "minimalist",
+      "samurai",
+      "significancefit6753",
+      "uhd"
+    ]
   },
   {
     "name": "Skavrx Mountain",
@@ -19996,7 +32838,14 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.65 MB",
     "path": "images/skavrx-mountain.png",
-    "id": "wp_2222"
+    "id": "wp_2222",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountain",
+      "skavrx",
+      "uhd"
+    ]
   },
   {
     "name": "Stable Diffusion Wavymulder Cyberpunk Sunset",
@@ -20005,7 +32854,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.34 MB",
     "path": "images/stable-diffusion-wavymulder-cyberpunk-sunset.png",
-    "id": "wp_2223"
+    "id": "wp_2223",
+    "tags": [
+      "4k",
+      "cyberpunk",
+      "diffusion",
+      "minimalist",
+      "stable",
+      "sunset",
+      "uhd",
+      "wavymulder"
+    ]
   },
   {
     "name": "Strigonian Far North",
@@ -20014,7 +32873,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.06 MB",
     "path": "images/strigonian-far-north.png",
-    "id": "wp_2224"
+    "id": "wp_2224",
+    "tags": [
+      "4k",
+      "far",
+      "minimalist",
+      "north",
+      "strigonian",
+      "uhd"
+    ]
   },
   {
     "name": "Surendra Rajawat Butterflies",
@@ -20023,7 +32890,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.58 MB",
     "path": "images/surendra-rajawat-butterflies.png",
-    "id": "wp_2225"
+    "id": "wp_2225",
+    "tags": [
+      "4k",
+      "butterflies",
+      "minimalist",
+      "rajawat",
+      "surendra",
+      "uhd"
+    ]
   },
   {
     "name": "Surendra Rajawat Island In The Sky",
@@ -20032,7 +32907,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/surendra-rajawat-island-in-the-sky.jpg",
-    "id": "wp_2226"
+    "id": "wp_2226",
+    "tags": [
+      "4k",
+      "island",
+      "minimalist",
+      "rajawat",
+      "sky",
+      "surendra",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Surendra Rajawat Natures Beauty",
@@ -20041,7 +32926,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.73 MB",
     "path": "images/surendra-rajawat-natures-beauty.png",
-    "id": "wp_2227"
+    "id": "wp_2227",
+    "tags": [
+      "4k",
+      "beauty",
+      "minimalist",
+      "natures",
+      "rajawat",
+      "surendra",
+      "uhd"
+    ]
   },
   {
     "name": "Surendra Rajawat The Magic Unfolds",
@@ -20050,7 +32944,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.15 MB",
     "path": "images/surendra-rajawat-the-magic-unfolds.png",
-    "id": "wp_2228"
+    "id": "wp_2228",
+    "tags": [
+      "4k",
+      "magic",
+      "minimalist",
+      "rajawat",
+      "surendra",
+      "the",
+      "uhd",
+      "unfolds"
+    ]
   },
   {
     "name": "Tacosauceninja Blossoms",
@@ -20059,7 +32963,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/tacosauceninja-blossoms.jpg",
-    "id": "wp_2229"
+    "id": "wp_2229",
+    "tags": [
+      "4k",
+      "blossoms",
+      "minimalist",
+      "tacosauceninja",
+      "uhd"
+    ]
   },
   {
     "name": "Tacosauceninja I Cant Stop What You Began",
@@ -20068,7 +32979,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.20 MB",
     "path": "images/tacosauceninja-i-cant-stop-what-you-began.png",
-    "id": "wp_2230"
+    "id": "wp_2230",
+    "tags": [
+      "4k",
+      "began",
+      "cant",
+      "minimalist",
+      "stop",
+      "tacosauceninja",
+      "uhd",
+      "what",
+      "you"
+    ]
   },
   {
     "name": "Tacosauceninja Remembering",
@@ -20077,7 +32999,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.83 MB",
     "path": "images/tacosauceninja-remembering.jpg",
-    "id": "wp_2231"
+    "id": "wp_2231",
+    "tags": [
+      "4k",
+      "minimalist",
+      "remembering",
+      "tacosauceninja",
+      "uhd"
+    ]
   },
   {
     "name": "Tacosauceninja Rooftop",
@@ -20086,7 +33015,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/tacosauceninja-rooftop.jpg",
-    "id": "wp_2232"
+    "id": "wp_2232",
+    "tags": [
+      "4k",
+      "minimalist",
+      "rooftop",
+      "tacosauceninja",
+      "uhd"
+    ]
   },
   {
     "name": "Tacosauceninja Shadows Die Twice",
@@ -20095,7 +33031,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.33 MB",
     "path": "images/tacosauceninja-shadows-die-twice.png",
-    "id": "wp_2233"
+    "id": "wp_2233",
+    "tags": [
+      "4k",
+      "die",
+      "minimalist",
+      "shadows",
+      "tacosauceninja",
+      "twice",
+      "uhd"
+    ]
   },
   {
     "name": "Tanvdesign Fantasy Landscape",
@@ -20104,7 +33049,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.42 MB",
     "path": "images/tanvdesign-fantasy-landscape.png",
-    "id": "wp_2234"
+    "id": "wp_2234",
+    "tags": [
+      "4k",
+      "fantasy",
+      "landscape",
+      "minimalist",
+      "tanvdesign",
+      "uhd"
+    ]
   },
   {
     "name": "Tanvdesign Wolf",
@@ -20113,7 +33066,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/tanvdesign-wolf.jpg",
-    "id": "wp_2235"
+    "id": "wp_2235",
+    "tags": [
+      "4k",
+      "minimalist",
+      "tanvdesign",
+      "uhd",
+      "wolf"
+    ]
   },
   {
     "name": "The Gate To Serenity Danisogen",
@@ -20122,7 +33082,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.80 MB",
     "path": "images/the-gate-to-serenity-danisogen.png",
-    "id": "wp_2236"
+    "id": "wp_2236",
+    "tags": [
+      "4k",
+      "danisogen",
+      "gate",
+      "minimalist",
+      "serenity",
+      "the",
+      "uhd"
+    ]
   },
   {
     "name": "Thedigitalrob Separated By Fate",
@@ -20131,7 +33100,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/thedigitalrob-separated-by-fate.jpg",
-    "id": "wp_2237"
+    "id": "wp_2237",
+    "tags": [
+      "4k",
+      "fate",
+      "minimalist",
+      "separated",
+      "thedigitalrob",
+      "uhd"
+    ]
   },
   {
     "name": "Thomasshifflett31 Beautiful City Sunset",
@@ -20140,7 +33117,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "images/thomasshifflett31-beautiful-city-sunset.jpg",
-    "id": "wp_2238"
+    "id": "wp_2238",
+    "tags": [
+      "4k",
+      "beautiful",
+      "city",
+      "minimalist",
+      "sunset",
+      "thomasshifflett31",
+      "uhd"
+    ]
   },
   {
     "name": "Tienphat Night Landscape",
@@ -20149,7 +33135,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/tienphat-night-landscape.jpg",
-    "id": "wp_2239"
+    "id": "wp_2239",
+    "tags": [
+      "4k",
+      "landscape",
+      "minimalist",
+      "night",
+      "tienphat",
+      "uhd"
+    ]
   },
   {
     "name": "Tongxinfen Extraterrestrial",
@@ -20158,7 +33152,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/tongxinfen-extraterrestrial.jpg",
-    "id": "wp_2240"
+    "id": "wp_2240",
+    "tags": [
+      "4k",
+      "extraterrestrial",
+      "minimalist",
+      "tongxinfen",
+      "uhd"
+    ]
   },
   {
     "name": "Totalcoconut Midjourney Landscape Wallpaper",
@@ -20167,7 +33168,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/totalcoconut-midjourney-landscape-wallpaper.jpg",
-    "id": "wp_2241"
+    "id": "wp_2241",
+    "tags": [
+      "4k",
+      "landscape",
+      "midjourney",
+      "minimalist",
+      "totalcoconut",
+      "uhd",
+      "wallpaper"
+    ]
   },
   {
     "name": "Tyler Smith Blue Lagoon Port",
@@ -20176,7 +33186,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.44 MB",
     "path": "images/tyler-smith-blue-lagoon-port.jpg",
-    "id": "wp_2242"
+    "id": "wp_2242",
+    "tags": [
+      "4k",
+      "blue",
+      "lagoon",
+      "minimalist",
+      "port",
+      "smith",
+      "tyler",
+      "uhd"
+    ]
   },
   {
     "name": "Tyler Smith Redwoods Wolf",
@@ -20185,7 +33205,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.57 MB",
     "path": "images/tyler-smith-redwoods-wolf.jpg",
-    "id": "wp_2243"
+    "id": "wp_2243",
+    "tags": [
+      "4k",
+      "minimalist",
+      "redwoods",
+      "smith",
+      "tyler",
+      "uhd",
+      "wolf"
+    ]
   },
   {
     "name": "Uagami Cherry Blossoms",
@@ -20194,7 +33223,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.32 MB",
     "path": "images/uagami-cherry-blossoms.jpg",
-    "id": "wp_2244"
+    "id": "wp_2244",
+    "tags": [
+      "4k",
+      "blossoms",
+      "cherry",
+      "minimalist",
+      "uagami",
+      "uhd"
+    ]
   },
   {
     "name": "Unknown Anime Sunset",
@@ -20203,7 +33240,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.26 MB",
     "path": "images/unknown-anime-sunset.jpg",
-    "id": "wp_2245"
+    "id": "wp_2245",
+    "tags": [
+      "4k",
+      "anime",
+      "minimalist",
+      "sunset",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Bird Landing On Water",
@@ -20212,7 +33257,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "images/unknown-bird-landing-on-water.jpg",
-    "id": "wp_2246"
+    "id": "wp_2246",
+    "tags": [
+      "4k",
+      "bird",
+      "landing",
+      "minimalist",
+      "uhd",
+      "unknown",
+      "water"
+    ]
   },
   {
     "name": "Unknown Blue Moon Planets Over Lake Trees",
@@ -20221,7 +33275,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/unknown-blue-moon-planets-over-lake-trees.jpg",
-    "id": "wp_2247"
+    "id": "wp_2247",
+    "tags": [
+      "4k",
+      "blue",
+      "lake",
+      "minimalist",
+      "moon",
+      "over",
+      "planets",
+      "trees",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Couple On Red Mountains",
@@ -20230,7 +33296,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/unknown-couple-on-red-mountains.jpg",
-    "id": "wp_2248"
+    "id": "wp_2248",
+    "tags": [
+      "4k",
+      "couple",
+      "minimalist",
+      "mountains",
+      "red",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Cyberpunk City",
@@ -20239,7 +33314,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.29 MB",
     "path": "images/unknown-cyberpunk-city.jpg",
-    "id": "wp_2249"
+    "id": "wp_2249",
+    "tags": [
+      "4k",
+      "city",
+      "cyberpunk",
+      "minimalist",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Dark Mojave Desert",
@@ -20248,7 +33331,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.06 MB",
     "path": "images/unknown-dark-mojave-desert.jpg",
-    "id": "wp_2250"
+    "id": "wp_2250",
+    "tags": [
+      "4k",
+      "dark",
+      "desert",
+      "minimalist",
+      "mojave",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Deer In The Light",
@@ -20257,7 +33349,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/unknown-deer-in-the-light.jpg",
-    "id": "wp_2251"
+    "id": "wp_2251",
+    "tags": [
+      "4k",
+      "deer",
+      "light",
+      "minimalist",
+      "the",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Downtown Minneapolis",
@@ -20266,7 +33367,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/unknown-downtown-minneapolis.jpg",
-    "id": "wp_2252"
+    "id": "wp_2252",
+    "tags": [
+      "4k",
+      "downtown",
+      "minimalist",
+      "minneapolis",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Elephants Green Mountain",
@@ -20275,7 +33384,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "images/unknown-elephants-green-mountain.jpg",
-    "id": "wp_2253"
+    "id": "wp_2253",
+    "tags": [
+      "4k",
+      "elephants",
+      "green",
+      "minimalist",
+      "mountain",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Green Mountains And Hills",
@@ -20284,7 +33402,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/unknown-green-mountains-and-hills.jpg",
-    "id": "wp_2254"
+    "id": "wp_2254",
+    "tags": [
+      "4k",
+      "and",
+      "green",
+      "hills",
+      "minimalist",
+      "mountains",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Ice Mountain Trees",
@@ -20293,7 +33421,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.11 MB",
     "path": "images/unknown-ice-mountain-trees.png",
-    "id": "wp_2255"
+    "id": "wp_2255",
+    "tags": [
+      "4k",
+      "ice",
+      "minimalist",
+      "mountain",
+      "trees",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Minimalist Desert Landscape",
@@ -20302,7 +33439,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.17 MB",
     "path": "images/unknown-minimalist-desert-landscape.jpg",
-    "id": "wp_2256"
+    "id": "wp_2256",
+    "tags": [
+      "4k",
+      "desert",
+      "landscape",
+      "minimalist",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Mountain Birds",
@@ -20311,7 +33456,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.15 MB",
     "path": "images/unknown-mountain-birds.png",
-    "id": "wp_2257"
+    "id": "wp_2257",
+    "tags": [
+      "4k",
+      "birds",
+      "minimalist",
+      "mountain",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Multicolor Rocket Launch",
@@ -20320,7 +33473,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/unknown-multicolor-rocket-launch.jpg",
-    "id": "wp_2258"
+    "id": "wp_2258",
+    "tags": [
+      "4k",
+      "launch",
+      "minimalist",
+      "multicolor",
+      "rocket",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Orange Sunset Over Blue Hills",
@@ -20329,7 +33491,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.11 MB",
     "path": "images/unknown-orange-sunset-over-blue-hills.jpg",
-    "id": "wp_2259"
+    "id": "wp_2259",
+    "tags": [
+      "4k",
+      "blue",
+      "hills",
+      "minimalist",
+      "orange",
+      "over",
+      "sunset",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Pink Mountains",
@@ -20338,7 +33511,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.35 MB",
     "path": "images/unknown-pink-mountains.png",
-    "id": "wp_2260"
+    "id": "wp_2260",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "pink",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Pink Rocky Cliffs And Water",
@@ -20347,7 +33528,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/unknown-pink-rocky-cliffs-and-water.jpg",
-    "id": "wp_2261"
+    "id": "wp_2261",
+    "tags": [
+      "4k",
+      "and",
+      "cliffs",
+      "minimalist",
+      "pink",
+      "rocky",
+      "uhd",
+      "unknown",
+      "water"
+    ]
   },
   {
     "name": "Unknown Pink Sunset Mountain Trees",
@@ -20356,7 +33548,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "0.49 MB",
     "path": "images/unknown-pink-sunset-mountain-trees.png",
-    "id": "wp_2262"
+    "id": "wp_2262",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountain",
+      "pink",
+      "sunset",
+      "trees",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Purple Lake",
@@ -20365,7 +33567,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.10 MB",
     "path": "images/unknown-purple-lake.jpg",
-    "id": "wp_2263"
+    "id": "wp_2263",
+    "tags": [
+      "4k",
+      "lake",
+      "minimalist",
+      "purple",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Purple Mountain Landscape With Ship",
@@ -20374,7 +33584,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/unknown-purple-mountain-landscape-with-ship.jpg",
-    "id": "wp_2264"
+    "id": "wp_2264",
+    "tags": [
+      "4k",
+      "landscape",
+      "minimalist",
+      "mountain",
+      "purple",
+      "ship",
+      "uhd",
+      "unknown",
+      "with"
+    ]
   },
   {
     "name": "Unknown Samurai Forest",
@@ -20383,7 +33604,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/unknown-samurai-forest.jpg",
-    "id": "wp_2265"
+    "id": "wp_2265",
+    "tags": [
+      "4k",
+      "forest",
+      "minimalist",
+      "samurai",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Snowy Landscape",
@@ -20392,7 +33621,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.18 MB",
     "path": "images/unknown-snowy-landscape.jpg",
-    "id": "wp_2266"
+    "id": "wp_2266",
+    "tags": [
+      "4k",
+      "landscape",
+      "minimalist",
+      "snowy",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Sunset Behind Island Palm Trees",
@@ -20401,7 +33638,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/unknown-sunset-behind-island-palm-trees.jpg",
-    "id": "wp_2267"
+    "id": "wp_2267",
+    "tags": [
+      "4k",
+      "behind",
+      "island",
+      "minimalist",
+      "palm",
+      "sunset",
+      "trees",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Sunset Fishing",
@@ -20410,7 +33658,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "images/unknown-sunset-fishing.jpg",
-    "id": "wp_2268"
+    "id": "wp_2268",
+    "tags": [
+      "4k",
+      "fishing",
+      "minimalist",
+      "sunset",
+      "uhd",
+      "unknown"
+    ]
   },
   {
     "name": "Unknown Whale Tail At Sunset",
@@ -20419,7 +33675,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/unknown-whale-tail-at-sunset.jpg",
-    "id": "wp_2269"
+    "id": "wp_2269",
+    "tags": [
+      "4k",
+      "minimalist",
+      "sunset",
+      "tail",
+      "uhd",
+      "unknown",
+      "whale"
+    ]
   },
   {
     "name": "Unkown Purple Mountains",
@@ -20428,7 +33693,15 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.28 MB",
     "path": "images/unkown-purple-mountains.png",
-    "id": "wp_2270"
+    "id": "wp_2270",
+    "tags": [
+      "4k",
+      "minimalist",
+      "mountains",
+      "purple",
+      "uhd",
+      "unkown"
+    ]
   },
   {
     "name": "Unreal Midjourney A Stunning Sunset",
@@ -20437,7 +33710,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/unreal-midjourney-a-stunning-sunset.jpg",
-    "id": "wp_2271"
+    "id": "wp_2271",
+    "tags": [
+      "4k",
+      "midjourney",
+      "minimalist",
+      "stunning",
+      "sunset",
+      "uhd",
+      "unreal"
+    ]
   },
   {
     "name": "Vorgbardo Ancient Oriental Temple",
@@ -20446,7 +33728,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/vorgbardo-ancient-oriental-temple.jpg",
-    "id": "wp_2272"
+    "id": "wp_2272",
+    "tags": [
+      "4k",
+      "ancient",
+      "minimalist",
+      "oriental",
+      "temple",
+      "uhd",
+      "vorgbardo"
+    ]
   },
   {
     "name": "Voyager Bequem Almost Spring Prev 2",
@@ -20455,7 +33746,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.67 MB",
     "path": "images/voyager-bequem-almost-spring-prev-2.jpg",
-    "id": "wp_2273"
+    "id": "wp_2273",
+    "tags": [
+      "4k",
+      "almost",
+      "bequem",
+      "minimalist",
+      "prev",
+      "spring",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Board Man Moonlit Nights F",
@@ -20464,7 +33765,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.64 MB",
     "path": "images/voyager-board-man-moonlit-nights-f.jpg",
-    "id": "wp_2274"
+    "id": "wp_2274",
+    "tags": [
+      "4k",
+      "board",
+      "man",
+      "minimalist",
+      "moonlit",
+      "nights",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Camino De Kazul Arte",
@@ -20473,7 +33784,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.24 MB",
     "path": "images/voyager-camino-de-kazul-arte.jpg",
-    "id": "wp_2275"
+    "id": "wp_2275",
+    "tags": [
+      "4k",
+      "arte",
+      "camino",
+      "kazul",
+      "minimalist",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Cloud Break Day Drifting",
@@ -20482,7 +33802,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.78 MB",
     "path": "images/voyager-cloud-break-day-drifting.png",
-    "id": "wp_2276"
+    "id": "wp_2276",
+    "tags": [
+      "4k",
+      "break",
+      "cloud",
+      "day",
+      "drifting",
+      "minimalist",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Coldbrew Backyard Gardens",
@@ -20491,7 +33821,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.85 MB",
     "path": "images/voyager-coldbrew-backyard-gardens.jpg",
-    "id": "wp_2277"
+    "id": "wp_2277",
+    "tags": [
+      "4k",
+      "backyard",
+      "coldbrew",
+      "gardens",
+      "minimalist",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Cosmonkey Leaves",
@@ -20500,7 +33839,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.65 MB",
     "path": "images/voyager-cosmonkey-leaves.jpg",
-    "id": "wp_2278"
+    "id": "wp_2278",
+    "tags": [
+      "4k",
+      "cosmonkey",
+      "leaves",
+      "minimalist",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Lofi Exposure",
@@ -20509,7 +33856,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.63 MB",
     "path": "images/voyager-lofi-exposure.jpg",
-    "id": "wp_2279"
+    "id": "wp_2279",
+    "tags": [
+      "4k",
+      "exposure",
+      "lofi",
+      "minimalist",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Nogymx Marauders",
@@ -20518,7 +33873,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.42 MB",
     "path": "images/voyager-nogymx-marauders.jpg",
-    "id": "wp_2280"
+    "id": "wp_2280",
+    "tags": [
+      "4k",
+      "marauders",
+      "minimalist",
+      "nogymx",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Otaam Tonion Lush Space",
@@ -20527,7 +33890,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.58 MB",
     "path": "images/voyager-otaam-tonion-lush-space.jpg",
-    "id": "wp_2281"
+    "id": "wp_2281",
+    "tags": [
+      "4k",
+      "lush",
+      "minimalist",
+      "otaam",
+      "space",
+      "tonion",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Quilla Teaser Traders",
@@ -20536,7 +33909,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.19 MB",
     "path": "images/voyager-quilla-teaser-traders.jpg",
-    "id": "wp_2282"
+    "id": "wp_2282",
+    "tags": [
+      "4k",
+      "minimalist",
+      "quilla",
+      "teaser",
+      "traders",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Sai T Inownlove Overseas",
@@ -20545,7 +33927,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.43 MB",
     "path": "images/voyager-sai-t-inownlove-overseas.jpg",
-    "id": "wp_2283"
+    "id": "wp_2283",
+    "tags": [
+      "4k",
+      "inownlove",
+      "minimalist",
+      "overseas",
+      "sai",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Samurai Bebop Acoolrocket Edit",
@@ -20554,7 +33945,17 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "3.22 MB",
     "path": "images/voyager-samurai-bebop-acoolrocket-edit.png",
-    "id": "wp_2284"
+    "id": "wp_2284",
+    "tags": [
+      "4k",
+      "acoolrocket",
+      "bebop",
+      "edit",
+      "minimalist",
+      "samurai",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Voyager Simber Tibeauthetraveler Eternal Sunshine",
@@ -20563,7 +33964,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.45 MB",
     "path": "images/voyager-simber-tibeauthetraveler-eternal-sunshine.jpg",
-    "id": "wp_2285"
+    "id": "wp_2285",
+    "tags": [
+      "4k",
+      "eternal",
+      "minimalist",
+      "simber",
+      "sunshine",
+      "tibeauthetraveler",
+      "uhd",
+      "voyager"
+    ]
   },
   {
     "name": "Wallpapersden Purple Artistic Landscape",
@@ -20572,7 +33983,16 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "1.49 MB",
     "path": "images/wallpapersden-purple-artistic-landscape.png",
-    "id": "wp_2286"
+    "id": "wp_2286",
+    "tags": [
+      "4k",
+      "artistic",
+      "landscape",
+      "minimalist",
+      "purple",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wallpapersden.Com Cool Red Mountains 4k",
@@ -20581,7 +34001,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.22 MB",
     "path": "images/wallpapersden.com_cool-red-mountains-4k.jpg",
-    "id": "wp_2287"
+    "id": "wp_2287",
+    "tags": [
+      "4k",
+      "com",
+      "cool",
+      "minimalist",
+      "mountains",
+      "red",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wallpapersden.Com Landscape Moon Digital Evening",
@@ -20590,7 +34020,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.23 MB",
     "path": "images/wallpapersden.com_landscape-moon-digital-evening.jpg",
-    "id": "wp_2288"
+    "id": "wp_2288",
+    "tags": [
+      "4k",
+      "com",
+      "digital",
+      "evening",
+      "landscape",
+      "minimalist",
+      "moon",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wallpapersden.Com Minimal Reflection Sunset",
@@ -20599,7 +34040,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.08 MB",
     "path": "images/wallpapersden.com_minimal-reflection-sunset.jpg",
-    "id": "wp_2289"
+    "id": "wp_2289",
+    "tags": [
+      "4k",
+      "com",
+      "minimal",
+      "minimalist",
+      "reflection",
+      "sunset",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wallpapersden.Com Nature Sunset Simple Minimal Illustration",
@@ -20608,7 +34059,19 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/wallpapersden.com_nature-sunset-simple-minimal-illustration.jpg",
-    "id": "wp_2290"
+    "id": "wp_2290",
+    "tags": [
+      "4k",
+      "com",
+      "illustration",
+      "minimal",
+      "minimalist",
+      "nature",
+      "simple",
+      "sunset",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wallpapersden.Com Pyramid Minimal Landscape",
@@ -20617,7 +34080,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.16 MB",
     "path": "images/wallpapersden.com_pyramid-minimal-landscape.jpg",
-    "id": "wp_2291"
+    "id": "wp_2291",
+    "tags": [
+      "4k",
+      "com",
+      "landscape",
+      "minimal",
+      "minimalist",
+      "pyramid",
+      "uhd",
+      "wallpapersden"
+    ]
   },
   {
     "name": "Wheazzy Birds Mountain",
@@ -20626,7 +34099,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.14 MB",
     "path": "images/wheazzy-birds-mountain.jpg",
-    "id": "wp_2292"
+    "id": "wp_2292",
+    "tags": [
+      "4k",
+      "birds",
+      "minimalist",
+      "mountain",
+      "uhd",
+      "wheazzy"
+    ]
   },
   {
     "name": "Wheazzy Blue Mountains",
@@ -20635,7 +34116,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.12 MB",
     "path": "images/wheazzy-blue-mountains.jpg",
-    "id": "wp_2293"
+    "id": "wp_2293",
+    "tags": [
+      "4k",
+      "blue",
+      "minimalist",
+      "mountains",
+      "uhd",
+      "wheazzy"
+    ]
   },
   {
     "name": "Wp5102649 Neon Retro City Ps4 Wallpapers",
@@ -20644,7 +34133,18 @@ const WALLPAPERS = [
     "format": "PNG",
     "size": "2.23 MB",
     "path": "images/wp5102649-neon-retro-city-ps4-wallpapers.png",
-    "id": "wp_2294"
+    "id": "wp_2294",
+    "tags": [
+      "4k",
+      "city",
+      "minimalist",
+      "neon",
+      "ps4",
+      "retro",
+      "uhd",
+      "wallpapers",
+      "wp5102649"
+    ]
   },
   {
     "name": "Wp5998347 Retro 4k Wallpapers",
@@ -20653,7 +34153,15 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.35 MB",
     "path": "images/wp5998347-retro-4k-wallpapers.jpg",
-    "id": "wp_2295"
+    "id": "wp_2295",
+    "tags": [
+      "4k",
+      "minimalist",
+      "retro",
+      "uhd",
+      "wallpapers",
+      "wp5998347"
+    ]
   },
   {
     "name": "Wp6504516 Monument Valley Sunset Ultra Hd Wallpapers",
@@ -20662,7 +34170,18 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.09 MB",
     "path": "images/wp6504516-monument-valley-sunset-ultra-hd-wallpapers.jpg",
-    "id": "wp_2296"
+    "id": "wp_2296",
+    "tags": [
+      "4k",
+      "minimalist",
+      "monument",
+      "sunset",
+      "uhd",
+      "ultra",
+      "valley",
+      "wallpapers",
+      "wp6504516"
+    ]
   },
   {
     "name": "Yefedlger Eolyn",
@@ -20671,7 +34190,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/yefedlger-eolyn.jpg",
-    "id": "wp_2297"
+    "id": "wp_2297",
+    "tags": [
+      "4k",
+      "eolyn",
+      "minimalist",
+      "uhd",
+      "yefedlger"
+    ]
   },
   {
     "name": "Zakoriart Commission Piece For Game",
@@ -20680,7 +34206,17 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.33 MB",
     "path": "images/zakoriart-commission-piece-for-game.jpg",
-    "id": "wp_2298"
+    "id": "wp_2298",
+    "tags": [
+      "4k",
+      "commission",
+      "for",
+      "game",
+      "minimalist",
+      "piece",
+      "uhd",
+      "zakoriart"
+    ]
   },
   {
     "name": "Zakoriart Flow",
@@ -20689,7 +34225,14 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "images/zakoriart-flow.jpg",
-    "id": "wp_2299"
+    "id": "wp_2299",
+    "tags": [
+      "4k",
+      "flow",
+      "minimalist",
+      "uhd",
+      "zakoriart"
+    ]
   },
   {
     "name": "Zakoriart If Silence Could Be Heard",
@@ -20698,7 +34241,16 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.36 MB",
     "path": "images/zakoriart-if-silence-could-be-heard.jpg",
-    "id": "wp_2300"
+    "id": "wp_2300",
+    "tags": [
+      "4k",
+      "could",
+      "heard",
+      "minimalist",
+      "silence",
+      "uhd",
+      "zakoriart"
+    ]
   },
   {
     "name": "Zeoluwang Journey",
@@ -20707,6 +34259,2366 @@ const WALLPAPERS = [
     "format": "JPG",
     "size": "0.13 MB",
     "path": "images/zeoluwang-journey.jpg",
-    "id": "wp_2301"
+    "id": "wp_2301",
+    "tags": [
+      "4k",
+      "journey",
+      "minimalist",
+      "uhd",
+      "zeoluwang"
+    ]
+  },
+  {
+    "name": "Monkey D. Luffy - Gear 5 Sun God Nika",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/0-gear-five-noon.jpg",
+    "format": "JPG",
+    "size": "6.45 MB",
+    "path": "backgrounds/0-gear-five-noon.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "gear 5",
+      "sun god nika",
+      "anime",
+      "4k",
+      "straw hat",
+      "pirate king"
+    ],
+    "id": "wp_2302"
+  },
+  {
+    "name": "Monkey D. Luffy - Gear 5 Starlight Liberation",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/1-gear-five-starlight.png",
+    "format": "PNG",
+    "size": "15.14 MB",
+    "path": "backgrounds/1-gear-five-starlight.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "gear 5",
+      "starlight",
+      "anime",
+      "4k",
+      "drums of liberation"
+    ],
+    "id": "wp_2303"
+  },
+  {
+    "name": "Straw Hat Pirates - Crew Colors & Sunny",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/2-crew-colours.jpg",
+    "format": "JPG",
+    "size": "5.59 MB",
+    "path": "backgrounds/2-crew-colours.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "straw hat pirates",
+      "thousand sunny",
+      "crew",
+      "zoro",
+      "nami",
+      "sanji",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2304"
+  },
+  {
+    "name": "Monkey D. Luffy - Clear Sky Horizon",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/3-luffy-clear-sky.jpg",
+    "format": "JPG",
+    "size": "1.59 MB",
+    "path": "backgrounds/3-luffy-clear-sky.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "sky",
+      "clouds",
+      "anime",
+      "4k",
+      "straw hat"
+    ],
+    "id": "wp_2305"
+  },
+  {
+    "name": "Monkey D. Luffy - Open Sea Sailing",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/4-luffy-open-sea.jpg",
+    "format": "JPG",
+    "size": "7.23 MB",
+    "path": "backgrounds/4-luffy-open-sea.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "ocean",
+      "sailing",
+      "sea",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2306"
+  },
+  {
+    "name": "Monkey D. Luffy - Gear 5 Dawn Awakening",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/5-gear-five-dawn.png",
+    "format": "PNG",
+    "size": "5.31 MB",
+    "path": "backgrounds/5-gear-five-dawn.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "gear 5",
+      "dawn",
+      "awakening",
+      "nika",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2307"
+  },
+  {
+    "name": "Monkey D. Luffy - Violet Sky Determination",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/6-luffy-violet.jpg",
+    "format": "JPG",
+    "size": "5.62 MB",
+    "path": "backgrounds/6-luffy-violet.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "violet",
+      "purple",
+      "sunset",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2308"
+  },
+  {
+    "name": "Monkey D. Luffy - Gear 5 Moonlit Dusk",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-luffy-theme/main/backgrounds/7-gear-five-dusk.jpg",
+    "format": "JPG",
+    "size": "5.72 MB",
+    "path": "backgrounds/7-gear-five-dusk.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "gear 5",
+      "moon",
+      "dusk",
+      "night",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2309"
+  },
+  {
+    "name": "Monkey D. Luffy - 5K Ultra HD Epic Portrait",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/Luffy_from_One_Piece_5160x2160.jpeg",
+    "format": "JPEG",
+    "size": "2.68 MB",
+    "path": "images/Luffy_from_One_Piece_5160x2160.jpeg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "5k",
+      "ultra hd",
+      "portrait",
+      "straw hat",
+      "anime"
+    ],
+    "id": "wp_2310"
+  },
+  {
+    "name": "One Piece - Straw Hat Luffy Red Vest",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/one-piece-luffy.jpg",
+    "format": "JPG",
+    "size": "5.19 MB",
+    "path": "images/one-piece-luffy.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "red vest",
+      "straw hat",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2311"
+  },
+  {
+    "name": "One Piece - Everforest Minimalist Straw Hat",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/everforest_one_piece.png",
+    "format": "PNG",
+    "size": "0.11 MB",
+    "path": "images/everforest_one_piece.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "everforest",
+      "minimalist",
+      "straw hat",
+      "jolly roger",
+      "anime"
+    ],
+    "id": "wp_2312"
+  },
+  {
+    "name": "One Piece - Wano Country Rooftop Battle Vector",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wano_vector.png",
+    "format": "PNG",
+    "size": "0.47 MB",
+    "path": "images/wano_vector.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "wano",
+      "rooftop",
+      "vector",
+      "kaido",
+      "luffy",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2313"
+  },
+  {
+    "name": "One Piece - Wano Arc Epic Battle",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/lordofhunger/wallpapers/master/wallpapers/0-anime/01-one-piece/001-wano.png",
+    "format": "PNG",
+    "size": "7.45 MB",
+    "path": "wallpapers/0-anime/01-one-piece/001-wano.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "wano",
+      "epic battle",
+      "samurai",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2314"
+  },
+  {
+    "name": "One Piece - Egghead Island Arc Future Island",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/lordofhunger/wallpapers/master/wallpapers/0-anime/01-one-piece/002-egghead.png",
+    "format": "PNG",
+    "size": "8.00 MB",
+    "path": "wallpapers/0-anime/01-one-piece/002-egghead.png",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "egghead",
+      "future island",
+      "vegapunk",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2315"
+  },
+  {
+    "name": "One Piece - Monkey D. Luffy Journey to Laugh Tale",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/one_piece_luffy.jpg",
+    "format": "JPG",
+    "size": "0.45 MB",
+    "path": "Animes/one_piece_luffy.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "luffy",
+      "laugh tale",
+      "king of pirates",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2316"
+  },
+  {
+    "name": "One Piece - Dracule Mihawk Greatest Swordsman",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/onepiece_dracula_ai.webp",
+    "format": "WEBP",
+    "size": "0.40 MB",
+    "path": "Animes/onepiece_dracula_ai.webp",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "mihawk",
+      "dracule mihawk",
+      "swordsman",
+      "yoru",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2317"
+  },
+  {
+    "name": "One Piece - Sabo Flame Emperor Dragon Claw",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/onepiece_sabo_ai.webp",
+    "format": "WEBP",
+    "size": "1.54 MB",
+    "path": "Animes/onepiece_sabo_ai.webp",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "sabo",
+      "flame emperor",
+      "mera mera",
+      "fire",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2318"
+  },
+  {
+    "name": "One Piece - Roronoa Zoro Ashura Nine Swords",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/onepiece_zoro1_ai.webp",
+    "format": "WEBP",
+    "size": "0.94 MB",
+    "path": "Animes/onepiece_zoro1_ai.webp",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "zoro",
+      "roronoa zoro",
+      "ashura",
+      "swordsman",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2319"
+  },
+  {
+    "name": "One Piece - Roronoa Zoro Three Sword Style Santoryu",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/onepiece_zoro_ai.jpg",
+    "format": "JPG",
+    "size": "0.80 MB",
+    "path": "Animes/onepiece_zoro_ai.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "zoro",
+      "santoryu",
+      "three swords",
+      "enma",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2320"
+  },
+  {
+    "name": "One Piece - Roronoa Zoro Wano Demon Slash",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/onepiece_zoro_ai.webp",
+    "format": "WEBP",
+    "size": "0.93 MB",
+    "path": "Animes/onepiece_zoro_ai.webp",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "zoro",
+      "wano",
+      "demon slash",
+      "green hair",
+      "anime",
+      "4k"
+    ],
+    "id": "wp_2321"
+  },
+  {
+    "name": "One Piece - Yamato Cherry Blossom Oni Princess",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/yamato-cherry-blossoms.jpg",
+    "format": "JPG",
+    "size": "0.23 MB",
+    "path": "anime/yamato-cherry-blossoms.jpg",
+    "tags": [
+      "one piece",
+      "onepiece",
+      "yamato",
+      "cherry blossoms",
+      "sakura",
+      "oni",
+      "wano",
+      "anime",
+      "4k",
+      "girl"
+    ],
+    "id": "wp_2322"
+  },
+  {
+    "name": "Frieren - Beyond Journey's End 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/frieren.jpg",
+    "format": "JPG",
+    "size": "0.23 MB",
+    "path": "Animes/frieren.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "frieren",
+      "frieren beyond journeys end",
+      "mage",
+      "elf",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2323"
+  },
+  {
+    "name": "Frieren - Staff of Magic Spell",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/frieren.png",
+    "format": "PNG",
+    "size": "3.34 MB",
+    "path": "Animes/frieren.png",
+    "tags": [
+      "girls",
+      "girl",
+      "frieren",
+      "magic",
+      "spell",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2324"
+  },
+  {
+    "name": "Fern & Frieren - Journey Through Magic",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/frieren_fern.jpg",
+    "format": "JPG",
+    "size": "0.34 MB",
+    "path": "Animes/frieren_fern.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "fern",
+      "frieren",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2325"
+  },
+  {
+    "name": "Chainsaw Man Makima - Control Devil",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/chainsawman_makima.jpg",
+    "format": "JPG",
+    "size": "0.40 MB",
+    "path": "Animes/chainsawman_makima.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "makima",
+      "chainsaw man",
+      "control devil",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2326"
+  },
+  {
+    "name": "Chainsaw Man Power - Blood Fiend",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/chainsawman_power.webp",
+    "format": "WEBP",
+    "size": "0.91 MB",
+    "path": "Animes/chainsawman_power.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "power",
+      "chainsaw man",
+      "blood fiend",
+      "horns",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2327"
+  },
+  {
+    "name": "Cyberpunk Edgerunners Lucy - Moon Dream",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/cyberpunk_lucy.webp",
+    "format": "WEBP",
+    "size": "0.31 MB",
+    "path": "Animes/cyberpunk_lucy.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "lucy",
+      "cyberpunk edgerunners",
+      "moon",
+      "netrunner",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2328"
+  },
+  {
+    "name": "Cyberpunk Edgerunners Lucy - Neon Skyline",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/cyberpunk_lucy2.png",
+    "format": "PNG",
+    "size": "2.21 MB",
+    "path": "Animes/cyberpunk_lucy2.png",
+    "tags": [
+      "girls",
+      "girl",
+      "lucy",
+      "cyberpunk edgerunners",
+      "neon",
+      "night city",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2329"
+  },
+  {
+    "name": "Evangelion Asuka Langley - Pilot Plugsuit",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/evangelion_asuka.png",
+    "format": "PNG",
+    "size": "1.77 MB",
+    "path": "Animes/evangelion_asuka.png",
+    "tags": [
+      "girls",
+      "girl",
+      "asuka",
+      "asuka langley",
+      "evangelion",
+      "plugsuit",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2330"
+  },
+  {
+    "name": "Evangelion Asuka - Sunset Reflection",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/evangelion_asuka2.jpg",
+    "format": "JPG",
+    "size": "0.51 MB",
+    "path": "Animes/evangelion_asuka2.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "asuka",
+      "evangelion",
+      "sunset",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2331"
+  },
+  {
+    "name": "Evangelion Rei Ayanami - Moonlit Serenity",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/evangelion_rei.jpg",
+    "format": "JPG",
+    "size": "2.28 MB",
+    "path": "Animes/evangelion_rei.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "rei ayanami",
+      "evangelion",
+      "blue hair",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2332"
+  },
+  {
+    "name": "Fate Stay Night Saber - Excalibur Holy Sword",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/fate_saber.png",
+    "format": "PNG",
+    "size": "0.23 MB",
+    "path": "Animes/fate_saber.png",
+    "tags": [
+      "girls",
+      "girl",
+      "saber",
+      "artoria pendragon",
+      "fate",
+      "excalibur",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2333"
+  },
+  {
+    "name": "Mushoku Tensei Roxy Migurdia - Water Saint",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/mushoko_tensei_roxy.jpg",
+    "format": "JPG",
+    "size": "0.43 MB",
+    "path": "Animes/mushoko_tensei_roxy.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "roxy",
+      "roxy migurdia",
+      "mushoku tensei",
+      "mage",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2334"
+  },
+  {
+    "name": "Mushoku Tensei Eris Boreas Greyrat - Sword King",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/mushoko_tensei_eris.jpg",
+    "format": "JPG",
+    "size": "0.37 MB",
+    "path": "Animes/mushoko_tensei_eris.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "eris",
+      "mushoku tensei",
+      "red hair",
+      "swordsman",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2335"
+  },
+  {
+    "name": "Hell's Paradise Sagiri Yamada Asaemon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/hells_paradise_sagiri.webp",
+    "format": "WEBP",
+    "size": "0.24 MB",
+    "path": "Animes/hells_paradise_sagiri.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "sagiri",
+      "hells paradise",
+      "samurai",
+      "katana",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2336"
+  },
+  {
+    "name": "Zero Two - Darling in the Franxx 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/zero-two.jpg",
+    "format": "JPG",
+    "size": "0.75 MB",
+    "path": "anime/zero-two.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "zero two",
+      "darling in the franxx",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2337"
+  },
+  {
+    "name": "Violet Evergarden - Memory Typewriter 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/violet-evergarden-typewriter.png",
+    "format": "PNG",
+    "size": "3.17 MB",
+    "path": "anime/violet-evergarden-typewriter.png",
+    "tags": [
+      "girls",
+      "girl",
+      "violet evergarden",
+      "typewriter",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2338"
+  },
+  {
+    "name": "Mai Sakurajima - Bunny Girl Senpai 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/mai-sakurajima-bunny.jpg",
+    "format": "JPG",
+    "size": "0.19 MB",
+    "path": "anime/mai-sakurajima-bunny.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "mai sakurajima",
+      "bunny girl",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2339"
+  },
+  {
+    "name": "Mai Sakurajima - Enoden Coastal Train 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/mai-sakurajima-enoden.jpg",
+    "format": "JPG",
+    "size": "0.37 MB",
+    "path": "anime/mai-sakurajima-enoden.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "mai sakurajima",
+      "enoden",
+      "train",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2340"
+  },
+  {
+    "name": "Nier Automata 2B - Misty Fog Ruins 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/nier-2b-fog.png",
+    "format": "PNG",
+    "size": "1.62 MB",
+    "path": "anime/nier-2b-fog.png",
+    "tags": [
+      "girls",
+      "girl",
+      "2b",
+      "nier automata",
+      "sword",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2341"
+  },
+  {
+    "name": "Chainsaw Man Reze - Bomb Girl 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/reze-selfie.jpg",
+    "format": "JPG",
+    "size": "1.92 MB",
+    "path": "anime/reze-selfie.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "reze",
+      "chainsaw man",
+      "bomb girl",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2342"
+  },
+  {
+    "name": "Rikka Takarada - SSSS Gridman Aesthetic 4K",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/rikka-takarada.jpg",
+    "format": "JPG",
+    "size": "0.85 MB",
+    "path": "anime/rikka-takarada.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "rikka takarada",
+      "gridman",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2343"
+  },
+  {
+    "name": "Anime Schoolgirl - Rooftop Golden Hour",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/schoolgirl-sitting.jpg",
+    "format": "JPG",
+    "size": "2.11 MB",
+    "path": "anime/schoolgirl-sitting.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "schoolgirl",
+      "rooftop",
+      "sunset",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2344"
+  },
+  {
+    "name": "Jeanne Alter - Spider Lilies Fate Grand Order",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/jeanne-alter-spider-lilies.png",
+    "format": "PNG",
+    "size": "3.44 MB",
+    "path": "anime/jeanne-alter-spider-lilies.png",
+    "tags": [
+      "girls",
+      "girl",
+      "jeanne alter",
+      "fate",
+      "spider lilies",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2345"
+  },
+  {
+    "name": "Kimono Girl - Festival Lanterns Night",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/kimono-lanterns.jpg",
+    "format": "JPG",
+    "size": "1.21 MB",
+    "path": "anime/kimono-lanterns.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "kimono",
+      "lanterns",
+      "japanese festival",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2346"
+  },
+  {
+    "name": "Anime Girl - Snowfall Clear Umbrella",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/atraxsrc/cool-wallpapers/main/anime/snow-umbrella.png",
+    "format": "PNG",
+    "size": "0.87 MB",
+    "path": "anime/snow-umbrella.png",
+    "tags": [
+      "girls",
+      "girl",
+      "snow",
+      "umbrella",
+      "winter",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2347"
+  },
+  {
+    "name": "Anime Coffee Girl - Rainy Cafe Aesthetic",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/anime-coffee-girl.jpg",
+    "format": "JPG",
+    "size": "0.20 MB",
+    "path": "Anime/anime-coffee-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "coffee",
+      "cafe",
+      "rainy day",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2348"
+  },
+  {
+    "name": "Bunny Girl - Kawaii Pastel Night",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/bunny-girl.jpg",
+    "format": "JPG",
+    "size": "0.23 MB",
+    "path": "Anime/bunny-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "bunny girl",
+      "pastel",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2349"
+  },
+  {
+    "name": "Cat Girl - Sakura Sunset Kawaii",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/cat-girl.jpg",
+    "format": "JPG",
+    "size": "0.31 MB",
+    "path": "Anime/cat-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "cat girl",
+      "neko",
+      "kawaii",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2350"
+  },
+  {
+    "name": "Circuit Waifu - Cyberpunk Neon Hacker",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/circuit-waifu.png",
+    "format": "PNG",
+    "size": "5.25 MB",
+    "path": "Anime/circuit-waifu.png",
+    "tags": [
+      "girls",
+      "girl",
+      "cyberpunk",
+      "hacker",
+      "waifu",
+      "anime girl",
+      "neon",
+      "4k"
+    ],
+    "id": "wp_2351"
+  },
+  {
+    "name": "Coder Girl - Late Night Terminal Glow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/coder-girl.jpg",
+    "format": "JPG",
+    "size": "0.24 MB",
+    "path": "Anime/coder-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "coder",
+      "programmer",
+      "developer",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2352"
+  },
+  {
+    "name": "Magical Forest - Anime Girl & Spirit Light",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/magical-forest-girl.jpg",
+    "format": "JPG",
+    "size": "2.79 MB",
+    "path": "Anime/magical-forest-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "magical forest",
+      "nature",
+      "fantasy",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2353"
+  },
+  {
+    "name": "Snowy Day - Anime Girl Winter Coat",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/snowy-day-girl.png",
+    "format": "PNG",
+    "size": "4.03 MB",
+    "path": "Anime/snowy-day-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "winter",
+      "snow",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2354"
+  },
+  {
+    "name": "Astronaut Girl - Deep Space Stargazer",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/FrenzyExists/wallpapers/main/Anime/soon-astronaut-girl.jpg",
+    "format": "JPG",
+    "size": "1.18 MB",
+    "path": "Anime/soon-astronaut-girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "astronaut",
+      "space",
+      "stargazer",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2355"
+  },
+  {
+    "name": "Black & White Aesthetic - Anime Girl Portrait",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black-white-girl.png",
+    "format": "PNG",
+    "size": "0.45 MB",
+    "path": "images/black-white-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "black and white",
+      "monochrome",
+      "portrait",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2356"
+  },
+  {
+    "name": "Cyberpunk Car Girl - Midnight Drift",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/black_car_girl.jpg",
+    "format": "JPG",
+    "size": "0.07 MB",
+    "path": "images/black_car_girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "car",
+      "drift",
+      "cyberpunk",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2357"
+  },
+  {
+    "name": "Blue Neon Girl - Synthwave Glow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/blue-black-girl.png",
+    "format": "PNG",
+    "size": "0.21 MB",
+    "path": "images/blue-black-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "synthwave",
+      "blue neon",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2358"
+  },
+  {
+    "name": "Cat Anime Girl - Fluffy Ears Neko",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/cat_anime-girl.png",
+    "format": "PNG",
+    "size": "1.56 MB",
+    "path": "images/cat_anime-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "cat girl",
+      "neko",
+      "ears",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2359"
+  },
+  {
+    "name": "Minimalist Girl on Black - AMOLED Dark",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/girl-on-black.png",
+    "format": "PNG",
+    "size": "0.43 MB",
+    "path": "images/girl-on-black.png",
+    "tags": [
+      "girls",
+      "girl",
+      "minimalist",
+      "amoled",
+      "dark",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2360"
+  },
+  {
+    "name": "Nord Minimal Girl - Arctic Slate",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_minimal_girl.png",
+    "format": "PNG",
+    "size": "0.34 MB",
+    "path": "images/nord_minimal_girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "nord",
+      "minimal",
+      "arctic",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2361"
+  },
+  {
+    "name": "Purple Neon Anime Girl - Vaporwave",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple-girl.png",
+    "format": "PNG",
+    "size": "1.53 MB",
+    "path": "images/purple-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "purple",
+      "neon",
+      "vaporwave",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2362"
+  },
+  {
+    "name": "Purple Car Cyber Girl - Neo Tokyo",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple_car_girl.png",
+    "format": "PNG",
+    "size": "0.11 MB",
+    "path": "images/purple_car_girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "car",
+      "neo tokyo",
+      "cyberpunk",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2363"
+  },
+  {
+    "name": "Wide Panorama Anime Girl - Starry Sky",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wide-girl.png",
+    "format": "PNG",
+    "size": "2.86 MB",
+    "path": "images/wide-girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "panorama",
+      "wide",
+      "ultrawide",
+      "starry sky",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2364"
+  },
+  {
+    "name": "Anime Girl Relaxing - Cozy Room",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/anime_girl.png",
+    "format": "PNG",
+    "size": "1.56 MB",
+    "path": "Animes/anime_girl.png",
+    "tags": [
+      "girls",
+      "girl",
+      "cozy room",
+      "lo-fi",
+      "relaxing",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2365"
+  },
+  {
+    "name": "Anime Girl Smoking - Aesthetic Monochrome",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/girl_smoking.jpg",
+    "format": "JPG",
+    "size": "1.98 MB",
+    "path": "Animes/girl_smoking.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "aesthetic",
+      "monochrome",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2366"
+  },
+  {
+    "name": "Girls Band Cry Subaru - Drummer Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/girls_band_cry_subaru.jpg",
+    "format": "JPG",
+    "size": "0.54 MB",
+    "path": "Animes/girls_band_cry_subaru.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "girls band cry",
+      "subaru",
+      "music",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2367"
+  },
+  {
+    "name": "Cyberpunk Moto Girl - Night Rider",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Animes/moto_girl.jpg",
+    "format": "JPG",
+    "size": "0.38 MB",
+    "path": "Animes/moto_girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "motorcycle",
+      "moto",
+      "cyberpunk",
+      "night",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2368"
+  },
+  {
+    "name": "Fantasy Girl Soldier - Purple Aegis",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Fantasy/girl_soldier_purple_ai.png",
+    "format": "PNG",
+    "size": "1.66 MB",
+    "path": "Fantasy/girl_soldier_purple_ai.png",
+    "tags": [
+      "girls",
+      "girl",
+      "soldier",
+      "fantasy",
+      "purple",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2369"
+  },
+  {
+    "name": "Aesthetic Blue Girl - Traditional Japan",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Japan/blue_girl.jpg",
+    "format": "JPG",
+    "size": "0.76 MB",
+    "path": "Japan/blue_girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "blue",
+      "japan",
+      "traditional",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2370"
+  },
+  {
+    "name": "Cat Girl Window - Sunset Silhouette",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/cat_girl_window.jpg",
+    "format": "JPG",
+    "size": "0.44 MB",
+    "path": "Relaxing/cat_girl_window.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "cat girl",
+      "window",
+      "sunset",
+      "silhouette",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2371"
+  },
+  {
+    "name": "Relaxing Girl In Bed - Soft Morning Light",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_bed_ai.webp",
+    "format": "WEBP",
+    "size": "0.26 MB",
+    "path": "Relaxing/girl_bed_ai.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "bed",
+      "morning light",
+      "relaxing",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2372"
+  },
+  {
+    "name": "Girl With Cat - Peaceful Sunday",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_cat2.png",
+    "format": "PNG",
+    "size": "0.38 MB",
+    "path": "Relaxing/girl_cat2.png",
+    "tags": [
+      "girls",
+      "girl",
+      "cat",
+      "peaceful",
+      "sunday",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2373"
+  },
+  {
+    "name": "Girl Chilling in Ancient Ruins - Solitude",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_chilling_ruins.jpg",
+    "format": "JPG",
+    "size": "1.13 MB",
+    "path": "Relaxing/girl_chilling_ruins.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "ruins",
+      "solitude",
+      "fantasy",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2374"
+  },
+  {
+    "name": "Girl by the Koi Pond - Lotus Reflection",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_koi.webp",
+    "format": "WEBP",
+    "size": "0.18 MB",
+    "path": "Relaxing/girl_koi.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "koi",
+      "pond",
+      "lotus",
+      "japan",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2375"
+  },
+  {
+    "name": "Girl Watching Birds in Sky - Endless Blue",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_looking_birds.jpg",
+    "format": "JPG",
+    "size": "1.14 MB",
+    "path": "Relaxing/girl_looking_birds.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "birds",
+      "sky",
+      "clouds",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2376"
+  },
+  {
+    "name": "Girl Looking at Sunset Sky - Golden Clouds",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_looking_sky_ai.jpg",
+    "format": "JPG",
+    "size": "0.19 MB",
+    "path": "Relaxing/girl_looking_sky_ai.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "sunset",
+      "golden hour",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2377"
+  },
+  {
+    "name": "Artistic Girl Painting Canvas - Studio Mood",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_painting.png",
+    "format": "PNG",
+    "size": "2.16 MB",
+    "path": "Relaxing/girl_painting.png",
+    "tags": [
+      "girls",
+      "girl",
+      "painting",
+      "artist",
+      "studio",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2378"
+  },
+  {
+    "name": "Girl Reflecting by the Water - Still Waters",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_reflecting.jpg",
+    "format": "JPG",
+    "size": "0.86 MB",
+    "path": "Relaxing/girl_reflecting.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "water",
+      "reflection",
+      "calm",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2379"
+  },
+  {
+    "name": "Girl Spacing Out - Daylight Reverie",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_spacing_out_ai.webp",
+    "format": "WEBP",
+    "size": "0.05 MB",
+    "path": "Relaxing/girl_spacing_out_ai.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "daydreaming",
+      "reverie",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2380"
+  },
+  {
+    "name": "Girl Staring at Sea Sunset - Ocean Breeze",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_staring_sea.webp",
+    "format": "WEBP",
+    "size": "0.07 MB",
+    "path": "Relaxing/girl_staring_sea.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "sea",
+      "ocean",
+      "sunset",
+      "breeze",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2381"
+  },
+  {
+    "name": "Girl on Sunflower Street - Summer Days",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_street_sunflower.webp",
+    "format": "WEBP",
+    "size": "1.69 MB",
+    "path": "Relaxing/girl_street_sunflower.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "sunflower",
+      "summer",
+      "street",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2382"
+  },
+  {
+    "name": "Girl in Sunflowers Field - Sunlit Bloom",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_sunflowers_ai.webp",
+    "format": "WEBP",
+    "size": "0.13 MB",
+    "path": "Relaxing/girl_sunflowers_ai.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "sunflower",
+      "field",
+      "bloom",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2383"
+  },
+  {
+    "name": "Girl Floating in Water - Azure Calm",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Relaxing/girl_water.jpg",
+    "format": "JPG",
+    "size": "0.52 MB",
+    "path": "Relaxing/girl_water.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "floating",
+      "water",
+      "azure",
+      "calm",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2384"
+  },
+  {
+    "name": "Cool Samurai Girl Warrior - Katana Blossom",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Samurai/cool_samurai_girl.jpg",
+    "format": "JPG",
+    "size": "0.18 MB",
+    "path": "Samurai/cool_samurai_girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "samurai",
+      "katana",
+      "warrior",
+      "cherry blossom",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2385"
+  },
+  {
+    "name": "Lonely Girl by the Sea - Twilight Horizon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Sea/lonely_girl.jpg",
+    "format": "JPG",
+    "size": "2.14 MB",
+    "path": "Sea/lonely_girl.jpg",
+    "tags": [
+      "girls",
+      "girl",
+      "sea",
+      "lonely",
+      "twilight",
+      "horizon",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2386"
+  },
+  {
+    "name": "Cyberpunk Space Girl 1 - Orbital Station",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Space/space_girl.webp",
+    "format": "WEBP",
+    "size": "0.16 MB",
+    "path": "Space/space_girl.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "space",
+      "cyberpunk",
+      "orbital station",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2387"
+  },
+  {
+    "name": "Cyberpunk Space Girl 2 - Nebula Explorer",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Space/space_girl2.webp",
+    "format": "WEBP",
+    "size": "1.19 MB",
+    "path": "Space/space_girl2.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "space",
+      "nebula",
+      "explorer",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2388"
+  },
+  {
+    "name": "Aesthetic Girl on Train - Commute Journey",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Trains/girl_train.webp",
+    "format": "WEBP",
+    "size": "0.31 MB",
+    "path": "Trains/girl_train.webp",
+    "tags": [
+      "girls",
+      "girl",
+      "train",
+      "commute",
+      "travel",
+      "anime girl",
+      "waifu",
+      "4k"
+    ],
+    "id": "wp_2389"
+  },
+  {
+    "name": "Tablet 4K - Daniel Olah Abstract Landscape",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/daniel-olah-04RhrsalOmU-unsplash.jpg",
+    "format": "JPG",
+    "size": "1.71 MB",
+    "path": "Trending/daniel-olah-04RhrsalOmU-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "android tablet",
+      "abstract",
+      "landscape",
+      "4k",
+      "nature"
+    ],
+    "id": "wp_2390"
+  },
+  {
+    "name": "Tablet 4K - Samuel Ferrara Alpine Vista",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/samuel-ferrara-dKJXkKCF2D8-unsplash.jpg",
+    "format": "JPG",
+    "size": "0.48 MB",
+    "path": "Trending/samuel-ferrara-dKJXkKCF2D8-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "alpine",
+      "mountains",
+      "snow",
+      "4k",
+      "nature"
+    ],
+    "id": "wp_2391"
+  },
+  {
+    "name": "Tablet 4K - Blue 3D Geometric Waves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/blue_3d.jpg",
+    "format": "JPG",
+    "size": "0.81 MB",
+    "path": "Abstract/blue_3d.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "blue",
+      "3d",
+      "geometric",
+      "abstract",
+      "4k"
+    ],
+    "id": "wp_2392"
+  },
+  {
+    "name": "Tablet 4K - Smoke Flow Gradient",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/smoke.jpg",
+    "format": "JPG",
+    "size": "0.14 MB",
+    "path": "Abstract/smoke.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "smoke",
+      "gradient",
+      "dark",
+      "abstract",
+      "4k"
+    ],
+    "id": "wp_2393"
+  },
+  {
+    "name": "Tablet 4K - Joel Filipe Architectural Minimal",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
+    "format": "JPG",
+    "size": "3.28 MB",
+    "path": "Abstract/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "architecture",
+      "minimalist",
+      "geometric",
+      "4k"
+    ],
+    "id": "wp_2394"
+  },
+  {
+    "name": "Tablet 4K - Pawel Czerwinski Flowing Acrylic",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg",
+    "format": "JPG",
+    "size": "3.01 MB",
+    "path": "Abstract/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "acrylic",
+      "fluid",
+      "abstract",
+      "art",
+      "4k"
+    ],
+    "id": "wp_2395"
+  },
+  {
+    "name": "Tablet 4K - Jake Blucker Desert Dunes",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/jake-blucker-tMzCrBkM99Y-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.09 MB",
+    "path": "Trending/jake-blucker-tMzCrBkM99Y-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "desert",
+      "dunes",
+      "sand",
+      "golden",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2396"
+  },
+  {
+    "name": "Tablet 4K - Jeremy Bishop Ocean Waves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/jeremy-bishop-rqWoB4LFgmc-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.71 MB",
+    "path": "Trending/jeremy-bishop-rqWoB4LFgmc-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "ocean",
+      "waves",
+      "water",
+      "sea",
+      "surf",
+      "4k"
+    ],
+    "id": "wp_2397"
+  },
+  {
+    "name": "Tablet 4K - Shifaaz Shamoon Tropical Atoll",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg",
+    "format": "JPG",
+    "size": "3.12 MB",
+    "path": "Trending/shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "tropical",
+      "atoll",
+      "turquoise",
+      "ocean",
+      "aerial",
+      "4k"
+    ],
+    "id": "wp_2398"
+  },
+  {
+    "name": "Tablet 4K - Adam Birkett Pine Forest Mist",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Nature/adam-birkett-75EFpyXu3Wg-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.74 MB",
+    "path": "Nature/adam-birkett-75EFpyXu3Wg-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "pine forest",
+      "mist",
+      "fog",
+      "trees",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2399"
+  },
+  {
+    "name": "Tablet 4K - Eberhard Gross Morning Peaks",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-eberhardgross-1366919.jpg",
+    "format": "JPG",
+    "size": "1.04 MB",
+    "path": "Trending/pexels-eberhardgross-1366919.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "mountains",
+      "morning",
+      "sunrise",
+      "peaks",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2400"
+  },
+  {
+    "name": "Tablet 4K - Eberhard Gross Starry Mountain",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-eberhardgross-1624438.jpg",
+    "format": "JPG",
+    "size": "1.23 MB",
+    "path": "Trending/pexels-eberhardgross-1624438.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "night sky",
+      "stars",
+      "milky way",
+      "mountain",
+      "4k"
+    ],
+    "id": "wp_2401"
+  },
+  {
+    "name": "Tablet 4K - Eberhard Gross Alpine Lake",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-eberhardgross-1624496.jpg",
+    "format": "JPG",
+    "size": "1.94 MB",
+    "path": "Trending/pexels-eberhardgross-1624496.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "alpine lake",
+      "reflection",
+      "nature",
+      "scenery",
+      "4k"
+    ],
+    "id": "wp_2402"
+  },
+  {
+    "name": "Tablet 4K - Eberhard Gross Sunset Ridge",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-eberhardgross-1743366.jpg",
+    "format": "JPG",
+    "size": "3.30 MB",
+    "path": "Trending/pexels-eberhardgross-1743366.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "sunset",
+      "ridge",
+      "mountains",
+      "golden hour",
+      "4k"
+    ],
+    "id": "wp_2403"
+  },
+  {
+    "name": "Tablet 4K - Alex Andrews Starry Cosmic Galaxy",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-alex-andrews-271121-816608.jpg",
+    "format": "JPG",
+    "size": "4.24 MB",
+    "path": "Trending/pexels-alex-andrews-271121-816608.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "space",
+      "galaxy",
+      "stars",
+      "nebula",
+      "astronomy",
+      "4k"
+    ],
+    "id": "wp_2404"
+  },
+  {
+    "name": "Tablet 4K - Todd Trapani Purple Mountain Glow",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-todd-trapani-488382-1535162.jpg",
+    "format": "JPG",
+    "size": "2.47 MB",
+    "path": "Trending/pexels-todd-trapani-488382-1535162.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "purple",
+      "mountain glow",
+      "twilight",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2405"
+  },
+  {
+    "name": "Tablet 4K - Sanaan Milky Way Night Sky",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-sanaan-3052361.jpg",
+    "format": "JPG",
+    "size": "1.42 MB",
+    "path": "Trending/pexels-sanaan-3052361.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "milky way",
+      "night sky",
+      "cosmic",
+      "stars",
+      "4k"
+    ],
+    "id": "wp_2406"
+  },
+  {
+    "name": "Tablet 4K - Will Turner Emerald Aurora",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/will-turner-KWzUuVg7U-0-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.25 MB",
+    "path": "Trending/will-turner-KWzUuVg7U-0-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "aurora",
+      "northern lights",
+      "emerald",
+      "night",
+      "4k"
+    ],
+    "id": "wp_2407"
+  },
+  {
+    "name": "Tablet 4K - Jordan McQueen Pacific Horizon",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/jordan-mcqueen-u9tAl8WR3DI-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.54 MB",
+    "path": "Trending/jordan-mcqueen-u9tAl8WR3DI-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "pacific",
+      "ocean",
+      "horizon",
+      "minimalist",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2408"
+  },
+  {
+    "name": "Tablet 4K - Thaddaeus Lim Minimalist Architecture",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/thaddaeus-lim-RBthQZJd_vU-unsplash.jpg",
+    "format": "JPG",
+    "size": "2.05 MB",
+    "path": "Trending/thaddaeus-lim-RBthQZJd_vU-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "architecture",
+      "minimalist",
+      "urban",
+      "modern",
+      "4k"
+    ],
+    "id": "wp_2409"
+  },
+  {
+    "name": "Tablet 4K - Red Black Flowing Curves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/abstract%20red%20black.jpg",
+    "format": "JPG",
+    "size": "0.13 MB",
+    "path": "Abstract/abstract red black.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "red",
+      "black",
+      "flowing",
+      "curves",
+      "abstract",
+      "4k"
+    ],
+    "id": "wp_2410"
+  },
+  {
+    "name": "Tablet 4K - Emerald Green Abstract Waves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/str3245%20green.jpg",
+    "format": "JPG",
+    "size": "0.11 MB",
+    "path": "Abstract/str3245 green.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "emerald",
+      "green",
+      "waves",
+      "abstract",
+      "fluid",
+      "4k"
+    ],
+    "id": "wp_2411"
+  },
+  {
+    "name": "Tablet 4K - Minimalist Mountain Dusk",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Minimal/andrew-pons-lylCw4zcA7I-unsplash.jpg",
+    "format": "JPG",
+    "size": "4.86 MB",
+    "path": "Minimal/andrew-pons-lylCw4zcA7I-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "minimalist",
+      "mountain",
+      "dusk",
+      "sunset",
+      "4k"
+    ],
+    "id": "wp_2412"
+  },
+  {
+    "name": "Tablet 4K - Abstract Design Flowing Curves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Abstract/abstract-design-with-flowing-curves.jpg",
+    "format": "JPG",
+    "size": "3.01 MB",
+    "path": "Abstract/abstract-design-with-flowing-curves.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "abstract",
+      "curves",
+      "modern",
+      "fluid",
+      "4k"
+    ],
+    "id": "wp_2413"
+  },
+  {
+    "name": "Tablet 4K - Ian Dooley Neon Prism",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/ian-dooley-hpTH5b6mo2s-unsplash.jpg",
+    "format": "JPG",
+    "size": "1.40 MB",
+    "path": "Trending/ian-dooley-hpTH5b6mo2s-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "neon",
+      "prism",
+      "color",
+      "abstract",
+      "4k"
+    ],
+    "id": "wp_2414"
+  },
+  {
+    "name": "Tablet 4K - Mado El Khouly Cyber Gamer",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/mado-el-khouly-MA8YoAoKpfY-unsplash.jpg",
+    "format": "JPG",
+    "size": "1.93 MB",
+    "path": "Trending/mado-el-khouly-MA8YoAoKpfY-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "cyber",
+      "gaming",
+      "neon",
+      "4k"
+    ],
+    "id": "wp_2415"
+  },
+  {
+    "name": "Tablet 4K - Christian Heitz Golden Lake Sunrise",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-christian-heitz-285904-842711.jpg",
+    "format": "JPG",
+    "size": "1.76 MB",
+    "path": "Trending/pexels-christian-heitz-285904-842711.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "golden hour",
+      "lake",
+      "sunrise",
+      "nature",
+      "scenery",
+      "4k"
+    ],
+    "id": "wp_2416"
+  },
+  {
+    "name": "Tablet 4K - Hikaique Foggy Mountain Road",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-hikaique-775203.jpg",
+    "format": "JPG",
+    "size": "1.64 MB",
+    "path": "Trending/pexels-hikaique-775203.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "foggy",
+      "road",
+      "mountains",
+      "moody",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2417"
+  },
+  {
+    "name": "Tablet 4K - Max Andrey Coastal Sunset Cliffs",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-maxandrey-1366630.jpg",
+    "format": "JPG",
+    "size": "2.72 MB",
+    "path": "Trending/pexels-maxandrey-1366630.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "coastal",
+      "sunset",
+      "cliffs",
+      "ocean",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2418"
+  },
+  {
+    "name": "Tablet 4K - Sliceisop Geometric Minimal",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-sliceisop-1544376.jpg",
+    "format": "JPG",
+    "size": "2.96 MB",
+    "path": "Trending/pexels-sliceisop-1544376.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "geometric",
+      "minimalist",
+      "modern",
+      "4k"
+    ],
+    "id": "wp_2419"
+  },
+  {
+    "name": "Tablet 4K - Andreimike Aerial Mountain Road",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-andreimike-1271620.jpg",
+    "format": "JPG",
+    "size": "3.02 MB",
+    "path": "Trending/pexels-andreimike-1271620.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "aerial",
+      "mountain road",
+      "landscape",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2420"
+  },
+  {
+    "name": "Tablet 4K - Arts Colorful Neon Light",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-arts-1152707.jpg",
+    "format": "JPG",
+    "size": "2.47 MB",
+    "path": "Trending/pexels-arts-1152707.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "neon",
+      "abstract",
+      "color",
+      "4k"
+    ],
+    "id": "wp_2421"
+  },
+  {
+    "name": "Tablet 4K - Brakou Architectural Windows",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-brakou-1723637.jpg",
+    "format": "JPG",
+    "size": "1.74 MB",
+    "path": "Trending/pexels-brakou-1723637.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "architecture",
+      "windows",
+      "minimal",
+      "4k"
+    ],
+    "id": "wp_2422"
+  },
+  {
+    "name": "Tablet 4K - Iriser Autumn Leaves Reflection",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/pexels-iriser-1122639.jpg",
+    "format": "JPG",
+    "size": "1.21 MB",
+    "path": "Trending/pexels-iriser-1122639.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "autumn",
+      "leaves",
+      "reflection",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2423"
+  },
+  {
+    "name": "Tablet 4K - Samuele Errico Minimal Fog Mountain",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/techie-vedant08/Tablet/main/Trending/samuele-errico-piccarini-t4OxCpKie70-unsplash.jpg",
+    "format": "JPG",
+    "size": "9.57 MB",
+    "path": "Trending/samuele-errico-piccarini-t4OxCpKie70-unsplash.jpg",
+    "tags": [
+      "tablet",
+      "tablet wallpapers",
+      "ipad",
+      "fog",
+      "mountain",
+      "minimalist",
+      "nature",
+      "4k"
+    ],
+    "id": "wp_2424"
   }
 ];

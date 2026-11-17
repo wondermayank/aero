@@ -8,8 +8,8 @@
        PRIMARY SEO META TAGS (SEO + AEO + GEO)
   ========================================= -->
   <title>4K Wallpaper Site by wondermayank — Free 4K Wallpapers & Ultra HD Backgrounds</title>
-  <meta name="description" content="Explore and download 2,300+ free high-resolution 4K wallpapers, Ultra HD desktop backgrounds, anime art, and mobile wallpapers on the official 4K wallpaper site by wondermayank. Instant one-click downloads with zero ads.">
-  <meta name="keywords" content="4k wallpaper site by wondermayank, 4k wallpapers, ultra hd wallpapers, free 4k wallpaper download, wondermayank wallpaper, aesthetic 4k wallpapers, anime 4k wallpapers, desktop backgrounds 4k, phone wallpapers 4k, wondermayank, AeroPaper">
+  <meta name="description" content="Explore and download 2,400+ free high-resolution 4K wallpapers, Ultra HD desktop backgrounds, One Piece, anime art, girls wallpapers, and tablet & mobile wallpapers on the official 4K wallpaper site by wondermayank. Instant one-click downloads with zero ads.">
+  <meta name="keywords" content="4k wallpaper site by wondermayank, 4k wallpapers, one piece wallpaper, anime girls wallpaper, tablet wallpaper 4k, ultra hd wallpapers, free 4k wallpaper download, wondermayank wallpaper, aesthetic 4k wallpapers, anime 4k wallpapers, desktop backgrounds 4k, phone wallpapers 4k, wondermayank, AeroPaper">
   <meta name="author" content="wondermayank">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta name="googlebot" content="index, follow">
@@ -228,8 +228,21 @@
       <div class="search-bar" id="search-bar">
         <div class="search-field">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="sf-icon"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-          <input type="text" id="search-input" class="search-input" placeholder="Search wallpapers, tags, categories, extensions..." autocomplete="off" aria-label="Search wallpapers" />
+          <input type="text" id="search-input" class="search-input" placeholder="Search 2,400+ wallpapers (e.g. One Piece, Girls, Tablet, Cyberpunk, 4K)..." autocomplete="off" aria-label="Search wallpapers" />
+          <div class="search-kbd" id="search-kbd" title="Press / or Ctrl+K to search"><kbd>/</kbd></div>
           <button id="search-clear" class="search-clear" type="button" aria-label="Clear search" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+        </div>
+        <div class="search-tags" id="search-tags" role="toolbar" aria-label="Quick search suggestions">
+          <span class="search-tags-label">Trending:</span>
+          <button type="button" class="search-tag-pill" data-query="One Piece">🏴‍☠️ One Piece</button>
+          <button type="button" class="search-tag-pill" data-query="Girls">🌸 Girls</button>
+          <button type="button" class="search-tag-pill" data-query="Tablet">📱 Tablet</button>
+          <button type="button" class="search-tag-pill" data-query="Anime">⛩️ Anime</button>
+          <button type="button" class="search-tag-pill" data-query="4K Landscape">🌄 4K Landscape</button>
+          <button type="button" class="search-tag-pill" data-query="Cyberpunk">⚡ Cyberpunk</button>
+          <button type="button" class="search-tag-pill" data-query="4K Minimalist">🖤 Minimalist</button>
+          <button type="button" class="search-tag-pill" data-query="4K Space">🪐 Space</button>
+          <button type="button" class="search-tag-pill" data-query="GIF">🎞️ GIFs</button>
         </div>
       </div>
     </header>
@@ -277,6 +290,10 @@
           <div class="stat-pills">
             <span>Found: <strong id="view-count">0</strong> wallpapers</span>
             <span>Database: <strong id="total-count">0</strong> total</span>
+            <span id="active-search-badge" class="search-active-pill" style="display: none;">
+              <span id="active-search-label"></span>
+              <button id="clear-active-search-btn" class="clear-search-mini" title="Clear search query" aria-label="Clear search">✕</button>
+            </span>
           </div>
           <div class="layout-controls-right">
             <select id="sort-select" aria-label="Sort wallpapers" title="Sort Wallpapers">
@@ -492,6 +509,7 @@
               <button class="ratio-btn" data-ratio="1:1">1:1</button>
               <button class="ratio-btn" data-ratio="16:9">16:9</button>
               <button class="ratio-btn" data-ratio="9:16">9:16 (Phone)</button>
+              <button class="ratio-btn" data-ratio="4:3">4:3 (Tablet)</button>
             </div>
 
             <!-- Blurred Fit checkbox toggle -->
@@ -526,6 +544,7 @@
               <button class="dl-pill" data-res="1080p">1080p (FHD)</button>
               <button class="dl-pill" data-res="720p">720p (HD)</button>
               <button class="dl-pill" data-res="mobile">Mobile (9:16)</button>
+              <button class="dl-pill" data-res="tablet">Tablet (4:3)</button>
               <button class="dl-pill" data-res="original">Original Size</button>
             </div>
           </div>
