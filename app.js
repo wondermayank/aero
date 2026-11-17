@@ -1,3 +1,179 @@
+// =========================================================
+// Thunder dropdown: enhances a native <select>, keeps it in sync
+// =========================================================
+const DD = (() => {
+  const CH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
+  const CK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>';
+  let uid = 0;
+  const all = new Set();
+
+  function enhance(sel) {
+    if (!sel) return null;
+    if (sel._dd) return sel._dd;
+    const id = 'ddl' + (++uid);
+    const wrap = document.createElement('div');
+    wrap.className = 'ds-dd';
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'ds-dd-btn';
+    btn.setAttribute('aria-haspopup', 'listbox');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.setAttribute('aria-controls', id);
+    const val = document.createElement('span');
+    val.className = 'ds-dd-val';
+    const ch = document.createElement('span');
+    ch.className = 'ds-dd-ch';
+    ch.innerHTML = CH;
+    btn.append(val, ch);
+    const list = document.createElement('ul');
+    list.className = 'ds-dd-list';
+    list.id = id;
+    list.setAttribute('role', 'listbox');
+    list.tabIndex = -1;
+
+    const lab = sel.id && document.querySelector('label[for="' + sel.id + '"]');
+    if (lab) {
+      if (!lab.id) lab.id = sel.id + '-lbl';
+      btn.id = sel.id + '-btn';
+      list.setAttribute('aria-labelledby', lab.id);
+      btn.setAttribute('aria-labelledby', lab.id + ' ' + btn.id);
+    } else if (sel.getAttribute('aria-label')) {
+      btn.setAttribute('aria-label', sel.getAttribute('aria-label'));
+    }
+
+    sel.parentNode.insertBefore(wrap, sel);
+    wrap.append(btn, list, sel);
+    sel.classList.add('sr-only');
+    sel.tabIndex = -1;
+    sel.setAttribute('aria-hidden', 'true');
+
+    let opts = [], items = [], cur = 0, act = 0, buf = '', bt;
+
+    function paint() {
+      val.textContent = opts[cur] ? opts[cur].text : '';
+      items.forEach((li, i) => {
+        li.setAttribute('aria-selected', i === cur ? 'true' : 'false');
+        li.classList.toggle('active', i === act);
+      });
+      btn.removeAttribute('aria-activedescendant');
+      if (wrap.classList.contains('open') && items[act]) btn.setAttribute('aria-activedescendant', items[act].id);
+    }
+    function build() {
+      opts = [].slice.call(sel.options);
+      list.innerHTML = '';
+      items = opts.map((o, i) => {
+        const li = document.createElement('li');
+        li.id = id + '-o' + i;
+        li.setAttribute('role', 'option');
+        li.dataset.i = i;
+        const t = document.createElement('span');
+        t.textContent = o.text;
+        li.appendChild(t);
+        if (o.dataset.hint) {
+          const s = document.createElement('small');
+          s.textContent = o.dataset.hint;
+          li.appendChild(s);
+        }
+        li.insertAdjacentHTML('beforeend', CK);
+        if (o.disabled) li.setAttribute('aria-disabled', 'true');
+        list.appendChild(li);
+        return li;
+      });
+      cur = Math.max(0, sel.selectedIndex);
+      act = cur;
+      paint();
+    }
+    const isOpen = () => wrap.classList.contains('open');
+    function open() {
+      all.forEach(a => { if (a !== api) a.close(); });
+      const r = btn.getBoundingClientRect();
+      wrap.classList.toggle('up', window.innerHeight - r.bottom < 340 && r.top > 340);
+      wrap.classList.add('open');
+      btn.setAttribute('aria-expanded', 'true');
+      act = cur;
+      paint();
+      if (items[act]) items[act].scrollIntoView({ block: 'nearest' });
+    }
+    function close(focus) {
+      wrap.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      paint();
+      if (focus) btn.focus();
+    }
+    function pick(i) {
+      if (!opts[i] || opts[i].disabled) return;
+      cur = act = i;
+      sel.selectedIndex = i;
+      sel.dispatchEvent(new Event('change', { bubbles: true }));
+      close(true);
+    }
+    function move(to) {
+      const n = items.length, s = to > act ? 1 : -1;
+      let i = to;
+      while (i >= 0 && i < n && opts[i].disabled) i += s;
+      if (i < 0 || i >= n) return;
+      act = i;
+      paint();
+      items[act].scrollIntoView({ block: 'nearest' });
+    }
+
+    const api = {
+      wrap, isOpen, close,
+      refresh: build,
+      sync() { cur = Math.max(0, sel.selectedIndex); act = cur; paint(); }
+    };
+    all.add(api);
+    sel._dd = api;
+    sel.addEventListener('dd-sync', api.sync);
+
+    btn.addEventListener('click', () => (isOpen() ? close() : open()));
+    btn.addEventListener('keydown', (e) => {
+      const k = e.key;
+      if (k === 'ArrowDown' || k === 'ArrowUp') {
+        e.preventDefault();
+        if (!isOpen()) open(); else move(act + (k === 'ArrowDown' ? 1 : -1));
+      } else if (k === 'Home' || k === 'End') {
+        if (isOpen()) { e.preventDefault(); move(k === 'Home' ? 0 : items.length - 1); }
+      } else if (k === 'Enter' || k === ' ') {
+        if (isOpen()) { e.preventDefault(); pick(act); }
+      } else if (k === 'Escape') {
+        if (isOpen()) { e.preventDefault(); e.stopPropagation(); close(true); }
+      } else if (k === 'Tab') {
+        if (isOpen()) close();
+      } else if (k.length === 1 && !e.ctrlKey && !e.metaKey) {
+        buf += k.toLowerCase();
+        clearTimeout(bt);
+        bt = setTimeout(() => { buf = ''; }, 600);
+        const s = opts.findIndex(o => !o.disabled && o.text.toLowerCase().indexOf(buf) === 0);
+        if (s > -1) {
+          if (isOpen()) { act = s; paint(); items[s].scrollIntoView({ block: 'nearest' }); }
+          else { cur = act = s; sel.selectedIndex = s; sel.dispatchEvent(new Event('change', { bubbles: true })); paint(); }
+        }
+      }
+    });
+    list.addEventListener('mousedown', (e) => e.preventDefault());
+    list.addEventListener('click', (e) => { const li = e.target.closest('li'); if (li) pick(+li.dataset.i); });
+    list.addEventListener('mousemove', (e) => {
+      const li = e.target.closest('li');
+      if (li && !opts[+li.dataset.i].disabled && +li.dataset.i !== act) { act = +li.dataset.i; paint(); }
+    });
+    if (lab) lab.addEventListener('click', (e) => { e.preventDefault(); btn.focus(); });
+
+    build();
+    return api;
+  }
+
+  document.addEventListener('click', (e) => {
+    all.forEach(a => { if (a.isOpen() && !a.wrap.contains(e.target)) a.close(); });
+  });
+
+  return {
+    enhance,
+    refresh: (s) => s && s._dd && s._dd.refresh(),
+    sync: (s) => s && s._dd && s._dd.sync()
+  };
+})();
+
 // State Management
 let currentView = 'explore'; // 'explore', 'liked', or 'board'
 let currentBoardName = '';
@@ -35,8 +211,8 @@ let slideshowMouseTimer = null;
 // DOM Elements
 const grid = document.getElementById('masonry-grid');
 const searchInput = document.getElementById('search-input');
-const categoryPillsContainer = document.getElementById('category-pills');
-const formatPillsContainer = document.getElementById('format-pills');
+const categorySelect = document.getElementById('category-select');
+const formatSelect = document.getElementById('format-select');
 const themeToggleBtn = document.getElementById('theme-toggle');
 const exploreTab = document.getElementById('explore-tab');
 const likedTab = document.getElementById('liked-tab');
@@ -47,7 +223,7 @@ const viewCountEl = document.getElementById('view-count');
 // Upgrade DOM Elements
 const surpriseBtn = document.getElementById('surprise-btn');
 const boardsFilterRow = document.getElementById('boards-filter-row');
-const boardPillsContainer = document.getElementById('board-pills');
+const boardFilterSelect = document.getElementById('filter-board-select');
 const boardSelect = document.getElementById('board-select');
 const boardCreateBtn = document.getElementById('board-create-btn');
 
@@ -584,11 +760,94 @@ function animatePopupClose() {
   }, 260);
 }
 
+
+// Header: search icon, 3-line menu, tools relocation on phones
+function setupHeader() {
+  const ham = document.getElementById('ham-btn');
+  const menu = document.getElementById('mobile-menu');
+  const sBtn = document.getElementById('search-toggle');
+  const sBar = document.getElementById('search-bar');
+  const sClear = document.getElementById('search-clear');
+  const tools = document.getElementById('nav-tools');
+  const mmTools = document.getElementById('mm-tools');
+  const mmWrap = document.getElementById('mm-tools-wrap');
+  if (!ham || !menu || !sBtn || !sBar || !tools || !mmTools) return;
+
+  const toolEls = [sortSizeBtn, surpriseBtn, document.querySelector('.density-selector')].filter(Boolean);
+  const mq = window.matchMedia('(max-width: 760px)');
+
+  function placeTools() {
+    const phone = mq.matches;
+    const dest = phone ? mmTools : tools;
+    toolEls.forEach(el => dest.appendChild(el));
+    mmWrap.classList.toggle('has-tools', phone);
+  }
+  placeTools();
+  if (mq.addEventListener) mq.addEventListener('change', placeTools);
+  else if (mq.addListener) mq.addListener(placeTools);
+
+  function setMenu(open) {
+    menu.classList.toggle('open', open);
+    ham.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) setSearch(false);
+  }
+  function setSearch(open) {
+    sBar.classList.toggle('open', open);
+    sBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) {
+      setMenu(false);
+      setTimeout(() => searchInput.focus(), 120);
+    }
+  }
+
+  ham.addEventListener('click', () => setMenu(!menu.classList.contains('open')));
+  sBtn.addEventListener('click', () => setSearch(!sBar.classList.contains('open')));
+
+  menu.addEventListener('click', (e) => {
+    const b = e.target.closest('button');
+    if (b && ['explore-tab', 'liked-tab', 'surprise-btn'].includes(b.id)) setMenu(false);
+  });
+
+  document.addEventListener('click', (e) => {
+    if (menu.classList.contains('open') && !menu.contains(e.target) && !ham.contains(e.target)) setMenu(false);
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'Escape') return;
+    if (menu.classList.contains('open')) { setMenu(false); ham.focus(); }
+    else if (sBar.classList.contains('open')) { setSearch(false); sBtn.focus(); }
+  });
+
+  function syncSearchUI() {
+    const has = searchInput.value.trim() !== '';
+    sBtn.classList.toggle('has-q', has);
+    sClear.hidden = !has;
+  }
+  searchInput.addEventListener('input', syncSearchUI);
+  sClear.addEventListener('click', () => {
+    searchInput.value = '';
+    searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+    searchInput.focus();
+  });
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') { setSearch(false); }
+  });
+  syncSearchUI();
+
+  // keep the "+N" label right when the column count changes
+  let rt;
+  window.addEventListener('resize', () => {
+    clearTimeout(rt);
+    rt = setTimeout(updateLoadMoreUI, 150);
+  });
+}
+
 // Initialize App
 function init() {
   handleSplashScreen();
   setupTheme();
   setupFilters();
+  setupHeader();
   renderBoardPills();
   populateBoardSelect();
   setupDownloadOptions();
@@ -616,30 +875,44 @@ function handleSplashScreen() {
   }, 150);
 }
 
-// Theme Setup (Default to Dark Mode)
+// Theme Setup (Default to Dark Mode, data-theme on <html>)
 function setupTheme() {
-  const savedTheme = localStorage.getItem('theme') || 'dark';
-  if (savedTheme === 'light') {
-    document.documentElement.classList.add('light-mode');
-    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
-  } else {
-    document.documentElement.classList.remove('light-mode');
-    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
-  }
+  const t = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+  document.documentElement.setAttribute('data-theme', t);
+  syncThemeUI();
 }
 
-// Generate category and format pills from WALLPAPERS list
+function syncThemeUI() {
+  const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+  themeToggleBtn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+}
+
+// Build Folder / Format dropdowns from the WALLPAPERS list
+function fillFilterSelect(select, values, key) {
+  const counts = {};
+  WALLPAPERS.forEach(wp => { counts[wp[key]] = (counts[wp[key]] || 0) + 1; });
+  select.innerHTML = '';
+  values.forEach(v => {
+    const o = document.createElement('option');
+    o.value = v;
+    o.textContent = v;
+    o.dataset.hint = (v === 'All' ? WALLPAPERS.length : (counts[v] || 0)).toLocaleString();
+    select.appendChild(o);
+  });
+  select.value = 'All';
+}
+
 function setupFilters() {
   const categories = ['All', ...new Set(WALLPAPERS.map(wp => wp.category))];
   const formats = ['All', ...new Set(WALLPAPERS.map(wp => wp.format))];
 
-  categoryPillsContainer.innerHTML = categories.map(cat => 
-    `<button class="pill ${cat === 'All' ? 'active' : ''}" data-value="${cat}">${cat}</button>`
-  ).join('');
+  fillFilterSelect(categorySelect, categories, 'category');
+  fillFilterSelect(formatSelect, formats, 'format');
 
-  formatPillsContainer.innerHTML = formats.map(fmt => 
-    `<button class="pill ${fmt === 'All' ? 'active' : ''}" data-value="${fmt}">${fmt}</button>`
-  ).join('');
+  DD.enhance(categorySelect);
+  DD.enhance(formatSelect);
+  DD.enhance(boardFilterSelect);
+  DD.enhance(sortSelect);
 }
 
 // Helper to calculate size in bytes
@@ -655,24 +928,31 @@ function getWpSizeBytes(wp) {
 }
 
 // Synchronize Header Auto-Sort by Size Button UI
+const SORT_SVG = (inner) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const SORT_ICONS = {
+  none: SORT_SVG('<path d="m21 16-4 4-4-4"/><path d="M17 20V4"/><path d="m3 8 4-4 4 4"/><path d="M7 4v16"/>'),
+  desc: SORT_SVG('<path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="M11 4h10"/><path d="M11 8h7"/><path d="M11 12h4"/>'),
+  asc: SORT_SVG('<path d="m3 8 4-4 4 4"/><path d="M7 4v16"/><path d="M11 12h4"/><path d="M11 16h7"/><path d="M11 20h10"/>')
+};
+
 function updateSortSizeBtnUI() {
   if (!sortSizeBtn) return;
+  let icon = SORT_ICONS.none, label = 'Sort: Size', title = 'Sort by File Size (Toggle Largest / Smallest)', active = false;
   if (currentSort === 'size-desc') {
-    sortSizeBtn.classList.add('active');
-    sortSizeBtn.innerHTML = '<i class="fas fa-sort-amount-down"></i> <span id="sort-size-label">Size: Largest</span>';
-    sortSizeBtn.setAttribute('title', 'Sorted: Largest file size first (Click for Smallest)');
+    icon = SORT_ICONS.desc; label = 'Size: Largest'; active = true;
+    title = 'Sorted: Largest file size first (Click for Smallest)';
   } else if (currentSort === 'size-asc') {
-    sortSizeBtn.classList.add('active');
-    sortSizeBtn.innerHTML = '<i class="fas fa-sort-amount-up"></i> <span id="sort-size-label">Size: Smallest</span>';
-    sortSizeBtn.setAttribute('title', 'Sorted: Smallest file size first (Click for Default)');
-  } else {
-    sortSizeBtn.classList.remove('active');
-    sortSizeBtn.innerHTML = '<i class="fas fa-sort"></i> <span id="sort-size-label">Sort: Size</span>';
-    sortSizeBtn.setAttribute('title', 'Sort by File Size (Toggle Largest / Smallest)');
+    icon = SORT_ICONS.asc; label = 'Size: Smallest'; active = true;
+    title = 'Sorted: Smallest file size first (Click for Default)';
   }
+  sortSizeBtn.classList.toggle('active', active);
+  sortSizeBtn.innerHTML = `${icon}<span id="sort-size-label" class="nav-label">${label}</span>`;
+  sortSizeBtn.setAttribute('title', title);
+  sortSizeBtn.setAttribute('aria-label', title);
   if (sortSelect && sortSelect.value !== currentSort) {
     sortSelect.value = currentSort;
   }
+  DD.sync(sortSelect);
 }
 
 // Event Listeners Setup
@@ -683,23 +963,15 @@ function setupEventListeners() {
     filterAndRender(true);
   });
 
-  // Filter Pills Click
-  categoryPillsContainer.addEventListener('click', (e) => {
-    if (e.target.classList.contains('pill')) {
-      categoryPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
-      e.target.classList.add('active');
-      currentCategory = e.target.getAttribute('data-value');
-      filterAndRender(true);
-    }
+  // Folder / Format dropdown changes
+  categorySelect.addEventListener('change', (e) => {
+    currentCategory = e.target.value;
+    filterAndRender(true);
   });
 
-  formatPillsContainer.addEventListener('click', (e) => {
-    if (e.target.classList.contains('pill')) {
-      formatPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
-      e.target.classList.add('active');
-      currentFormat = e.target.getAttribute('data-value');
-      filterAndRender(true);
-    }
+  formatSelect.addEventListener('change', (e) => {
+    currentFormat = e.target.value;
+    filterAndRender(true);
   });
 
   // Sorting
@@ -744,17 +1016,40 @@ function setupEventListeners() {
         grid.classList.add(`grid-${currentGridDensity}`);
         setTimeout(() => {
           grid.classList.remove('switching');
+          updateLoadMoreUI();
         }, 60);
       }, 100);
     });
   });
 
-  // Theme Toggle Click
+  // Theme Toggle Click (circular reveal where supported)
   themeToggleBtn.addEventListener('click', () => {
-    const isLight = document.documentElement.classList.toggle('light-mode');
-    localStorage.setItem('theme', isLight ? 'light' : 'dark');
-    themeToggleBtn.innerHTML = isLight ? '<i class="fas fa-moon"></i>' : '<i class="fas fa-sun"></i>';
-    showToast(`${isLight ? 'Light' : 'Dark'} mode enabled`, 'info');
+    const de = document.documentElement;
+    const next = de.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    const apply = () => {
+      de.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (err) { /* storage blocked */ }
+      syncThemeUI();
+    };
+    const reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!document.startViewTransition || reduce) {
+      apply();
+    } else {
+      const r = themeToggleBtn.getBoundingClientRect();
+      const x = r.left + r.width / 2, y = r.top + r.height / 2;
+      const rad = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
+      de.classList.add('theme-swap');
+      const t = document.startViewTransition(apply);
+      t.ready.then(() => {
+        de.animate(
+          { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${rad}px at ${x}px ${y}px)`] },
+          { duration: 650, easing: 'cubic-bezier(.4,0,.2,1)', pseudoElement: '::view-transition-new(root)' }
+        );
+      });
+      const done = () => de.classList.remove('theme-swap');
+      t.finished.then(done, done);
+    }
+    showToast(`${next === 'light' ? 'Light' : 'Dark'} mode enabled`, 'info');
   });
 
   // Tab Navigation Click
@@ -796,19 +1091,15 @@ function setupEventListeners() {
   // Board Creation Listener
   boardCreateBtn.addEventListener('click', createNewBoard);
 
-  // Board Filter Pill Click
-  boardPillsContainer.addEventListener('click', (e) => {
-    if (e.target.classList.contains('pill')) {
-      boardPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
-      e.target.classList.add('active');
-      
-      exploreTab.classList.remove('active');
-      likedTab.classList.remove('active');
-      
-      currentView = 'board';
-      currentBoardName = e.target.getAttribute('data-value');
-      filterAndRender(true);
-    }
+  // Board Filter Dropdown Change
+  boardFilterSelect.addEventListener('change', (e) => {
+    const name = e.target.value;
+    if (!name) return;
+    exploreTab.classList.remove('active');
+    likedTab.classList.remove('active');
+    currentView = 'board';
+    currentBoardName = name;
+    filterAndRender(true);
   });
 
   // Editor Panel Listeners
@@ -914,7 +1205,7 @@ function handleDeepLinking() {
   }
 }
 
-// Render Custom Board Pills
+// Render Custom Boards dropdown
 function renderBoardPills() {
   const boardNames = Object.keys(customBoards);
   if (boardNames.length === 0) {
@@ -923,13 +1214,25 @@ function renderBoardPills() {
   }
 
   boardsFilterRow.style.display = 'flex';
-  boardPillsContainer.innerHTML = boardNames.map(name => 
-    `<button class="pill" data-value="${name}">${name} (${customBoards[name].length})</button>`
-  ).join('');
+  boardFilterSelect.innerHTML = '';
+  const none = document.createElement('option');
+  none.value = '';
+  none.textContent = 'Select a board';
+  boardFilterSelect.appendChild(none);
+  boardNames.forEach(name => {
+    const o = document.createElement('option');
+    o.value = name;
+    o.textContent = name;
+    o.dataset.hint = String(customBoards[name].length);
+    boardFilterSelect.appendChild(o);
+  });
+  boardFilterSelect.value = (currentView === 'board' && customBoards[currentBoardName]) ? currentBoardName : '';
+  DD.refresh(boardFilterSelect);
 }
 
 function deactivateBoardPills() {
-  boardPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
+  boardFilterSelect.value = '';
+  DD.sync(boardFilterSelect);
 }
 
 // Populate Dropdown selector inside the Lightbox
@@ -1057,9 +1360,24 @@ function renderEmptyState() {
   `;
 }
 
-// Render next slice of wallpapers (30 wallpapers per batch)
+// Number of columns the grid currently shows
+function getGridColumns() {
+  const cols = getComputedStyle(grid).gridTemplateColumns.split(' ').filter(Boolean).length;
+  return Math.max(1, cols);
+}
+
+// ~30 wallpapers per load, rounded up so the grid always ends on a full row.
+// New wallpapers then start on a fresh row at the bottom instead of filling gaps at the side.
+function getBatchSize() {
+  const cols = getGridColumns();
+  const target = Math.ceil((renderedCount + itemsPerLoad) / cols) * cols;
+  return Math.max(1, target - renderedCount);
+}
+
+// Render next slice of wallpapers (about 30 per batch, full rows)
 function renderNextBatch() {
-  const nextBatch = filteredWallpapers.slice(renderedCount, renderedCount + itemsPerLoad);
+  const batchSize = getBatchSize();
+  const nextBatch = filteredWallpapers.slice(renderedCount, renderedCount + batchSize);
   
   if (nextBatch.length === 0) {
     updateLoadMoreUI();
@@ -1075,7 +1393,7 @@ function renderNextBatch() {
     item.setAttribute('data-id', wp.id);
     
     // Staggered cascade entrance timing (0 to 29)
-    const cascadeIndex = index % itemsPerLoad;
+    const cascadeIndex = index % 30;
     item.style.setProperty('--stagger', cascadeIndex);
     
     const isGif = wp.format === 'GIF';
@@ -1183,7 +1501,7 @@ function updateLoadMoreUI() {
     `;
   } else {
     const remaining = total - renderedCount;
-    const nextCount = Math.min(itemsPerLoad, remaining);
+    const nextCount = Math.min(getBatchSize(), remaining);
     container.innerHTML = `
       <button id="load-more-btn" class="load-more-btn" title="Load next ${nextCount} wallpapers">
         <i class="fas fa-plus-circle"></i>
