@@ -36620,5 +36620,15609 @@ window.WALLPAPER_DATA = [
       "4k"
     ],
     "id": "wp_2424"
+  },
+  {
+    "name": "One Piece - Grand Line #1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%281%29.jpg",
+    "format": "JPG",
+    "size": "98.17 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (1).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2425"
+  },
+  {
+    "name": "One Piece - Grand Line #10",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2810%29.jpeg",
+    "format": "JPG",
+    "size": "236.05 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (10).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2426"
+  },
+  {
+    "name": "One Piece - Grand Line #13",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2813%29.jpeg",
+    "format": "JPG",
+    "size": "246.12 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (13).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2427"
+  },
+  {
+    "name": "One Piece - Grand Line #14",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2814%29.jpeg",
+    "format": "JPG",
+    "size": "126.87 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (14).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2428"
+  },
+  {
+    "name": "One Piece - Grand Line #15",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2815%29.jpeg",
+    "format": "JPG",
+    "size": "288.54 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (15).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2429"
+  },
+  {
+    "name": "One Piece - Grand Line #16",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2816%29.jpeg",
+    "format": "JPG",
+    "size": "135.92 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (16).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2430"
+  },
+  {
+    "name": "One Piece - Grand Line #17",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2817%29.jpeg",
+    "format": "JPG",
+    "size": "115.46 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (17).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2431"
+  },
+  {
+    "name": "One Piece - Grand Line #18",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2818%29.jpeg",
+    "format": "JPG",
+    "size": "171.23 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (18).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2432"
+  },
+  {
+    "name": "One Piece - Grand Line #19",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2819%29.jpeg",
+    "format": "JPG",
+    "size": "116.41 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (19).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2433"
+  },
+  {
+    "name": "One Piece - Grand Line #2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%282%29.jpeg",
+    "format": "JPG",
+    "size": "126.87 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (2).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2434"
+  },
+  {
+    "name": "One Piece - Grand Line #20",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2820%29.jpeg",
+    "format": "JPG",
+    "size": "54.67 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (20).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2435"
+  },
+  {
+    "name": "One Piece - Grand Line #21",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2821%29.jpeg",
+    "format": "JPG",
+    "size": "142.18 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (21).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2436"
+  },
+  {
+    "name": "One Piece - Grand Line #22",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2822%29.jpeg",
+    "format": "JPG",
+    "size": "50.47 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (22).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2437"
+  },
+  {
+    "name": "One Piece - Grand Line #23",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2823%29.jpeg",
+    "format": "JPG",
+    "size": "116.05 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (23).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2438"
+  },
+  {
+    "name": "One Piece - Grand Line #24",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2824%29.jpeg",
+    "format": "JPG",
+    "size": "60.39 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (24).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2439"
+  },
+  {
+    "name": "One Piece - Grand Line #25",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2825%29.jpeg",
+    "format": "JPG",
+    "size": "164.39 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (25).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2440"
+  },
+  {
+    "name": "One Piece - Grand Line #26",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2826%29.jpeg",
+    "format": "JPG",
+    "size": "144.77 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (26).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2441"
+  },
+  {
+    "name": "One Piece - Grand Line #27",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2827%29.jpeg",
+    "format": "JPG",
+    "size": "332.51 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (27).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2442"
+  },
+  {
+    "name": "One Piece - Grand Line #28",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2828%29.jpeg",
+    "format": "JPG",
+    "size": "199.09 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (28).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2443"
+  },
+  {
+    "name": "One Piece - Grand Line #29",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2829%29.jpeg",
+    "format": "JPG",
+    "size": "153.60 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (29).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2444"
+  },
+  {
+    "name": "One Piece - Grand Line #3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%283%29.jpeg",
+    "format": "JPG",
+    "size": "151.74 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (3).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2445"
+  },
+  {
+    "name": "One Piece - Grand Line #30",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2830%29.jpeg",
+    "format": "JPG",
+    "size": "67.63 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (30).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2446"
+  },
+  {
+    "name": "One Piece - Grand Line #31",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2831%29.jpeg",
+    "format": "JPG",
+    "size": "116.85 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (31).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2447"
+  },
+  {
+    "name": "One Piece - Grand Line #32",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2832%29.jpeg",
+    "format": "JPG",
+    "size": "266.93 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (32).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2448"
+  },
+  {
+    "name": "One Piece - Grand Line #33",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2833%29.jpeg",
+    "format": "JPG",
+    "size": "199.26 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (33).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2449"
+  },
+  {
+    "name": "One Piece - Grand Line #34",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2834%29.jpeg",
+    "format": "JPG",
+    "size": "226.03 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (34).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2450"
+  },
+  {
+    "name": "One Piece - Grand Line #35",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2835%29.jpeg",
+    "format": "JPG",
+    "size": "99.80 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (35).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2451"
+  },
+  {
+    "name": "One Piece - Grand Line #36",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2836%29.jpeg",
+    "format": "JPG",
+    "size": "57.87 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (36).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2452"
+  },
+  {
+    "name": "One Piece - Grand Line #37",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2837%29.jpeg",
+    "format": "JPG",
+    "size": "79.28 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (37).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2453"
+  },
+  {
+    "name": "One Piece - Grand Line #39",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2839%29.jpeg",
+    "format": "JPG",
+    "size": "91.21 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (39).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2454"
+  },
+  {
+    "name": "One Piece - Grand Line #4",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%284%29.jpeg",
+    "format": "JPG",
+    "size": "198.55 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (4).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2455"
+  },
+  {
+    "name": "One Piece - Grand Line #40",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2840%29.jpeg",
+    "format": "JPG",
+    "size": "189.19 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (40).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2456"
+  },
+  {
+    "name": "One Piece - Grand Line #41",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2841%29.jpeg",
+    "format": "JPG",
+    "size": "175.75 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (41).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2457"
+  },
+  {
+    "name": "One Piece - Grand Line #43",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2843%29.jpeg",
+    "format": "JPG",
+    "size": "104.35 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (43).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2458"
+  },
+  {
+    "name": "One Piece - Grand Line #44",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2844%29.jpeg",
+    "format": "JPG",
+    "size": "227.66 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (44).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2459"
+  },
+  {
+    "name": "One Piece - Grand Line #45",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2845%29.jpeg",
+    "format": "JPG",
+    "size": "56.01 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (45).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2460"
+  },
+  {
+    "name": "One Piece - Grand Line #46",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2846%29.jpeg",
+    "format": "JPG",
+    "size": "69.09 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (46).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2461"
+  },
+  {
+    "name": "One Piece - Grand Line #47",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2847%29.jpeg",
+    "format": "JPG",
+    "size": "167.39 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (47).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2462"
+  },
+  {
+    "name": "One Piece - Grand Line #48",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2848%29.jpeg",
+    "format": "JPG",
+    "size": "76.22 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (48).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2463"
+  },
+  {
+    "name": "One Piece - Grand Line #49",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2849%29.jpeg",
+    "format": "JPG",
+    "size": "57.46 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (49).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2464"
+  },
+  {
+    "name": "One Piece - Grand Line #5",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%285%29.jpeg",
+    "format": "JPG",
+    "size": "117.32 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (5).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2465"
+  },
+  {
+    "name": "One Piece - Grand Line #50",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2850%29.jpeg",
+    "format": "JPG",
+    "size": "119.40 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (50).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2466"
+  },
+  {
+    "name": "One Piece - Grand Line #51",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2851%29.jpeg",
+    "format": "JPG",
+    "size": "187.58 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (51).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2467"
+  },
+  {
+    "name": "One Piece - Grand Line #52",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2852%29.jpeg",
+    "format": "JPG",
+    "size": "49.58 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (52).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2468"
+  },
+  {
+    "name": "One Piece - Grand Line #53",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2853%29.jpeg",
+    "format": "JPG",
+    "size": "84.95 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (53).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2469"
+  },
+  {
+    "name": "One Piece - Grand Line #54",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%2854%29.jpeg",
+    "format": "JPG",
+    "size": "137.51 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (54).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2470"
+  },
+  {
+    "name": "One Piece - Grand Line #6",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%286%29.jpg",
+    "format": "JPG",
+    "size": "97.12 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (6).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2471"
+  },
+  {
+    "name": "One Piece - Grand Line #7",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%287%29.jpeg",
+    "format": "JPG",
+    "size": "205.28 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (7).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2472"
+  },
+  {
+    "name": "One Piece - Grand Line #8",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%288%29.jpeg",
+    "format": "JPG",
+    "size": "112.22 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (8).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2473"
+  },
+  {
+    "name": "One Piece - Grand Line #9",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/MinimalistWallpaperGuy/MyWall/main/OnePiece/op%20%289%29.jpeg",
+    "format": "JPG",
+    "size": "98.74 KB",
+    "path": "MinimalistWallpaperGuy/MyWall/OnePiece/op (9).jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2474"
+  },
+  {
+    "name": "One Piece - Boahancoikbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/BoaHancoikBounty.jpg",
+    "format": "JPG",
+    "size": "101.02 KB",
+    "path": "abysbyte/OnePiece/images/BoaHancoikBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2475"
+  },
+  {
+    "name": "One Piece - Doflamingo (1)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Doflamingo%20%281%29.jpg",
+    "format": "JPG",
+    "size": "157.83 KB",
+    "path": "abysbyte/OnePiece/images/Doflamingo (1).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "doflamingo",
+      "dressrosa",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2476"
+  },
+  {
+    "name": "One Piece - Doflamingo",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Doflamingo.jpg",
+    "format": "JPG",
+    "size": "142.15 KB",
+    "path": "abysbyte/OnePiece/images/Doflamingo.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "doflamingo",
+      "dressrosa",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2477"
+  },
+  {
+    "name": "One Piece - Douglasbulletbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/DouglasBulletBounty.jpg",
+    "format": "JPG",
+    "size": "128.79 KB",
+    "path": "abysbyte/OnePiece/images/DouglasBulletBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2478"
+  },
+  {
+    "name": "One Piece - Killerbount",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Killerbount.jpg",
+    "format": "JPG",
+    "size": "125.01 KB",
+    "path": "abysbyte/OnePiece/images/Killerbount.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2479"
+  },
+  {
+    "name": "One Piece - Lawbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/LawBounty.jpg",
+    "format": "JPG",
+    "size": "79.95 KB",
+    "path": "abysbyte/OnePiece/images/LawBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2480"
+  },
+  {
+    "name": "One Piece - Monkey D Luffy Photoroom",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Monkey%20D%20Luffy-Photoroom.png",
+    "format": "PNG",
+    "size": "390.89 KB",
+    "path": "abysbyte/OnePiece/images/Monkey D Luffy-Photoroom.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2481"
+  },
+  {
+    "name": "One Piece - Nico Robin",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Nico%20Robin.jpg",
+    "format": "JPG",
+    "size": "72.42 KB",
+    "path": "abysbyte/OnePiece/images/Nico Robin.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2482"
+  },
+  {
+    "name": "One Piece - Robinbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/RobinBounty.jpg",
+    "format": "JPG",
+    "size": "126.06 KB",
+    "path": "abysbyte/OnePiece/images/RobinBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2483"
+  },
+  {
+    "name": "One Piece - Rocks D Xebec Wanted Poster",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Rocks%20D%20Xebec%20Wanted%20Poster.jpg",
+    "format": "JPG",
+    "size": "146.05 KB",
+    "path": "abysbyte/OnePiece/images/Rocks D Xebec Wanted Poster.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2484"
+  },
+  {
+    "name": "One Piece - Shankbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/ShankBounty.jpg",
+    "format": "JPG",
+    "size": "165.86 KB",
+    "path": "abysbyte/OnePiece/images/ShankBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2485"
+  },
+  {
+    "name": "One Piece - Shanks Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/Shanks%20Wallpaper.jpg",
+    "format": "JPG",
+    "size": "89.76 KB",
+    "path": "abysbyte/OnePiece/images/Shanks Wallpaper.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "red hair",
+      "shanks",
+      "straw hat",
+      "yonko"
+    ],
+    "id": "wp_2486"
+  },
+  {
+    "name": "One Piece - Yamotobountt",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/YamotoBountt.jpg",
+    "format": "JPG",
+    "size": "117.29 KB",
+    "path": "abysbyte/OnePiece/images/YamotoBountt.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2487"
+  },
+  {
+    "name": "One Piece - Ace",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/ace.jpg",
+    "format": "JPG",
+    "size": "51.73 KB",
+    "path": "abysbyte/OnePiece/images/ace.jpg",
+    "tags": [
+      "4k",
+      "ace",
+      "anime",
+      "fire",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "portgas d ace",
+      "straw hat"
+    ],
+    "id": "wp_2488"
+  },
+  {
+    "name": "One Piece - Ace1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/ace1.png",
+    "format": "PNG",
+    "size": "181.13 KB",
+    "path": "abysbyte/OnePiece/images/ace1.png",
+    "tags": [
+      "4k",
+      "ace",
+      "anime",
+      "fire",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "portgas d ace",
+      "straw hat"
+    ],
+    "id": "wp_2489"
+  },
+  {
+    "name": "One Piece - Ace100",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/ace100.jpg",
+    "format": "JPG",
+    "size": "61.89 KB",
+    "path": "abysbyte/OnePiece/images/ace100.jpg",
+    "tags": [
+      "4k",
+      "ace",
+      "anime",
+      "fire",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "portgas d ace",
+      "straw hat"
+    ],
+    "id": "wp_2490"
+  },
+  {
+    "name": "One Piece - Brook",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/brook.png",
+    "format": "PNG",
+    "size": "2.16 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/brook.png",
+    "tags": [
+      "4k",
+      "anime",
+      "brook",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2491"
+  },
+  {
+    "name": "One Piece - Brook2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/brook2.jpg",
+    "format": "JPG",
+    "size": "79.36 KB",
+    "path": "abysbyte/OnePiece/images/brook2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "brook",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2492"
+  },
+  {
+    "name": "One Piece - Brookbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/brookBounty.jpg",
+    "format": "JPG",
+    "size": "116.22 KB",
+    "path": "abysbyte/OnePiece/images/brookBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "brook",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2493"
+  },
+  {
+    "name": "One Piece - Choperbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/choperBounty.jpg",
+    "format": "JPG",
+    "size": "116.86 KB",
+    "path": "abysbyte/OnePiece/images/choperBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2494"
+  },
+  {
+    "name": "One Piece - Chopper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/chopper.png",
+    "format": "PNG",
+    "size": "962.28 KB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/chopper.png",
+    "tags": [
+      "4k",
+      "anime",
+      "chopper",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2495"
+  },
+  {
+    "name": "One Piece - Copper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/copper.jpg",
+    "format": "JPG",
+    "size": "51.32 KB",
+    "path": "abysbyte/OnePiece/images/copper.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2496"
+  },
+  {
+    "name": "One Piece - Crocodile",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/crocodile.jpg",
+    "format": "JPG",
+    "size": "112.36 KB",
+    "path": "abysbyte/OnePiece/images/crocodile.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2497"
+  },
+  {
+    "name": "One Piece - Download (3)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/download%20%283%29.jpg",
+    "format": "JPG",
+    "size": "74.80 KB",
+    "path": "abysbyte/OnePiece/images/download (3).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2498"
+  },
+  {
+    "name": "One Piece - Franky",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/franky.png",
+    "format": "PNG",
+    "size": "2.39 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/franky.png",
+    "tags": [
+      "4k",
+      "anime",
+      "franky",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2499"
+  },
+  {
+    "name": "One Piece - Franky3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/franky3.jpg",
+    "format": "JPG",
+    "size": "65.11 KB",
+    "path": "abysbyte/OnePiece/images/franky3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "franky",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2500"
+  },
+  {
+    "name": "One Piece - Frankybounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/frankyBounty.jpg",
+    "format": "JPG",
+    "size": "134.99 KB",
+    "path": "abysbyte/OnePiece/images/frankyBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "franky",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2501"
+  },
+  {
+    "name": "One Piece - Jinbe",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/sahilkhan09k/Leetcode_Theme/main/public/images/anime/one-piece/11-jinbe.webp",
+    "format": "WEBP",
+    "size": "645.47 KB",
+    "path": "sahilkhan09k/Leetcode_Theme/public/images/anime/one-piece/11-jinbe.webp",
+    "tags": [
+      "4k",
+      "anime",
+      "jinbe",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2502"
+  },
+  {
+    "name": "One Piece - Jinbe2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/jinbe2.jpg",
+    "format": "JPG",
+    "size": "71.38 KB",
+    "path": "abysbyte/OnePiece/images/jinbe2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "jinbe",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2503"
+  },
+  {
+    "name": "One Piece - Jinbebounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/jinbeBounty.jpg",
+    "format": "JPG",
+    "size": "142.38 KB",
+    "path": "abysbyte/OnePiece/images/jinbeBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "jinbe",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2504"
+  },
+  {
+    "name": "One Piece - Kidbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/kidBounty.jpg",
+    "format": "JPG",
+    "size": "144.78 KB",
+    "path": "abysbyte/OnePiece/images/kidBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2505"
+  },
+  {
+    "name": "One Piece - Lordusoppbounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/lordusoppBounty.jpg",
+    "format": "JPG",
+    "size": "146.03 KB",
+    "path": "abysbyte/OnePiece/images/lordusoppBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "usopp"
+    ],
+    "id": "wp_2506"
+  },
+  {
+    "name": "One Piece - Luffy",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/luffy.png",
+    "format": "PNG",
+    "size": "2.26 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/luffy.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2507"
+  },
+  {
+    "name": "One Piece - Luffy1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/luffy1.jpg",
+    "format": "JPG",
+    "size": "98.92 KB",
+    "path": "abysbyte/OnePiece/images/luffy1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2508"
+  },
+  {
+    "name": "One Piece - Luffy2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/luffy2.png",
+    "format": "PNG",
+    "size": "875.35 KB",
+    "path": "abysbyte/OnePiece/images/luffy2.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2509"
+  },
+  {
+    "name": "One Piece - Luffybounty1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/luffyBounty1.jpg",
+    "format": "JPG",
+    "size": "140.92 KB",
+    "path": "abysbyte/OnePiece/images/luffyBounty1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2510"
+  },
+  {
+    "name": "One Piece - Name3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/name3.jpg",
+    "format": "JPG",
+    "size": "106.40 KB",
+    "path": "abysbyte/OnePiece/images/name3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2511"
+  },
+  {
+    "name": "One Piece - Nami1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/nami1.jpg",
+    "format": "JPG",
+    "size": "123.03 KB",
+    "path": "abysbyte/OnePiece/images/nami1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2512"
+  },
+  {
+    "name": "One Piece - Nami3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/nami3.jpg",
+    "format": "JPG",
+    "size": "71.21 KB",
+    "path": "abysbyte/OnePiece/images/nami3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2513"
+  },
+  {
+    "name": "One Piece - Namibounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/namiBounty.jpg",
+    "format": "JPG",
+    "size": "109.79 KB",
+    "path": "abysbyte/OnePiece/images/namiBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2514"
+  },
+  {
+    "name": "One Piece - Robin",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/robin.png",
+    "format": "PNG",
+    "size": "857.32 KB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/robin.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2515"
+  },
+  {
+    "name": "One Piece - Robin2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/robin2.jpg",
+    "format": "JPG",
+    "size": "134.61 KB",
+    "path": "abysbyte/OnePiece/images/robin2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2516"
+  },
+  {
+    "name": "One Piece - Sabo",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/sabo.jpg",
+    "format": "JPG",
+    "size": "589.80 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/sabo.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "flame emperor",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sabo",
+      "straw hat"
+    ],
+    "id": "wp_2517"
+  },
+  {
+    "name": "One Piece - Sanji1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/sanji1.jpg",
+    "format": "JPG",
+    "size": "129.12 KB",
+    "path": "abysbyte/OnePiece/images/sanji1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2518"
+  },
+  {
+    "name": "One Piece - Sanji2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/sanji2.jpg",
+    "format": "JPG",
+    "size": "109.03 KB",
+    "path": "abysbyte/OnePiece/images/sanji2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2519"
+  },
+  {
+    "name": "One Piece - Sanji3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/sanji3.jpg",
+    "format": "JPG",
+    "size": "96.80 KB",
+    "path": "abysbyte/OnePiece/images/sanji3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2520"
+  },
+  {
+    "name": "One Piece - Sanji5",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/sanji5.jpg",
+    "format": "JPG",
+    "size": "96.80 KB",
+    "path": "abysbyte/OnePiece/images/sanji5.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2521"
+  },
+  {
+    "name": "One Piece - Sanjibounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/sanjiBounty.jpg",
+    "format": "JPG",
+    "size": "129.42 KB",
+    "path": "abysbyte/OnePiece/images/sanjiBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2522"
+  },
+  {
+    "name": "One Piece - Shank",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/shank.jpg",
+    "format": "JPG",
+    "size": "136.31 KB",
+    "path": "abysbyte/OnePiece/images/shank.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2523"
+  },
+  {
+    "name": "One Piece - Shank2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/shank2.jpg",
+    "format": "JPG",
+    "size": "59.13 KB",
+    "path": "abysbyte/OnePiece/images/shank2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2524"
+  },
+  {
+    "name": "One Piece - Usop3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/usop3.jpg",
+    "format": "JPG",
+    "size": "97.82 KB",
+    "path": "abysbyte/OnePiece/images/usop3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2525"
+  },
+  {
+    "name": "One Piece - Zoro",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/zoro.png",
+    "format": "PNG",
+    "size": "2.31 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/zoro.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2526"
+  },
+  {
+    "name": "One Piece - Zorobounty",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abysbyte/OnePiece/main/images/zoroBounty.jpg",
+    "format": "JPG",
+    "size": "100.82 KB",
+    "path": "abysbyte/OnePiece/images/zoroBounty.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2527"
+  },
+  {
+    "name": "One Piece - Back2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/back2.jpg",
+    "format": "JPG",
+    "size": "1.75 MB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/back2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2528"
+  },
+  {
+    "name": "One Piece - Back3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/back3.jpg",
+    "format": "JPG",
+    "size": "187.72 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/back3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2529"
+  },
+  {
+    "name": "One Piece - Back4",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/back4.jpg",
+    "format": "JPG",
+    "size": "1.68 MB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/back4.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2530"
+  },
+  {
+    "name": "One Piece #111",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/background.jpg",
+    "format": "JPG",
+    "size": "2.74 MB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/background.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2531"
+  },
+  {
+    "name": "One Piece - Binnami2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/binNami2.png",
+    "format": "PNG",
+    "size": "131.05 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/binNami2.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2532"
+  },
+  {
+    "name": "One Piece - Bonami1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/boNami1.png",
+    "format": "PNG",
+    "size": "271.00 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/boNami1.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2533"
+  },
+  {
+    "name": "One Piece - Bonluffy",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/bonLuffy.png",
+    "format": "PNG",
+    "size": "165.08 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/bonLuffy.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2534"
+  },
+  {
+    "name": "One Piece - Bonnami3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/bonNami3.png",
+    "format": "PNG",
+    "size": "131.04 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/bonNami3.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2535"
+  },
+  {
+    "name": "One Piece - Bonrobin1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/bonRobin1.png",
+    "format": "PNG",
+    "size": "104.77 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/bonRobin1.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2536"
+  },
+  {
+    "name": "One Piece - Bonrobin2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/bonRobin2.png",
+    "format": "PNG",
+    "size": "107.88 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/bonRobin2.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2537"
+  },
+  {
+    "name": "One Piece - Bonrobin3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/bonRobin3.png",
+    "format": "PNG",
+    "size": "150.05 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/bonRobin3.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2538"
+  },
+  {
+    "name": "One Piece - Brookt",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/brookT.png",
+    "format": "PNG",
+    "size": "114.77 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/brookT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "brook",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2539"
+  },
+  {
+    "name": "One Piece - Choppett",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/choppetT.png",
+    "format": "PNG",
+    "size": "60.73 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/choppetT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2540"
+  },
+  {
+    "name": "One Piece - Frankyt",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/frankyT.png",
+    "format": "PNG",
+    "size": "120.50 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/frankyT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "franky",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2541"
+  },
+  {
+    "name": "One Piece - Game",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/game.png",
+    "format": "PNG",
+    "size": "310.59 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/game.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2542"
+  },
+  {
+    "name": "One Piece - Gl1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl1.jpg",
+    "format": "JPG",
+    "size": "507.63 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2543"
+  },
+  {
+    "name": "One Piece - Gl10",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl10.jpg",
+    "format": "JPG",
+    "size": "694.74 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl10.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2544"
+  },
+  {
+    "name": "One Piece - Gl11",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl11.jpg",
+    "format": "JPG",
+    "size": "605.93 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl11.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2545"
+  },
+  {
+    "name": "One Piece - Gl12",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl12.jpg",
+    "format": "JPG",
+    "size": "579.20 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl12.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2546"
+  },
+  {
+    "name": "One Piece - Gl13",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl13.jpg",
+    "format": "JPG",
+    "size": "553.86 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl13.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2547"
+  },
+  {
+    "name": "One Piece - Gl14",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl14.jpg",
+    "format": "JPG",
+    "size": "150.24 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl14.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2548"
+  },
+  {
+    "name": "One Piece - Gl15",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl15.jpg",
+    "format": "JPG",
+    "size": "514.40 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl15.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2549"
+  },
+  {
+    "name": "One Piece - Gl2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl2.jpg",
+    "format": "JPG",
+    "size": "2.94 MB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2550"
+  },
+  {
+    "name": "One Piece - Gl3",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl3.jpg",
+    "format": "JPG",
+    "size": "158.30 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl3.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2551"
+  },
+  {
+    "name": "One Piece - Gl4",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl4.jpg",
+    "format": "JPG",
+    "size": "519.66 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl4.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2552"
+  },
+  {
+    "name": "One Piece - Gl5",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl5.jpg",
+    "format": "JPG",
+    "size": "517.50 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl5.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2553"
+  },
+  {
+    "name": "One Piece - Gl6",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl6.jpg",
+    "format": "JPG",
+    "size": "230.49 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl6.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2554"
+  },
+  {
+    "name": "One Piece - Gl7",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl7.jpg",
+    "format": "JPG",
+    "size": "413.39 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl7.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2555"
+  },
+  {
+    "name": "One Piece - Gl8",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl8.jpg",
+    "format": "JPG",
+    "size": "406.75 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl8.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2556"
+  },
+  {
+    "name": "One Piece - Gl9",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/gl9.jpg",
+    "format": "JPG",
+    "size": "451.57 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/gl9.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2557"
+  },
+  {
+    "name": "One Piece - Home",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/home.jpg",
+    "format": "JPG",
+    "size": "627.04 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/home.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2558"
+  },
+  {
+    "name": "One Piece - Luffyb",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/luffyB.png",
+    "format": "PNG",
+    "size": "85.08 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/luffyB.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2559"
+  },
+  {
+    "name": "One Piece - Nami",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/nami.png",
+    "format": "PNG",
+    "size": "904.73 KB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/nami.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2560"
+  },
+  {
+    "name": "One Piece - Namif",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/namiF.png",
+    "format": "PNG",
+    "size": "479.02 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/namiF.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2561"
+  },
+  {
+    "name": "One Piece - P1h1",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/p1h1.jpg",
+    "format": "JPG",
+    "size": "77.66 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/p1h1.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2562"
+  },
+  {
+    "name": "One Piece - Pngguru Com (1)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%281%29.png",
+    "format": "PNG",
+    "size": "114.77 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (1).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2563"
+  },
+  {
+    "name": "One Piece - Pngguru Com (13)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%2813%29.png",
+    "format": "PNG",
+    "size": "409.53 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (13).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2564"
+  },
+  {
+    "name": "One Piece - Pngguru Com (14)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%2814%29.png",
+    "format": "PNG",
+    "size": "329.44 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (14).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2565"
+  },
+  {
+    "name": "One Piece - Pngguru Com (16)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%2816%29.png",
+    "format": "PNG",
+    "size": "97.69 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (16).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2566"
+  },
+  {
+    "name": "One Piece - Pngguru Com (17)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%2817%29.png",
+    "format": "PNG",
+    "size": "781.70 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (17).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2567"
+  },
+  {
+    "name": "One Piece - Pngguru Com (3)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%283%29.png",
+    "format": "PNG",
+    "size": "101.63 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (3).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2568"
+  },
+  {
+    "name": "One Piece - Pngguru Com (4)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%284%29.png",
+    "format": "PNG",
+    "size": "119.70 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (4).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2569"
+  },
+  {
+    "name": "One Piece - Pngguru Com (5)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%285%29.png",
+    "format": "PNG",
+    "size": "262.97 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (5).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2570"
+  },
+  {
+    "name": "One Piece - Pngguru Com (6)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%286%29.png",
+    "format": "PNG",
+    "size": "559.83 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (6).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2571"
+  },
+  {
+    "name": "One Piece - Pngguru Com (7)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%287%29.png",
+    "format": "PNG",
+    "size": "311.82 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (7).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2572"
+  },
+  {
+    "name": "One Piece - Pngguru Com (9)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/pngguru.com%20%289%29.png",
+    "format": "PNG",
+    "size": "694.39 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/pngguru.com (9).png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2573"
+  },
+  {
+    "name": "One Piece - Robint",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/robinT.png",
+    "format": "PNG",
+    "size": "96.30 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/robinT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nico robin",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "robin",
+      "straw hat"
+    ],
+    "id": "wp_2574"
+  },
+  {
+    "name": "One Piece - Sanji",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/sanji.png",
+    "format": "PNG",
+    "size": "754.37 KB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/sanji.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2575"
+  },
+  {
+    "name": "One Piece - Sanjit",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/sanjiT.png",
+    "format": "PNG",
+    "size": "106.26 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/sanjiT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "sanji",
+      "straw hat"
+    ],
+    "id": "wp_2576"
+  },
+  {
+    "name": "One Piece - Sanks",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/sanks.jpg",
+    "format": "JPG",
+    "size": "642.92 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/sanks.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2577"
+  },
+  {
+    "name": "One Piece - Thumb 1920 1059649",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-1059649.jpg",
+    "format": "JPG",
+    "size": "354.53 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-1059649.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2578"
+  },
+  {
+    "name": "One Piece - Thumb 1920 218792",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-218792.jpg",
+    "format": "JPG",
+    "size": "692.72 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-218792.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2579"
+  },
+  {
+    "name": "One Piece - Thumb 1920 218796",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-218796.jpg",
+    "format": "JPG",
+    "size": "698.99 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-218796.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2580"
+  },
+  {
+    "name": "One Piece - Thumb 1920 487873",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-487873.jpg",
+    "format": "JPG",
+    "size": "667.46 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-487873.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2581"
+  },
+  {
+    "name": "One Piece - Thumb 1920 487888",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-487888.jpg",
+    "format": "JPG",
+    "size": "368.78 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-487888.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2582"
+  },
+  {
+    "name": "One Piece - Thumb 1920 606282",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-606282.jpg",
+    "format": "JPG",
+    "size": "660.94 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-606282.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2583"
+  },
+  {
+    "name": "One Piece - Thumb 1920 666324",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-666324.jpg",
+    "format": "JPG",
+    "size": "708.71 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-666324.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2584"
+  },
+  {
+    "name": "One Piece - Thumb 1920 735703",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-735703.png",
+    "format": "PNG",
+    "size": "3.43 MB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-735703.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2585"
+  },
+  {
+    "name": "One Piece - Thumb 1920 739912",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-739912.jpg",
+    "format": "JPG",
+    "size": "255.16 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-739912.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2586"
+  },
+  {
+    "name": "One Piece - Thumb 1920 790582",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-790582.jpg",
+    "format": "JPG",
+    "size": "397.47 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-790582.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2587"
+  },
+  {
+    "name": "One Piece - Thumb 1920 911401",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/thumb-1920-911401.jpg",
+    "format": "JPG",
+    "size": "174.90 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/thumb-1920-911401.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2588"
+  },
+  {
+    "name": "One Piece - Truenami",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/trueNami.png",
+    "format": "PNG",
+    "size": "87.69 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/trueNami.png",
+    "tags": [
+      "4k",
+      "anime",
+      "nami",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2589"
+  },
+  {
+    "name": "One Piece - Usoopt",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/usoopT.png",
+    "format": "PNG",
+    "size": "142.81 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/usoopT.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2590"
+  },
+  {
+    "name": "One Piece - Usopp",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/usopp.jpg",
+    "format": "JPG",
+    "size": "614.40 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/usopp.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "usopp"
+    ],
+    "id": "wp_2591"
+  },
+  {
+    "name": "One Piece - Usopp2",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/usopp2.jpg",
+    "format": "JPG",
+    "size": "779.24 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/usopp2.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "usopp"
+    ],
+    "id": "wp_2592"
+  },
+  {
+    "name": "One Piece - Zorob",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/abrarnaim015/One-Piece-Gallery/master/img/zoroB.png",
+    "format": "PNG",
+    "size": "117.21 KB",
+    "path": "abrarnaim015/One-Piece-Gallery/img/zoroB.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2593"
+  },
+  {
+    "name": "One Piece #191",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/5d0e7592f00bbeb7c3608734201e5fe9.jpg",
+    "format": "JPG",
+    "size": "108.28 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/5d0e7592f00bbeb7c3608734201e5fe9.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2594"
+  },
+  {
+    "name": "Buggy The Star Clown One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/buggy-the-star-clown-one-piece-uhdpaper.com-4K-6.794.jpg",
+    "format": "JPG",
+    "size": "2.05 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/buggy-the-star-clown-one-piece-uhdpaper.com-4K-6.794.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2595"
+  },
+  {
+    "name": "One Piece - Download",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/download.jpeg",
+    "format": "JPG",
+    "size": "226.09 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/download.jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2596"
+  },
+  {
+    "name": "Kuzan Aokiji One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/kuzan-aokiji-one-piece-4k-wallpaper-uhdpaper.com-300%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.75 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/kuzan-aokiji-one-piece-4k-wallpaper-uhdpaper.com-300@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2597"
+  },
+  {
+    "name": "Luffy Gear 5 One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/luffy-gear-5-one-piece-4k-wallpaper-uhdpaper.com-473%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.89 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/luffy-gear-5-one-piece-4k-wallpaper-uhdpaper.com-473@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "gear 5",
+      "luffy",
+      "monkey d luffy",
+      "nika",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2598"
+  },
+  {
+    "name": "Luffy Gear 5 One Piece Art 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/luffy-gear-5-one-piece-art-4k-wallpaper-uhdpaper.com-606%401%40l.jpg",
+    "format": "JPG",
+    "size": "1.82 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/luffy-gear-5-one-piece-art-4k-wallpaper-uhdpaper.com-606@1@l.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "gear 5",
+      "luffy",
+      "monkey d luffy",
+      "nika",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2599"
+  },
+  {
+    "name": "Luffy Gear 5 One Piece HD Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/luffy-gear-5-one-piece-hd-wallpaper-uhdpaper.com-471%402%40a.jpg",
+    "format": "JPG",
+    "size": "553.54 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/luffy-gear-5-one-piece-hd-wallpaper-uhdpaper.com-471@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "gear 5",
+      "luffy",
+      "monkey d luffy",
+      "nika",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2600"
+  },
+  {
+    "name": "One Piece Skull Pirate Island HD Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/one-piece-skull-pirate-island-hd-wallpaper-uhdpaper.com-474%402%40a.jpg",
+    "format": "JPG",
+    "size": "961.37 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/one-piece-skull-pirate-island-hd-wallpaper-uhdpaper.com-474@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2601"
+  },
+  {
+    "name": "Rayleigh One Piece Sword",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/rayleigh-one-piece-sword-uhdpaper.com-4K-6.797.jpg",
+    "format": "JPG",
+    "size": "1.89 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/rayleigh-one-piece-sword-uhdpaper.com-4K-6.797.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2602"
+  },
+  {
+    "name": "Rob Lucci One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/rob-lucci-one-piece-4k-wallpaper-uhdpaper.com-296%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.39 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/rob-lucci-one-piece-4k-wallpaper-uhdpaper.com-296@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2603"
+  },
+  {
+    "name": "Shanks One Piece Anime 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/shanks-one-piece-anime-4k-wallpaper-uhdpaper.com-303%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.90 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/shanks-one-piece-anime-4k-wallpaper-uhdpaper.com-303@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "red hair",
+      "shanks",
+      "straw hat",
+      "yonko"
+    ],
+    "id": "wp_2604"
+  },
+  {
+    "name": "Smoker One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/smoker-one-piece-uhdpaper.com-4K-6.798.jpg",
+    "format": "JPG",
+    "size": "2.02 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/smoker-one-piece-uhdpaper.com-4K-6.798.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2605"
+  },
+  {
+    "name": "Tony Tony Chopper One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/tony-tony-chopper-one-piece-uhdpaper.com-4K-6.777.jpg",
+    "format": "JPG",
+    "size": "2.04 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/tony-tony-chopper-one-piece-uhdpaper.com-4K-6.777.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "chopper",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2606"
+  },
+  {
+    "name": "Trafalgar Law Heart One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/trafalgar-law-heart-one-piece-uhdpaper.com-4K-6.779.jpg",
+    "format": "JPG",
+    "size": "2.21 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/trafalgar-law-heart-one-piece-uhdpaper.com-4K-6.779.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2607"
+  },
+  {
+    "name": "Trafalgar Law One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.89 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2608"
+  },
+  {
+    "name": "Trafalgar Law One Piece HD Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/trafalgar-law-one-piece-hd-wallpaper-uhdpaper.com-472%402%40a.jpg",
+    "format": "JPG",
+    "size": "637.57 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/trafalgar-law-one-piece-hd-wallpaper-uhdpaper.com-472@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2609"
+  },
+  {
+    "name": "Trafalgar Law Sword One Piece 4K Wallpaper (1)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/trafalgar-law-sword-one-piece-4k-wallpaper-uhdpaper.com-307%402%40a%20%281%29.jpg",
+    "format": "JPG",
+    "size": "1.74 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/trafalgar-law-sword-one-piece-4k-wallpaper-uhdpaper.com-307@2@a (1).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2610"
+  },
+  {
+    "name": "Trafalgar Law Sword One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/trafalgar-law-sword-one-piece-4k-wallpaper-uhdpaper.com-307%402%40a.jpg",
+    "format": "JPG",
+    "size": "1.74 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/trafalgar-law-sword-one-piece-4k-wallpaper-uhdpaper.com-307@2@a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "law",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "trafalgar law"
+    ],
+    "id": "wp_2611"
+  },
+  {
+    "name": "One Piece - Wallpaperflare Com Wallpaper (1)",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/wallpaperflare.com_wallpaper%20%281%29.jpg",
+    "format": "JPG",
+    "size": "198.35 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/wallpaperflare.com_wallpaper (1).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2612"
+  },
+  {
+    "name": "One Piece - Wallpaperflare Com Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/wallpaperflare.com_wallpaper.jpg",
+    "format": "JPG",
+    "size": "973.33 KB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/wallpaperflare.com_wallpaper.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2613"
+  },
+  {
+    "name": "Zoro 3 Sword Style One Piece 4K Wallpaper",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/zoro-3-sword-style-one-piece-4k-wallpaper-uhdpaper.com-600%401%40l.jpg",
+    "format": "JPG",
+    "size": "1.79 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/zoro-3-sword-style-one-piece-4k-wallpaper-uhdpaper.com-600@1@l.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2614"
+  },
+  {
+    "name": "Zoro Katana Art One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/zoro-katana-art-one-piece-uhdpaper.com-4K-6.56.jpg",
+    "format": "JPG",
+    "size": "1.93 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/zoro-katana-art-one-piece-uhdpaper.com-4K-6.56.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2615"
+  },
+  {
+    "name": "Zoro One Piece",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/main/BackGroundChanger/Resources/zoro-one-piece-uhdpaper.com-4K-6.57.jpg",
+    "format": "JPG",
+    "size": "1.46 MB",
+    "path": "Xubaca/OnePieceBackgroundChanger_UsingWindowhAPI/BackGroundChanger/Resources/zoro-one-piece-uhdpaper.com-4K-6.57.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2616"
+  },
+  {
+    "name": "One Piece - Crew Ensemble",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/sahilkhan09k/Leetcode_Theme/main/public/images/anime/one-piece/01-crew-ensemble.webp",
+    "format": "WEBP",
+    "size": "428.67 KB",
+    "path": "sahilkhan09k/Leetcode_Theme/public/images/anime/one-piece/01-crew-ensemble.webp",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2617"
+  },
+  {
+    "name": "One Piece - Going Merry",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/sahilkhan09k/Leetcode_Theme/main/public/images/anime/one-piece/12-going-merry.webp",
+    "format": "WEBP",
+    "size": "330.58 KB",
+    "path": "sahilkhan09k/Leetcode_Theme/public/images/anime/one-piece/12-going-merry.webp",
+    "tags": [
+      "4k",
+      "anime",
+      "going merry",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2618"
+  },
+  {
+    "name": "One Piece Zoro - Zoro Night",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-zoro-theme/main/backgrounds/0-zoro-night.jpg",
+    "format": "JPG",
+    "size": "1.39 MB",
+    "path": "ryuhzk/omarchy-one-piece-zoro-theme/backgrounds/0-zoro-night.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2619"
+  },
+  {
+    "name": "One Piece Zoro - Zoro Ember",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-zoro-theme/main/backgrounds/1-zoro-ember.jpg",
+    "format": "JPG",
+    "size": "4.78 MB",
+    "path": "ryuhzk/omarchy-one-piece-zoro-theme/backgrounds/1-zoro-ember.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2620"
+  },
+  {
+    "name": "One Piece Zoro - Three Sword Style",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-zoro-theme/main/backgrounds/2-three-sword-style.jpg",
+    "format": "JPG",
+    "size": "6.87 MB",
+    "path": "ryuhzk/omarchy-one-piece-zoro-theme/backgrounds/2-three-sword-style.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2621"
+  },
+  {
+    "name": "One Piece Zoro - Zoro Open Sea",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/ryuhzk/omarchy-one-piece-zoro-theme/main/backgrounds/3-zoro-open-sea.jpg",
+    "format": "JPG",
+    "size": "6.72 MB",
+    "path": "ryuhzk/omarchy-one-piece-zoro-theme/backgrounds/3-zoro-open-sea.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "roronoa zoro",
+      "straw hat",
+      "swordsman",
+      "zoro"
+    ],
+    "id": "wp_2622"
+  },
+  {
+    "name": "One Piece - Goingmerry",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/goingmerry.png",
+    "format": "PNG",
+    "size": "2.01 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/goingmerry.png",
+    "tags": [
+      "4k",
+      "anime",
+      "going merry",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2623"
+  },
+  {
+    "name": "One Piece - Monkey D Luffy",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/monkey_d_luffy.png",
+    "format": "PNG",
+    "size": "1.51 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/monkey_d_luffy.png",
+    "tags": [
+      "4k",
+      "anime",
+      "luffy",
+      "monkey d luffy",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2624"
+  },
+  {
+    "name": "One Piece - Sea",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/sea.png",
+    "format": "PNG",
+    "size": "1.13 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/sea.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2625"
+  },
+  {
+    "name": "One Piece - Wanted",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/meowmet/one-piece-grub-theme/main/backgrounds/wanted.png",
+    "format": "PNG",
+    "size": "2.81 MB",
+    "path": "meowmet/one-piece-grub-theme/backgrounds/wanted.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2626"
+  },
+  {
+    "name": "One Piece - Jimbe",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/jimbe.png",
+    "format": "PNG",
+    "size": "2.51 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/jimbe.png",
+    "tags": [
+      "4k",
+      "anime",
+      "jinbe",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2627"
+  },
+  {
+    "name": "One Piece - Shanks",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/shanks.png",
+    "format": "PNG",
+    "size": "2.20 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/shanks.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "red hair",
+      "shanks",
+      "straw hat",
+      "yonko"
+    ],
+    "id": "wp_2628"
+  },
+  {
+    "name": "One Piece - Sunny",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/sunny.png",
+    "format": "PNG",
+    "size": "2.14 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/sunny.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat",
+      "thousand sunny"
+    ],
+    "id": "wp_2629"
+  },
+  {
+    "name": "One Piece - Ussop",
+    "category": "One Piece",
+    "url": "https://raw.githubusercontent.com/nikhildigitalgoa/one-piece-gallery/main/images/ussop.png",
+    "format": "PNG",
+    "size": "2.26 MB",
+    "path": "nikhildigitalgoa/one-piece-gallery/images/ussop.png",
+    "tags": [
+      "4k",
+      "anime",
+      "one piece",
+      "onepiece",
+      "pirates",
+      "straw hat"
+    ],
+    "id": "wp_2630"
+  },
+  {
+    "name": "Anime Girl - Chizuru Red Dress",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/01-chizuru_red_dress.png",
+    "format": "PNG",
+    "size": "5.14 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/01-chizuru_red_dress.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chizuru",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2631"
+  },
+  {
+    "name": "Anime Girl - Chizuru Cheerleader",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/02-chizuru_cheerleader.png",
+    "format": "PNG",
+    "size": "6.10 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/02-chizuru_cheerleader.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chizuru",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2632"
+  },
+  {
+    "name": "Anime Girl - Komi Maid",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/03-komi_maid.jpg",
+    "format": "JPG",
+    "size": "2.86 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/03-komi_maid.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "komi",
+      "waifu"
+    ],
+    "id": "wp_2633"
+  },
+  {
+    "name": "Anime Girl - Lucy Neon Moon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/04-lucy_neon_moon.png",
+    "format": "PNG",
+    "size": "5.41 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/04-lucy_neon_moon.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "vibrant",
+      "waifu"
+    ],
+    "id": "wp_2634"
+  },
+  {
+    "name": "Anime Girl - Cyberpunk Neon Rain",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/05-cyberpunk_neon_rain.jpg",
+    "format": "JPG",
+    "size": "1.13 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/05-cyberpunk_neon_rain.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "cyberpunk",
+      "futuristic",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "vibrant",
+      "waifu"
+    ],
+    "id": "wp_2635"
+  },
+  {
+    "name": "Anime Girl - Asuka Plugsuit",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/06-asuka_plugsuit.jpg",
+    "format": "JPG",
+    "size": "6.81 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/06-asuka_plugsuit.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "asuka",
+      "evangelion",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2636"
+  },
+  {
+    "name": "Anime Girl - Rei Plugsuit",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/07-rei_plugsuit.jpg",
+    "format": "JPG",
+    "size": "6.24 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/07-rei_plugsuit.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "evangelion",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "rei",
+      "waifu"
+    ],
+    "id": "wp_2637"
+  },
+  {
+    "name": "Anime Girl - Makima Spiral Eyes",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/08-makima_spiral_eyes.jpg",
+    "format": "JPG",
+    "size": "1.12 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/08-makima_spiral_eyes.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chainsaw man",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "makima",
+      "waifu"
+    ],
+    "id": "wp_2638"
+  },
+  {
+    "name": "Anime Girl - Power Blood Devil",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/09-power_blood_devil.jpg",
+    "format": "JPG",
+    "size": "1.85 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/09-power_blood_devil.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2639"
+  },
+  {
+    "name": "Anime Girl - Gojo Infinite Void",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/10-gojo_infinite_void.jpg",
+    "format": "JPG",
+    "size": "525.99 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/10-gojo_infinite_void.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2640"
+  },
+  {
+    "name": "Anime Girl - Raiden Lightning Katana",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/11-raiden_lightning_katana.jpg",
+    "format": "JPG",
+    "size": "520.84 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/11-raiden_lightning_katana.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "genshin",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "raiden shogun",
+      "waifu"
+    ],
+    "id": "wp_2641"
+  },
+  {
+    "name": "Anime Girl - Keqing Electro Sword",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/12-keqing_electro_sword.jpg",
+    "format": "JPG",
+    "size": "1.02 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/12-keqing_electro_sword.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2642"
+  },
+  {
+    "name": "Anime Girl - Yor Thorn Princess",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/13-yor_thorn_princess.jpg",
+    "format": "JPG",
+    "size": "661.30 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/13-yor_thorn_princess.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "spy x family",
+      "waifu",
+      "yor"
+    ],
+    "id": "wp_2643"
+  },
+  {
+    "name": "Anime Girl - 2B Yorha Katana",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/14-2b_yorha_katana.jpg",
+    "format": "JPG",
+    "size": "570.97 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/14-2b_yorha_katana.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "spy x family",
+      "waifu",
+      "yor"
+    ],
+    "id": "wp_2644"
+  },
+  {
+    "name": "Anime Girl - Sung Jinwoo Shadow Monarch",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/15-sung_jinwoo_shadow_monarch.png",
+    "format": "PNG",
+    "size": "1.03 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/15-sung_jinwoo_shadow_monarch.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2645"
+  },
+  {
+    "name": "Anime Girl - Naruto Sasuke Final Valley",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/16-naruto_sasuke_final_valley.jpg",
+    "format": "JPG",
+    "size": "439.96 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/16-naruto_sasuke_final_valley.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2646"
+  },
+  {
+    "name": "Anime Girl - Frieren Beyond Journey",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/17-frieren_beyond_journey.jpg",
+    "format": "JPG",
+    "size": "4.60 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/17-frieren_beyond_journey.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "frieren",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "magic",
+      "waifu"
+    ],
+    "id": "wp_2647"
+  },
+  {
+    "name": "Anime Girl - AI Hoshino Idol",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/18-ai_hoshino_idol.png",
+    "format": "PNG",
+    "size": "5.36 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/18-ai_hoshino_idol.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2648"
+  },
+  {
+    "name": "Anime Girl - Nezuko Demon Form",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/19-nezuko_demon_form.png",
+    "format": "PNG",
+    "size": "801.72 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/19-nezuko_demon_form.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "demon slayer",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "nezuko",
+      "waifu"
+    ],
+    "id": "wp_2649"
+  },
+  {
+    "name": "Anime Girl - Mikasa Scout Regiment",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/20-mikasa_scout_regiment.png",
+    "format": "PNG",
+    "size": "4.17 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/20-mikasa_scout_regiment.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2650"
+  },
+  {
+    "name": "Anime Girl - Cyberpunk Gasmask Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/21-cyberpunk_gasmask_girl.jpg",
+    "format": "JPG",
+    "size": "2.56 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/21-cyberpunk_gasmask_girl.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "cyberpunk",
+      "futuristic",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "waifu"
+    ],
+    "id": "wp_2651"
+  },
+  {
+    "name": "Anime Girl - Shampoo Purple Bells",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/22-shampoo_purple_bells.jpg",
+    "format": "JPG",
+    "size": "373.83 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/22-shampoo_purple_bells.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2652"
+  },
+  {
+    "name": "Anime Girl - Ranma Martial Arts",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/23-ranma_martial_arts.png",
+    "format": "PNG",
+    "size": "1.93 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/23-ranma_martial_arts.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2653"
+  },
+  {
+    "name": "Anime Girl - Miku Nakano Headphones",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/24-miku_nakano_headphones.jpg",
+    "format": "JPG",
+    "size": "1.82 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/24-miku_nakano_headphones.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "hatsune miku",
+      "miku",
+      "waifu"
+    ],
+    "id": "wp_2654"
+  },
+  {
+    "name": "Anime Girl - Nino Nakano Butterfly",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/25-nino_nakano_butterfly.jpg",
+    "format": "JPG",
+    "size": "426.04 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/25-nino_nakano_butterfly.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2655"
+  },
+  {
+    "name": "Anime Girl - Bocchi Guitar Tracksuit",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/26-bocchi_guitar_tracksuit.png",
+    "format": "PNG",
+    "size": "3.37 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/26-bocchi_guitar_tracksuit.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2656"
+  },
+  {
+    "name": "Anime Girl - Marin Kitagawa Kuroe",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/27-marin_kitagawa_kuroe.jpg",
+    "format": "JPG",
+    "size": "1.12 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/27-marin_kitagawa_kuroe.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "marin",
+      "waifu"
+    ],
+    "id": "wp_2657"
+  },
+  {
+    "name": "Anime Girl - Rebecca Edgerunners Dual Pistols",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/28-rebecca_edgerunners_dual_pistols.jpg",
+    "format": "JPG",
+    "size": "1.48 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/28-rebecca_edgerunners_dual_pistols.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2658"
+  },
+  {
+    "name": "Anime Girl - Anya Forger Smirk",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/29-anya_forger_smirk.jpg",
+    "format": "JPG",
+    "size": "1.78 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/29-anya_forger_smirk.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2659"
+  },
+  {
+    "name": "Anime Girl - Spike Spiegel Smoke",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/30-spike_spiegel_smoke.jpg",
+    "format": "JPG",
+    "size": "1.23 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/30-spike_spiegel_smoke.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2660"
+  },
+  {
+    "name": "Anime Girl - Kaneda Akira Bike",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/31-kaneda_akira_bike.png",
+    "format": "PNG",
+    "size": "18.15 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/31-kaneda_akira_bike.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2661"
+  },
+  {
+    "name": "Anime Girl - Hu Tao Butterfly Ghost",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/32-hu_tao_butterfly_ghost.png",
+    "format": "PNG",
+    "size": "2.70 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/32-hu_tao_butterfly_ghost.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2662"
+  },
+  {
+    "name": "Anime Girl - Makise Kurisu Labcoat",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/33-makise_kurisu_labcoat.jpg",
+    "format": "JPG",
+    "size": "538.26 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/33-makise_kurisu_labcoat.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2663"
+  },
+  {
+    "name": "Anime Girl - Reze Chainsaw Bomb Devil",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/34-reze_chainsaw_bomb_devil.png",
+    "format": "PNG",
+    "size": "19.77 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/34-reze_chainsaw_bomb_devil.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2664"
+  },
+  {
+    "name": "Anime Girl - Sukuna Malevolent Shrine",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/35-sukuna_malevolent_shrine.png",
+    "format": "PNG",
+    "size": "1.46 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/35-sukuna_malevolent_shrine.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2665"
+  },
+  {
+    "name": "Anime Girl - Fern Zoltraak Staff",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/36-fern_zoltraak_staff.jpg",
+    "format": "JPG",
+    "size": "2.46 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/36-fern_zoltraak_staff.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2666"
+  },
+  {
+    "name": "Anime Girl - Eva 01 Berserk Neon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/37-eva_01_berserk_neon.jpg",
+    "format": "JPG",
+    "size": "2.38 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/37-eva_01_berserk_neon.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "vibrant",
+      "waifu"
+    ],
+    "id": "wp_2667"
+  },
+  {
+    "name": "Anime Girl - Ichigo Bankai Hollow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/38-ichigo_bankai_hollow.jpg",
+    "format": "JPG",
+    "size": "637.26 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/38-ichigo_bankai_hollow.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2668"
+  },
+  {
+    "name": "Anime Girl - Levi Ackerman Odm",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/39-levi_ackerman_odm.jpg",
+    "format": "JPG",
+    "size": "784.03 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/39-levi_ackerman_odm.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2669"
+  },
+  {
+    "name": "Anime Girl - A2 Yorha Katana",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/40-a2_yorha_katana.png",
+    "format": "PNG",
+    "size": "2.16 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/40-a2_yorha_katana.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "spy x family",
+      "waifu",
+      "yor"
+    ],
+    "id": "wp_2670"
+  },
+  {
+    "name": "Anime Girl - Saitama Serious Punch",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/41-saitama_serious_punch.png",
+    "format": "PNG",
+    "size": "7.70 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/41-saitama_serious_punch.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2671"
+  },
+  {
+    "name": "Anime Girl - Momo Ayase Okarun Dandadan",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/42-momo_ayase_okarun_dandadan.jpg",
+    "format": "JPG",
+    "size": "3.41 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/42-momo_ayase_okarun_dandadan.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2672"
+  },
+  {
+    "name": "Anime Girl - Saitama Genos Hero Association",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/43-saitama_genos_hero_association.png",
+    "format": "PNG",
+    "size": "8.26 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/43-saitama_genos_hero_association.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2673"
+  },
+  {
+    "name": "Anime Girl - Tanjiro Hinokami Kagura",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/44-tanjiro_hinokami_kagura.jpg",
+    "format": "JPG",
+    "size": "974.94 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/44-tanjiro_hinokami_kagura.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2674"
+  },
+  {
+    "name": "Anime Girl - Mob Psycho 100 Awakening",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/45-mob_psycho_100_awakening.png",
+    "format": "PNG",
+    "size": "1.15 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/45-mob_psycho_100_awakening.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2675"
+  },
+  {
+    "name": "Anime Girl - Ruka Sarashina Blue Ribbon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/46-ruka_sarashina_blue_ribbon.png",
+    "format": "PNG",
+    "size": "770.06 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/46-ruka_sarashina_blue_ribbon.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2676"
+  },
+  {
+    "name": "Anime Girl - Violet Evergarden Parasol",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/47-violet_evergarden_parasol.png",
+    "format": "PNG",
+    "size": "7.58 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/47-violet_evergarden_parasol.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2677"
+  },
+  {
+    "name": "Anime Girl - Momo Ayase Telekinesis",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/48-momo_ayase_telekinesis.png",
+    "format": "PNG",
+    "size": "9.22 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/48-momo_ayase_telekinesis.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2678"
+  },
+  {
+    "name": "Anime Girl - Denji Chainsaw Rippcord",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/49-denji_chainsaw_rippcord.jpg",
+    "format": "JPG",
+    "size": "4.58 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/49-denji_chainsaw_rippcord.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2679"
+  },
+  {
+    "name": "Anime Girl - Lucy David Neon Orbit",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/50-lucy_david_neon_orbit.png",
+    "format": "PNG",
+    "size": "14.85 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/50-lucy_david_neon_orbit.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "vibrant",
+      "waifu"
+    ],
+    "id": "wp_2680"
+  },
+  {
+    "name": "Anime Girl - Dandadan Train Sleep Full Master",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/51-dandadan_train_sleep_full_master.png",
+    "format": "PNG",
+    "size": "3.02 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/51-dandadan_train_sleep_full_master.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2681"
+  },
+  {
+    "name": "Anime Girl - Dandadan Train Pixel9 Showcase",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/52-dandadan_train_pixel9_showcase.png",
+    "format": "PNG",
+    "size": "922.64 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/52-dandadan_train_pixel9_showcase.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2682"
+  },
+  {
+    "name": "Anime Girl - Zzz Miyabi Shadow Slash",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/57-zzz_miyabi_shadow_slash.jpg",
+    "format": "JPG",
+    "size": "5.53 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/57-zzz_miyabi_shadow_slash.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2683"
+  },
+  {
+    "name": "Anime Girl - Zzz Severian Neon Wolf",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/58-zzz_severian_neon_wolf.png",
+    "format": "PNG",
+    "size": "18.85 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/58-zzz_severian_neon_wolf.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "vibrant",
+      "waifu"
+    ],
+    "id": "wp_2684"
+  },
+  {
+    "name": "Anime Girl - Zzz Fierce Guardian Void",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/59-zzz_fierce_guardian_void.jpg",
+    "format": "JPG",
+    "size": "2.74 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/59-zzz_fierce_guardian_void.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2685"
+  },
+  {
+    "name": "Anime Girl - Zzz Miyabi Void Katana",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/60-zzz_miyabi_void_katana.jpg",
+    "format": "JPG",
+    "size": "1.10 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/60-zzz_miyabi_void_katana.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2686"
+  },
+  {
+    "name": "Anime Girl - Pokemon Charizard Infernal Glow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/61-pokemon_charizard_infernal_glow.png",
+    "format": "PNG",
+    "size": "4.06 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/61-pokemon_charizard_infernal_glow.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2687"
+  },
+  {
+    "name": "Anime Girl - Pokemon Gengar Shadow Spook",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/62-pokemon_gengar_shadow_spook.jpg",
+    "format": "JPG",
+    "size": "251.89 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/62-pokemon_gengar_shadow_spook.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2688"
+  },
+  {
+    "name": "Anime Girl - Pokemon Gengar Haunter Fearsome",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/63-pokemon_gengar_haunter_fearsome.jpg",
+    "format": "JPG",
+    "size": "1.48 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/63-pokemon_gengar_haunter_fearsome.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2689"
+  },
+  {
+    "name": "Anime Girl - Pokemon Rayquaza Mystic Sky",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/64-pokemon_rayquaza_mystic_sky.png",
+    "format": "PNG",
+    "size": "2.19 MB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/64-pokemon_rayquaza_mystic_sky.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2690"
+  },
+  {
+    "name": "Anime Girl - Pokemon Pikachu Midnight Spark",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/65-pokemon_pikachu_midnight_spark.jpg",
+    "format": "JPG",
+    "size": "823.57 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/65-pokemon_pikachu_midnight_spark.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2691"
+  },
+  {
+    "name": "Anime Girl - Pokemon Mewtwo Psychic Void",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/66-pokemon_mewtwo_psychic_void.jpg",
+    "format": "JPG",
+    "size": "224.45 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/66-pokemon_mewtwo_psychic_void.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2692"
+  },
+  {
+    "name": "Anime Girl - Berserk Guts Blood Moon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/67-berserk_guts_blood_moon.jpeg",
+    "format": "JPG",
+    "size": "306.89 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/67-berserk_guts_blood_moon.jpeg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2693"
+  },
+  {
+    "name": "Anime Girl - Mob Psycho Shigeo 99 Rage",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Arnav1771/tech-spurt-anime-wallpapers/main/wallpapers/68-mob_psycho_shigeo_99_rage.jpg",
+    "format": "JPG",
+    "size": "634.85 KB",
+    "path": "Arnav1771/tech-spurt-anime-wallpapers/wallpapers/68-mob_psycho_shigeo_99_rage.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2694"
+  },
+  {
+    "name": "Anime Girl - 11 14t19:59:35,076935921+05:30",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/2024-11-14T19%3A59%3A35%2C076935921%2B05%3A30.png",
+    "format": "PNG",
+    "size": "695.37 KB",
+    "path": "Majestic9169/wallpapers/animegirls/2024-11-14T19:59:35,076935921+05:30.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2695"
+  },
+  {
+    "name": "Anime Girl - Chika Senpai",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/Chika%20Senpai.jpg",
+    "format": "JPG",
+    "size": "550.75 KB",
+    "path": "Majestic9169/wallpapers/animegirls/Chika Senpai.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2696"
+  },
+  {
+    "name": "Anime Girl - Embeddedcircuitanime",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/EmbeddedCircuitAnime.png",
+    "format": "PNG",
+    "size": "1.28 MB",
+    "path": "Majestic9169/wallpapers/animegirls/EmbeddedCircuitAnime.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2697"
+  },
+  {
+    "name": "Linux Anime Girls Os Tan Arch Linux 1448717",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/Linux_anime_girls_os_tan_Arch_Linux-1448717.png",
+    "format": "PNG",
+    "size": "1.06 MB",
+    "path": "Majestic9169/wallpapers/animegirls/Linux_anime_girls_os_tan_Arch_Linux-1448717.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2698"
+  },
+  {
+    "name": "Anime Girl - Makima Stare",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/Makima-Stare.png",
+    "format": "PNG",
+    "size": "3.44 MB",
+    "path": "Majestic9169/wallpapers/animegirls/Makima-Stare.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chainsaw man",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "makima",
+      "waifu"
+    ],
+    "id": "wp_2699"
+  },
+  {
+    "name": "Anime Girl - Messy Room",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/Messy-Room.jpg",
+    "format": "JPG",
+    "size": "1.53 MB",
+    "path": "Majestic9169/wallpapers/animegirls/Messy-Room.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2700"
+  },
+  {
+    "name": "Anime Girl - A Cartoon Of A Woman Lying On A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png",
+    "format": "PNG",
+    "size": "3.65 MB",
+    "path": "Majestic9169/wallpapers/animegirls/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2701"
+  },
+  {
+    "name": "Anime Girl - Anarchist",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/anarchist.jpg",
+    "format": "JPG",
+    "size": "763.77 KB",
+    "path": "Majestic9169/wallpapers/animegirls/anarchist.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2702"
+  },
+  {
+    "name": "Anime Girl - Anime City Dark",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/anime-city-dark.png",
+    "format": "PNG",
+    "size": "3.12 MB",
+    "path": "Majestic9169/wallpapers/animegirls/anime-city-dark.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2703"
+  },
+  {
+    "name": "Anime Girl - Animegirlonbalcony",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/animegirlonbalcony.png",
+    "format": "PNG",
+    "size": "1.21 MB",
+    "path": "Majestic9169/wallpapers/animegirls/animegirlonbalcony.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2704"
+  },
+  {
+    "name": "Anime Girl - Arcane Caits Mother Dies",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/arcane-caits-mother-dies.jpg",
+    "format": "JPG",
+    "size": "304.48 KB",
+    "path": "Majestic9169/wallpapers/animegirls/arcane-caits-mother-dies.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2705"
+  },
+  {
+    "name": "Anime Girl - Arch Linux Goth Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/arch-linux-goth-girl.png",
+    "format": "PNG",
+    "size": "969.71 KB",
+    "path": "Majestic9169/wallpapers/animegirls/arch-linux-goth-girl.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2706"
+  },
+  {
+    "name": "Anime Girl - Arch Linux Tan",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/arch-linux-tan.png",
+    "format": "PNG",
+    "size": "909.76 KB",
+    "path": "Majestic9169/wallpapers/animegirls/arch-linux-tan.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2707"
+  },
+  {
+    "name": "Anime Girl - Attack On Titan Epic Battle Red Desktop Wallpaper",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/attack-on-titan-epic-battle-red-desktop-wallpaper.jpg",
+    "format": "JPG",
+    "size": "1.23 MB",
+    "path": "Majestic9169/wallpapers/animegirls/attack-on-titan-epic-battle-red-desktop-wallpaper.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2708"
+  },
+  {
+    "name": "Anime Girl - Bocchi Btr",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/bocchi-btr.png",
+    "format": "PNG",
+    "size": "10.01 MB",
+    "path": "Majestic9169/wallpapers/animegirls/bocchi-btr.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2709"
+  },
+  {
+    "name": "Anime Girl - Btr Drunk Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/btr-drunk-girl.jpg",
+    "format": "JPG",
+    "size": "818.23 KB",
+    "path": "Majestic9169/wallpapers/animegirls/btr-drunk-girl.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2710"
+  },
+  {
+    "name": "Anime Girl - Capacitor",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/capacitor.png",
+    "format": "PNG",
+    "size": "2.38 MB",
+    "path": "Majestic9169/wallpapers/animegirls/capacitor.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2711"
+  },
+  {
+    "name": "Anime Girl - Cargirl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/carGirl.png",
+    "format": "PNG",
+    "size": "1.23 MB",
+    "path": "Majestic9169/wallpapers/animegirls/carGirl.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2712"
+  },
+  {
+    "name": "Anime Girl - Cyberpunk Moon",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/cyberpunk-moon.png",
+    "format": "PNG",
+    "size": "1.90 MB",
+    "path": "Majestic9169/wallpapers/animegirls/cyberpunk-moon.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "cyberpunk",
+      "futuristic",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "neon",
+      "waifu"
+    ],
+    "id": "wp_2713"
+  },
+  {
+    "name": "Anime Girl - Dark Cybersec",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/dark-cybersec.jpg",
+    "format": "JPG",
+    "size": "984.07 KB",
+    "path": "Majestic9169/wallpapers/animegirls/dark-cybersec.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2714"
+  },
+  {
+    "name": "Anime Girl - Dotheoperation",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/dotheoperation.jpg",
+    "format": "JPG",
+    "size": "555.72 KB",
+    "path": "Majestic9169/wallpapers/animegirls/dotheoperation.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2715"
+  },
+  {
+    "name": "Anime Girl - Drum Girl Btr",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/drum-girl-btr.jpeg",
+    "format": "JPG",
+    "size": "1.34 MB",
+    "path": "Majestic9169/wallpapers/animegirls/drum-girl-btr.jpeg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2716"
+  },
+  {
+    "name": "Anime Girl - End Of Eva",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/end-of-eva.jpg",
+    "format": "JPG",
+    "size": "255.11 KB",
+    "path": "Majestic9169/wallpapers/animegirls/end-of-eva.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2717"
+  },
+  {
+    "name": "Anime Girl - Evangelion",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/evangelion.png",
+    "format": "PNG",
+    "size": "3.16 MB",
+    "path": "Majestic9169/wallpapers/animegirls/evangelion.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2718"
+  },
+  {
+    "name": "Anime Girl - Gawr Gura Hololive",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/gawr_gura_hololive.jpg",
+    "format": "JPG",
+    "size": "602.21 KB",
+    "path": "Majestic9169/wallpapers/animegirls/gawr_gura_hololive.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2719"
+  },
+  {
+    "name": "Anime Girl - Gunmaid",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/gunmaid.png",
+    "format": "PNG",
+    "size": "755.55 KB",
+    "path": "Majestic9169/wallpapers/animegirls/gunmaid.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2720"
+  },
+  {
+    "name": "Anime Girl - Himeno",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/himeno.jpg",
+    "format": "JPG",
+    "size": "5.00 MB",
+    "path": "Majestic9169/wallpapers/animegirls/himeno.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2721"
+  },
+  {
+    "name": "Anime Girl - Hotimonojedgement",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/hotimonojedgement.jpg",
+    "format": "JPG",
+    "size": "717.50 KB",
+    "path": "Majestic9169/wallpapers/animegirls/hotimonojedgement.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2722"
+  },
+  {
+    "name": "Anime Girl - I Dont Believe In Comedy",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/i-dont-believe-in-comedy.jpg",
+    "format": "JPG",
+    "size": "364.74 KB",
+    "path": "Majestic9169/wallpapers/animegirls/i-dont-believe-in-comedy.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2723"
+  },
+  {
+    "name": "Anime Girl - Iloveher",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/iloveher.png",
+    "format": "PNG",
+    "size": "3.65 MB",
+    "path": "Majestic9169/wallpapers/animegirls/iloveher.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2724"
+  },
+  {
+    "name": "Anime Girl - Justthetwoofus",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/justthetwoofus.png",
+    "format": "PNG",
+    "size": "5.28 MB",
+    "path": "Majestic9169/wallpapers/animegirls/justthetwoofus.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2725"
+  },
+  {
+    "name": "Anime Girl - K On Lost",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/k-on-lost.jpg",
+    "format": "JPG",
+    "size": "232.99 KB",
+    "path": "Majestic9169/wallpapers/animegirls/k-on-lost.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2726"
+  },
+  {
+    "name": "Anime Girl - Last",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/last.png",
+    "format": "PNG",
+    "size": "1.30 MB",
+    "path": "Majestic9169/wallpapers/animegirls/last.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2727"
+  },
+  {
+    "name": "Anime Girl - Lesbain",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/lesbain.jpg",
+    "format": "JPG",
+    "size": "849.03 KB",
+    "path": "Majestic9169/wallpapers/animegirls/lesbain.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2728"
+  },
+  {
+    "name": "Anime Girl - Literallyme",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/literallyme.jpg",
+    "format": "JPG",
+    "size": "916.86 KB",
+    "path": "Majestic9169/wallpapers/animegirls/literallyme.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2729"
+  },
+  {
+    "name": "Anime Girl - Makima Landscape",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/makima-landscape.png",
+    "format": "PNG",
+    "size": "8.70 MB",
+    "path": "Majestic9169/wallpapers/animegirls/makima-landscape.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chainsaw man",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "makima",
+      "waifu"
+    ],
+    "id": "wp_2730"
+  },
+  {
+    "name": "Anime Girl - Makimaconbini",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/makimaConbini.jpg",
+    "format": "JPG",
+    "size": "997.18 KB",
+    "path": "Majestic9169/wallpapers/animegirls/makimaConbini.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "chainsaw man",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "makima",
+      "waifu"
+    ],
+    "id": "wp_2731"
+  },
+  {
+    "name": "Anime Girl - Metalgod",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/metalgod.png",
+    "format": "PNG",
+    "size": "6.51 MB",
+    "path": "Majestic9169/wallpapers/animegirls/metalgod.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2732"
+  },
+  {
+    "name": "Anime Girl - Miku Laptop",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/miku-laptop.jpg",
+    "format": "JPG",
+    "size": "300.53 KB",
+    "path": "Majestic9169/wallpapers/animegirls/miku-laptop.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "hatsune miku",
+      "miku",
+      "waifu"
+    ],
+    "id": "wp_2733"
+  },
+  {
+    "name": "Anime Girl - Mono Wtf",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/mono_wtf.png",
+    "format": "PNG",
+    "size": "284.71 KB",
+    "path": "Majestic9169/wallpapers/animegirls/mono_wtf.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2734"
+  },
+  {
+    "name": "Anime Girl - Mural",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/mural.jpg",
+    "format": "JPG",
+    "size": "1.24 MB",
+    "path": "Majestic9169/wallpapers/animegirls/mural.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2735"
+  },
+  {
+    "name": "Anime Girl - Oceangirl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/oceanGirl.png",
+    "format": "PNG",
+    "size": "13.22 MB",
+    "path": "Majestic9169/wallpapers/animegirls/oceanGirl.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2736"
+  },
+  {
+    "name": "Anime Girl - Pink Bg",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/pink-bg.jpg",
+    "format": "JPG",
+    "size": "359.73 KB",
+    "path": "Majestic9169/wallpapers/animegirls/pink-bg.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2737"
+  },
+  {
+    "name": "Anime Girl - Pink Hair Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/pink-hair-girl.png",
+    "format": "PNG",
+    "size": "884.38 KB",
+    "path": "Majestic9169/wallpapers/animegirls/pink-hair-girl.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2738"
+  },
+  {
+    "name": "Anime Girl - Poow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/poow.jpg",
+    "format": "JPG",
+    "size": "939.72 KB",
+    "path": "Majestic9169/wallpapers/animegirls/poow.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2739"
+  },
+  {
+    "name": "Anime Girl - Powder Alt Timeline",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/powder-alt-timeline.jpg",
+    "format": "JPG",
+    "size": "147.23 KB",
+    "path": "Majestic9169/wallpapers/animegirls/powder-alt-timeline.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2740"
+  },
+  {
+    "name": "Anime Girl - Power",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/power.jpg",
+    "format": "JPG",
+    "size": "87.91 KB",
+    "path": "Majestic9169/wallpapers/animegirls/power.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2741"
+  },
+  {
+    "name": "Anime Girl - Queen Himeno",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/queen_himeno.png",
+    "format": "PNG",
+    "size": "3.80 MB",
+    "path": "Majestic9169/wallpapers/animegirls/queen_himeno.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2742"
+  },
+  {
+    "name": "Anime Girl - Red Girl Btr",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/red-girl-btr.jpeg",
+    "format": "JPG",
+    "size": "1.70 MB",
+    "path": "Majestic9169/wallpapers/animegirls/red-girl-btr.jpeg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2743"
+  },
+  {
+    "name": "Anime Girl - Ryo Btr",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/ryo-btr.png",
+    "format": "PNG",
+    "size": "3.44 MB",
+    "path": "Majestic9169/wallpapers/animegirls/ryo-btr.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2744"
+  },
+  {
+    "name": "Anime Girl - Sesbianlex",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/sesbianlex.jpg",
+    "format": "JPG",
+    "size": "376.56 KB",
+    "path": "Majestic9169/wallpapers/animegirls/sesbianlex.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2745"
+  },
+  {
+    "name": "Anime Girl - Shessostrong",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/shessostrong.jpg",
+    "format": "JPG",
+    "size": "756.94 KB",
+    "path": "Majestic9169/wallpapers/animegirls/shessostrong.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2746"
+  },
+  {
+    "name": "Anime Girl - Smoking Himeno",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/smoking-himeno.jpg",
+    "format": "JPG",
+    "size": "4.73 MB",
+    "path": "Majestic9169/wallpapers/animegirls/smoking-himeno.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2747"
+  },
+  {
+    "name": "Anime Girl - Snow Car Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/snow-car-girl.jpg",
+    "format": "JPG",
+    "size": "1.39 MB",
+    "path": "Majestic9169/wallpapers/animegirls/snow-car-girl.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2748"
+  },
+  {
+    "name": "Anime Girl - Vampire Cait",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/vampire-cait.jpg",
+    "format": "JPG",
+    "size": "735.06 KB",
+    "path": "Majestic9169/wallpapers/animegirls/vampire-cait.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2749"
+  },
+  {
+    "name": "Anime Girl - Vi And Vander",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/vi%20and%20vander.png",
+    "format": "PNG",
+    "size": "23.40 MB",
+    "path": "Majestic9169/wallpapers/animegirls/vi and vander.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2750"
+  },
+  {
+    "name": "Anime Girl - Violet Evergarden",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/violet-evergarden.jpg",
+    "format": "JPG",
+    "size": "394.09 KB",
+    "path": "Majestic9169/wallpapers/animegirls/violet-evergarden.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2751"
+  },
+  {
+    "name": "Anime Girl - Wasteland1",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/wasteland1.jpg",
+    "format": "JPG",
+    "size": "360.25 KB",
+    "path": "Majestic9169/wallpapers/animegirls/wasteland1.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2752"
+  },
+  {
+    "name": "Anime Girl - We Ball",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/we-ball.jpg",
+    "format": "JPG",
+    "size": "662.82 KB",
+    "path": "Majestic9169/wallpapers/animegirls/we-ball.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2753"
+  },
+  {
+    "name": "Anime Girl - Wp1848046 Your Lie In April Wallpapers",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/wp1848046-your-lie-in-april-wallpapers.jpg",
+    "format": "JPG",
+    "size": "129.73 KB",
+    "path": "Majestic9169/wallpapers/animegirls/wp1848046-your-lie-in-april-wallpapers.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2754"
+  },
+  {
+    "name": "Anime Girl - Wtfmiku",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/wtfMiku.png",
+    "format": "PNG",
+    "size": "4.98 MB",
+    "path": "Majestic9169/wallpapers/animegirls/wtfMiku.png",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "hatsune miku",
+      "miku",
+      "waifu"
+    ],
+    "id": "wp_2755"
+  },
+  {
+    "name": "Anime Girl - Zero Two Car",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/Majestic9169/wallpapers/master/animegirls/zero-two-car.jpg",
+    "format": "JPG",
+    "size": "1.85 MB",
+    "path": "Majestic9169/wallpapers/animegirls/zero-two-car.jpg",
+    "tags": [
+      "4k",
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu",
+      "zero two"
+    ],
+    "id": "wp_2756"
+  },
+  {
+    "name": "Anime Girl - Blackred Entrance",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/blackred-entrance.jpg",
+    "format": "JPG",
+    "size": "152.07 KB",
+    "path": "port19x/Wallpapers/blackred-entrance.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2757"
+  },
+  {
+    "name": "Anime Girl - Blackred Maiden",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/blackred-maiden.jpg",
+    "format": "JPG",
+    "size": "209.64 KB",
+    "path": "port19x/Wallpapers/blackred-maiden.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2758"
+  },
+  {
+    "name": "Anime Girl - Blue Blossom",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/blue-blossom.jpg",
+    "format": "JPG",
+    "size": "577.77 KB",
+    "path": "port19x/Wallpapers/blue-blossom.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2759"
+  },
+  {
+    "name": "Anime Girl - Blue Proposal",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/blue-proposal.jpg",
+    "format": "JPG",
+    "size": "289.83 KB",
+    "path": "port19x/Wallpapers/blue-proposal.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2760"
+  },
+  {
+    "name": "Anime Girl - Blue Surf",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/blue-surf.jpg",
+    "format": "JPG",
+    "size": "589.39 KB",
+    "path": "port19x/Wallpapers/blue-surf.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2761"
+  },
+  {
+    "name": "Anime Girl - Bluegreen Leviathan",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/bluegreen-leviathan.jpg",
+    "format": "JPG",
+    "size": "515.74 KB",
+    "path": "port19x/Wallpapers/bluegreen-leviathan.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2762"
+  },
+  {
+    "name": "Anime Girl - Colorful Helmet",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/colorful-helmet.jpg",
+    "format": "JPG",
+    "size": "506.95 KB",
+    "path": "port19x/Wallpapers/colorful-helmet.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2763"
+  },
+  {
+    "name": "Anime Girl - Purple Galaxygirl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/purple-galaxygirl.jpg",
+    "format": "JPG",
+    "size": "1.04 MB",
+    "path": "port19x/Wallpapers/purple-galaxygirl.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2764"
+  },
+  {
+    "name": "Anime Girl - Purple Light",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/purple-light.jpg",
+    "format": "JPG",
+    "size": "665.15 KB",
+    "path": "port19x/Wallpapers/purple-light.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2765"
+  },
+  {
+    "name": "Anime Girl - Purple Sunrise",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/purple-sunrise.jpg",
+    "format": "JPG",
+    "size": "326.17 KB",
+    "path": "port19x/Wallpapers/purple-sunrise.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2766"
+  },
+  {
+    "name": "Anime Girl - White Secretary",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/white-secretary.jpg",
+    "format": "JPG",
+    "size": "154.04 KB",
+    "path": "port19x/Wallpapers/white-secretary.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2767"
+  },
+  {
+    "name": "Anime Girl - Yellow Bunnygirl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/yellow-bunnygirl.jpg",
+    "format": "JPG",
+    "size": "823.26 KB",
+    "path": "port19x/Wallpapers/yellow-bunnygirl.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2768"
+  },
+  {
+    "name": "Anime Girl - Yellow Duckbath",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/yellow-duckbath.jpg",
+    "format": "JPG",
+    "size": "180.73 KB",
+    "path": "port19x/Wallpapers/yellow-duckbath.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2769"
+  },
+  {
+    "name": "Anime Girl - Yellow Lain",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/yellow-lain.jpg",
+    "format": "JPG",
+    "size": "374.66 KB",
+    "path": "port19x/Wallpapers/yellow-lain.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2770"
+  },
+  {
+    "name": "Anime Girl - Yellow Liquorstore",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/port19x/Wallpapers/master/yellow-liquorstore.jpg",
+    "format": "JPG",
+    "size": "1.98 MB",
+    "path": "port19x/Wallpapers/yellow-liquorstore.jpg",
+    "tags": [
+      "aesthetic",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "waifu"
+    ],
+    "id": "wp_2771"
+  },
+  {
+    "name": "Anime Girl Aesthetic #149",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/103304065_p0.jpg",
+    "format": "JPG",
+    "size": "7.80 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/103304065_p0.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2772"
+  },
+  {
+    "name": "Anime Girl Aesthetic #150",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/122509719_p0.png",
+    "format": "PNG",
+    "size": "11.41 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/122509719_p0.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2773"
+  },
+  {
+    "name": "Anime Girl Aesthetic #151",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/1293591.png",
+    "format": "PNG",
+    "size": "6.97 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/1293591.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2774"
+  },
+  {
+    "name": "Anime Girl Aesthetic #152",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/1347028.jpeg",
+    "format": "JPG",
+    "size": "1.90 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/1347028.jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2775"
+  },
+  {
+    "name": "Anime Girl Aesthetic #153",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/1634847494489.png",
+    "format": "PNG",
+    "size": "3.84 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/1634847494489.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2776"
+  },
+  {
+    "name": "Anime Girl Aesthetic - 3am By Trent Anthony Francis",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/3am%20by%20Trent%20Anthony%20Francis.png",
+    "format": "PNG",
+    "size": "2.72 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/3am by Trent Anthony Francis.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2777"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A (((crying Wom 1",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/A%20%28%28%28crying%20wom%201.png",
+    "format": "PNG",
+    "size": "2.20 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/A (((crying wom 1.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2778"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Afternoon Le",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Afternoon%20LE.jpg",
+    "format": "JPG",
+    "size": "8.86 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Afternoon LE.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2779"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Couple Holding Hands Hatsune Miku, Anime Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Anime%20Couple%20Holding%20Hands%20Hatsune%20Miku%2C%20anime-girl.jpg",
+    "format": "JPG",
+    "size": "463.02 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Anime Couple Holding Hands Hatsune Miku, anime-girl.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "hatsune miku",
+      "kawaii",
+      "miku",
+      "waifu"
+    ],
+    "id": "wp_2780"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Nyum Serori Blush Long Hair Skirt Girls",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Anime%20Nyum%20Serori%20Blush%20Long%20Hair%20Skirt%20Girls%20Open%20Gaming%20Mat%20Desk.jpg",
+    "format": "JPG",
+    "size": "1.41 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Anime Nyum Serori Blush Long Hair Skirt Girls Open Gaming Mat Desk.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2781"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl By Dora Xiaoxi",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Anime%20girl%20by%20Dora%20Xiaoxi.jpg",
+    "format": "JPG",
+    "size": "568.84 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Anime girl by Dora Xiaoxi.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2782"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl2",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Anime-Girl2.png",
+    "format": "PNG",
+    "size": "9.23 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Anime-Girl2.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2783"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl Closeup Cat Green",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Anime_girl_closeup_cat_green.jpg",
+    "format": "JPG",
+    "size": "1.56 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Anime_girl_closeup_cat_green.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2784"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Arknights Texas Wolf",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Arknights%20texas%20wolf.jpg",
+    "format": "JPG",
+    "size": "506.31 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Arknights texas wolf.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2785"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Atelier Ryza X Azur Lane Reisalin Stout",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Atelier%20Ryza%20x%20Azur%20Lane%20Reisalin%20Stout.png",
+    "format": "PNG",
+    "size": "3.04 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Atelier Ryza x Azur Lane Reisalin Stout.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "evangelion",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "rei",
+      "waifu"
+    ],
+    "id": "wp_2786"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Be With You [100wang]",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Be%20with%20You%20%5B100wang%5D.jpg",
+    "format": "JPG",
+    "size": "792.54 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Be with You [100wang].jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2787"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Chainsaw Man Fan Art Cherry Blossum",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Chainsaw%20Man%20fan%20art%20cherry%20blossum.jpg",
+    "format": "JPG",
+    "size": "784.88 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Chainsaw Man fan art cherry blossum.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2788"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Cyberpunk Edgerunners",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Cyberpunk%20Edgerunners.png",
+    "format": "PNG",
+    "size": "388.45 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Cyberpunk Edgerunners.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "cyberpunk",
+      "futuristic",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "neon",
+      "waifu"
+    ],
+    "id": "wp_2789"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Enchanting Retro Anime Girl HD Wallpaper By Patrika",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Enchanting%20Retro%20Anime%20Girl%20HD%20Wallpaper%20by%20patrika.png",
+    "format": "PNG",
+    "size": "2.78 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Enchanting Retro Anime Girl HD Wallpaper by patrika.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2790"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Evangelion",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Evangelion.png",
+    "format": "PNG",
+    "size": "1.87 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Evangelion.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2791"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Flowers, Text, Noise, HD Wallpaper",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Flowers%2C%20text%2C%20noise%2C%20HD%20wallpaper.jpg",
+    "format": "JPG",
+    "size": "416.89 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Flowers, text, noise, HD wallpaper.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2792"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Griffiti Anime Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Griffiti%20anime%20girl.png",
+    "format": "PNG",
+    "size": "3.24 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Griffiti anime girl.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2793"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Hatsune Miku Alone",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Hatsune%20Miku%20alone.jpg",
+    "format": "JPG",
+    "size": "2.57 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Hatsune Miku alone.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "hatsune miku",
+      "kawaii",
+      "miku",
+      "waifu"
+    ],
+    "id": "wp_2794"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Hifumi Togo From The Video Game Persona 5",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Hifumi%20Togo%20from%20the%20video%20game%20Persona%205.jpg",
+    "format": "JPG",
+    "size": "578.41 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Hifumi Togo from the video game Persona 5.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2795"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Img 1533",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/IMG_1533.jpg",
+    "format": "JPG",
+    "size": "93.73 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/IMG_1533.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2796"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Keep Still Series Touhou Characters Remilia Scarlet, Izayoi",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Keep%20still%20-%20Series%20Touhou%20Characters%20Remilia%20Scarlet%2C%20Izayoi%20Sakuya.jpg",
+    "format": "JPG",
+    "size": "427.12 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Keep still - Series Touhou Characters Remilia Scarlet, Izayoi Sakuya.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "re zero",
+      "rem",
+      "waifu"
+    ],
+    "id": "wp_2797"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Kohakunushi With Katana And Pistol",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Kohakunushi%20with%20katana%20and%20pistol.png",
+    "format": "PNG",
+    "size": "3.82 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Kohakunushi with katana and pistol.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2798"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Lofi Anime Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Lofi%20-%20Anime%20Girl.jpeg",
+    "format": "JPG",
+    "size": "2.08 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Lofi - Anime Girl.jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2799"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Lumine By Htkjheadache Genshin Impact",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Lumine%20by%20HTKJheadache%20Genshin%20Impact.jpg",
+    "format": "JPG",
+    "size": "3.37 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Lumine by HTKJheadache Genshin Impact.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2800"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Marin Kitagawa, A Character From My Dress Up",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Marin%20Kitagawa%2C%20a%20character%20from%20My%20Dress-Up%20Darling.jpg",
+    "format": "JPG",
+    "size": "2.34 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Marin Kitagawa, a character from My Dress-Up Darling.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "marin",
+      "waifu"
+    ],
+    "id": "wp_2801"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Memories Of Emanon (omoide Emanon)",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Memories%20of%20Emanon%20%28Omoide%20Emanon%29.jpg",
+    "format": "JPG",
+    "size": "286.20 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Memories of Emanon (Omoide Emanon).jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2802"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Modeus Helltaker",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Modeus%20Helltaker.jpg",
+    "format": "JPG",
+    "size": "2.62 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Modeus Helltaker.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2803"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Mystical Beauty In Violet Hues",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Mystical%20Beauty%20in%20Violet%20Hues.jpg",
+    "format": "JPG",
+    "size": "1.65 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Mystical Beauty in Violet Hues.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2804"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Nagori Akiakane Art Works",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Nagori%20Akiakane%20Art%20Works.jpg",
+    "format": "JPG",
+    "size": "2.70 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Nagori Akiakane Art Works.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2805"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Office, Guweiz, Digital Painting, 2020",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Office%2C%20GUWEIZ%2C%20Digital%20Painting%2C%202020%20.jpg",
+    "format": "JPG",
+    "size": "3.73 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Office, GUWEIZ, Digital Painting, 2020 .jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2806"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Pixiv Id 7069682 By Yelan",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Pixiv%20Id%207069682%20by%20Yelan.jpg",
+    "format": "JPG",
+    "size": "7.84 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Pixiv Id 7069682 by Yelan.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2807"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Purple Serenity 4K Ultra HD Anime Wallpaper By",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Purple%20Serenity%204K%20Ultra%20HD%20Anime%20Wallpaper%20by%20CrystalHerb.jpg",
+    "format": "JPG",
+    "size": "306.13 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Purple Serenity 4K Ultra HD Anime Wallpaper by CrystalHerb.jpg",
+    "tags": [
+      "3d",
+      "4k",
+      "abstract",
+      "anime",
+      "anime girl",
+      "colorful",
+      "colourful",
+      "crystal",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2808"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Resting Ruan Mei (art By Atdan) Honkai Star",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Resting%20Ruan%20Mei%20%28art%20by%20Atdan%29%20Honkai%20Star%20Rail.png",
+    "format": "PNG",
+    "size": "4.16 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Resting Ruan Mei (art by Atdan) Honkai Star Rail.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2809"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Rukia Kuchiki Black And White",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Rukia%20Kuchiki%20black%20and%20white.jpg",
+    "format": "JPG",
+    "size": "117.19 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Rukia Kuchiki black and white.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2810"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Samurai Girl With Katana",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Samurai%20girl%20with%20katana.jpg",
+    "format": "JPG",
+    "size": "368.44 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Samurai girl with katana.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2811"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Seele Vollerei And Bronya Zaychik From The Video",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Seele%20Vollerei%20and%20Bronya%20Zaychik%20from%20the%20video%20game%20Honkai%20Impact%203rd.jpg",
+    "format": "JPG",
+    "size": "231.48 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Seele Vollerei and Bronya Zaychik from the video game Honkai Impact 3rd.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "evangelion",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "rei",
+      "waifu"
+    ],
+    "id": "wp_2812"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Serizawa Yoshiko In Dark Background",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Serizawa%20Yoshiko%20in%20dark%20background.jpg",
+    "format": "JPG",
+    "size": "90.79 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Serizawa Yoshiko in dark background.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2813"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Shinobu Kocho Kimetsu No Yaiba Anime",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Shinobu%20Kocho%20Kimetsu%20No%20Yaiba%20anime.jpg",
+    "format": "JPG",
+    "size": "146.36 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Shinobu Kocho Kimetsu No Yaiba anime.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2814"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Sol, The Heretic Saint, By Paul Nong",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Sol%2C%20the%20Heretic%20Saint%2C%20by%20Paul%20Nong.jpg",
+    "format": "JPG",
+    "size": "1.85 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Sol, the Heretic Saint, by Paul Nong.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2815"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Takt Op Destiny",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Takt%20Op%20Destiny.jpg",
+    "format": "JPG",
+    "size": "169.57 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Takt Op Destiny.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2816"
+  },
+  {
+    "name": "Anime Girl Aesthetic - The Girl And Cosmic Window",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/The_girl_and_cosmic_window.jpg",
+    "format": "JPG",
+    "size": "752.57 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/The_girl_and_cosmic_window.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2817"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Trailblazer (honkai Star Rail)",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Trailblazer%20%28Honkai%20Star%20Rail%29%20.jpg",
+    "format": "JPG",
+    "size": "2.57 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Trailblazer (Honkai Star Rail) .jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2818"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Waifu Loves Cats",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Waifu_loves_cats.png",
+    "format": "PNG",
+    "size": "1.26 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Waifu_loves_cats.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2819"
+  },
+  {
+    "name": "Anime Girl Aesthetic - White Haired Anime Girl In Garden 4K Ultra",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/White-Haired%20Anime%20Girl%20in%20Garden%20-%204K%20Ultra%20HD%20Wallpaper%20by%20guo582.png",
+    "format": "PNG",
+    "size": "2.44 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/White-Haired Anime Girl in Garden - 4K Ultra HD Wallpaper by guo582.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2820"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Yueko, Idyllic Art Book",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/Yueko%2C%20Idyllic%20art%20book.jpg",
+    "format": "JPG",
+    "size": "936.75 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/Yueko, Idyllic art book.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2821"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Burnice White Luciana De Montefio And Piper Wheel",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__burnice_white_luciana_de_montefio_and_piper_wheel_zenless_zone_zero_drawn_by_hakusama233__5125aa4e807eea5df772929b2f1cd401.png",
+    "format": "PNG",
+    "size": "2.10 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__burnice_white_luciana_de_montefio_and_piper_wheel_zenless_zone_zero_drawn_by_hakusama233__5125aa4e807eea5df772929b2f1cd401.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu",
+      "zero two"
+    ],
+    "id": "wp_2822"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Eula Genshin Impact Drawn By Swkl D",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__eula_genshin_impact_drawn_by_swkl_d__d2420848139db9f4c2b6b1e061920dbe.jpg",
+    "format": "JPG",
+    "size": "1.24 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__eula_genshin_impact_drawn_by_swkl_d__d2420848139db9f4c2b6b1e061920dbe.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2823"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Herta Honkai And 1 More Drawn By Apple",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__herta_honkai_and_1_more_drawn_by_apple_caramel__3ed780454ec4e598c89e2b9920bc5c1c.jpg",
+    "format": "JPG",
+    "size": "1.56 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__herta_honkai_and_1_more_drawn_by_apple_caramel__3ed780454ec4e598c89e2b9920bc5c1c.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2824"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Kazusa Blue Archive Drawn By Uaxa2334",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__kazusa_blue_archive_drawn_by_uaxa2334__82e1237f9fc8f67adce6dc48061d54ad.jpg",
+    "format": "JPG",
+    "size": "1.90 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__kazusa_blue_archive_drawn_by_uaxa2334__82e1237f9fc8f67adce6dc48061d54ad.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2825"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Kita Ikuyo Bocchi The Rock Drawn By Bafangyu",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__kita_ikuyo_bocchi_the_rock_drawn_by_bafangyu__d72eb163096c2eb4a544d362ed6603d8.jpg",
+    "format": "JPG",
+    "size": "1.10 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__kita_ikuyo_bocchi_the_rock_drawn_by_bafangyu__d72eb163096c2eb4a544d362ed6603d8.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2826"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Mika Blue Archive Drawn By Uaxa2334",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__mika_blue_archive_drawn_by_uaxa2334__333b1cb5b965bfc6094ed6e9162dfc95.jpg",
+    "format": "JPG",
+    "size": "1.64 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__mika_blue_archive_drawn_by_uaxa2334__333b1cb5b965bfc6094ed6e9162dfc95.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2827"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Original Drawn By Hani Haya",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__original_drawn_by_hani_haya__26520fbc59205afd446bf7f7dd0b0d19.jpg",
+    "format": "JPG",
+    "size": "1.61 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__original_drawn_by_hani_haya__26520fbc59205afd446bf7f7dd0b0d19.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2828"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Original Drawn By Ping9137",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__original_drawn_by_ping9137__e5fc9c7c37bb19008006759aea886e39.jpg",
+    "format": "JPG",
+    "size": "1.78 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__original_drawn_by_ping9137__e5fc9c7c37bb19008006759aea886e39.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2829"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Original Drawn By Tu Er Tm",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__original_drawn_by_tu_er_tm__1b1fabdc9969afff10e57a00bd8be84e.jpg",
+    "format": "JPG",
+    "size": "1.83 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__original_drawn_by_tu_er_tm__1b1fabdc9969afff10e57a00bd8be84e.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2830"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Rebecca Lucy And Dorio Cyberpunk And 1 More",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/__rebecca_lucy_and_dorio_cyberpunk_and_1_more_drawn_by_feguimel__0d026f4ad56695ddb81e31f54337ea7a.jpg",
+    "format": "JPG",
+    "size": "1.65 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/__rebecca_lucy_and_dorio_cyberpunk_and_1_more_drawn_by_feguimel__0d026f4ad56695ddb81e31f54337ea7a.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "cyberpunk",
+      "futuristic",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "neon",
+      "waifu"
+    ],
+    "id": "wp_2831"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Eclipse Protocol By Evlsound Dis46a5 Fullview",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/_eclipse_protocol__by_evlsound_dis46a5-fullview.jpg",
+    "format": "JPG",
+    "size": "180.80 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/_eclipse_protocol__by_evlsound_dis46a5-fullview.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2832"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl Holding A Book",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_holding_a_book.jpg",
+    "format": "JPG",
+    "size": "5.58 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_holding_a_book.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2833"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl Holding An Umbrella",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_holding_an_umbrella.png",
+    "format": "PNG",
+    "size": "14.31 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_holding_an_umbrella.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2834"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl Playing A Guitar",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_playing_a_guitar_in_a_room_with_many_objects.png",
+    "format": "PNG",
+    "size": "11.19 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_playing_a_guitar_in_a_room_with_many_objects.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2835"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl Sitting On A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_sitting_on_a_city.jpg",
+    "format": "JPG",
+    "size": "338.37 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_sitting_on_a_city.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2836"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl Standing In A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_standing_in_a_doorway.jpg",
+    "format": "JPG",
+    "size": "1.13 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_standing_in_a_doorway.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2837"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl With A Pillow",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_with_a_pillow.png",
+    "format": "PNG",
+    "size": "473.93 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_with_a_pillow.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2838"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Girl With Pigtails",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_girl_with_pigtails.png",
+    "format": "PNG",
+    "size": "901.60 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_girl_with_pigtails.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2839"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Man Playing Guitar And",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_man_playing_guitar_and_playing_music.jpg",
+    "format": "JPG",
+    "size": "697.29 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_man_playing_guitar_and_playing_music.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2840"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Diving Into A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_diving_into_a_large_wave.png",
+    "format": "PNG",
+    "size": "254.95 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_diving_into_a_large_wave.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2841"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Holding A Hose",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_holding_a_hose_with_a_hose_in_front_of_a_swimming_pool.jpg",
+    "format": "JPG",
+    "size": "302.71 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_holding_a_hose_with_a_hose_in_front_of_a_swimming_pool.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2842"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Holding A Sword",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_holding_a_sword_01.jpg",
+    "format": "JPG",
+    "size": "412.13 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_holding_a_sword_01.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2843"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman In A Short",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_in_a_short_skirt_and_glasses.jpg",
+    "format": "JPG",
+    "size": "445.26 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_in_a_short_skirt_and_glasses.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2844"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Lying On A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_lying_on_a_snake.jpg",
+    "format": "JPG",
+    "size": "367.11 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_lying_on_a_snake.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2845"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Playing A Violin",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_playing_a_violin.png",
+    "format": "PNG",
+    "size": "5.95 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_playing_a_violin.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2846"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Sitting On A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_sitting_on_a_chair.png",
+    "format": "PNG",
+    "size": "2.24 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_sitting_on_a_chair.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2847"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman Standing On A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_standing_on_a_railing_overlooking_a_body_of_water.jpg",
+    "format": "JPG",
+    "size": "2.79 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_standing_on_a_railing_overlooking_a_body_of_water.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2848"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman With Her Hands",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg",
+    "format": "JPG",
+    "size": "1.60 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg",
+    "tags": [
+      "4k",
+      "ace",
+      "anime",
+      "anime girl",
+      "fire",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "one piece",
+      "portgas d ace",
+      "waifu"
+    ],
+    "id": "wp_2849"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman With Long Hair",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_with_long_hair.jpg",
+    "format": "JPG",
+    "size": "629.77 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_with_long_hair.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2850"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Cartoon Of A Woman With Pink Hair",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_cartoon_of_a_woman_with_pink_hair.jpg",
+    "format": "JPG",
+    "size": "621.51 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_cartoon_of_a_woman_with_pink_hair.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2851"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Drawing Of A Building",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_drawing_of_a_building.jpg",
+    "format": "JPG",
+    "size": "4.62 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_drawing_of_a_building.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2852"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Group Of Cartoon Characters 01",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_group_of_cartoon_characters_01.jpg",
+    "format": "JPG",
+    "size": "238.31 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_group_of_cartoon_characters_01.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2853"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Group Of Women In Garments",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_group_of_women_in_garments.png",
+    "format": "PNG",
+    "size": "1.55 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_group_of_women_in_garments.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2854"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Rainy Day By Alzimi",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_rainy_day_by_alzimi.jpeg",
+    "format": "JPG",
+    "size": "2.55 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_rainy_day_by_alzimi.jpeg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2855"
+  },
+  {
+    "name": "Anime Girl Aesthetic - A Woman Standing On A Bridge Over A",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background.png",
+    "format": "PNG",
+    "size": "3.59 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2856"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Acheron Portrait 02 By Hriful Dirk3n7",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/acheron_portrait_02_by_hriful_dirk3n7.jpg",
+    "format": "JPG",
+    "size": "958.80 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/acheron_portrait_02_by_hriful_dirk3n7.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2857"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Agoto 155",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/agoto%20155.jpg",
+    "format": "JPG",
+    "size": "2.49 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/agoto 155.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2858"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Alone Rifle Girl",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/alone-rifle-girl.png",
+    "format": "PNG",
+    "size": "6.03 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/alone-rifle-girl.png",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2859"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Couple Passing Road",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime%20couple%20passing%20road.jpg",
+    "format": "JPG",
+    "size": "3.14 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime couple passing road.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2860"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl Fan Art Eating Apple",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime%20girl%20fan%20art%20eating%20apple.jpg",
+    "format": "JPG",
+    "size": "939.37 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime girl fan art eating apple.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2861"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Anime Girls Original Characters Short Hair Wallpaper",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime-anime-girls-original-characters-short-hair-wallpaper-9e621b77801cfc9def497dfeb6dafe8e.jpg",
+    "format": "JPG",
+    "size": "265.74 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime-anime-girls-original-characters-short-hair-wallpaper-9e621b77801cfc9def497dfeb6dafe8e.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2862"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Gaako",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime-gaako.jpg",
+    "format": "JPG",
+    "size": "978.98 KB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime-gaako.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2863"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl Beautiful Butterfly Wings Fantasy 4K Wallpaper",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime-girl-beautiful-butterfly-wings-fantasy-4k-wallpaper-uhdpaper.com-258%400%40k.jpg",
+    "format": "JPG",
+    "size": "2.19 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime-girl-beautiful-butterfly-wings-fantasy-4k-wallpaper-uhdpaper.com-258@0@k.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2864"
+  },
+  {
+    "name": "Anime Girl Aesthetic - Anime Girl Cap Headphones 4K Wallpaper",
+    "category": "Girls Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/KawaiiWaifu/anime-girl-cap-headphones-4k-wallpaper-uhdpaper.com-852%401%40m.jpg",
+    "format": "JPG",
+    "size": "1.91 MB",
+    "path": "JoydeepMallick/Wallpapers/KawaiiWaifu/anime-girl-cap-headphones-4k-wallpaper-uhdpaper.com-852@1@m.jpg",
+    "tags": [
+      "4k",
+      "anime",
+      "anime girl",
+      "girl",
+      "girls",
+      "girls wallpapers",
+      "kawaii",
+      "waifu"
+    ],
+    "id": "wp_2865"
+  },
+  {
+    "name": "Mobile 4K - Aura #1 Mobile 1600x2560",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/0%20-%20Aura%20%231%20-%20Mobile%20-%201600x2560.webp",
+    "format": "WEBP",
+    "size": "119.46 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/0 - Aura #1 - Mobile - 1600x2560.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "aura",
+      "colorful",
+      "colourful",
+      "gradient",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical",
+      "vibrant"
+    ],
+    "id": "wp_2866"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Earthset Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/02-artemis-ii-lunar-flyby-wallpaper-earthset-image.jpg",
+    "format": "JPG",
+    "size": "564.88 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/02-artemis-ii-lunar-flyby-wallpaper-earthset-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2867"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Wallpaper Looking Back At Earth Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/02-artemis-ii-wallpaper-looking-back-at-earth-image.jpg",
+    "format": "JPG",
+    "size": "848.14 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/02-artemis-ii-wallpaper-looking-back-at-earth-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2868"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Peeking At Earth",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/04-artemis-ii-lunar-flyby-wallpaper-peeking-at-earth-image.jpg",
+    "format": "JPG",
+    "size": "980.35 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/04-artemis-ii-lunar-flyby-wallpaper-peeking-at-earth-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2869"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Wallpaper Earth Perspective Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/04-artemis-ii-wallpaper-earth-perspective-image.jpg",
+    "format": "JPG",
+    "size": "1.15 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/04-artemis-ii-wallpaper-earth-perspective-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2870"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Vavilov Crater Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/06-artemis-ii-lunar-flyby-wallpaper-vavilov-crater-image.jpg",
+    "format": "JPG",
+    "size": "1.24 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/06-artemis-ii-lunar-flyby-wallpaper-vavilov-crater-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2871"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Wallpaper Earth Views From The Artemis",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/06-artemis-ii-wallpaper-earth-views-from-the-artemis-ii-crew-image.jpg",
+    "format": "JPG",
+    "size": "819.81 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/06-artemis-ii-wallpaper-earth-views-from-the-artemis-ii-crew-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2872"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper New Moon View",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/08-artemis-ii-lunar-flyby-wallpaper-new-moon-view-image.jpg",
+    "format": "JPG",
+    "size": "871.67 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/08-artemis-ii-lunar-flyby-wallpaper-new-moon-view-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2873"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Wallpaper Backlit Earth Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/08-artemis-ii-wallpaper-backlit-earth-image.jpg",
+    "format": "JPG",
+    "size": "939.94 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/08-artemis-ii-wallpaper-backlit-earth-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2874"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Lunar Closeup Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/10-artemis-ii-lunar-flyby-wallpaper-lunar-closeup-image.jpg",
+    "format": "JPG",
+    "size": "1.05 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/10-artemis-ii-lunar-flyby-wallpaper-lunar-closeup-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2875"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii New Image Wallpaper New Eclipse View",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/10-artemis-ii-new-image-wallpaper-new-eclipse-view-image.jpg",
+    "format": "JPG",
+    "size": "886.81 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/10-artemis-ii-new-image-wallpaper-new-eclipse-view-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2876"
+  },
+  {
+    "name": "Mobile 4K #23",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/1097113.jpg",
+    "format": "JPG",
+    "size": "163.81 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/1097113.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2877"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Delicate Crescent Moon Wallpaper New Eclipse",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/12-artemis-ii-delicate-crescent-moon-wallpaper-new-eclipse-view-image.jpg",
+    "format": "JPG",
+    "size": "609.41 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/12-artemis-ii-delicate-crescent-moon-wallpaper-new-eclipse-view-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2878"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Orientale Basin Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/12-artemis-ii-lunar-flyby-wallpaper-orientale-basin-image.jpg",
+    "format": "JPG",
+    "size": "1.11 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/12-artemis-ii-lunar-flyby-wallpaper-orientale-basin-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2879"
+  },
+  {
+    "name": "Mobile 4K #26",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/1265e9a430a90fd0ae37d55be686bccada61484b-5caa82f9a91aaddedbcaf1e02c38a00d6347409b.webp",
+    "format": "WEBP",
+    "size": "346.10 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/1265e9a430a90fd0ae37d55be686bccada61484b-5caa82f9a91aaddedbcaf1e02c38a00d6347409b.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2880"
+  },
+  {
+    "name": "Mobile 4K - 13c3ac6d 33f8 4cf1 A77d 18ee663e5439",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/13C3AC6D-33F8-4CF1-A77D-18EE663E5439.jpg",
+    "format": "JPG",
+    "size": "2.07 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/13C3AC6D-33F8-4CF1-A77D-18EE663E5439.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2881"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Cratered Terrain Wallpaper Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/14-artemis-ii-cratered-terrain-wallpaper-image.jpg",
+    "format": "JPG",
+    "size": "1009.42 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/14-artemis-ii-cratered-terrain-wallpaper-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2882"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Edge Of Lunar",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/14-artemis-ii-lunar-flyby-wallpaper-edge-of-lunar-day-image.jpg",
+    "format": "JPG",
+    "size": "1.02 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/14-artemis-ii-lunar-flyby-wallpaper-edge-of-lunar-day-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2883"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Setting Earth Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/16-artemis-ii-lunar-flyby-wallpaper-setting-earth-image.jpg",
+    "format": "JPG",
+    "size": "1.23 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/16-artemis-ii-lunar-flyby-wallpaper-setting-earth-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2884"
+  },
+  {
+    "name": "Mobile 4K #31",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/1669647504364.jpg",
+    "format": "JPG",
+    "size": "1.05 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/1669647504364.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2885"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper Sliver Of Earth",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/17-artemis-ii-lunar-flyby-wallpaper-sliver-of-earth.jpg",
+    "format": "JPG",
+    "size": "366.09 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/17-artemis-ii-lunar-flyby-wallpaper-sliver-of-earth.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2886"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Eclipse Wallpaper View From Orion Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/18-artemis-ii-eclipse-wallpaper-view-from-orion-image.jpg",
+    "format": "JPG",
+    "size": "886.78 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/18-artemis-ii-eclipse-wallpaper-view-from-orion-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2887"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper View Of Earth",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/20-artemis-ii-lunar-flyby-wallpaper-view-of-earth-02.jpg",
+    "format": "JPG",
+    "size": "832.40 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/20-artemis-ii-lunar-flyby-wallpaper-view-of-earth-02.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2888"
+  },
+  {
+    "name": "Mobile 4K #35",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/1a819c47a058e1aa57175a534b8f668a.jpg",
+    "format": "JPG",
+    "size": "80.34 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/1a819c47a058e1aa57175a534b8f668a.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2889"
+  },
+  {
+    "name": "Mobile 4K #36",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/1d5d6a51651c1f7bfcfffb08962a5dacca699a59-bd473197c461193ea9b6d317f4c236910d065887.webp",
+    "format": "WEBP",
+    "size": "409.77 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/1d5d6a51651c1f7bfcfffb08962a5dacca699a59-bd473197c461193ea9b6d317f4c236910d065887.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2890"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Eclipse Wallpaper In Eclipse Image",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/20-artemis-ii-eclipse-wallpaper-in-eclipse-image.jpg",
+    "format": "JPG",
+    "size": "888.37 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/20-artemis-ii-eclipse-wallpaper-in-eclipse-image.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2891"
+  },
+  {
+    "name": "Mobile 4K #47",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/20181116114647555.jpg",
+    "format": "JPG",
+    "size": "855.70 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/20181116114647555.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2892"
+  },
+  {
+    "name": "Mobile 4K - Artemis Ii Lunar Flyby Wallpaper View Orion Main",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/21-artemis-ii-lunar-flyby-wallpaper-view-orion-main-window.jpg",
+    "format": "JPG",
+    "size": "378.32 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/21-artemis-ii-lunar-flyby-wallpaper-view-orion-main-window.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2893"
+  },
+  {
+    "name": "Mobile 4K #49",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/2345019.webp",
+    "format": "WEBP",
+    "size": "553.08 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/2345019.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2894"
+  },
+  {
+    "name": "Mobile 4K #50",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/26484113616b7a3f606471e4e2d407467bee4062-62feb46c41130d9291b158ef1ad9a5712b248785.webp",
+    "format": "WEBP",
+    "size": "141.46 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/26484113616b7a3f606471e4e2d407467bee4062-62feb46c41130d9291b158ef1ad9a5712b248785.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2895"
+  },
+  {
+    "name": "Mobile 4K #56",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/3c2e7b09c58e7dffc3f5206edeee553d.jpg",
+    "format": "JPG",
+    "size": "116.82 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/3c2e7b09c58e7dffc3f5206edeee553d.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2896"
+  },
+  {
+    "name": "Mobile 4K #61",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/5660638.jpg",
+    "format": "JPG",
+    "size": "93.79 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/5660638.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2897"
+  },
+  {
+    "name": "Mobile 4K #62",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/825e742b4dbc5a7876f606ad7ce0899b763473a8-ac6f58493a85315bd740f1bdcf05145339ef0b3c.webp",
+    "format": "WEBP",
+    "size": "154.33 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/825e742b4dbc5a7876f606ad7ce0899b763473a8-ac6f58493a85315bd740f1bdcf05145339ef0b3c.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2898"
+  },
+  {
+    "name": "Mobile 4K #63",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/8652641.webp",
+    "format": "WEBP",
+    "size": "399.02 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/8652641.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2899"
+  },
+  {
+    "name": "Mobile 4K #64",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/927219c1671d8a0b93527bae0adbb402.jpg",
+    "format": "JPG",
+    "size": "117.85 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/927219c1671d8a0b93527bae0adbb402.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2900"
+  },
+  {
+    "name": "Mobile 4K - 976c428b 2a64 457c 881e F12901f4e524",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/976c428b-2a64-457c-881e-f12901f4e524.webp",
+    "format": "WEBP",
+    "size": "308.26 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/976c428b-2a64-457c-881e-f12901f4e524.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2901"
+  },
+  {
+    "name": "Mobile 4K - 99f2533b 15dd 453e A02a 08af8058f899",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/99f2533b-15dd-453e-a02a-08af8058f899.webp",
+    "format": "WEBP",
+    "size": "181.98 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/99f2533b-15dd-453e-a02a-08af8058f899.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2902"
+  },
+  {
+    "name": "Mobile 4K - Ab9d562d 9238 4c9f 9e4b 71f5d5360514",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/AB9D562D-9238-4C9F-9E4B-71F5D5360514.jpg",
+    "format": "JPG",
+    "size": "599.99 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/AB9D562D-9238-4C9F-9E4B-71F5D5360514.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2903"
+  },
+  {
+    "name": "Mobile 4K - Android 12 Wallpaper 4",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Android%2012%20Wallpaper%204.webp",
+    "format": "WEBP",
+    "size": "548.20 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Android 12 Wallpaper 4.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2904"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Purple Wallpaper Dark Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Purple%20Wallpaper%20Dark%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "126.31 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Purple Wallpaper Dark YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2905"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Purple Wallpaper Light Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Purple%20Wallpaper%20Light%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "127.96 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Purple Wallpaper Light YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2906"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 1 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%201%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "95.02 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 1 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2907"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 10 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%2010%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "118.69 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 10 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2908"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 2 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%202%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "103.71 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 2 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2909"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 3 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%203%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "77.38 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 3 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2910"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 4 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%204%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "141.86 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 4 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2911"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 5 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%205%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "122.96 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 5 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2912"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 6 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%206%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "123.59 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 6 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2913"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 7 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%207%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "111.94 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 7 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2914"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 8 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%208%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "92.77 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 8 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2915"
+  },
+  {
+    "name": "Mobile 4K - Apple Iphone 12 Wallpaper 9 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Apple%20iPhone%2012%20Wallpaper%209%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "121.42 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Apple iPhone 12 Wallpaper 9 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2916"
+  },
+  {
+    "name": "Mobile 4K - Appleevent",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/AppleEvent.jpg",
+    "format": "JPG",
+    "size": "654.71 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/AppleEvent.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2917"
+  },
+  {
+    "name": "Mobile 4K - Cyberpunk2077 Wallpapers Arasaka 1080x1920 En",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Cyberpunk2077_Wallpapers_Arasaka_1080x1920_EN.webp",
+    "format": "WEBP",
+    "size": "257.55 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Cyberpunk2077_Wallpapers_Arasaka_1080x1920_EN.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "cyberpunk",
+      "futuristic",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "neon",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2918"
+  },
+  {
+    "name": "Mobile 4K - Cyberpunk2077 Wallpapers Kangtao 1080x1920 En",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Cyberpunk2077_Wallpapers_KangTao_1080x1920_EN.webp",
+    "format": "WEBP",
+    "size": "308.29 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Cyberpunk2077_Wallpapers_KangTao_1080x1920_EN.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "cyberpunk",
+      "futuristic",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "neon",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2919"
+  },
+  {
+    "name": "Mobile 4K - Cyberpunk2077 Wallpapers Militech 1080x1920 En",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Cyberpunk2077_Wallpapers_Militech_1080x1920_EN.webp",
+    "format": "WEBP",
+    "size": "255.18 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Cyberpunk2077_Wallpapers_Militech_1080x1920_EN.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "cyberpunk",
+      "futuristic",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "neon",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2920"
+  },
+  {
+    "name": "Mobile 4K - Cyberpunk2077 Wallpapers Traumateam 1080x1920 En",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Cyberpunk2077_Wallpapers_TraumaTeam_1080x1920_EN.webp",
+    "format": "WEBP",
+    "size": "240.45 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Cyberpunk2077_Wallpapers_TraumaTeam_1080x1920_EN.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "cyberpunk",
+      "futuristic",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "neon",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2921"
+  },
+  {
+    "name": "Mobile 4K - E8299f29 E80e 4ab1 Afe2 3c0582b51558",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/E8299F29-E80E-4AB1-AFE2-3C0582B51558.jpeg",
+    "format": "JPG",
+    "size": "216.25 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/E8299F29-E80E-4AB1-AFE2-3C0582B51558.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2922"
+  },
+  {
+    "name": "Mobile 4K - First Born1841 Rectangle",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/First%20born1841_rectangle.jpg",
+    "format": "JPG",
+    "size": "344.31 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/First born1841_rectangle.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2923"
+  },
+  {
+    "name": "Mobile 4K - Full HD Spider Woman Wallpaper For Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Full%20HD%20Spider-Woman%20wallpaper%20for%20iPhone.jpg",
+    "format": "JPG",
+    "size": "2.80 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Full HD Spider-Woman wallpaper for iPhone.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2924"
+  },
+  {
+    "name": "Mobile 4K - Img 0271",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_0271.jpg",
+    "format": "JPG",
+    "size": "77.46 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_0271.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2925"
+  },
+  {
+    "name": "Mobile 4K - Img 1617",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_1617.jpg",
+    "format": "JPG",
+    "size": "595.30 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_1617.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2926"
+  },
+  {
+    "name": "Mobile 4K - Img 2985",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_2985.jpeg",
+    "format": "JPG",
+    "size": "2.68 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_2985.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2927"
+  },
+  {
+    "name": "Mobile 4K - Img 3905",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3905.jpg",
+    "format": "JPG",
+    "size": "299.05 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3905.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2928"
+  },
+  {
+    "name": "Mobile 4K - Img 3906",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3906.jpg",
+    "format": "JPG",
+    "size": "151.73 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3906.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2929"
+  },
+  {
+    "name": "Mobile 4K - Img 3908",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3908.jpg",
+    "format": "JPG",
+    "size": "278.77 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3908.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2930"
+  },
+  {
+    "name": "Mobile 4K - Img 3909",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3909.jpg",
+    "format": "JPG",
+    "size": "652.98 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3909.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2931"
+  },
+  {
+    "name": "Mobile 4K - Img 3910",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3910.jpg",
+    "format": "JPG",
+    "size": "378.53 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3910.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2932"
+  },
+  {
+    "name": "Mobile 4K - Img 3911",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_3911.jpg",
+    "format": "JPG",
+    "size": "139.66 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_3911.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2933"
+  },
+  {
+    "name": "Mobile 4K - Img 5580",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_5580.jpg",
+    "format": "JPG",
+    "size": "385.45 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_5580.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2934"
+  },
+  {
+    "name": "Mobile 4K - Img 7547",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7547.jpeg",
+    "format": "JPG",
+    "size": "641.02 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7547.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2935"
+  },
+  {
+    "name": "Mobile 4K - Img 7548",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7548.jpeg",
+    "format": "JPG",
+    "size": "685.77 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7548.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2936"
+  },
+  {
+    "name": "Mobile 4K - Img 7549",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7549.jpeg",
+    "format": "JPG",
+    "size": "716.78 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7549.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2937"
+  },
+  {
+    "name": "Mobile 4K - Img 7550",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7550.jpeg",
+    "format": "JPG",
+    "size": "693.02 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7550.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2938"
+  },
+  {
+    "name": "Mobile 4K - Img 7551",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7551.jpeg",
+    "format": "JPG",
+    "size": "780.65 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7551.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2939"
+  },
+  {
+    "name": "Mobile 4K - Img 7552",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7552.jpeg",
+    "format": "JPG",
+    "size": "697.13 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7552.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2940"
+  },
+  {
+    "name": "Mobile 4K - Img 7553",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7553.jpeg",
+    "format": "JPG",
+    "size": "404.61 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7553.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2941"
+  },
+  {
+    "name": "Mobile 4K - Img 7554",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7554.jpeg",
+    "format": "JPG",
+    "size": "877.18 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7554.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2942"
+  },
+  {
+    "name": "Mobile 4K - Img 7555",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7555.jpeg",
+    "format": "JPG",
+    "size": "852.18 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7555.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2943"
+  },
+  {
+    "name": "Mobile 4K - Img 7947",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7947.jpeg",
+    "format": "JPG",
+    "size": "824.57 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7947.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2944"
+  },
+  {
+    "name": "Mobile 4K - Img 7948",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7948.jpeg",
+    "format": "JPG",
+    "size": "793.15 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7948.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2945"
+  },
+  {
+    "name": "Mobile 4K - Img 7957",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_7957.jpeg",
+    "format": "JPG",
+    "size": "2.12 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_7957.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2946"
+  },
+  {
+    "name": "Mobile 4K - Img 8972",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_8972.jpg",
+    "format": "JPG",
+    "size": "177.76 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_8972.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2947"
+  },
+  {
+    "name": "Mobile 4K - Img 8973",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/IMG_8973.jpg",
+    "format": "JPG",
+    "size": "249.26 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/IMG_8973.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2948"
+  },
+  {
+    "name": "Mobile 4K - Loop Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Loop_iPhone.webp",
+    "format": "WEBP",
+    "size": "482.05 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Loop_iPhone.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2949"
+  },
+  {
+    "name": "Mobile 4K - Marmotamaps Wallpaper Matterhorn Smartphone 1080x1920",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Marmotamaps_Wallpaper_Matterhorn_Smartphone_1080x1920.jpg",
+    "format": "JPG",
+    "size": "132.23 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Marmotamaps_Wallpaper_Matterhorn_Smartphone_1080x1920.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2950"
+  },
+  {
+    "name": "Mobile 4K - Pleasereadme",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/PLEASEREADME.webp",
+    "format": "WEBP",
+    "size": "616.89 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/PLEASEREADME.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2951"
+  },
+  {
+    "name": "Mobile 4K - Qckx6n1",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Qckx6n1.jpg",
+    "format": "JPG",
+    "size": "444.96 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Qckx6n1.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2952"
+  },
+  {
+    "name": "Mobile 4K - Slide Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Slide_iPhone.webp",
+    "format": "WEBP",
+    "size": "496.70 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Slide_iPhone.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2953"
+  },
+  {
+    "name": "Mobile 4K - Space Grey (dark)",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Space%20Grey%20%28Dark%29.webp",
+    "format": "WEBP",
+    "size": "630.43 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Space Grey (Dark).webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "ace",
+      "android",
+      "fire",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "one piece",
+      "phone",
+      "portgas d ace",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2954"
+  },
+  {
+    "name": "Mobile 4K - Space Grey (light)",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Space%20Grey%20%28Light%29.webp",
+    "format": "WEBP",
+    "size": "875.88 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Space Grey (Light).webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "ace",
+      "android",
+      "fire",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "one piece",
+      "phone",
+      "portgas d ace",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2955"
+  },
+  {
+    "name": "Mobile 4K - Spiderman Across The Spider Verse 4K Wallpaper",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Spiderman%20across%20the%20Spider-Verse%204K%20wallpaper.jpg",
+    "format": "JPG",
+    "size": "1.94 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Spiderman across the Spider-Verse 4K wallpaper.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2956"
+  },
+  {
+    "name": "Mobile 4K - Spiderman Meme 4K Wallpaper For Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Spiderman%20meme%204K%20wallpaper%20for%20iPhone.jpg",
+    "format": "JPG",
+    "size": "1.41 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Spiderman meme 4K wallpaper for iPhone.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2957"
+  },
+  {
+    "name": "Mobile 4K - Swish Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Swish_iPhone.webp",
+    "format": "WEBP",
+    "size": "831.52 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Swish_iPhone.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2958"
+  },
+  {
+    "name": "Mobile 4K - Wallpaperdog 20502063",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/WallpaperDog-20502063.jpg",
+    "format": "JPG",
+    "size": "261.03 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/WallpaperDog-20502063.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2959"
+  },
+  {
+    "name": "Mobile 4K - Wave Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Wave_iPhone.webp",
+    "format": "WEBP",
+    "size": "199.00 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Wave_iPhone.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2960"
+  },
+  {
+    "name": "Mobile 4K - Whirl Iphone",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/Whirl_iPhone.webp",
+    "format": "WEBP",
+    "size": "457.57 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/Whirl_iPhone.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2961"
+  },
+  {
+    "name": "Mobile 4K - Ankit Dembla Zyewivxwolo",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/ankit-dembla-zyEWIVxwOlo-unsplash.jpg",
+    "format": "JPG",
+    "size": "1.33 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/ankit-dembla-zyEWIVxwOlo-unsplash.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2962"
+  },
+  {
+    "name": "Mobile 4K - B87e9a0c 3bf7 482c A049 5ee7f4e3a6d0",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/b87e9a0c-3bf7-482c-a049-5ee7f4e3a6d0.webp",
+    "format": "WEBP",
+    "size": "299.00 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/b87e9a0c-3bf7-482c-a049-5ee7f4e3a6d0.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2963"
+  },
+  {
+    "name": "Mobile 4K #128",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/b8da2c649143eccd1940792226fed7d.jpg",
+    "format": "JPG",
+    "size": "84.58 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/b8da2c649143eccd1940792226fed7d.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2964"
+  },
+  {
+    "name": "Mobile 4K - Ethan Dow Wpkdgq S8oq",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/ethan-dow-wpKdgQ-s8OQ-unsplash.jpg",
+    "format": "JPG",
+    "size": "855.19 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/ethan-dow-wpKdgQ-s8OQ-unsplash.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2965"
+  },
+  {
+    "name": "Mobile 4K - George Pagan Iii L6l Dofelli",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/george-pagan-iii-L6l_doFEllI-unsplash.jpg",
+    "format": "JPG",
+    "size": "4.91 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/george-pagan-iii-L6l_doFEllI-unsplash.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2966"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Dark",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Dark.jpg",
+    "format": "JPG",
+    "size": "1.09 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Dark.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2967"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro Dark",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20Dark.jpg",
+    "format": "JPG",
+    "size": "1.08 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro Dark.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2968"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro Wallpaper 5 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20Wallpaper%205%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "101.32 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro Wallpaper 5 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2969"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro Wallpaper 6 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20Wallpaper%206%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "73.90 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro Wallpaper 6 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2970"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro Wallpaper 7 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20Wallpaper%207%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "97.32 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro Wallpaper 7 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2971"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro Wallpaper 8 Ytechb",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20Wallpaper%208%20YTECHB.webp",
+    "format": "WEBP",
+    "size": "73.71 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro Wallpaper 8 YTECHB.webp",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2972"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro X Ray",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro%20X-Ray.jpg",
+    "format": "JPG",
+    "size": "483.83 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro X-Ray.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2973"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 Pro",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20Pro.jpg",
+    "format": "JPG",
+    "size": "1.55 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 Pro.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2974"
+  },
+  {
+    "name": "Mobile 4K - Iphone 12 X Ray",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Phone%20Wallpapers/iPhone%2012%20X-Ray.jpg",
+    "format": "JPG",
+    "size": "569.19 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Phone Wallpapers/iPhone 12 X-Ray.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "android",
+      "iphone",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2975"
+  },
+  {
+    "name": "Mobile Aesthetic #141",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/0bec9f9dc8729f84637bb63eee4762fd.jpeg",
+    "format": "JPG",
+    "size": "2.07 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/0bec9f9dc8729f84637bb63eee4762fd.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2976"
+  },
+  {
+    "name": "Mobile Aesthetic #142",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/0c02df51228fcfa11b6e2286ab0d74dc.jpeg",
+    "format": "JPG",
+    "size": "1.26 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/0c02df51228fcfa11b6e2286ab0d74dc.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2977"
+  },
+  {
+    "name": "Mobile Aesthetic #143",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/1012405.png",
+    "format": "PNG",
+    "size": "1.32 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/1012405.png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2978"
+  },
+  {
+    "name": "Mobile Aesthetic #144",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/1014106.jpeg",
+    "format": "JPG",
+    "size": "2.44 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/1014106.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2979"
+  },
+  {
+    "name": "Mobile Aesthetic #145",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/1092502.jpg",
+    "format": "JPG",
+    "size": "133.23 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/1092502.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2980"
+  },
+  {
+    "name": "Mobile Aesthetic #146",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/1682109.jpg",
+    "format": "JPG",
+    "size": "358.18 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/1682109.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2981"
+  },
+  {
+    "name": "Mobile Aesthetic #147",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2004630.jpg",
+    "format": "JPG",
+    "size": "1.47 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2004630.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2982"
+  },
+  {
+    "name": "Mobile Aesthetic #148",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2004785.jpg",
+    "format": "JPG",
+    "size": "1.75 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2004785.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2983"
+  },
+  {
+    "name": "Mobile Aesthetic #149",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2005049.jpg",
+    "format": "JPG",
+    "size": "1.26 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2005049.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2984"
+  },
+  {
+    "name": "Mobile Aesthetic #150",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2005372.jpg",
+    "format": "JPG",
+    "size": "1.17 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2005372.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2985"
+  },
+  {
+    "name": "Mobile Aesthetic #151",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2005408.jpg",
+    "format": "JPG",
+    "size": "2.39 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2005408.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2986"
+  },
+  {
+    "name": "Mobile Aesthetic #152",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2005673.jpg",
+    "format": "JPG",
+    "size": "1.84 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2005673.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2987"
+  },
+  {
+    "name": "Mobile Aesthetic #153",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2006643.jpg",
+    "format": "JPG",
+    "size": "992.03 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2006643.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2988"
+  },
+  {
+    "name": "Mobile Aesthetic #154",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007117.jpg",
+    "format": "JPG",
+    "size": "1.67 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007117.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2989"
+  },
+  {
+    "name": "Mobile Aesthetic #155",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007147.jpg",
+    "format": "JPG",
+    "size": "1.31 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007147.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2990"
+  },
+  {
+    "name": "Mobile Aesthetic #156",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007157.jpg",
+    "format": "JPG",
+    "size": "1.13 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007157.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2991"
+  },
+  {
+    "name": "Mobile Aesthetic #157",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007301.jpg",
+    "format": "JPG",
+    "size": "1.63 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007301.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2992"
+  },
+  {
+    "name": "Mobile Aesthetic #158",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007321.jpg",
+    "format": "JPG",
+    "size": "999.58 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007321.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2993"
+  },
+  {
+    "name": "Mobile Aesthetic #159",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007432.jpg",
+    "format": "JPG",
+    "size": "1.18 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007432.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2994"
+  },
+  {
+    "name": "Mobile Aesthetic #160",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2007695.jpg",
+    "format": "JPG",
+    "size": "808.91 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2007695.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2995"
+  },
+  {
+    "name": "Mobile Aesthetic #161",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2008022.jpg",
+    "format": "JPG",
+    "size": "1.71 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2008022.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2996"
+  },
+  {
+    "name": "Mobile Aesthetic #162",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/2452371.jpg",
+    "format": "JPG",
+    "size": "104.02 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/2452371.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2997"
+  },
+  {
+    "name": "Mobile Aesthetic #163",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/3333bb34b4f996a4369daf5ccaf19d3d.jpeg",
+    "format": "JPG",
+    "size": "535.44 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/3333bb34b4f996a4369daf5ccaf19d3d.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2998"
+  },
+  {
+    "name": "Mobile Aesthetic #164",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8000775.jpg",
+    "format": "JPG",
+    "size": "1.22 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8000775.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_2999"
+  },
+  {
+    "name": "Mobile Aesthetic #165",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8000888.jpg",
+    "format": "JPG",
+    "size": "830.20 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8000888.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3000"
+  },
+  {
+    "name": "Mobile Aesthetic #166",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8001038.jpg",
+    "format": "JPG",
+    "size": "1.71 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8001038.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3001"
+  },
+  {
+    "name": "Mobile Aesthetic #167",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8001071.jpg",
+    "format": "JPG",
+    "size": "708.71 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8001071.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3002"
+  },
+  {
+    "name": "Mobile Aesthetic #168",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002051.jpg",
+    "format": "JPG",
+    "size": "1008.22 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002051.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3003"
+  },
+  {
+    "name": "Mobile Aesthetic #169",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002059.jpg",
+    "format": "JPG",
+    "size": "909.12 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002059.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3004"
+  },
+  {
+    "name": "Mobile Aesthetic #170",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002063.jpg",
+    "format": "JPG",
+    "size": "2.38 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002063.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3005"
+  },
+  {
+    "name": "Mobile Aesthetic #171",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002170.jpg",
+    "format": "JPG",
+    "size": "816.56 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002170.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3006"
+  },
+  {
+    "name": "Mobile Aesthetic #172",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002214.jpg",
+    "format": "JPG",
+    "size": "963.19 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002214.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3007"
+  },
+  {
+    "name": "Mobile Aesthetic #173",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002218.jpg",
+    "format": "JPG",
+    "size": "1.24 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002218.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3008"
+  },
+  {
+    "name": "Mobile Aesthetic #174",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002222.jpg",
+    "format": "JPG",
+    "size": "1.60 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002222.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3009"
+  },
+  {
+    "name": "Mobile Aesthetic #175",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002552.jpg",
+    "format": "JPG",
+    "size": "824.31 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002552.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3010"
+  },
+  {
+    "name": "Mobile Aesthetic #176",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002554.jpg",
+    "format": "JPG",
+    "size": "737.91 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002554.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3011"
+  },
+  {
+    "name": "Mobile Aesthetic #177",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002601.jpg",
+    "format": "JPG",
+    "size": "1.95 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002601.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3012"
+  },
+  {
+    "name": "Mobile Aesthetic #178",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002784.jpg",
+    "format": "JPG",
+    "size": "705.77 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002784.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3013"
+  },
+  {
+    "name": "Mobile Aesthetic #179",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002785.jpg",
+    "format": "JPG",
+    "size": "937.01 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002785.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3014"
+  },
+  {
+    "name": "Mobile Aesthetic #180",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/8002846.jpg",
+    "format": "JPG",
+    "size": "969.74 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/8002846.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3015"
+  },
+  {
+    "name": "Mobile Aesthetic - Candid Street Photo Of Man In A Skyway",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/Candid%20street%20photo%20of%20man%20in%20a%20skyway%20on%20a%20rainy%20day.jpg",
+    "format": "JPG",
+    "size": "797.24 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/Candid street photo of man in a skyway on a rainy day.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3016"
+  },
+  {
+    "name": "Mobile Aesthetic - City Of Water",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/City%20of%20water.jpg",
+    "format": "JPG",
+    "size": "494.19 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/City of water.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3017"
+  },
+  {
+    "name": "Mobile Aesthetic - Holo Spice And Wolf",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/Holo%20-%20Spice%20and%20Wolf.jpg",
+    "format": "JPG",
+    "size": "262.92 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/Holo - Spice and Wolf.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3018"
+  },
+  {
+    "name": "Mobile Aesthetic - Art Of Light Morning Glory Yamino Pastel",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Art%20of%20Light%20-%20Morning%20Glory%20-%20Yamino%20Pastel.jpg",
+    "format": "JPG",
+    "size": "682.62 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Art of Light - Morning Glory - Yamino Pastel.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3019"
+  },
+  {
+    "name": "Mobile Aesthetic - Art Of Light Yellow Rose",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Art%20of%20Light-%20Yellow%20Rose.jpg",
+    "format": "JPG",
+    "size": "699.94 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Art of Light- Yellow Rose.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3020"
+  },
+  {
+    "name": "Mobile Aesthetic - End Of Heat",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/End%20of%20Heat.jpg",
+    "format": "JPG",
+    "size": "163.11 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/End of Heat.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3021"
+  },
+  {
+    "name": "Mobile Aesthetic - I've Been Waiting For You! By Tami",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/I%27ve%20been%20waiting%20for%20you%21%20by%20Tami.png",
+    "format": "PNG",
+    "size": "11.39 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/I've been waiting for you! by Tami.png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3022"
+  },
+  {
+    "name": "Mobile Aesthetic - Kaleidoscope Pastel Illustrator",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Kaleidoscope%20-%20Pastel%20Illustrator.jpg",
+    "format": "JPG",
+    "size": "1.17 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Kaleidoscope - Pastel Illustrator.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3023"
+  },
+  {
+    "name": "Mobile Aesthetic - Makima Chainsaw Man Artwork Illustration",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Makima-Chainsaw-Man-artwork-illustration.jpg",
+    "format": "JPG",
+    "size": "518.17 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Makima-Chainsaw-Man-artwork-illustration.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "anime girl",
+      "chainsaw man",
+      "makima",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3024"
+  },
+  {
+    "name": "Mobile Aesthetic - Mother Of Everything",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Mother%20of%20everything.jpg",
+    "format": "JPG",
+    "size": "250.67 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Mother of everything.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3025"
+  },
+  {
+    "name": "Mobile Aesthetic - Nerissa Ravencroft [hololive]",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Nerissa%20Ravencroft%20%5BHololive%5D.png",
+    "format": "PNG",
+    "size": "676.66 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Nerissa Ravencroft [Hololive].png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3026"
+  },
+  {
+    "name": "Mobile Aesthetic - Oze Tabiart",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/OZE_Tabiart.jpg",
+    "format": "JPG",
+    "size": "525.90 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/OZE_Tabiart.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3027"
+  },
+  {
+    "name": "Mobile Aesthetic - Pastel Yamino Pastel",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Pastel%20-%20Yamino%20Pastel.jpg",
+    "format": "JPG",
+    "size": "723.56 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Pastel - Yamino Pastel.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3028"
+  },
+  {
+    "name": "Mobile Aesthetic - Pizza By Artist Alzimi",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Pizza%20by%20artist%20ALZiMi.jpeg",
+    "format": "JPG",
+    "size": "837.02 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Pizza by artist ALZiMi.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3029"
+  },
+  {
+    "name": "Mobile Aesthetic - Shirono Yamino Pastel",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/Shirono%20-%20Yamino%20Pastel.jpg",
+    "format": "JPG",
+    "size": "891.15 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/Shirono - Yamino Pastel.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3030"
+  },
+  {
+    "name": "Mobile Aesthetic - Asuna Blue Archive Drawn By Miisang47",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/__asuna_blue_archive_drawn_by_miisang47.jpg",
+    "format": "JPG",
+    "size": "100.34 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/__asuna_blue_archive_drawn_by_miisang47.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3031"
+  },
+  {
+    "name": "Mobile Aesthetic - Hanadera Nodoka And Rabirin Precure And 2 More",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/__hanadera_nodoka_and_rabirin_precure_and_2_more_drawn_by_kakikakilemon.jpg",
+    "format": "JPG",
+    "size": "154.29 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/__hanadera_nodoka_and_rabirin_precure_and_2_more_drawn_by_kakikakilemon.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3032"
+  },
+  {
+    "name": "Mobile Aesthetic - Izayoi Sakuya Touhou Drawn By Mahoro Minase Mahoro",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/__izayoi_sakuya_touhou_drawn_by_mahoro_minase_mahoro.jpg",
+    "format": "JPG",
+    "size": "127.56 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/__izayoi_sakuya_touhou_drawn_by_mahoro_minase_mahoro.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3033"
+  },
+  {
+    "name": "Mobile Aesthetic - Yuuka Blue Archive Drawn By Freshbeef",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/__yuuka_blue_archive_drawn_by_freshbeef.jpg",
+    "format": "JPG",
+    "size": "153.61 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/__yuuka_blue_archive_drawn_by_freshbeef.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3034"
+  },
+  {
+    "name": "Mobile Aesthetic - Ada Duet Night Abyss",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/ada_duet_night_abyss.jpeg",
+    "format": "JPG",
+    "size": "203.64 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/ada_duet_night_abyss.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3035"
+  },
+  {
+    "name": "Mobile Aesthetic - Anime Girl Lost In Time",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/anime%20girl%20lost%20in%20time.jpeg",
+    "format": "JPG",
+    "size": "1.47 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/anime girl lost in time.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3036"
+  },
+  {
+    "name": "Mobile Aesthetic - Anime Girl Japanese Kimono",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/anime-girl-japanese-kimono.jpg",
+    "format": "JPG",
+    "size": "525.97 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/anime-girl-japanese-kimono.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3037"
+  },
+  {
+    "name": "Mobile Aesthetic - Anime Style Illustration Rose (2)",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/anime-style-illustration-rose%20%282%29.jpg",
+    "format": "JPG",
+    "size": "6.75 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/anime-style-illustration-rose (2).jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3038"
+  },
+  {
+    "name": "Mobile Aesthetic - Anime Style Illustration Rose",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/anime-style-illustration-rose.jpg",
+    "format": "JPG",
+    "size": "8.16 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/anime-style-illustration-rose.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3039"
+  },
+  {
+    "name": "Mobile Aesthetic - Anime Wallpaper For Pc Anime Wallpapers Sky Evangelion",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/anime-wallpaper-for-pc-Anime-Wallpapers-sky-evangelion-flcl-ghibli-franxx.png",
+    "format": "PNG",
+    "size": "129.96 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/anime-wallpaper-for-pc-Anime-Wallpapers-sky-evangelion-flcl-ghibli-franxx.png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3040"
+  },
+  {
+    "name": "Mobile Aesthetic - Castorice Honkai Star Rail",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/castorice_honkai_star_rail.jpeg",
+    "format": "JPG",
+    "size": "4.09 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/castorice_honkai_star_rail.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3041"
+  },
+  {
+    "name": "Mobile Aesthetic - Castorice Honkai Star Rail2",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/castorice_honkai_star_rail2.jpeg",
+    "format": "JPG",
+    "size": "899.24 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/castorice_honkai_star_rail2.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3042"
+  },
+  {
+    "name": "Mobile Aesthetic - Castorice Honkai Star Rail3",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/castorice_honkai_star_rail3.jpeg",
+    "format": "JPG",
+    "size": "251.30 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/castorice_honkai_star_rail3.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3043"
+  },
+  {
+    "name": "Mobile Aesthetic - Dark Magician Girl Yugioh",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/dark_magician_girl_yugioh.jpeg",
+    "format": "JPG",
+    "size": "306.78 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/dark_magician_girl_yugioh.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3044"
+  },
+  {
+    "name": "Mobile Aesthetic - Denia Wuthering Waves",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/denia_wuthering_waves.jpeg",
+    "format": "JPG",
+    "size": "394.93 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/denia_wuthering_waves.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3045"
+  },
+  {
+    "name": "Mobile Aesthetic - Dragon Witch",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/dragon%20witch.jpeg",
+    "format": "JPG",
+    "size": "342.45 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/dragon witch.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3046"
+  },
+  {
+    "name": "Mobile Aesthetic - Evernight Honkai Star Rail (2)",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/evernight_honkai_star_rail%20%282%29.jpeg",
+    "format": "JPG",
+    "size": "168.27 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/evernight_honkai_star_rail (2).jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3047"
+  },
+  {
+    "name": "Mobile Aesthetic - Evernight Honkai Star Rail",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/evernight_honkai_star_rail.jpeg",
+    "format": "JPG",
+    "size": "172.53 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/evernight_honkai_star_rail.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3048"
+  },
+  {
+    "name": "Mobile Aesthetic - Fleurdelys Wuthering Waves",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/fleurdelys_wuthering_waves.jpeg",
+    "format": "JPG",
+    "size": "829.74 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/fleurdelys_wuthering_waves.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3049"
+  },
+  {
+    "name": "Mobile Aesthetic - Fleurette Dragon Quest Swords",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/fleurette_dragon_quest_swords.jpeg",
+    "format": "JPG",
+    "size": "458.48 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/fleurette_dragon_quest_swords.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3050"
+  },
+  {
+    "name": "Mobile Aesthetic - Fox Hood Original",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/fox_hood_original.png",
+    "format": "PNG",
+    "size": "1.58 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/fox_hood_original.png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3051"
+  },
+  {
+    "name": "Mobile Aesthetic - Geisha By Anavrin AI Dik5gf9 Fullview",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/geisha_by_anavrin_ai_dik5gf9-fullview.jpeg",
+    "format": "JPG",
+    "size": "1.47 MB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/geisha_by_anavrin_ai_dik5gf9-fullview.jpeg",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3052"
+  },
+  {
+    "name": "Mobile Aesthetic - Green Anime Wallpaper Anime Wallpapers Forest Hyouka Ghibli",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/JoydeepMallick/Wallpapers/main/Mobile/WaifuSpecial/green-anime-wallpaper-Anime-Wallpapers-forest-hyouka-ghibli-hajime-green.png",
+    "format": "PNG",
+    "size": "87.30 KB",
+    "path": "JoydeepMallick/Wallpapers/Mobile/WaifuSpecial/green-anime-wallpaper-Anime-Wallpapers-forest-hyouka-ghibli-hajime-green.png",
+    "tags": [
+      "4k",
+      "9:16",
+      "aesthetic",
+      "mobile",
+      "mobile wallpapers",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3053"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #221",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0002_photo-1657632843433-e6a8b7451ac6.jpg",
+    "format": "JPG",
+    "size": "93.49 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0002_photo-1657632843433-e6a8b7451ac6.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3054"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #222",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0047_photo-1732055351205-e40508e62bdd.jpg",
+    "format": "JPG",
+    "size": "296.89 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0047_photo-1732055351205-e40508e62bdd.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3055"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #224",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0102_photo-1754663186296-a1eb052d840c.jpg",
+    "format": "JPG",
+    "size": "128.46 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0102_photo-1754663186296-a1eb052d840c.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3056"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #225",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0130_photo-1771773496809-95ba94e8cb07.jpg",
+    "format": "JPG",
+    "size": "208.85 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0130_photo-1771773496809-95ba94e8cb07.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3057"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #226",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0161_photo-1701035858127-0f0e41ac8028.jpg",
+    "format": "JPG",
+    "size": "179.79 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0161_photo-1701035858127-0f0e41ac8028.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3058"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #227",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0195_photo-1737657683473-2c10e86c6bae.jpg",
+    "format": "JPG",
+    "size": "447.20 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0195_photo-1737657683473-2c10e86c6bae.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3059"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #229",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0261_photo-1734792314933-ba9a1da2ef39.jpg",
+    "format": "JPG",
+    "size": "92.53 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0261_photo-1734792314933-ba9a1da2ef39.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3060"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #230",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0293_photo-1639102560985-f831d3049750.jpg",
+    "format": "JPG",
+    "size": "255.56 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0293_photo-1639102560985-f831d3049750.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3061"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #231",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0338_photo-1644214250706-56e8dbd457ae.jpg",
+    "format": "JPG",
+    "size": "119.45 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0338_photo-1644214250706-56e8dbd457ae.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3062"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #232",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0381_photo-1687894986611-c116bcb6a400.jpg",
+    "format": "JPG",
+    "size": "87.90 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0381_photo-1687894986611-c116bcb6a400.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3063"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #233",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0409_photo-1746415808830-9eeecf23ef1c.jpg",
+    "format": "JPG",
+    "size": "849.83 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0409_photo-1746415808830-9eeecf23ef1c.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3064"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #234",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0456_photo-1764346075489-658b43cab434.jpg",
+    "format": "JPG",
+    "size": "152.28 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0456_photo-1764346075489-658b43cab434.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3065"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #235",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0490_photo-1633837017792-4fb5dcf3f4bf.jpg",
+    "format": "JPG",
+    "size": "342.19 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0490_photo-1633837017792-4fb5dcf3f4bf.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3066"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #236",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0530_photo-1741184353774-c80d8eb5b2ae.jpg",
+    "format": "JPG",
+    "size": "147.35 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0530_photo-1741184353774-c80d8eb5b2ae.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3067"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #237",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0569_photo-1764266116369-1ebebdf7bc30.jpg",
+    "format": "JPG",
+    "size": "442.04 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0569_photo-1764266116369-1ebebdf7bc30.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3068"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #238",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0618_photo-1754341925873-8f2be00d1c87.jpg",
+    "format": "JPG",
+    "size": "741.65 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0618_photo-1754341925873-8f2be00d1c87.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3069"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #239",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0657_photo-1774385230364-34e8bca8e697.jpg",
+    "format": "JPG",
+    "size": "115.42 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0657_photo-1774385230364-34e8bca8e697.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3070"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #240",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0686_photo-1632516643720-e7f5d7d6ecc9.jpg",
+    "format": "JPG",
+    "size": "220.22 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0686_photo-1632516643720-e7f5d7d6ecc9.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3071"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #241",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0742_photo-1618423771949-1de4842d5858.jpg",
+    "format": "JPG",
+    "size": "423.67 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0742_photo-1618423771949-1de4842d5858.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3072"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #242",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0781_photo-1781892712176-52f96c3ccd22.jpg",
+    "format": "JPG",
+    "size": "682.95 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0781_photo-1781892712176-52f96c3ccd22.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3073"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #243",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0815_photo-1677142161990-cb686f239b9d.jpg",
+    "format": "JPG",
+    "size": "109.16 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0815_photo-1677142161990-cb686f239b9d.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3074"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #244",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0849_photo-1679173479678-eed90dba2b43.jpg",
+    "format": "JPG",
+    "size": "441.13 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0849_photo-1679173479678-eed90dba2b43.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3075"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #245",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0879_photo-1591610161061-72b3044b46ac.jpg",
+    "format": "JPG",
+    "size": "329.47 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0879_photo-1591610161061-72b3044b46ac.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3076"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #246",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0915_photo-1676902684066-a2a7cfb9369f.jpg",
+    "format": "JPG",
+    "size": "80.51 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0915_photo-1676902684066-a2a7cfb9369f.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3077"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #247",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0955_photo-1777973320712-487d1d406f07.jpg",
+    "format": "JPG",
+    "size": "201.96 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0955_photo-1777973320712-487d1d406f07.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3078"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #248",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/0991_photo-1591393223703-56fe1347ac62.jpg",
+    "format": "JPG",
+    "size": "364.03 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/0991_photo-1591393223703-56fe1347ac62.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3079"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #249",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1042_photo-1654986966034-8f06a66f280a.jpg",
+    "format": "JPG",
+    "size": "179.75 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1042_photo-1654986966034-8f06a66f280a.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3080"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #250",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1070_photo-1769122490616-c4d274d50c23.jpg",
+    "format": "JPG",
+    "size": "805.64 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1070_photo-1769122490616-c4d274d50c23.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3081"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #251",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1110_photo-1647247743538-0137d6a8a268.jpg",
+    "format": "JPG",
+    "size": "80.22 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1110_photo-1647247743538-0137d6a8a268.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3082"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #252",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1143_photo-1635206921211-a26e22f9f842.jpg",
+    "format": "JPG",
+    "size": "175.03 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1143_photo-1635206921211-a26e22f9f842.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3083"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #253",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1174_photo-1730227570004-1cd76324f7f6.jpg",
+    "format": "JPG",
+    "size": "121.96 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1174_photo-1730227570004-1cd76324f7f6.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3084"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #254",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1209_photo-1782268417076-4d1eeef675e6.jpg",
+    "format": "JPG",
+    "size": "165.10 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1209_photo-1782268417076-4d1eeef675e6.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3085"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #255",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1245_photo-1665441644388-49c9f7d6c1f8.jpg",
+    "format": "JPG",
+    "size": "78.90 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1245_photo-1665441644388-49c9f7d6c1f8.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3086"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #256",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1280_photo-1767474363622-fd5031c2b576.jpg",
+    "format": "JPG",
+    "size": "1.01 MB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1280_photo-1767474363622-fd5031c2b576.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3087"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #257",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1331_photo-1769123012428-6858ea810a74.jpg",
+    "format": "JPG",
+    "size": "574.44 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1331_photo-1769123012428-6858ea810a74.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3088"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #258",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1367_photo-1764264136600-9315d3cb2780.jpg",
+    "format": "JPG",
+    "size": "230.04 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1367_photo-1764264136600-9315d3cb2780.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3089"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #259",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1428_photo-1772048197862-635f9903e70c.jpg",
+    "format": "JPG",
+    "size": "319.39 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1428_photo-1772048197862-635f9903e70c.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3090"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #260",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1485_photo-1604871000636-074fa5117945.jpg",
+    "format": "JPG",
+    "size": "320.90 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1485_photo-1604871000636-074fa5117945.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3091"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #261",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1557_photo-1779260232713-d27b59330c0f.jpg",
+    "format": "JPG",
+    "size": "557.64 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1557_photo-1779260232713-d27b59330c0f.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3092"
+  },
+  {
+    "name": "Mobile AMOLED Fluid #262",
+    "category": "Mobile Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/vertical/1635_photo-1673234757545-21c6fd8da9bf.jpg",
+    "format": "JPG",
+    "size": "275.24 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/vertical/1635_photo-1673234757545-21c6fd8da9bf.jpg",
+    "tags": [
+      "4k",
+      "9:16",
+      "amoled",
+      "colorful",
+      "dark",
+      "fluid",
+      "mobile",
+      "mobile wallpapers",
+      "oled",
+      "phone",
+      "portrait",
+      "vertical"
+    ],
+    "id": "wp_3093"
+  },
+  {
+    "name": "Colourful Tablet Aura - Aura #1 2560x1600",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Aura%20Wallpaper/0%20-%20Aura%20%231%20-%202560x1600.webp",
+    "format": "WEBP",
+    "size": "126.64 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Aura Wallpaper/0 - Aura #1 - 2560x1600.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "aura",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3094"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Bittersweet",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Bittersweet.webp",
+    "format": "WEBP",
+    "size": "800.64 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Bittersweet.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3095"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Blue Dark",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Blue%20Dark.webp",
+    "format": "WEBP",
+    "size": "861.73 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Blue Dark.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3096"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Blue Light",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Blue%20Light.webp",
+    "format": "WEBP",
+    "size": "1.51 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Blue Light.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3097"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Blue",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Blue.webp",
+    "format": "WEBP",
+    "size": "198.74 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Blue.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3098"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Candy",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Candy.webp",
+    "format": "WEBP",
+    "size": "1.69 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Candy.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3099"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Darklandscape",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/DarkLandscape.webp",
+    "format": "WEBP",
+    "size": "2.34 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/DarkLandscape.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3100"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Darkportrait",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/DarkPortrait.webp",
+    "format": "WEBP",
+    "size": "2.44 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/DarkPortrait.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3101"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Fusiondark",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/FusionDark.webp",
+    "format": "WEBP",
+    "size": "2.62 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/FusionDark.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3102"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Fusiondarkls",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/FusionDarkLS.webp",
+    "format": "WEBP",
+    "size": "2.57 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/FusionDarkLS.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3103"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Fusionlight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/FusionLight.webp",
+    "format": "WEBP",
+    "size": "3.22 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/FusionLight.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3104"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Fusionlightls",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/FusionLightLS.webp",
+    "format": "WEBP",
+    "size": "3.23 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/FusionLightLS.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3105"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Landscapelight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/LandscapeLight.webp",
+    "format": "WEBP",
+    "size": "1.21 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/LandscapeLight.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3106"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Lightportrait",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/LightPortrait.webp",
+    "format": "WEBP",
+    "size": "1.13 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/LightPortrait.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3107"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Madebyoofus",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/MadebyOofus.webp",
+    "format": "WEBP",
+    "size": "1.64 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/MadebyOofus.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3108"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Periwinkle Dark",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Periwinkle%20Dark.webp",
+    "format": "WEBP",
+    "size": "943.23 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Periwinkle Dark.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3109"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Periwinkle Light",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Periwinkle%20Light.webp",
+    "format": "WEBP",
+    "size": "1.45 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Periwinkle Light.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3110"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Pink Dark",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Pink%20Dark.webp",
+    "format": "WEBP",
+    "size": "621.25 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Pink Dark.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3111"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Pink Light",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Pink%20Light.webp",
+    "format": "WEBP",
+    "size": "1.05 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Pink Light.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3112"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Saudade",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Saudade.webp",
+    "format": "WEBP",
+    "size": "1.55 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Saudade.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3113"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Scarlet",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/Scarlet.webp",
+    "format": "WEBP",
+    "size": "854.14 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/Scarlet.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3114"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Sheendark",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/SheenDark.webp",
+    "format": "WEBP",
+    "size": "104.86 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/SheenDark.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3115"
+  },
+  {
+    "name": "Colourful Tablet Crystal - Sheenlight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/CrystalWallpapers/SheenLight.webp",
+    "format": "WEBP",
+    "size": "154.42 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/CrystalWallpapers/SheenLight.webp",
+    "tags": [
+      "16:10",
+      "3d",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "crystal",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3116"
+  },
+  {
+    "name": "Colourful Tablet Abstract #44",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/1622099.jpg",
+    "format": "JPG",
+    "size": "151.71 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/1622099.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3117"
+  },
+  {
+    "name": "Colourful Tablet Abstract #45",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/1622100.jpg",
+    "format": "JPG",
+    "size": "264.58 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/1622100.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3118"
+  },
+  {
+    "name": "Colourful Tablet Abstract #47",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/1622118.jpg",
+    "format": "JPG",
+    "size": "230.61 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/1622118.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3119"
+  },
+  {
+    "name": "Colourful Tablet Abstract #48",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/1622156.jpg",
+    "format": "JPG",
+    "size": "141.62 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/1622156.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3120"
+  },
+  {
+    "name": "Colourful Tablet Abstract #49",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/1622165.jpg",
+    "format": "JPG",
+    "size": "212.49 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/1622165.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3121"
+  },
+  {
+    "name": "Colourful Tablet Abstract #50",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/184676.jpg",
+    "format": "JPG",
+    "size": "130.49 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/184676.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3122"
+  },
+  {
+    "name": "Colourful Tablet Abstract - 8K Polygon Flip",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/8K%20Polygon%20FLIP.webp",
+    "format": "WEBP",
+    "size": "883.16 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/8K Polygon FLIP.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3123"
+  },
+  {
+    "name": "Colourful Tablet Abstract - 8K Polygon",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/8K%20Polygon.webp",
+    "format": "WEBP",
+    "size": "939.85 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/8K Polygon.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3124"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Bleeding Edge (dark)",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Bleeding_Edge_%28DARK%29.webp",
+    "format": "WEBP",
+    "size": "6.13 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Bleeding_Edge_(DARK).webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3125"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Cosmic Cliffs",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Cosmic%20Cliffs.jpg",
+    "format": "JPG",
+    "size": "5.06 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Cosmic Cliffs.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3126"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Fture City",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Fture%20City.jpg",
+    "format": "JPG",
+    "size": "819.30 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Fture City.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3127"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Jagged Copy",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Jagged%20copy.webp",
+    "format": "WEBP",
+    "size": "106.92 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Jagged copy.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3128"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Miro",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Miro.jpeg",
+    "format": "JPG",
+    "size": "4.40 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Miro.jpeg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3129"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Neural Pathways (dark)",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Neural_Pathways_%28DARK%29.webp",
+    "format": "WEBP",
+    "size": "3.77 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Neural_Pathways_(DARK).webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3130"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Purple Windows Flip",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Purple%20Windows%20flip.webp",
+    "format": "WEBP",
+    "size": "282.86 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Purple Windows flip.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3131"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Purple Windows",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Purple%20Windows.webp",
+    "format": "WEBP",
+    "size": "268.39 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Purple Windows.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3132"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Rainbow 5k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Rainbow%205K.jpg",
+    "format": "JPG",
+    "size": "404.50 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Rainbow 5K.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3133"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Shockwave 003",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Shockwave_003.webp",
+    "format": "WEBP",
+    "size": "3.98 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Shockwave_003.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3134"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Study 02 Mac Copy",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Study_02_Mac%20copy.webp",
+    "format": "WEBP",
+    "size": "305.59 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Study_02_Mac copy.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3135"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Study 02 Mac",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Study_02_Mac.webp",
+    "format": "WEBP",
+    "size": "305.59 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Study_02_Mac.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3136"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Study 02 Macflip",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Study_02_MacFlip.webp",
+    "format": "WEBP",
+    "size": "298.01 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Study_02_MacFlip.webp",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3137"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Switch 4K",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/Switch%204K.jpg",
+    "format": "JPG",
+    "size": "513.14 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/Switch 4K.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3138"
+  },
+  {
+    "name": "Colourful Tablet Abstract - Waveblue",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/MKBHDWallpapers/WaveBLUE.jpg",
+    "format": "JPG",
+    "size": "93.89 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/MKBHDWallpapers/WaveBLUE.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3139"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemedark000",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeDark000.jpg",
+    "format": "JPG",
+    "size": "423.32 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeDark000.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3140"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemedark001",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeDark001.jpg",
+    "format": "JPG",
+    "size": "145.83 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeDark001.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3141"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemedark002",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeDark002.jpg",
+    "format": "JPG",
+    "size": "211.60 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeDark002.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3142"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemedark003",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeDark003.jpg",
+    "format": "JPG",
+    "size": "119.87 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeDark003.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3143"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemelight000",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeLight000.jpg",
+    "format": "JPG",
+    "size": "570.48 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeLight000.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3144"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemelight001",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeLight001.jpg",
+    "format": "JPG",
+    "size": "151.95 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeLight001.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3145"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemelight002",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeLight002.jpg",
+    "format": "JPG",
+    "size": "235.93 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeLight002.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3146"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Touchkeyboardthemelight003",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/TouchKeyboardThemeLight003.jpg",
+    "format": "JPG",
+    "size": "117.96 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/TouchKeyboardThemeLight003.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3147"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img0",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img0.jpg",
+    "format": "JPG",
+    "size": "1.53 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img0.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3148"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img100",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img100.jpg",
+    "format": "JPG",
+    "size": "1009.11 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img100.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3149"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img101",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img101.jpg",
+    "format": "JPG",
+    "size": "814.31 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img101.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3150"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img102",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img102.jpg",
+    "format": "JPG",
+    "size": "1.33 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img102.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3151"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img103",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img103.jpg",
+    "format": "JPG",
+    "size": "1.02 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img103.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3152"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img104",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img104.jpg",
+    "format": "JPG",
+    "size": "664.09 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img104.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3153"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img14",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img14.jpg",
+    "format": "JPG",
+    "size": "1.53 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img14.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3154"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img19",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img19.jpg",
+    "format": "JPG",
+    "size": "1.32 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img19.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3155"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img20",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img20.jpg",
+    "format": "JPG",
+    "size": "807.36 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img20.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3156"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img21",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img21.jpg",
+    "format": "JPG",
+    "size": "814.31 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img21.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3157"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img22",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img22.jpg",
+    "format": "JPG",
+    "size": "742.92 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img22.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3158"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img23",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img23.jpg",
+    "format": "JPG",
+    "size": "885.85 KB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img23.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3159"
+  },
+  {
+    "name": "Colourful Tablet Bloom - Img24",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/Windows11-DefaultWallpaper/img24.jpg",
+    "format": "JPG",
+    "size": "1.10 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/Windows11-DefaultWallpaper/img24.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3160"
+  },
+  {
+    "name": "Colourful Tablet Studio - 0 10 1 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-0_10-1-6k.jpg",
+    "format": "JPG",
+    "size": "4.59 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-0_10-1-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3161"
+  },
+  {
+    "name": "Colourful Tablet Studio - 10 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-10-6k.jpg",
+    "format": "JPG",
+    "size": "22.65 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-10-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3162"
+  },
+  {
+    "name": "Colourful Tablet Studio - 12 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-12-6k.jpg",
+    "format": "JPG",
+    "size": "24.27 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-12-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3163"
+  },
+  {
+    "name": "Colourful Tablet Studio - 2 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-2-6k.jpg",
+    "format": "JPG",
+    "size": "4.49 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-2-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3164"
+  },
+  {
+    "name": "Colourful Tablet Studio - 3 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-3-6k.jpg",
+    "format": "JPG",
+    "size": "4.57 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-3-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3165"
+  },
+  {
+    "name": "Colourful Tablet Studio - 4 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-4-6k.jpg",
+    "format": "JPG",
+    "size": "5.39 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-4-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3166"
+  },
+  {
+    "name": "Colourful Tablet Studio - 5 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-5-6k.jpg",
+    "format": "JPG",
+    "size": "10.30 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-5-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3167"
+  },
+  {
+    "name": "Colourful Tablet Studio - 5 Server 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-5-Server-6k.jpg",
+    "format": "JPG",
+    "size": "6.21 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-5-Server-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3168"
+  },
+  {
+    "name": "Colourful Tablet Studio - 6 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-6-6k.jpg",
+    "format": "JPG",
+    "size": "10.81 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-6-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3169"
+  },
+  {
+    "name": "Colourful Tablet Studio - 6 Server 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-6-Server-6k.jpg",
+    "format": "JPG",
+    "size": "11.06 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-6-Server-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3170"
+  },
+  {
+    "name": "Colourful Tablet Studio - 7 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-7-6k.jpg",
+    "format": "JPG",
+    "size": "19.08 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-7-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3171"
+  },
+  {
+    "name": "Colourful Tablet Studio - 8 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-8-6k.jpg",
+    "format": "JPG",
+    "size": "10.55 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-8-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3172"
+  },
+  {
+    "name": "Colourful Tablet Studio - 9 6k",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/10-9-6k.jpg",
+    "format": "JPG",
+    "size": "18.68 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/10-9-6k.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3173"
+  },
+  {
+    "name": "Colourful Tablet Studio - Shutters",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/main/macOS-Collections/Shutters.jpg",
+    "format": "JPG",
+    "size": "2.58 MB",
+    "path": "MilesCorporate/The-Wallpaper-Collection/macOS-Collections/Shutters.jpg",
+    "tags": [
+      "16:10",
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "ipad",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3174"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Blue Bkg5",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/blue_bkg5.png",
+    "format": "PNG",
+    "size": "124.67 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/gradients/blue_bkg5.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3175"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Cyan Bkg5",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/cyan_bkg5.png",
+    "format": "PNG",
+    "size": "145.74 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/gradients/cyan_bkg5.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3176"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Flamingo Bkg1",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/flamingo_bkg1.png",
+    "format": "PNG",
+    "size": "167.18 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/gradients/flamingo_bkg1.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3177"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Flamingo Bkg5",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/flamingo_bkg5.png",
+    "format": "PNG",
+    "size": "110.89 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/gradients/flamingo_bkg5.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3178"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Green Bkg5",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/gradients/green_bkg5.png",
+    "format": "PNG",
+    "size": "111.63 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/gradients/green_bkg5.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "abstract",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3179"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Waves Dark 6016x6016",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/Waves%20Dark%206016x6016.jpg",
+    "format": "JPG",
+    "size": "16.81 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/Waves Dark 6016x6016.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3180"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Waves Dark Alt 6016x6016",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/Waves%20Dark%20Alt%206016x6016.jpg",
+    "format": "JPG",
+    "size": "19.39 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/Waves Dark Alt 6016x6016.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3181"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Waves Light 6016x6016",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/Waves%20Light%206016x6016.jpg",
+    "format": "JPG",
+    "size": "20.34 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/Waves Light 6016x6016.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3182"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Cat Blue Eye",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/cat-blue-eye.png",
+    "format": "PNG",
+    "size": "273.77 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/cat-blue-eye.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3183"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Cat Waves",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/cat-waves.png",
+    "format": "PNG",
+    "size": "1.18 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/cat-waves.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3184"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Wavy Lines V01 5120x2880",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/wavy_lines_v01_5120x2880.png",
+    "format": "PNG",
+    "size": "1.73 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/wavy_lines_v01_5120x2880.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3185"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Wavy Lines V02 5120x2880",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/wavy_lines_v02_5120x2880.png",
+    "format": "PNG",
+    "size": "2.47 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/wavy_lines_v02_5120x2880.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3186"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Wavy Lines V03 5120x2880",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/waves/wavy_lines_v03_5120x2880.png",
+    "format": "PNG",
+    "size": "2.44 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/waves/wavy_lines_v03_5120x2880.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3187"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Clearday",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Clearday.jpg",
+    "format": "JPG",
+    "size": "747.06 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/Clearday.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3188"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Clearnight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Clearnight.jpg",
+    "format": "JPG",
+    "size": "7.01 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/Clearnight.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3189"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Cloudsday",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Cloudsday.jpg",
+    "format": "JPG",
+    "size": "5.34 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/Cloudsday.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3190"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Cloudsnight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Cloudsnight.jpg",
+    "format": "JPG",
+    "size": "7.77 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/Cloudsnight.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3191"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Rainnight",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/Rainnight.jpg",
+    "format": "JPG",
+    "size": "3.62 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/Rainnight.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3192"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Evening Sky",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/evening-sky.png",
+    "format": "PNG",
+    "size": "4.31 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/evening-sky.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3193"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Forrest",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/forrest.png",
+    "format": "PNG",
+    "size": "3.73 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/forrest.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3194"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Salty Mountains",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/salty_mountains.png",
+    "format": "PNG",
+    "size": "999.84 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/salty_mountains.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3195"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Shaded Landscape",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/shaded_landscape.png",
+    "format": "PNG",
+    "size": "3.94 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/shaded_landscape.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3196"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Tropic Island Day",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/landscapes/tropic_island_day.jpg",
+    "format": "JPG",
+    "size": "4.79 MB",
+    "path": "zhichaoh/catppuccin-wallpapers/landscapes/tropic_island_day.jpg",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3197"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Blue",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_blue.png",
+    "format": "PNG",
+    "size": "252.44 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_blue.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3198"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Flamingo",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_flamingo.png",
+    "format": "PNG",
+    "size": "253.46 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_flamingo.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3199"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Green",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_green.png",
+    "format": "PNG",
+    "size": "250.10 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_green.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3200"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Lavender",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_lavender.png",
+    "format": "PNG",
+    "size": "254.65 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_lavender.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3201"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Magenta",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_magenta.png",
+    "format": "PNG",
+    "size": "251.61 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_magenta.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3202"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Maroon",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_maroon.png",
+    "format": "PNG",
+    "size": "249.43 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_maroon.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3203"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Peach",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_peach.png",
+    "format": "PNG",
+    "size": "253.28 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_peach.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3204"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Pink",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_pink.png",
+    "format": "PNG",
+    "size": "254.48 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_pink.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3205"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Red",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_red.png",
+    "format": "PNG",
+    "size": "246.85 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_red.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3206"
+  },
+  {
+    "name": "Colourful Tablet Pastel - Mandelbrot Full Rosewater",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/zhichaoh/catppuccin-wallpapers/main/mandelbrot/mandelbrot_full_rosewater.png",
+    "format": "PNG",
+    "size": "254.56 KB",
+    "path": "zhichaoh/catppuccin-wallpapers/mandelbrot/mandelbrot_full_rosewater.png",
+    "tags": [
+      "4:3",
+      "4k",
+      "colorful",
+      "colourful",
+      "gradient",
+      "ipad",
+      "pastel",
+      "tablet",
+      "tablet wallpapers"
+    ],
+    "id": "wp_3207"
+  },
+  {
+    "name": "Colourful Tablet Fluid #192",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0111_photo-1677297680059-a0061c35d894.jpg",
+    "format": "JPG",
+    "size": "78.12 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0111_photo-1677297680059-a0061c35d894.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3208"
+  },
+  {
+    "name": "Colourful Tablet Fluid #194",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0336_photo-1704422390231-ab7047b870bb.jpg",
+    "format": "JPG",
+    "size": "101.67 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0336_photo-1704422390231-ab7047b870bb.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3209"
+  },
+  {
+    "name": "Colourful Tablet Fluid #196",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0519_photo-1716277692922-debe33db74df.jpg",
+    "format": "JPG",
+    "size": "103.68 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0519_photo-1716277692922-debe33db74df.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3210"
+  },
+  {
+    "name": "Colourful Tablet Fluid #198",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0704_photo-1708898813278-19452057ebad.jpg",
+    "format": "JPG",
+    "size": "82.37 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0704_photo-1708898813278-19452057ebad.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3211"
+  },
+  {
+    "name": "Colourful Tablet Fluid #199",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0778_photo-1776981986368-12b9b05506b3.jpg",
+    "format": "JPG",
+    "size": "106.80 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0778_photo-1776981986368-12b9b05506b3.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3212"
+  },
+  {
+    "name": "Colourful Tablet Fluid #200",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/0893_photo-1703555507866-45cbb6927ee5.jpg",
+    "format": "JPG",
+    "size": "159.15 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/0893_photo-1703555507866-45cbb6927ee5.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3213"
+  },
+  {
+    "name": "Colourful Tablet Fluid #204",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1241_photo-1788381080058-37016096f62e.jpg",
+    "format": "JPG",
+    "size": "92.00 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1241_photo-1788381080058-37016096f62e.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3214"
+  },
+  {
+    "name": "Colourful Tablet Fluid #205",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1322_photo-1762279801058-409ab2d05bc3.jpg",
+    "format": "JPG",
+    "size": "248.77 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1322_photo-1762279801058-409ab2d05bc3.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3215"
+  },
+  {
+    "name": "Colourful Tablet Fluid #206",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1405_photo-1772732733448-27120448372e.jpg",
+    "format": "JPG",
+    "size": "85.08 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1405_photo-1772732733448-27120448372e.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3216"
+  },
+  {
+    "name": "Colourful Tablet Fluid #208",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1530_photo-1788863856018-3d2c617f77a8.jpg",
+    "format": "JPG",
+    "size": "188.03 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1530_photo-1788863856018-3d2c617f77a8.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3217"
+  },
+  {
+    "name": "Colourful Tablet Fluid #210",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1658_photo-1771793079105-0a3ec959454a.jpg",
+    "format": "JPG",
+    "size": "139.18 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1658_photo-1771793079105-0a3ec959454a.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3218"
+  },
+  {
+    "name": "Colourful Tablet Fluid #211",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1724_photo-1786835569103-509768b193f5.jpg",
+    "format": "JPG",
+    "size": "102.90 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1724_photo-1786835569103-509768b193f5.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3219"
+  },
+  {
+    "name": "Colourful Tablet Fluid #212",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1789_photo-1677784976154-816c3ceca511.jpg",
+    "format": "JPG",
+    "size": "178.44 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1789_photo-1677784976154-816c3ceca511.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3220"
+  },
+  {
+    "name": "Colourful Tablet Fluid #214",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1918_photo-1788099008213-5e62b8388771.jpg",
+    "format": "JPG",
+    "size": "112.42 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1918_photo-1788099008213-5e62b8388771.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3221"
+  },
+  {
+    "name": "Colourful Tablet Fluid #215",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/1992_photo-1704520355609-c62b0c4010df.jpg",
+    "format": "JPG",
+    "size": "82.02 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/1992_photo-1704520355609-c62b0c4010df.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3222"
+  },
+  {
+    "name": "Colourful Tablet Fluid - Rep 0306",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/rep_0306_photo-1581084349663-7ab88c58d362.jpg",
+    "format": "JPG",
+    "size": "149.19 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/rep_0306_photo-1581084349663-7ab88c58d362.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3223"
+  },
+  {
+    "name": "Colourful Tablet Fluid - Rep 0364",
+    "category": "Tablet Wallpapers",
+    "url": "https://raw.githubusercontent.com/srappsdevs-bit/dark-wallpapers/main/amoled-fluid/horizontal/rep_0364_photo-1616361940325-d32b49bada11.jpg",
+    "format": "JPG",
+    "size": "317.22 KB",
+    "path": "srappsdevs-bit/dark-wallpapers/amoled-fluid/horizontal/rep_0364_photo-1616361940325-d32b49bada11.jpg",
+    "tags": [
+      "4k",
+      "amoled",
+      "colorful",
+      "colourful",
+      "dark",
+      "fluid",
+      "ipad",
+      "oled",
+      "tablet",
+      "tablet wallpapers",
+      "vibrant"
+    ],
+    "id": "wp_3224"
   }
 ];
